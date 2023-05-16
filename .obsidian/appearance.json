@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "#1caba2",
+  "translucency": true,
+  "interfaceFontFamily": "",
+  "textFontFamily": "Calibri"
 }

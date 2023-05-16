@@ -1,4 +1,3 @@
-
 ![[../Assets/Characters/PCs/Leonin.webp]]
 
 ### Stats
