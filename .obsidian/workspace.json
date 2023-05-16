@@ -19,11 +19,10 @@
             "id": "5d6ae7e698c76f75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Party/Leonin.md",
-                "mode": "source",
-                "source": false
+                "file": "desktop.ini",
+                "staged": false
               }
             }
           }
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Leonin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Leonin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Party/Leonin.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,12 +159,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "425479cc273d7764",
+  "active": "5d6ae7e698c76f75",
   "lastOpenFiles": [
+    "Party/Leonin.md",
+    "clean.bat",
     "Assets/Sheet Backups/fvtt-Actor-oliver's-pc.json",
     "Assets/Sheet Backups",
     "Assets/Characters/PCs/Leo.stl",
-    "Party/Leonin.md",
     "Setting/Game Information.md",
     "Setting",
     "Party",

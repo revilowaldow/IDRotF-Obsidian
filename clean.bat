@@ -1,0 +1,1 @@
+del /s /A:H desktop.ini
