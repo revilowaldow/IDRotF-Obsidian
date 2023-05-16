@@ -1,0 +1,3426 @@
+{
+  "name": "Oliver's PC",
+  "type": "character",
+  "img": "worlds/roof/Custom%20Files/Leonin.webp",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 16,
+        "proficient": 1,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "dex": {
+        "value": 10,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "con": {
+        "value": 17,
+        "proficient": 1,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "int": {
+        "value": 9,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "wis": {
+        "value": 12,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      },
+      "cha": {
+        "value": 9,
+        "proficient": 0,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        }
+      }
+    },
+    "attributes": {
+      "ac": {
+        "flat": null,
+        "calc": "unarmoredBarb",
+        "formula": ""
+      },
+      "hp": {
+        "value": 15,
+        "max": null,
+        "temp": null,
+        "tempmax": null,
+        "bonuses": {
+          "level": "",
+          "overall": ""
+        }
+      },
+      "init": {
+        "ability": "",
+        "bonus": ""
+      },
+      "movement": {
+        "burrow": 0,
+        "climb": 0,
+        "fly": 0,
+        "swim": 0,
+        "walk": 30,
+        "units": "ft",
+        "hover": false
+      },
+      "attunement": {
+        "max": 3
+      },
+      "senses": {
+        "darkvision": 60,
+        "blindsight": 0,
+        "tremorsense": 0,
+        "truesight": 0,
+        "units": "ft",
+        "special": ""
+      },
+      "spellcasting": "int",
+      "death": {
+        "success": 0,
+        "failure": 0
+      },
+      "exhaustion": 0,
+      "inspiration": false
+    },
+    "details": {
+      "biography": {
+        "value": "<div><div><p>You know who your parents are or were</p><p>Born in a cave</p><p>Not originally a leopard</p></div><p></p><div><p>3 siblings</p></div><ul><li><p>Younger x1</p></li></ul><div><ul><li><p>Older x2</p></li></ul><p></p><p>Family of dwarves</p><p>Raised by single father</p><p>Mother killed by crashing spaceship</p><p>Father tells tales of ship</p><p>I go to look for ship</p><p>I succumb to cold</p><p>Druid revives me through a ritual and I take on characteristics of sacrificial snow leapoard</p><p></p><p>Modest lifestyle</p><p>One of the ten towns as place growing up</p><p>I had several friends and my childhood was generally happy</p></div><p></p><div><p>My anger needed to be channeled into battle, or I risked becoming an indiscriminate killer</p><ul><li><p>Mother Death</p></li></ul></div><div><ul><li><p>Father not believed</p></li></ul></div><div><ul><li><p>Failed to find mother's death site</p></li></ul></div><div><ul><li><p>Fucking cold</p></li></ul></div><div><ul><li><p>Turned into leaopard</p></li></ul></div><div><ul><li><p>Outcast from family</p></li></ul></div><p></p><div><p>16 gp from rescuing people<br /></p><p>Love interest for younger \\&lt;character name here\\&gt;<br /></p><p>Father</p><p>- Guard (dismissed, now fisherman)</p></div><div><p>- Dwarf</p></div><div><p>- Friendly</p></div><p></p><div><p>Sibling 2</p></div><div><p>- Younger</p></div><div><p>- Neutral Good</p></div><div><p>- Exile, hermit or Refugee</p></div><div><p>- Alive and Well</p></div><div><p>- Hostile</p></div><p></p><div><p>Sibling 3</p></div><div><p>- Older</p></div><div><p>- Neutral</p></div><div><p>- Artisan or Guild member</p></div><div><p>- Alive and Well</p></div><div><p>- Friendly</p></div><div><p>- Own accomodation</p></div><p></p><div><p>Sibling 4</p></div><div><p>- Older</p></div><div><p>- Neutral Good</p></div><div><p>- Entertainer</p></div><div><p>- Alive but doing poorly due to injury, fianncial trouble or relationship difficulties</p></div><div><p>- Hostile</p></div><div><p>- At home</p></div><p></p><div><p>Trinket:</p></div><div><p>A sewing box that smells of old wood and has three spools of blue thread inside</p></div><p></p><div><p>Sacrifices in Ten Towns:</p></div><div><p>- Heat</p></div><div><p>- People</p></div><div><p>- Food<br /></p><p>Not for this, must be community way around it?</p></div><div><p>Immediate vision short term</p></div><div><p>Oppourtunity</p></div></div>",
+        "public": ""
+      },
+      "alignment": "Neutral Good",
+      "race": "Leonin",
+      "background": "",
+      "originalClass": "JB4irYzEDVYJqN2B",
+      "xp": {
+        "value": 0
+      },
+      "appearance": "Snow Leopard Leonin",
+      "trait": "Thinking is for other people. I prefer action.\n\nIf someone is in trouble, I'm always ready to lend help.",
+      "ideal": "Sincerity. There's no good in pretending to be something I'm not. (Neutral)",
+      "bond": "I protect those who cannot protect themselves.",
+      "flaw": "I have a weakness for the vices of the city, especially hard drink."
+    },
+    "traits": {
+      "size": "med",
+      "di": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dr": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "dv": {
+        "value": [],
+        "bypasses": [],
+        "custom": ""
+      },
+      "ci": {
+        "value": [],
+        "custom": ""
+      },
+      "languages": {
+        "value": [
+          "common"
+        ],
+        "custom": "Other"
+      },
+      "weaponProf": {
+        "value": [
+          "sim",
+          "mar"
+        ],
+        "custom": ""
+      },
+      "armorProf": {
+        "value": [
+          "lgt",
+          "med",
+          "shl"
+        ],
+        "custom": ""
+      },
+      "toolProf": {
+        "value": [
+          "cartographer"
+        ],
+        "custom": "Vehicles (Land)"
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 26,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "skills": {
+      "acr": {
+        "value": 0,
+        "ability": "dex",
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ani": {
+        "value": 0,
+        "ability": "wis",
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "arc": {
+        "value": 0,
+        "ability": "int",
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ath": {
+        "value": 1,
+        "ability": "str",
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "dec": {
+        "value": 0,
+        "ability": "cha",
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "his": {
+        "value": 0,
+        "ability": "int",
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ins": {
+        "value": 1,
+        "ability": "wis",
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "itm": {
+        "value": 0,
+        "ability": "cha",
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "inv": {
+        "value": 0,
+        "ability": "int",
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "med": {
+        "value": 0,
+        "ability": "wis",
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "nat": {
+        "value": 0,
+        "ability": "int",
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "prc": {
+        "value": 1,
+        "ability": "wis",
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "prf": {
+        "value": 0,
+        "ability": "cha",
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "per": {
+        "value": 0,
+        "ability": "cha",
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "rel": {
+        "value": 0,
+        "ability": "int",
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "slt": {
+        "value": 0,
+        "ability": "dex",
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ste": {
+        "value": 1,
+        "ability": "dex",
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "sur": {
+        "value": 1,
+        "ability": "wis",
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      }
+    },
+    "spells": {
+      "spell1": {
+        "value": 0,
+        "override": null
+      },
+      "spell2": {
+        "value": 0,
+        "override": null
+      },
+      "spell3": {
+        "value": 0,
+        "override": null
+      },
+      "spell4": {
+        "value": 0,
+        "override": null
+      },
+      "spell5": {
+        "value": 0,
+        "override": null
+      },
+      "spell6": {
+        "value": 0,
+        "override": null
+      },
+      "spell7": {
+        "value": 0,
+        "override": null
+      },
+      "spell8": {
+        "value": 0,
+        "override": null
+      },
+      "spell9": {
+        "value": 0,
+        "override": null
+      },
+      "pact": {
+        "value": 0,
+        "override": null
+      }
+    },
+    "bonuses": {
+      "mwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "msak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rsak": {
+        "attack": "",
+        "damage": ""
+      },
+      "abilities": {
+        "check": "",
+        "save": "",
+        "skill": ""
+      },
+      "spell": {
+        "dc": ""
+      }
+    },
+    "resources": {
+      "primary": {
+        "value": null,
+        "max": null,
+        "sr": false,
+        "lr": false,
+        "label": ""
+      },
+      "secondary": {
+        "value": null,
+        "max": null,
+        "sr": false,
+        "lr": false,
+        "label": ""
+      },
+      "tertiary": {
+        "value": null,
+        "max": null,
+        "sr": false,
+        "lr": false,
+        "label": ""
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Oliver's PC",
+    "displayName": 20,
+    "actorLink": true,
+    "texture": {
+      "src": "worlds/roof/Custom%20Files/LeoninToken.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "tint": null
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 1,
+    "displayBars": 40,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": true,
+      "range": 60,
+      "angle": 360,
+      "visionMode": "darkvision",
+      "color": null,
+      "attenuation": 0,
+      "brightness": 0,
+      "saturation": -1,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "name": "Leonin",
+      "type": "feat",
+      "system": {
+        "description": {
+          "value": "<div>\n\t\t\t\t<table class=\"w-100 summary stripe-even\">\n\t\t\t\t<tbody><tr>\n\t\t\t\t\t<th class=\"col-4 text-center\">Ability Scores</th>\n\t\t\t\t\t<th class=\"col-4 text-center\">Size</th>\n\t\t\t\t\t<th class=\"col-4 text-center\">Speed</th>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<td class=\"text-center\"></td>\n\t\t\t\t\t<td class=\"text-center\">Medium</td>\n\t\t\t\t\t<td class=\"text-center\">35 ft. </td>\n\t\t\t\t</tr>\n\t\t\t</tbody></table>\n\t\t\t\t<div class=\"mt-2\"><p>@UUID[Actor.170V5m4LCLyu0xm7.Item.RjpEy0vg0uN047N4]{Age}</p><p>@UUID[Actor.170V5m4LCLyu0xm7.Item.6yh9HZzWFdei5jCf]{Alignment}</p><p>@UUID[Actor.170V5m4LCLyu0xm7.Item.phJVqHQWPnrRu5cT]{Darkvision}</p><p>@UUID[Actor.170V5m4LCLyu0xm7.Item.tBHkeXmgcFjG1Aq4]{Claws}</p><p>@UUID[Actor.170V5m4LCLyu0xm7.Item.ZI86wqSp9LpoT1OA]{Hunter's Instincts}</p><p>@UUID[Actor.170V5m4LCLyu0xm7.Item.0VmzVgOd5GGHVc4o]{Daunting Roar}</p><p>@UUID[Actor.170V5m4LCLyu0xm7.Item.1uV2tIO1VMOaoOZT]{Languages}</p></div>\n\t\t\t\t<hr class=\"hr-1\" /><div class=\"rd__b  rd__b--1\"><p>The leonin guard the shining lands of Oreskos, a golden plain where even the gods rarely trespass. Prides of these nomadic, lion-like humanoids rarely interact with other peoples, having all they need in their shimmering homeland and knowing the treachery of strangers. Still, some leonin wonder what lies beyond Oreskos's border mountains and seek to test themselves in a wider world.</p><div class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"153\"> <span class=\"entry-title-inner\">Noble and Fierce</span><span class=\"ve-flex-vh-center\"><span class=\"rd__h-toggle ml-2 clickable\" data-rd-h-toggle-button=\"true\">[–]</span></span></h3> <p>Leonin tend to be tall compared to humans and move with a boldness that suggests their physical might. Tawny fur covers leonin bodies, and some grow thick manes ranging in shades from gold to black. While their hands prove as nimble as those of other humanoids, leonin have retractable feline claws, which they can extend instantly. This, along with their ability to produce bone-shaking roars, gives most leonin an air that readily shifts between regal and fearsome.</p><p>Leonin often act with confidence, which can come off as imperiousness. While this can reassure their allies, it can also suggest defiance in the face of what they perceive as imposed authority or unworthy experts.</p></div><div class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"154\"> <span class=\"entry-title-inner\">Quick to Quarrel</span><span class=\"ve-flex-vh-center\"><span class=\"rd__h-toggle ml-2 clickable\" data-rd-h-toggle-button=\"true\">[–]</span></span></h3> <p>Other peoples often perceive leonin as quick to take offense, intolerant of criticism, or belligerent. The truth is that many leonin simply enjoy fighting, whether verbal or physical. They take pleasure in argument, wrestling, sparring, and even battle, enjoying the opportunity to exercise their minds and bodies.</p><p>It follows, too, that leonin aren't inclined to carry grudges. A warrior might react with sudden violence to an insult, but when the fight is over (and the leonin's superiority proven), the insult is forgotten—along with the vanquished foe.</p></div><div class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"155\"> <span class=\"entry-title-inner\">Pride and Self-Reliance</span><span class=\"ve-flex-vh-center\"><span class=\"rd__h-toggle ml-2 clickable\" data-rd-h-toggle-button=\"true\">[–]</span></span></h3> <p>Few leonin devote themselves to the service of the gods. Centuries ago, the leonin worshiped the same gods that humans do, but after many of their prides suffered depravities at the hands of the tyrant Agnomakhos, most leonin rejected the gods. It's not that they deny the existence of deities; they merely see the gods as mercurial and ultimately unworthy of adoration. The Leonin and the Gods table suggests the range of attitudes that leonin might adopt toward the gods.</p><p>Leonin rely on themselves and their prides. A pride is bound together by the experience of a shared challenge and, in particular, the sacred act of the hunt. See <a href=\"https://5etools-mirror-1.github.io/book.html#MOT,3,oreskos,0\">chapter 3</a> for more details on Oreskos and the leonin who call that land home.</p><table class=\"w-100 rd__table  stripe-odd-table\"><caption>Leonin and the Gods</caption><thead><tr><th class=\"col-2 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"col-10\" data-rd-isroller=\"false\">Attitude</th></tr></thead><tbody><tr><td class=\"col-2 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"col-10\">I'm amused by the antics of the gods and their earnest, but ultimately deluded, mortal champions, and I feel smugly superior in my detachment.</td></tr><tr><td class=\"col-2 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"col-10\">The meddling of the gods in mortal affairs makes me angry and bitter. I wish they would just leave us all alone!</td></tr><tr><td class=\"col-2 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"col-10\">I view the gods as worthy adversaries—incredibly clever and well-prepared to play a long game but ultimately doomed to lose their games.</td></tr><tr><td class=\"col-2 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"col-10\">I'm certain every bad thing that happens can ultimately be blamed on the gods, but I roll my eyes at each new twist of fate and try to get on with my life.</td></tr><tr><td class=\"col-2 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"col-10\">I wish that I could be as naive as humans and other mortals who actually think the gods are looking out for them. I miss that kind of innocence.</td></tr><tr><td class=\"col-2 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"col-10\">I don't talk about it among other leonin, but I actually revere the gods and try to please them by my actions.</td></tr></tbody></table></div><div class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"156\"> <span class=\"entry-title-inner\">Leonin Names</span><span class=\"ve-flex-vh-center\"><span class=\"rd__h-toggle ml-2 clickable\" data-rd-h-toggle-button=\"true\">[–]</span></span></h3> <p>Along with their personal names, leonin identify themselves by their pride. A member of the Flintclaw pride with the personal name of Ziore, for example, would likely style herself as Ziore of the Flintclaw.</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\"><span class=\"bold rd__list-item-name\">Female Names:</span> Aletha, Atagone, Demne, Doxia, Ecate, Eriz, Gragonde, Iadma, Koila, Oramne, Seza, Ziore</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\"><span class=\"bold rd__list-item-name\">Male Names:</span> Apto, Athoz, Baragon, Bryguz, Eremoz, Gorioz, Grexes, Oriz, Pyxathor, Teoz, Xemnon, Xior</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\"><span class=\"bold rd__list-item-name\">Pride Names:</span> Embereye, Flintclaw, Goldenfield, Ironmane, Starfeller, Sunguides</p></li></ul></div></div>\n\t\t\t</div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "MOT",
+        "activation": {
+          "type": "",
+          "cost": 0,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": 0,
+          "max": "",
+          "per": null,
+          "recovery": ""
+        },
+        "consume": {
+          "type": "",
+          "target": null,
+          "amount": null
+        },
+        "ability": null,
+        "actionType": "",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "spell"
+        },
+        "type": {
+          "value": "",
+          "subtype": ""
+        },
+        "requirements": "",
+        "recharge": {
+          "value": null,
+          "charged": false
+        }
+      },
+      "flags": {
+        "plutonium": {
+          "page": "races.html",
+          "source": "MOT",
+          "hash": "leonin_mot",
+          "propDroppable": "race",
+          "isDirectImport": true
+        }
+      },
+      "effects": [
+        {
+          "label": "Walk Speed",
+          "icon": "modules/plutonium/media/icon/family-tree.svg",
+          "changes": [
+            {
+              "key": "system.attributes.movement.walk",
+              "mode": 5,
+              "value": "35",
+              "priority": 4
+            }
+          ],
+          "disabled": false,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null,
+            "combat": null
+          },
+          "origin": "Actor.170V5m4LCLyu0xm7",
+          "tint": null,
+          "transfer": true,
+          "flags": {},
+          "_id": "ypTJyEmlR82IHSI1"
+        }
+      ],
+      "img": "https://5etools-mirror-1.github.io/img/races/MOT/Leonin.png",
+      "_id": "IQyOqe6BDtR6PETs",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431566220,
+        "modifiedTime": 1680431566220,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "_id": "RjpEy0vg0uN047N4",
+      "name": "Age",
+      "type": "feat",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--3\"><p>Leonin mature and age at about the same rate as humans.</p><div class=\"rd__spc-inline-post\"></div></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "MOT",
+        "activation": {
+          "type": "",
+          "cost": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": null,
+          "max": "",
+          "per": null,
+          "recovery": ""
+        },
+        "consume": {
+          "type": "",
+          "target": null,
+          "amount": null
+        },
+        "ability": "",
+        "actionType": "other",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "flat"
+        },
+        "type": {
+          "value": "",
+          "subtype": ""
+        },
+        "requirements": "",
+        "recharge": {
+          "value": null,
+          "charged": false
+        }
+      },
+      "img": "icons/magic/time/day-night-sunset-sunrise.webp",
+      "flags": {
+        "plutonium": {
+          "page": "raceFeature",
+          "source": "MOT",
+          "hash": "age_leonin_mot_mot"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431566225,
+        "modifiedTime": 1684266081454,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "_id": "6yh9HZzWFdei5jCf",
+      "name": "Alignment",
+      "type": "feat",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--3\"><p>Leonin tend toward good alignments. Leonin who are focused on the pride lean toward lawful good.</p><div class=\"rd__spc-inline-post\"></div></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "MOT",
+        "activation": {
+          "type": "",
+          "cost": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": null,
+          "max": "",
+          "per": null,
+          "recovery": ""
+        },
+        "consume": {
+          "type": "",
+          "target": null,
+          "amount": null
+        },
+        "ability": "",
+        "actionType": "other",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "flat"
+        },
+        "type": {
+          "value": "",
+          "subtype": ""
+        },
+        "requirements": "",
+        "recharge": {
+          "value": null,
+          "charged": false
+        }
+      },
+      "img": "icons/skills/social/trading-justice-scale-yellow.webp",
+      "flags": {
+        "plutonium": {
+          "page": "raceFeature",
+          "source": "MOT",
+          "hash": "alignment_leonin_mot_mot"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431566227,
+        "modifiedTime": 1684266023544,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "_id": "phJVqHQWPnrRu5cT",
+      "name": "Darkvision",
+      "type": "feat",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--3\"><p>You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p><div class=\"rd__spc-inline-post\"></div></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "MOT",
+        "activation": {
+          "type": "",
+          "cost": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": null,
+          "max": "",
+          "per": null,
+          "recovery": ""
+        },
+        "consume": {
+          "type": "",
+          "target": null,
+          "amount": null
+        },
+        "ability": "",
+        "actionType": "other",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "flat"
+        },
+        "type": {
+          "value": "",
+          "subtype": ""
+        },
+        "requirements": "",
+        "recharge": {
+          "value": null,
+          "charged": false
+        }
+      },
+      "img": "icons/creatures/eyes/humanoid-single-yellow.webp",
+      "flags": {
+        "plutonium": {
+          "page": "raceFeature",
+          "source": "MOT",
+          "hash": "darkvision_leonin_mot_mot"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431566228,
+        "modifiedTime": 1684266001553,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "_id": "tBHkeXmgcFjG1Aq4",
+      "name": "Claws",
+      "type": "feat",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--3\"><p>Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you can deal slashing damage equal to [[/r 1d4]] + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</p><div class=\"rd__spc-inline-post\"></div></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "MOT",
+        "activation": {
+          "type": "action",
+          "cost": 1,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "target": {
+          "value": 5,
+          "width": null,
+          "units": "ft",
+          "type": "creature"
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": null,
+          "max": "",
+          "per": "",
+          "recovery": ""
+        },
+        "consume": {
+          "type": "",
+          "target": "",
+          "amount": null
+        },
+        "ability": "str",
+        "actionType": "mwak",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [
+            [
+              "1d4+@mod",
+              "slashing"
+            ]
+          ],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "flat"
+        },
+        "type": {
+          "value": "race",
+          "subtype": ""
+        },
+        "requirements": "",
+        "recharge": {
+          "value": null,
+          "charged": false
+        }
+      },
+      "img": "icons/creatures/claws/claw-bear-paw-swipe-brown.webp",
+      "flags": {
+        "plutonium": {
+          "page": "raceFeature",
+          "source": "MOT",
+          "hash": "claws_leonin_mot_mot"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431566229,
+        "modifiedTime": 1684266206063,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "_id": "ZI86wqSp9LpoT1OA",
+      "name": "Hunter's Instincts",
+      "type": "feat",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--3\"><p>You have proficiency in one of the following skills of your choice: @skill[Athletics], @skill[Intimidation], @skill[Perception], or @skill[Survival].</p><div class=\"rd__spc-inline-post\"></div></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "MOT",
+        "activation": {
+          "type": "",
+          "cost": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": null,
+          "max": "",
+          "per": null,
+          "recovery": ""
+        },
+        "consume": {
+          "type": "",
+          "target": null,
+          "amount": null
+        },
+        "ability": "",
+        "actionType": "other",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "flat"
+        },
+        "type": {
+          "value": "",
+          "subtype": ""
+        },
+        "requirements": "",
+        "recharge": {
+          "value": null,
+          "charged": false
+        }
+      },
+      "img": "icons/magic/nature/wolf-paw-glow-large-orange.webp",
+      "flags": {
+        "plutonium": {
+          "page": "raceFeature",
+          "source": "MOT",
+          "hash": "hunter's%20instincts_leonin_mot_mot"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431566230,
+        "modifiedTime": 1684266364658,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "_id": "0VmzVgOd5GGHVc4o",
+      "name": "Daunting Roar",
+      "type": "feat",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--3\"><p>As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become @condition[frightened] of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short or long rest.</p><div class=\"rd__spc-inline-post\"></div></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "MOT",
+        "activation": {
+          "type": "bonus",
+          "cost": 1,
+          "condition": ""
+        },
+        "duration": {
+          "value": "1",
+          "units": "turn"
+        },
+        "target": {
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": 1,
+          "max": "1",
+          "per": "sr",
+          "recovery": ""
+        },
+        "consume": {
+          "type": "",
+          "target": "",
+          "amount": null
+        },
+        "ability": "",
+        "actionType": "save",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "wis",
+          "dc": null,
+          "scaling": "con"
+        },
+        "type": {
+          "value": "",
+          "subtype": ""
+        },
+        "requirements": "",
+        "recharge": {
+          "value": null,
+          "charged": false
+        }
+      },
+      "img": "icons/creatures/abilities/lion-roar-yellow.webp",
+      "flags": {
+        "plutonium": {
+          "page": "raceFeature",
+          "source": "MOT",
+          "hash": "daunting%20roar_leonin_mot_mot"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431566231,
+        "modifiedTime": 1684265935333,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "_id": "1uV2tIO1VMOaoOZT",
+      "name": "Languages",
+      "type": "feat",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--3\"><p>You can speak, read, and write Common and Leonin.</p><div class=\"rd__spc-inline-post\"></div></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "MOT",
+        "activation": {
+          "type": "",
+          "cost": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": null,
+          "max": "",
+          "per": null,
+          "recovery": ""
+        },
+        "consume": {
+          "type": "",
+          "target": null,
+          "amount": null
+        },
+        "ability": "",
+        "actionType": "other",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "flat"
+        },
+        "type": {
+          "value": "",
+          "subtype": ""
+        },
+        "requirements": "",
+        "recharge": {
+          "value": null,
+          "charged": false
+        }
+      },
+      "img": "icons/skills/trades/academics-merchant-scribe.webp",
+      "flags": {
+        "plutonium": {
+          "page": "raceFeature",
+          "source": "MOT",
+          "hash": "languages_leonin_mot_mot"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431566234,
+        "modifiedTime": 1684266441039,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "_id": "JB4irYzEDVYJqN2B",
+      "name": "Barbarian",
+      "type": "class",
+      "system": {
+        "description": {
+          "value": "<div class=\"mb-2 ve-flex-col\"><table class=\"cls-tbl shadow-big w-100 mb-3\">\n\t\t\t\t<tbody>\n\t\t\t\t<tr><th class=\"border\" colspan=\"15\"></th></tr>\n\t\t\t\t\n\t\t\t\t<tr>\n\t\t\t\t\t<th colspan=\"3\"></th>\n\t\t\t\t\t<th colspan=\"2\"></th>\n\t\t\t\t</tr>\n\t\t\t\t<tr>\n\t\t\t\t\t<th class=\"cls-tbl__col-level\">Level</th>\n\t\t\t\t\t<th class=\"cls-tbl__col-prof-bonus\">Proficiency Bonus</th>\n\t\t\t\t\t<th>Features</th>\n\t\t\t\t\t<th class=\"cls-tbl__col-generic-center\"><div class=\"cls__squash_header\">Rages</div></th><th class=\"cls-tbl__col-generic-center\"><div class=\"cls__squash_header\">Rage Damage</div></th>\n\t\t\t\t</tr>\n\t\t\t\t<tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">1st</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+2</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Rage<span class=\"mr-1\">,</span></div><div class=\"inline-block\">Unarmored Defense</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">2</td><td class=\"cls-tbl__col-generic-center\">+2</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">2nd</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+2</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Danger Sense<span class=\"mr-1\">,</span></div><div class=\"inline-block\">Reckless Attack</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">2</td><td class=\"cls-tbl__col-generic-center\">+2</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">3rd</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+2</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Primal Path<span class=\"mr-1\">,</span></div><div class=\"inline-block\">Primal Knowledge</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">3</td><td class=\"cls-tbl__col-generic-center\">+2</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">4th</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+2</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Ability Score Improvement</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">3</td><td class=\"cls-tbl__col-generic-center\">+2</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">5th</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+3</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Extra Attack<span class=\"mr-1\">,</span></div><div class=\"inline-block\">Fast Movement</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">3</td><td class=\"cls-tbl__col-generic-center\">+2</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">6th</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+3</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Path Feature</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">4</td><td class=\"cls-tbl__col-generic-center\">+2</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">7th</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+3</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Feral Instinct<span class=\"mr-1\">,</span></div><div class=\"inline-block\">Instinctive Pounce</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">4</td><td class=\"cls-tbl__col-generic-center\">+2</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">8th</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+3</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Ability Score Improvement</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">4</td><td class=\"cls-tbl__col-generic-center\">+2</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">9th</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+4</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Brutal Critical (1 die)</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">4</td><td class=\"cls-tbl__col-generic-center\">+3</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">10th</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+4</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Path feature</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">4</td><td class=\"cls-tbl__col-generic-center\">+3</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">11th</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+4</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Relentless Rage</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">4</td><td class=\"cls-tbl__col-generic-center\">+3</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">12th</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+4</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Ability Score Improvement</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">5</td><td class=\"cls-tbl__col-generic-center\">+3</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">13th</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+5</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Brutal Critical (2 dice)</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">5</td><td class=\"cls-tbl__col-generic-center\">+3</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">14th</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+5</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Path feature</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">5</td><td class=\"cls-tbl__col-generic-center\">+3</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">15th</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+5</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Persistent Rage</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">5</td><td class=\"cls-tbl__col-generic-center\">+3</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">16th</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+5</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Ability Score Improvement</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">5</td><td class=\"cls-tbl__col-generic-center\">+4</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">17th</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+6</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Brutal Critical (3 dice)</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">6</td><td class=\"cls-tbl__col-generic-center\">+4</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">18th</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+6</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Indomitable Might</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">6</td><td class=\"cls-tbl__col-generic-center\">+4</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">19th</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+6</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Ability Score Improvement</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">6</td><td class=\"cls-tbl__col-generic-center\">+4</td>\n\t\t\t\t</tr><tr class=\"cls-tbl__stripe-odd\">\n\t\t\t\t\t<td class=\"cls-tbl__col-level\">20th</td>\n\t\t\t\t\t<td class=\"cls-tbl__col-prof-bonus\">+6</td>\n\t\t\t\t\t<td><div class=\"inline-block\">Primal Champion</div></td>\n\t\t\t\t\t<td class=\"cls-tbl__col-generic-center\">Unlimited</td><td class=\"cls-tbl__col-generic-center\">+4</td>\n\t\t\t\t</tr>\n\t\t\t\t<tr><th class=\"border\" colspan=\"15\"></th></tr>\n\t\t\t\t</tbody>\n\t\t\t</table><div class=\"rd__b  rd__b--0\"><p>A tall human tribesman strides through a blizzard, draped in fur and hefting his axe. He laughs as he charges toward the frost giant who dared poach his people's elk herd.</p><p>A half-orc snarls at the latest challenger to her authority over their savage tribe, ready to break his neck with her bare hands as she did to the last six rivals.</p><p>Frothing at the mouth, a dwarf slams his helmet into the face of his drow foe, then turns to drive his armored elbow into the gut of another.</p><p>These barbarians, different as they might be, are defined by their rage: unbridled, unquenchable, and unthinking fury. More than a mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea.</p><p>For some, their rage springs from a communion with fierce animal spirits. Others draw from a roiling reservoir of anger at a world full of pain. For every barbarian, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.</p><div class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"157\"> <span class=\"entry-title-inner\">Primal Instinct</span><span class=\"ve-flex-vh-center\"><span class=\"rd__h-toggle ml-2 clickable\" data-rd-h-toggle-button=\"true\">[–]</span></span></h2> <p>People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one's own nature was a mark of superiority. To a barbarian, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature—keen instincts, primal physicality, and ferocious rage. Barbarians are uncomfortable when hedged in by walls and crowds. They thrive in the wilds of their homelands: the tundra, jungle, or grasslands where their tribes live and hunt.</p><p>Barbarians come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A barbarian can draw on this reservoir of fury only a few times without resting, but those few rages are usually sufficient to defeat whatever threats arise.</p></div><div class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"158\"> <span class=\"entry-title-inner\">A Life of Danger</span><span class=\"ve-flex-vh-center\"><span class=\"rd__h-toggle ml-2 clickable\" data-rd-h-toggle-button=\"true\">[–]</span></span></h2> <p>Not every member of the tribes deemed \"barbarians\" by scions of civilized society has the barbarian class. A true barbarian among these people is as uncommon as a skilled fighter in a town, and he or she plays a similar role as a protector of the people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Barbarians charge headlong into that danger so that their people don't have to.</p><p>Their courage in the face of danger makes barbarians perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a barbarian. Some barbarians miss the close-knit family structures of the tribe, but eventually find them replaced by the bonds formed among the members of their adventuring parties.</p></div><div class=\"rd__b  rd__b--1\"><h2 class=\"rd__h rd__h--1\" data-title-index=\"159\"> <span class=\"entry-title-inner\">Creating a Barbarian</span><span class=\"ve-flex-vh-center\"><span class=\"rd__h-toggle ml-2 clickable\" data-rd-h-toggle-button=\"true\">[–]</span></span></h2> <p>When creating a barbarian character, think about where your character comes from and his or her place in the world. Talk with your DM about an appropriate origin for your barbarian. Did you come from a distant land, making you a stranger in the area of the campaign? Or is the campaign set in a rough-and-tumble frontier where barbarians are common?</p><p>What led you to take up the adventuring life? Were you lured to settled lands by the promise of riches? Did you join forces with soldiers of those lands to face a shared threat? Did monsters or an invading horde drive you out of your homeland, making you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to \"civilized\" lands and only now able to win your freedom. Or you might have been cast out from your people because of a crime you committed, a taboo you violated, or a coup that removed you from a position of authority.</p><div class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"160\"> <span class=\"entry-title-inner\">Quick Build</span><span class=\"ve-flex-vh-center\"><span class=\"rd__h-toggle ml-2 clickable\" data-rd-h-toggle-button=\"true\">[–]</span></span></h3> <p>You can make a barbarian quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the <a href=\"https://5etools-mirror-1.github.io/backgrounds.html#outlander_phb\" data-vet-page=\"backgrounds.html\" data-vet-source=\"PHB\" data-vet-hash=\"outlander_phb\">outlander</a> background.</p></div></div></div></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "identifier": "barbarian",
+        "levels": 1,
+        "hitDice": "d12",
+        "hitDiceUsed": 0,
+        "advancement": [
+          {
+            "_id": "62svnflxsuad7oar",
+            "type": "ScaleValue",
+            "configuration": {
+              "identifier": "rages",
+              "type": "number",
+              "scale": {
+                "1": {
+                  "value": 2
+                },
+                "3": {
+                  "value": 3
+                },
+                "6": {
+                  "value": 4
+                },
+                "12": {
+                  "value": 5
+                },
+                "17": {
+                  "value": 6
+                },
+                "20": {
+                  "value": 999
+                }
+              },
+              "distance": {
+                "units": ""
+              }
+            },
+            "value": {},
+            "title": "Rages"
+          },
+          {
+            "_id": "t42incolsbuqn2ec",
+            "type": "ScaleValue",
+            "configuration": {
+              "identifier": "rage-damage",
+              "type": "number",
+              "scale": {
+                "1": {
+                  "value": 2
+                },
+                "9": {
+                  "value": 3
+                },
+                "16": {
+                  "value": 4
+                }
+              },
+              "distance": {
+                "units": ""
+              }
+            },
+            "value": {},
+            "title": "Rage Damage"
+          },
+          {
+            "_id": "y0kr48pnq5doebeb",
+            "type": "ScaleValue",
+            "configuration": {
+              "identifier": "brutal-critical",
+              "type": "number",
+              "scale": {
+                "9": {
+                  "value": 1
+                },
+                "13": {
+                  "value": 2
+                },
+                "17": {
+                  "value": 3
+                }
+              },
+              "distance": {
+                "units": ""
+              }
+            },
+            "value": {},
+            "title": "Brutal Critical Dice"
+          },
+          {
+            "type": "HitPoints",
+            "value": {
+              "1": "max"
+            },
+            "_id": "qWReC9BMCdrlWRo8",
+            "configuration": {}
+          },
+          {
+            "_id": "5zKSh1oQDKZrgDxj",
+            "type": "ItemGrant",
+            "level": 1,
+            "title": "Features",
+            "icon": "icons/skills/melee/hand-grip-sword-orange.webp",
+            "configuration": {
+              "items": [],
+              "optional": false,
+              "spell": {
+                "ability": "",
+                "preparation": "",
+                "uses": {
+                  "max": "",
+                  "per": ""
+                }
+              }
+            },
+            "value": {
+              "added": {
+                "LZrQjRkJAl9v1VsS": "",
+                "zpYKuCv4QV8Vy5de": ""
+              }
+            }
+          }
+        ],
+        "saves": [
+          "str",
+          "con"
+        ],
+        "skills": {
+          "number": 2,
+          "choices": [
+            "ath",
+            "prc"
+          ],
+          "value": [
+            "ath",
+            "prc"
+          ]
+        },
+        "spellcasting": {
+          "progression": "none",
+          "ability": ""
+        }
+      },
+      "flags": {
+        "plutonium": {
+          "page": "classes.html",
+          "source": "XGE",
+          "hash": "barbarian_phb,state:sub-storm-herald-xge=b1",
+          "propDroppable": "subclass",
+          "filterValues": {
+            "Source": {
+              "TCE": 1,
+              "ERLW": 1,
+              "UA2020SubclassesPt3": 0,
+              "UAArtificerRevisited": 0,
+              "UAClassFeatureVariants": 0,
+              "UAArtificer": 0,
+              "PHB": 1,
+              "XGE": 1,
+              "UABarbarianPrimalPaths": 0,
+              "UARevisedSubclasses": 0,
+              "SCAG": 1,
+              "UA2020SubclassesPt1": 0,
+              "UA2022GiantOptions": 0,
+              "UABarbarianAndMonk": 0,
+              "UA2020SubclassesPt2": 0,
+              "UABardAndPaladin": 0,
+              "UABardBardColleges": 0,
+              "UAKitsOfOld": 0,
+              "VRGR": 1,
+              "UA2020SubclassesPt4": 0,
+              "UA2021MagesOfStrixhaven": 0,
+              "PSA": 0,
+              "UAModernMagic": 0,
+              "DMG": 1,
+              "UA2022WondersOfTheMultiverse": 0,
+              "UAClericDivineDomains": 0,
+              "UAOrderDomain": 0,
+              "UAClericDruidWizard": 0,
+              "UADruid": 0,
+              "UAThreeSubclasses": 0,
+              "UARevisedClassOptions": 0,
+              "UASidekicks": 0,
+              "UALightDarkUnderdark": 0,
+              "UAWaterborneAdventures": 0,
+              "UAFighter": 0,
+              "EGW": 1,
+              "UAGothicHeroes": 0,
+              "UA2020PsionicOptionsRevisited": 0,
+              "UAFighterRogueWizard": 0,
+              "UAFighterRangerRogue": 0,
+              "FTD": 1,
+              "UA2020SubclassesPt5": 0,
+              "UAATrioOfSubclasses": 0,
+              "UAMonk": 0,
+              "UATheMysticClass": 0,
+              "UAPaladin": 0,
+              "UAPrestigeClassesRunMagic": 0,
+              "UARangerAndRogue": 0,
+              "UARanger": 0,
+              "UATheRangerRevised": 0,
+              "UAModifyingClasses": 0,
+              "UA2020SubclassesRevisited": 0,
+              "UASorcererAndWarlock": 0,
+              "UASorcerer": 0,
+              "UAGiantSoulSorcerer": 0,
+              "UA2022HeroesOfKrynn": 0,
+              "DSotDQ": 1,
+              "PSK": 0,
+              "UAWarlockAndWizard": 0,
+              "UATheFaithful": 0,
+              "UAEberron": 0,
+              "UAWizardRevisited": 0,
+              "_isActive": true,
+              "_totals": {
+                "yes": 10,
+                "no": 0,
+                "ignored": 52
+              },
+              "_combineBlue": "or",
+              "_combineRed": "or"
+            },
+            "Miscellaneous": {
+              "Reprinted": 2,
+              "Sidekick": 2,
+              "SRD": 0,
+              "Basic Rules": 0,
+              "_isActive": true,
+              "_totals": {
+                "yes": 0,
+                "no": 2,
+                "ignored": 2
+              },
+              "_combineBlue": "or",
+              "_combineRed": "or"
+            },
+            "Other/Text Options": {
+              "isDisplayClassIfSubclassActive": false,
+              "isClassFeatureVariant": true,
+              "_isActive": false
+            }
+          },
+          "isPrimaryClass": true,
+          "spellSlotLevelSelection": null,
+          "isDirectImport": true
+        }
+      },
+      "effects": [],
+      "img": "icons/skills/melee/hand-grip-sword-orange.webp",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431566588,
+        "modifiedTime": 1680431567533,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "_id": "NGTIVhRMtv9SAOPX",
+      "name": "Path of the Storm Herald",
+      "type": "subclass",
+      "system": {
+        "description": {
+          "value": "<div class=\"mb-2 ve-flex-col\"><div class=\"rd__b  rd__b--1\"><p>All barbarians harbor a fury within. Their rage grants them superior strength, durability, and speed. Barbarians who follow the Path of the Storm Herald learn to transform that rage into a mantle of primal magic, which swirls around them. When in a fury, a barbarian of this path taps into the forces of nature to create powerful magical effects.</p><p>Storm heralds are typically elite champions who train alongside druids, rangers, and others sworn to protect nature. Other storm heralds hone their craft in lodges in regions wracked by storms, in the frozen reaches at the world's end, or deep in the hottest deserts.</p></div></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "XGE",
+        "identifier": "path-of-the-storm-herald",
+        "classIdentifier": "barbarian",
+        "advancement": [],
+        "spellcasting": {
+          "progression": "none",
+          "ability": ""
+        }
+      },
+      "flags": {
+        "plutonium": {
+          "page": "classes.html",
+          "source": "XGE",
+          "hash": "barbarian_phb,state:sub-storm-herald-xge=b1",
+          "propDroppable": "subclass",
+          "filterValues": {
+            "Source": {
+              "TCE": 1,
+              "ERLW": 1,
+              "UA2020SubclassesPt3": 0,
+              "UAArtificerRevisited": 0,
+              "UAClassFeatureVariants": 0,
+              "UAArtificer": 0,
+              "PHB": 1,
+              "XGE": 1,
+              "UABarbarianPrimalPaths": 0,
+              "UARevisedSubclasses": 0,
+              "SCAG": 1,
+              "UA2020SubclassesPt1": 0,
+              "UA2022GiantOptions": 0,
+              "UABarbarianAndMonk": 0,
+              "UA2020SubclassesPt2": 0,
+              "UABardAndPaladin": 0,
+              "UABardBardColleges": 0,
+              "UAKitsOfOld": 0,
+              "VRGR": 1,
+              "UA2020SubclassesPt4": 0,
+              "UA2021MagesOfStrixhaven": 0,
+              "PSA": 0,
+              "UAModernMagic": 0,
+              "DMG": 1,
+              "UA2022WondersOfTheMultiverse": 0,
+              "UAClericDivineDomains": 0,
+              "UAOrderDomain": 0,
+              "UAClericDruidWizard": 0,
+              "UADruid": 0,
+              "UAThreeSubclasses": 0,
+              "UARevisedClassOptions": 0,
+              "UASidekicks": 0,
+              "UALightDarkUnderdark": 0,
+              "UAWaterborneAdventures": 0,
+              "UAFighter": 0,
+              "EGW": 1,
+              "UAGothicHeroes": 0,
+              "UA2020PsionicOptionsRevisited": 0,
+              "UAFighterRogueWizard": 0,
+              "UAFighterRangerRogue": 0,
+              "FTD": 1,
+              "UA2020SubclassesPt5": 0,
+              "UAATrioOfSubclasses": 0,
+              "UAMonk": 0,
+              "UATheMysticClass": 0,
+              "UAPaladin": 0,
+              "UAPrestigeClassesRunMagic": 0,
+              "UARangerAndRogue": 0,
+              "UARanger": 0,
+              "UATheRangerRevised": 0,
+              "UAModifyingClasses": 0,
+              "UA2020SubclassesRevisited": 0,
+              "UASorcererAndWarlock": 0,
+              "UASorcerer": 0,
+              "UAGiantSoulSorcerer": 0,
+              "UA2022HeroesOfKrynn": 0,
+              "DSotDQ": 1,
+              "PSK": 0,
+              "UAWarlockAndWizard": 0,
+              "UATheFaithful": 0,
+              "UAEberron": 0,
+              "UAWizardRevisited": 0,
+              "_isActive": true,
+              "_totals": {
+                "yes": 10,
+                "no": 0,
+                "ignored": 52
+              },
+              "_combineBlue": "or",
+              "_combineRed": "or"
+            },
+            "Miscellaneous": {
+              "Reprinted": 2,
+              "Sidekick": 2,
+              "SRD": 0,
+              "Basic Rules": 0,
+              "_isActive": true,
+              "_totals": {
+                "yes": 0,
+                "no": 2,
+                "ignored": 2
+              },
+              "_combineBlue": "or",
+              "_combineRed": "or"
+            },
+            "Other/Text Options": {
+              "isDisplayClassIfSubclassActive": false,
+              "isClassFeatureVariant": true,
+              "_isActive": false
+            }
+          },
+          "isPrimaryClass": true,
+          "isDirectImport": true
+        }
+      },
+      "effects": [],
+      "img": "icons/skills/melee/hand-grip-sword-orange.webp",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431566668,
+        "modifiedTime": 1680431566668,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Rage",
+      "type": "feat",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--3\"><p>In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.</p><div class=\"rd__spc-inline-post\"></div><p>While raging, you gain the following benefits if you aren't wearing heavy armor:</p><ul class=\"rd__list\"><li class=\"rd__li \">You have advantage on Strength checks and Strength saving throws.</li><li class=\"rd__li \">When you make a melee weapon attack using Strength, you gain a +2 bonus to the damage roll. This bonus increases as you level.</li><li class=\"rd__li \">You have resistance to bludgeoning, piercing, and slashing damage.</li></ul><p>If you are able to cast spells, you can't cast them or concentrate on them while raging.</p><p>Your rage lasts for 1 minute. It ends early if you are knocked @condition[unconscious] or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.</p><p>Once you have raged the maximum number of times for your barbarian level, you must finish a long rest before you can rage again. You may rage 2 times at 1st level, 3 at 3rd, 4 at 6th, 5 at 12th, and 6 at 17th.</p></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "activation": {
+          "type": "bonus",
+          "cost": 1,
+          "condition": ""
+        },
+        "duration": {
+          "value": "1",
+          "units": "minute"
+        },
+        "target": {
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": "self"
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": "self"
+        },
+        "uses": {
+          "value": 2,
+          "max": "@scale.barbarian.rages",
+          "per": "lr",
+          "recovery": ""
+        },
+        "consume": {
+          "type": "",
+          "target": "",
+          "amount": null
+        },
+        "ability": "",
+        "actionType": "",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "spell"
+        },
+        "type": {
+          "value": "class",
+          "subtype": ""
+        },
+        "requirements": "Barbarian 1",
+        "recharge": {
+          "value": null,
+          "charged": false
+        }
+      },
+      "effects": [],
+      "flags": {
+        "plutonium": {
+          "page": "classFeature",
+          "source": "PHB",
+          "hash": "rage_barbarian_phb_1_phb"
+        },
+        "dnd5e": {
+          "advancementOrigin": "JB4irYzEDVYJqN2B.5zKSh1oQDKZrgDxj"
+        }
+      },
+      "img": "icons/creatures/abilities/mouth-teeth-human.webp",
+      "_id": "LZrQjRkJAl9v1VsS",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431567375,
+        "modifiedTime": 1684266713315,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Unarmored Defense",
+      "type": "feat",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--3\"><p>While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.</p><div class=\"rd__spc-inline-post\"></div></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "activation": {
+          "type": "",
+          "cost": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": null,
+          "max": "",
+          "per": null,
+          "recovery": ""
+        },
+        "consume": {
+          "type": "",
+          "target": null,
+          "amount": null
+        },
+        "ability": "",
+        "actionType": "",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "spell"
+        },
+        "type": {
+          "value": "class",
+          "subtype": ""
+        },
+        "requirements": "Barbarian 1",
+        "recharge": {
+          "value": null,
+          "charged": false
+        }
+      },
+      "effects": [],
+      "flags": {
+        "plutonium": {
+          "page": "classFeature",
+          "source": "PHB",
+          "hash": "unarmored%20defense_barbarian_phb_1_phb"
+        },
+        "dnd5e": {
+          "advancementOrigin": "JB4irYzEDVYJqN2B.5zKSh1oQDKZrgDxj"
+        }
+      },
+      "img": "icons/magic/control/silhouette-grow-shrink-tan.webp",
+      "_id": "zpYKuCv4QV8Vy5de",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431567438,
+        "modifiedTime": 1684266480707,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Folk Hero",
+      "type": "background",
+      "system": {
+        "description": {
+          "value": "<div><div class=\"rd__b  rd__b--1\"><div class=\"rd__b  rd__b--2\"><div class=\"rd__b  rd__b--3\"><p>You come from a humble social rank, but you are destined for so much more. Already the people of your home village regard you as their champion, and your destiny calls you to stand against the tyrants and monsters that threaten the common folk everywhere.</p><div class=\"rd__spc-inline-post\"></div></div></div></div><hr /><div class=\"rd__b  rd__b--1\"><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li \"><p class=\"rd__p-list-item\"><span class=\"bold rd__list-item-name\">Skill Proficiencies:</span> @skill[Animal Handling], @skill[Survival]</p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\"><span class=\"bold rd__list-item-name\">Tool Proficiencies:</span> One type of <a href=\"https://5etools-mirror-1.github.io/items.html#blankhash,flstsource:phb=1,flstmiscellaneous:mundane=1,flsttype:artisan's%20tools=1\">artisan's tools</a>, <a href=\"https://5etools-mirror-1.github.io/items.html#blankhash,flstsource:phb=1~dmg=1,flstmiscellaneous:mundane=1,flsttype:vehicle%20(land)=1\">vehicles (land)</a></p></li><li class=\"rd__li \"><p class=\"rd__p-list-item\"><span class=\"bold rd__list-item-name\">Equipment:</span> A set of <a href=\"https://5etools-mirror-1.github.io/items.html#blankhash,flstsource:phb=1,flstmiscellaneous:mundane=1,flsttype:artisan's%20tools=1\">artisan's tools</a> (one of your choice), a @item[shovel|phb], an @item[iron pot|phb], a set of @item[common clothes|phb], and a belt @item[pouch|phb] containing 10 gp</p></li></ul><div class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"161\"> <span class=\"entry-title-inner\">Feature: Rustic Hospitality</span><span class=\"ve-flex-vh-center\"><span class=\"rd__h-toggle ml-2 clickable\" data-rd-h-toggle-button=\"true\">[–]</span></span></h3> <p>Since you come from the ranks of the common folk, you fit in among them with ease. You can find a place to hide, rest, or recuperate among other commoners, unless you have shown yourself to be a danger to them. They will shield you from the law or anyone else searching for you, though they will not risk their lives for you.</p></div><div class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"162\"> <span class=\"entry-title-inner\">Specialty</span><span class=\"ve-flex-vh-center\"><span class=\"rd__h-toggle ml-2 clickable\" data-rd-h-toggle-button=\"true\">[–]</span></span></h3> <p>You previously pursued a simple profession among the peasantry, perhaps as a farmer, miner, servant, shepherd, woodcutter, or gravedigger. But something happened that set you on a different path and marked you for greater things. Choose or randomly determine a defining event that marked you as a hero of the people.</p><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d10]]</th><th class=\"col-11\" data-rd-isroller=\"false\">Defining Event</th></tr></thead><tbody><tr><td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"col-11\">I stood up to a tyrant's agents.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"col-11\">I saved people during a natural disaster.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"col-11\">I stood alone against a terrible monster.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"col-11\">I stole from a corrupt merchant to help the poor.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"col-11\">I led a militia to fight off an invading army.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"col-11\">I broke into a tyrant's castle and stole weapons to arm the people.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"7\" data-roll-max=\"7\">7</td><td class=\"col-11\">I trained the peasantry to use farming implements as weapons against a tyrant's soldiers.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"8\" data-roll-max=\"8\">8</td><td class=\"col-11\">A lord rescinded an unpopular decree after I led a symbolic act of protest against it.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"9\" data-roll-max=\"9\">9</td><td class=\"col-11\">A celestial, fey, or similar creature gave me a blessing or revealed my secret origin.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"10\" data-roll-max=\"10\">10</td><td class=\"col-11\">Recruited into a lord's army, I rose to leadership and was commended for my heroism.</td></tr></tbody></table></div><div class=\"rd__b  rd__b--2\"><h3 class=\"rd__h rd__h--2\" data-title-index=\"163\"> <span class=\"entry-title-inner\">Suggested Characteristics</span><span class=\"ve-flex-vh-center\"><span class=\"rd__h-toggle ml-2 clickable\" data-rd-h-toggle-button=\"true\">[–]</span></span></h3> <p>A folk hero is one of the common people, for better or for worse. Most folk heroes look on their humble origins as a virtue, not a shortcoming, and their home communities remain very important to them.</p><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d8]]</th><th class=\"col-11\" data-rd-isroller=\"false\">Personality Trait</th></tr></thead><tbody><tr><td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"col-11\">I judge people by their actions, not their words.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"col-11\">If someone is in trouble, I'm always ready to lend help.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"col-11\">When I set my mind to something, I follow through no matter what gets in my way.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"col-11\">I have a strong sense of fair play and always try to find the most equitable solution to arguments.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"col-11\">I'm confident in my own abilities and do what I can to instill confidence in others.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"col-11\">Thinking is for other people. I prefer action.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"7\" data-roll-max=\"7\">7</td><td class=\"col-11\">I misuse long words in an attempt to sound smarter.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"8\" data-roll-max=\"8\">8</td><td class=\"col-11\">I get bored easily. When am I going to get on with my destiny?</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"col-11\" data-rd-isroller=\"false\">Ideal</th></tr></thead><tbody><tr><td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"col-11\">Respect. People deserve to be treated with dignity and respect. (Good)</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"col-11\">Fairness. No one should get preferential treatment before the law, and no one is above the law. (Lawful)</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"col-11\">Freedom. Tyrants must not be allowed to oppress the people. (Chaotic)</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"col-11\">Might. If I become strong, I can take what I want—what I deserve. (Evil)</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"col-11\">Sincerity. There's no good in pretending to be something I'm not. (Neutral)</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"col-11\">Destiny. Nothing and no one can steer me away from my higher calling. (Any)</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"col-11\" data-rd-isroller=\"false\">Bond</th></tr></thead><tbody><tr><td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"col-11\">I have a family, but I have no idea where they are. One day, I hope to see them again.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"col-11\">I worked the land, I love the land, and I will protect the land.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"col-11\">A proud noble once gave me a horrible beating, and I will take my revenge on any bully I encounter.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"col-11\">My tools are symbols of my past life, and I carry them so that I will never forget my roots.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"col-11\">I protect those who cannot protect themselves.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"col-11\">I wish my childhood sweetheart had come with me to pursue my destiny.</td></tr></tbody></table><table class=\"w-100 rd__table  stripe-odd-table\"><thead><tr><th class=\"col-1 text-center\" data-rd-isroller=\"true\">[[/r d6]]</th><th class=\"col-11\" data-rd-isroller=\"false\">Flaw</th></tr></thead><tbody><tr><td class=\"col-1 text-center\" data-roll-min=\"1\" data-roll-max=\"1\">1</td><td class=\"col-11\">The tyrant who rules my land will stop at nothing to see me killed.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"2\" data-roll-max=\"2\">2</td><td class=\"col-11\">I'm convinced of the significance of my destiny, and blind to my shortcomings and the risk of failure.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"3\" data-roll-max=\"3\">3</td><td class=\"col-11\">The people who knew me when I was young know my shameful secret, so I can never go home again.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"4\" data-roll-max=\"4\">4</td><td class=\"col-11\">I have a weakness for the vices of the city, especially hard drink.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"5\" data-roll-max=\"5\">5</td><td class=\"col-11\">Secretly, I believe that things would be better if I were a tyrant lording over the land.</td></tr><tr><td class=\"col-1 text-center\" data-roll-min=\"6\" data-roll-max=\"6\">6</td><td class=\"col-11\">I have trouble trusting in my allies.</td></tr></tbody></table></div></div></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "advancement": [
+          {
+            "_id": "xShJmdkHYNIsvs6p",
+            "type": "ItemGrant",
+            "level": 0,
+            "title": "Features",
+            "icon": "modules/plutonium/media/icon/farmer.svg",
+            "configuration": {
+              "items": [],
+              "optional": false,
+              "spell": {
+                "ability": "",
+                "preparation": "",
+                "uses": {
+                  "max": "",
+                  "per": ""
+                }
+              }
+            },
+            "value": {
+              "added": {
+                "xeVWGMEzGQ5rszIh": ""
+              }
+            }
+          }
+        ]
+      },
+      "flags": {
+        "plutonium": {
+          "page": "backgrounds.html",
+          "source": "PHB",
+          "hash": "folk%20hero_phb",
+          "propDroppable": "background",
+          "isDirectImport": true
+        }
+      },
+      "effects": [],
+      "img": "icons/skills/melee/hand-grip-staff-blue.webp",
+      "_id": "8ABimffvuDa2w45s",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431567765,
+        "modifiedTime": 1684266547891,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "_id": "xeVWGMEzGQ5rszIh",
+      "name": "Rustic Hospitality",
+      "type": "feat",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--3\"><p>Since you come from the ranks of the common folk, you fit in among them with ease. You can find a place to hide, rest, or recuperate among other commoners, unless you have shown yourself to be a danger to them. They will shield you from the law or anyone else searching for you, though they will not risk their lives for you.</p><div class=\"rd__spc-inline-post\"></div></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "activation": {
+          "type": "",
+          "cost": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": null,
+          "max": "",
+          "per": null,
+          "recovery": ""
+        },
+        "consume": {
+          "type": "",
+          "target": null,
+          "amount": null
+        },
+        "ability": "",
+        "actionType": "other",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "flat"
+        },
+        "type": {
+          "value": "",
+          "subtype": ""
+        },
+        "requirements": "Folk Hero",
+        "recharge": {
+          "value": null,
+          "charged": false
+        }
+      },
+      "img": "icons/environment/settlement/house-city.webp",
+      "flags": {
+        "plutonium": {
+          "page": "backgroundFeature",
+          "source": "PHB",
+          "hash": "rustic%20hospitality_folk%20hero_phb_phb"
+        },
+        "dnd5e": {
+          "advancementOrigin": "8ABimffvuDa2w45s.xShJmdkHYNIsvs6p"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431567767,
+        "modifiedTime": 1684266506760,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Cartographer's Tools",
+      "type": "tool",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--2\"></div><div class=\"rd__b  rd__b--2\"><p>Using <i>cartographer's tools</i>, you can create accurate maps to make travel easier for yourself and those who come after you. These maps can range from large-scale depictions of mountain ranges to diagrams that show the layout of a dungeon level.</p><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"164\"> <span class=\"entry-title-inner\">Components.</span></span> <p><i>Cartographer's tools</i> consist of a quill, ink, parchment, a pair of compasses, calipers, and a ruler.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"165\"> <span class=\"entry-title-inner\">Arcana, History, Religion.</span></span> <p>You can use your knowledge of maps and locations to unearth more detailed information when you use these skills. For instance, you might spot hidden messages in a map, identify when the map was made to determine if geographical features have changed since then, and so forth.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"166\"> <span class=\"entry-title-inner\">Nature.</span></span> <p>Your familiarity with physical geography makes it easier for you to answer questions or solve issues relating to the terrain around you.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"167\"> <span class=\"entry-title-inner\">Survival.</span></span> <p>Your understanding of geography makes it easier to find paths to civilization, to predict areas where villages or towns might be found, and to avoid becoming lost. You have studied so many maps that common patterns, such as how trade routes evolve and where settlements arise in relation to geographic locations, are familiar to you.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"168\"> <span class=\"entry-title-inner\">Craft a Map.</span></span> <p>While traveling, you can draw a map as you go in addition to engaging in other activity.</p><div class=\"rd__spc-inline-post\"></div></div><table class=\"w-100 rd__table  stripe-odd-table\"><caption>Cartographer's Tools</caption><thead><tr><th class=\"col-10\" data-rd-isroller=\"false\">Activity</th><th class=\"col-2 text-center\" data-rd-isroller=\"false\">DC</th></tr></thead><tbody><tr><td class=\"col-10\">Determine a map's age and origin</td><td class=\"col-2 text-center\">10</td></tr><tr><td class=\"col-10\">Estimate direction and distance to a landmark</td><td class=\"col-2 text-center\">15</td></tr><tr><td class=\"col-10\">Discern that a map is fake</td><td class=\"col-2 text-center\">15</td></tr><tr><td class=\"col-10\">Fill in a missing part of a map</td><td class=\"col-2 text-center\">20</td></tr></tbody></table></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "quantity": 1,
+        "weight": 6,
+        "price": {
+          "value": 15,
+          "denomination": "gp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "",
+        "identified": false,
+        "toolType": "art",
+        "baseItem": "cartographer",
+        "ability": "int",
+        "chatFlavor": "",
+        "proficient": 1,
+        "bonus": ""
+      },
+      "img": "icons/tools/navigation/map-chart-tan.webp",
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "cartographer's%20tools_phb"
+        }
+      },
+      "effects": [],
+      "_id": "LXxPAGXmWpaIVPTN",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431569251,
+        "modifiedTime": 1680431569251,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Common Clothes",
+      "type": "equipment",
+      "system": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "quantity": 1,
+        "weight": 3,
+        "price": {
+          "value": 5,
+          "denomination": "sp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "",
+        "identified": false,
+        "activation": {
+          "type": "none",
+          "cost": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": 0,
+          "long": 0,
+          "units": "ft"
+        },
+        "uses": {
+          "value": null,
+          "max": "",
+          "per": null,
+          "recovery": ""
+        },
+        "consume": {
+          "type": "",
+          "target": "",
+          "amount": null
+        },
+        "ability": null,
+        "actionType": "",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "spell"
+        },
+        "armor": {
+          "value": null,
+          "type": "clothing",
+          "dex": null
+        },
+        "hp": {
+          "value": 0,
+          "max": 0,
+          "dt": null,
+          "conditions": ""
+        },
+        "baseItem": "",
+        "speed": {
+          "value": null,
+          "conditions": ""
+        },
+        "strength": null,
+        "stealth": false,
+        "proficient": true
+      },
+      "img": "icons/equipment/chest/shirt-collared-brown.webp",
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "common%20clothes_phb"
+        }
+      },
+      "effects": [],
+      "_id": "uTHAnOLPJxxKb9iz",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431569322,
+        "modifiedTime": 1680431569322,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Backpack",
+      "type": "backpack",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--2\"><p>A <i>backpack</i> can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a <i>backpack</i>.</p></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "quantity": 1,
+        "weight": 5,
+        "price": {
+          "value": 2,
+          "denomination": "gp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "",
+        "identified": false,
+        "capacity": {
+          "type": "weight",
+          "value": 30,
+          "weightless": false
+        },
+        "currency": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0
+        }
+      },
+      "img": "icons/containers/bags/pack-simple-leather.webp",
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "backpack_phb"
+        }
+      },
+      "effects": [],
+      "_id": "jjryeUu3Ljtxu52R",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431569420,
+        "modifiedTime": 1680431569420,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Bedroll",
+      "type": "loot",
+      "system": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "quantity": 1,
+        "weight": 7,
+        "price": {
+          "value": 1,
+          "denomination": "gp"
+        },
+        "rarity": "",
+        "identified": false
+      },
+      "img": "icons/sundries/survival/bedroll-grey.webp",
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "bedroll_phb"
+        }
+      },
+      "effects": [],
+      "_id": "qziatcQKA0W6tSaD",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431569481,
+        "modifiedTime": 1680431569481,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Mess Kit",
+      "type": "loot",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--2\"><p>This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.</p></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "quantity": 1,
+        "weight": 1,
+        "price": {
+          "value": 2,
+          "denomination": "sp"
+        },
+        "rarity": "",
+        "identified": false
+      },
+      "img": "icons/tools/cooking/fork-steel-tan.webp",
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "mess%20kit_phb"
+        }
+      },
+      "effects": [],
+      "_id": "EBmoO1KtV18gT9dG",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431569540,
+        "modifiedTime": 1680431569540,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Tinderbox",
+      "type": "loot",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--2\"><p>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.</p></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "quantity": 1,
+        "weight": 1,
+        "price": {
+          "value": 5,
+          "denomination": "sp"
+        },
+        "rarity": "",
+        "identified": false
+      },
+      "img": "icons/sundries/lights/torch-black.webp",
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "tinderbox_phb"
+        }
+      },
+      "effects": [],
+      "_id": "50rACqRJ9td3ekIT",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431569614,
+        "modifiedTime": 1680431569614,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Torch",
+      "type": "consumable",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--2\"><p>A <i>torch</i> burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning <i>torch</i> and hit, it deals 1 fire damage.</p></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "quantity": 10,
+        "weight": 1,
+        "price": {
+          "value": 1,
+          "denomination": "cp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "",
+        "identified": false,
+        "activation": {
+          "type": "action",
+          "cost": 1,
+          "condition": ""
+        },
+        "duration": {
+          "value": "1",
+          "units": "hour"
+        },
+        "target": {
+          "value": 40,
+          "width": null,
+          "units": "ft",
+          "type": "radius"
+        },
+        "range": {
+          "value": 0,
+          "long": 0,
+          "units": "ft"
+        },
+        "uses": {
+          "value": 1,
+          "max": "1",
+          "per": "charges",
+          "recovery": "",
+          "autoDestroy": false
+        },
+        "consume": {
+          "type": "",
+          "target": "",
+          "amount": null
+        },
+        "ability": "str",
+        "actionType": "mwak",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [
+            [
+              "1",
+              "fire"
+            ]
+          ],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "spell"
+        },
+        "consumableType": "trinket"
+      },
+      "img": "icons/sundries/lights/torch-black.webp",
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "torch_phb"
+        }
+      },
+      "effects": [],
+      "_id": "ZjqWaZJSMaUDAYQQ",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431569695,
+        "modifiedTime": 1680431569695,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Rations (1 day)",
+      "type": "consumable",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--2\"><p><i>Rations</i> consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.</p></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "quantity": 10,
+        "weight": 2,
+        "price": {
+          "value": 5,
+          "denomination": "sp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "",
+        "identified": false,
+        "activation": {
+          "type": "action",
+          "cost": 1,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "target": {
+          "value": 1,
+          "width": null,
+          "units": "",
+          "type": "creature"
+        },
+        "range": {
+          "value": 0,
+          "long": 0,
+          "units": "touch"
+        },
+        "uses": {
+          "value": 1,
+          "max": "1",
+          "per": "charges",
+          "recovery": "",
+          "autoDestroy": true
+        },
+        "consume": {
+          "type": "",
+          "target": "",
+          "amount": null
+        },
+        "ability": "",
+        "actionType": "util",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "spell"
+        },
+        "consumableType": "food"
+      },
+      "img": "icons/consumables/meat/hock-leg-pink-brown.webp",
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "rations%20(1%20day)_phb"
+        }
+      },
+      "effects": [],
+      "_id": "TcseWGYsQ8Lb8NBr",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431569758,
+        "modifiedTime": 1680431569758,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Waterskin",
+      "type": "consumable",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--2\"><p>A <i>waterskin</i> can hold up to 4 pints of liquid.</p></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "quantity": 1,
+        "weight": 5,
+        "price": {
+          "value": 2,
+          "denomination": "sp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "",
+        "identified": false,
+        "activation": {
+          "type": "action",
+          "cost": 1,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": 0,
+          "long": 0,
+          "units": "touch"
+        },
+        "uses": {
+          "value": 4,
+          "max": "4",
+          "per": "charges",
+          "recovery": "",
+          "autoDestroy": false
+        },
+        "consume": {
+          "type": "",
+          "target": "",
+          "amount": null
+        },
+        "ability": "",
+        "actionType": "util",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "spell"
+        },
+        "consumableType": "food"
+      },
+      "img": "icons/sundries/survival/wetskin-leather-purple.webp",
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "waterskin_phb"
+        }
+      },
+      "effects": [],
+      "_id": "wbFwqqyfV3oJkH1W",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431569855,
+        "modifiedTime": 1680431569855,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Hempen Rope (50 feet)",
+      "type": "consumable",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--2\"><p>Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.</p></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "quantity": 1,
+        "weight": 10,
+        "price": {
+          "value": 1,
+          "denomination": "gp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "",
+        "identified": false,
+        "activation": {
+          "type": "action",
+          "cost": 1,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": 0,
+          "long": 0,
+          "units": "ft"
+        },
+        "uses": {
+          "value": 1,
+          "max": "1",
+          "per": "charges",
+          "recovery": "",
+          "autoDestroy": false
+        },
+        "consume": {
+          "type": "",
+          "target": "",
+          "amount": null
+        },
+        "ability": "",
+        "actionType": "abil",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "str",
+          "dc": 17,
+          "scaling": "flat"
+        },
+        "consumableType": "trinket"
+      },
+      "img": "icons/sundries/survival/rope-wrapped-brown.webp",
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "hempen%20rope%20(50%20feet)_phb"
+        }
+      },
+      "effects": [],
+      "_id": "WMjKGY0ut9ZOwRIB",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431569950,
+        "modifiedTime": 1680431569950,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Greatsword",
+      "type": "weapon",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--2\"></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "quantity": 1,
+        "weight": 6,
+        "price": {
+          "value": 50,
+          "denomination": "gp"
+        },
+        "attunement": 0,
+        "equipped": true,
+        "rarity": "",
+        "identified": false,
+        "activation": {
+          "type": "action",
+          "cost": 1,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": 5,
+          "long": 0,
+          "units": "ft"
+        },
+        "uses": {
+          "value": null,
+          "max": "",
+          "per": null,
+          "recovery": ""
+        },
+        "consume": {
+          "type": "",
+          "target": "",
+          "amount": null
+        },
+        "ability": null,
+        "actionType": "mwak",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [
+            [
+              "2d6 + @mod",
+              "slashing"
+            ]
+          ],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "spell"
+        },
+        "armor": {
+          "value": 10
+        },
+        "hp": {
+          "value": 0,
+          "max": 0,
+          "dt": null,
+          "conditions": ""
+        },
+        "weaponType": "martialM",
+        "baseItem": "greatsword",
+        "properties": {
+          "hvy": true,
+          "two": true
+        },
+        "proficient": true
+      },
+      "img": "icons/weapons/swords/greatsword-guard-gem-blue.webp",
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "greatsword_phb"
+        }
+      },
+      "effects": [],
+      "_id": "1S5o8ThwOa8lxqBz",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431570026,
+        "modifiedTime": 1680431570026,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Handaxe",
+      "type": "weapon",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--2\"></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "quantity": 2,
+        "weight": 2,
+        "price": {
+          "value": 5,
+          "denomination": "gp"
+        },
+        "attunement": 0,
+        "equipped": true,
+        "rarity": "",
+        "identified": false,
+        "activation": {
+          "type": "action",
+          "cost": 1,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": 20,
+          "long": 60,
+          "units": "ft"
+        },
+        "uses": {
+          "value": null,
+          "max": "",
+          "per": null,
+          "recovery": ""
+        },
+        "consume": {
+          "type": "ammo",
+          "target": "v4dqndprCty92tDT",
+          "amount": 1
+        },
+        "ability": null,
+        "actionType": "mwak",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [
+            [
+              "1d6 + @mod",
+              "slashing"
+            ]
+          ],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "spell"
+        },
+        "armor": {
+          "value": 10
+        },
+        "hp": {
+          "value": 0,
+          "max": 0,
+          "dt": null,
+          "conditions": ""
+        },
+        "weaponType": "simpleM",
+        "baseItem": "handaxe",
+        "properties": {
+          "lgt": true,
+          "thr": true,
+          "amm": false,
+          "hvy": false,
+          "fin": false,
+          "fir": false,
+          "foc": false,
+          "lod": false,
+          "rch": false,
+          "rel": false,
+          "ret": false,
+          "spc": false,
+          "two": false,
+          "ver": false
+        },
+        "proficient": true
+      },
+      "img": "icons/weapons/axes/axe-broad-black.webp",
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "handaxe_phb"
+        }
+      },
+      "effects": [],
+      "_id": "v4dqndprCty92tDT",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431570108,
+        "modifiedTime": 1680431570182,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Iron Pot",
+      "type": "backpack",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--2\"><p>An <i>iron pot</i> holds 1 gallon of liquid.</p></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "quantity": 1,
+        "weight": 10,
+        "price": {
+          "value": 2,
+          "denomination": "gp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "",
+        "identified": false,
+        "capacity": {
+          "type": "weight",
+          "value": 8.4,
+          "weightless": false
+        },
+        "currency": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0
+        }
+      },
+      "img": "icons/tools/laboratory/cauldron-filled-gold.webp",
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "iron%20pot_phb"
+        }
+      },
+      "effects": [],
+      "_id": "k2R5TjuCauW0zJUS",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431570257,
+        "modifiedTime": 1680431570257,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Javelin",
+      "type": "weapon",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--2\"></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "quantity": 4,
+        "weight": 2,
+        "price": {
+          "value": 5,
+          "denomination": "sp"
+        },
+        "attunement": 0,
+        "equipped": true,
+        "rarity": "",
+        "identified": false,
+        "activation": {
+          "type": "action",
+          "cost": 1,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": 30,
+          "long": 120,
+          "units": "ft"
+        },
+        "uses": {
+          "value": null,
+          "max": "",
+          "per": null,
+          "recovery": ""
+        },
+        "consume": {
+          "type": "ammo",
+          "target": "6L4IgUTljcse1TMO",
+          "amount": 1
+        },
+        "ability": null,
+        "actionType": "mwak",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [
+            [
+              "1d6 + @mod",
+              "piercing"
+            ]
+          ],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "spell"
+        },
+        "armor": {
+          "value": 10
+        },
+        "hp": {
+          "value": 0,
+          "max": 0,
+          "dt": null,
+          "conditions": ""
+        },
+        "weaponType": "simpleM",
+        "baseItem": "javelin",
+        "properties": {
+          "thr": true,
+          "amm": false,
+          "hvy": false,
+          "fin": false,
+          "fir": false,
+          "foc": false,
+          "lgt": false,
+          "rch": false,
+          "rel": false,
+          "ret": false,
+          "spc": false,
+          "two": false,
+          "ver": false,
+          "lod": false
+        },
+        "proficient": true
+      },
+      "img": "icons/weapons/ammunition/arrows-bodkin-yellow-red.webp",
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "javelin_phb"
+        }
+      },
+      "effects": [],
+      "_id": "6L4IgUTljcse1TMO",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431570328,
+        "modifiedTime": 1680431570406,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Pouch",
+      "type": "backpack",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--2\"><p>A cloth or leather <i>pouch</i> can hold up to 20 @item[sling bullet|phb|sling bullets] or 50 @item[blowgun needle|phb|blowgun needles], among other things. A compartmentalized <i>pouch</i> for holding spell components is called a @item[component pouch|phb]. A <i>pouch</i> can hold up to ⅕ cubic foot or 6 pounds of gear.</p></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "quantity": 1,
+        "weight": 1,
+        "price": {
+          "value": 5,
+          "denomination": "sp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "",
+        "identified": false,
+        "capacity": {
+          "type": "weight",
+          "value": 6,
+          "weightless": false
+        },
+        "currency": {
+          "cp": 0,
+          "sp": 0,
+          "ep": 0,
+          "gp": 0,
+          "pp": 0
+        }
+      },
+      "img": "icons/containers/bags/coinpouch-simple-tan.webp",
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "pouch_phb"
+        }
+      },
+      "effects": [],
+      "_id": "SBfwx0RHQmcBZAci",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431570486,
+        "modifiedTime": 1680431570486,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Shovel",
+      "type": "loot",
+      "system": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "quantity": 1,
+        "weight": 5,
+        "price": {
+          "value": 2,
+          "denomination": "gp"
+        },
+        "rarity": "",
+        "identified": false
+      },
+      "img": "icons/tools/hand/shovel-spade-steel-grey.webp",
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "shovel_phb"
+        }
+      },
+      "effects": [],
+      "_id": "dcE4Q9OKnedpCjmW",
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431570561,
+        "modifiedTime": 1680431570561,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Sewing Box & Thread",
+      "type": "loot",
+      "system": {
+        "description": {
+          "value": "<p><span style=\"font-family:Signika, sans-serif\">A sewing box that smells of old wood and has three spools of blue thread inside</span></p><p></p><p>This belonged to my mother and is all I have left of her</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "Trinket",
+        "quantity": 1,
+        "weight": 1,
+        "price": {
+          "value": 0,
+          "denomination": "gp"
+        },
+        "rarity": "",
+        "identified": true
+      },
+      "_id": "O2RERTKmCcaCBh2W",
+      "img": "icons/skills/trades/textiles-knitting-yarn-red.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.1.3",
+        "coreVersion": "10.291",
+        "createdTime": 1680431743614,
+        "modifiedTime": 1680431894909,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    }
+  ],
+  "effects": [
+    {
+      "label": "Walk Speed",
+      "icon": "icons/skills/movement/feet-winged-boots-glowing-yellow.webp",
+      "changes": [
+        {
+          "key": "system.attributes.movement.walk",
+          "mode": 5,
+          "value": "35",
+          "priority": 4
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": 0,
+        "seconds": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null,
+        "combat": null
+      },
+      "origin": "Actor.170V5m4LCLyu0xm7.Item.IQyOqe6BDtR6PETs",
+      "tint": null,
+      "transfer": false,
+      "flags": {},
+      "_id": "ypTJyEmlR82IHSI1"
+    },
+    {
+      "label": "Rage",
+      "icon": "icons/creatures/abilities/mouth-teeth-human.webp",
+      "origin": "Actor.170V5m4LCLyu0xm7",
+      "duration": {
+        "startTime": 0,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": false,
+      "_id": "OXhs9z2z7tkFBtWj",
+      "changes": [
+        {
+          "key": "system.bonuses.mwak.damage",
+          "mode": 2,
+          "value": "2[Raging]",
+          "priority": null
+        }
+      ],
+      "tint": null,
+      "transfer": false,
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "exportSource": {
+      "world": "roof",
+      "system": "dnd5e",
+      "coreVersion": "10.291",
+      "systemVersion": "2.1.3"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.1.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680102683611,
+    "modifiedTime": 1684266963045,
+    "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+  }
+}
