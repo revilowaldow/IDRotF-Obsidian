@@ -11,12 +11,8 @@
             "id": "4ff93621862f8582",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leonin.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -25,13 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leonin.md",
+                "file": "Party/Leonin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leonin.md",
+                "file": "Party/Leonin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leonin.md",
+                "file": "Party/Leonin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +134,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leonin.md"
+                "file": "Party/Leonin.md"
               }
             }
+          },
+          {
+            "id": "38359944da77db43",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +164,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ff93621862f8582",
+  "active": "5d6ae7e698c76f75",
   "lastOpenFiles": [
-    "Leonin.md"
+    "Party/Leonin.md",
+    "Setting/Game Information.md",
+    "Setting",
+    "Party",
+    "Assets/Characters/PCs/Leonin.webp",
+    "Assets/Characters/PCs/LeoninToken.webp",
+    "Assets/Characters/PCs",
+    "Assets/Characters",
+    "Assets"
   ]
 }
