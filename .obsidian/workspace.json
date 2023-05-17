@@ -38,8 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fcb5514f52c353b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/This is Your Life.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Northbrook Family/Olwen Northbrook.md",
+                "file": "Party/Nilak Northbrook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Northbrook Family/Olwen Northbrook.md",
+                "file": "Party/Nilak Northbrook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Northbrook Family/Olwen Northbrook.md"
+                "file": "Party/Nilak Northbrook.md"
               }
             }
           },
@@ -175,9 +188,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6998f50aa828161e",
+  "active": "4ff93621862f8582",
   "lastOpenFiles": [
+    "Session Notes/This is Your Life.md",
     "Party/Nilak Northbrook.md",
+    "Session Notes",
+    "NPCs/Northbrook Family/Isolde Northbrook.md",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
     "NPCs/Northbrook Family",
     "NPCs",
@@ -190,7 +206,6 @@
     "Party",
     "Assets/Characters/PCs/Leonin.webp",
     "Assets/Characters/PCs/LeoninToken.webp",
-    "Assets/Characters/PCs",
-    "Assets/Characters"
+    "Assets/Characters/PCs"
   ]
 }

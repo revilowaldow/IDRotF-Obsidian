@@ -1,4 +1,4 @@
-Male
+Male Hill Dwarf
 
 Widower:
 - [[Isolde Northbrook]]
