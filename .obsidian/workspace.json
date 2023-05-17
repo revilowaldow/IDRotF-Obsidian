@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a94983306cfacf77",
@@ -88,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Northbrook Family/Olwen Northbrook.md",
+                "file": "Setting/Game Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Northbrook Family/Olwen Northbrook.md",
+                "file": "Setting/Game Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Northbrook Family/Olwen Northbrook.md"
+                "file": "Setting/Game Information.md"
               }
             }
           },
@@ -225,13 +223,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b57db8df4de260db",
+  "active": "fcb5514f52c353b8",
   "lastOpenFiles": [
     "Session Notes/This is Your Life.md",
+    "Setting/Game Information.md",
+    "Party/Nilak Northbrook.md",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
-    "Party/Nilak Northbrook.md",
-    "Setting/Game Information.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "Session Notes",
     "NPCs/Northbrook Family",
