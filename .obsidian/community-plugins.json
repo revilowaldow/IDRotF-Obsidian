@@ -2,5 +2,7 @@
   "obsidian-git",
   "table-editor-obsidian",
   "obsidian-5e-statblocks",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "no-dupe-leaves",
+  "open-in-new-tab"
 ]
