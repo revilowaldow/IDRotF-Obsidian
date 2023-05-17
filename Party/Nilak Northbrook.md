@@ -38,16 +38,3 @@
 
 
 
-### Names
-
-Me: 
-Nilak
-
-Family: Northbrook
-
-Mother - Isolde 244 (at time of death)
-Father - Olwen 260
-
-Younger Brother - Andri 27
-Older Sister - Talvi 53
-Eldest Brother - Boreas 100
