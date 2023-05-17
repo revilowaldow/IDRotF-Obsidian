@@ -13,3 +13,4 @@ Occupation:
 - ~~Guard~~ *(dismissed)*
 - Fisherman
 
+Moved to the Ten Towns to start a new life with his wife [[Isolde Northbrook]]. 
