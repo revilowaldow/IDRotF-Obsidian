@@ -131,9 +131,9 @@ Nilak
 
 Family: Northbrook
 
-Mother - Isolde
-Father - Olwen
+Mother - Isolde 244 (at time of death)
+Father - Olwen 260
 
-Younger Brother - Andri
-Older Sister - Talvi
-Eldest Brother - Boreas
+Younger Brother - Andri 27
+Older Sister - Talvi 53
+Eldest Brother - Boreas 100
