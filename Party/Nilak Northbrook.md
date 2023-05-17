@@ -127,9 +127,9 @@ Hero forge
 ### Names
 
 Me: 
-Nilak??
+Nilak
 
-Family: Timberlake
+Family: Northbrook
 
 Mother - Isolde
 Father - Olwen
