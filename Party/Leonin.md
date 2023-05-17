@@ -134,6 +134,6 @@ Family:
 Mother - Isolde
 Father - Olwen
 
-Younger Brother - 
-Older Sister - 
-Eldest Brother - 
+Younger Brother - Andri
+Older Sister - Talvi
+Eldest Brother - Boreas
