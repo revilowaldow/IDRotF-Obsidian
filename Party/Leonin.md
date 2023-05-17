@@ -121,3 +121,19 @@ Immediate vision short term
 Opportunity
 
 Hero forge
+
+
+
+### Names
+
+Me: 
+Nilak??
+
+Family:
+
+Mother - Isolde
+Father - Olwen
+
+Younger Brother - 
+Older Sister - 
+Eldest Brother - 
