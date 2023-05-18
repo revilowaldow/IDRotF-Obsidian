@@ -1,9 +1,23 @@
-Male Hill Dwarf (99)
+NG Male Hill Dwarf (99)
 
-Sibling 4
-- Older
-- Neutral Good
+Family:
+- Parents:
+	- [[Olwen Northbrook]]
+	- [[Isolde Northbrook]]
+- Siblings:
+	- [[Talvi NorthBrook]]
+	- [[Nilak Northbrook]]
+	- [[Andri Northbrook]]
+
+Occupation:
 - Entertainer
+
+Residence:
+- [[Town X]] with father
+
+
+
+
+
 - Alive but doing poorly due to injury, financial trouble or relationship difficulties
 - Hostile
-- At home
