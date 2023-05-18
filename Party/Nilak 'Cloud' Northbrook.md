@@ -43,6 +43,6 @@ Nilak is the younger middle child of [[Olwen Northbrook]] and [[Isolde Northbroo
 
 Olwen was employed as a guard, while Isolde worked in the weaver's guild. Boreas was an entertainer before his injury. While a jeweller took a shine to the young girl Talvi who would peep through the window whenever she was in [[Town 2]]. Talvi ultimately took over the shop after the former proprietor passed and is now a renowned jeweller in [[Town 2]]. Nilak was originally planning to follow his father into the guard and fought frequently with his younger brother Andri, a hothead with something to prove. 
 
-Everything changed for the family when the ~~fire nation attacked~~ eternal winter started. Not long into the 
+Everything changed for the family when the ~~fire nation attacked~~ eternal winter started. Just a few months into 
 
 
