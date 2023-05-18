@@ -125,6 +125,14 @@
             }
           },
           {
+            "id": "ccc566c8d9ccd72a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "20b9856224f65913",
             "type": "leaf",
             "state": {
@@ -273,7 +281,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6998f50aa828161e",
+  "active": "425479cc273d7764",
   "lastOpenFiles": [
     "NPCs/Northbrook Family/Olwen Northbrook.md",
     "Party/Nilak 'Cloud' Northbrook.md",
