@@ -40,6 +40,6 @@
 
 ## Backstory: 
 
-Nilak is the younger middle child of [[Olwen Northbrook]] and [[Isolde Northbrook]]
-A family of dwarves
+Nilak is the younger middle child of [[Olwen Northbrook]] and [[Isolde Northbrook]]. 
+A family of dwarves, Olwen and Isolde moved to [[Town 1]] with their eldest child [[Boreas Northbrook|Boreas]] when he was just 35. In the following years they had a further three children; Talvi, Nilak and Andri; 
 
