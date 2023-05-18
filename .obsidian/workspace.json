@@ -39,10 +39,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Ten Towns/Town X.md",
+                "file": "Locations/Ten Towns/Town X.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "20b9856224f65913",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -82,7 +90,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Game Information.md",
+                "file": "Locations/Game Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting/Ten Towns/Town X.md",
+                "file": "Locations/Ten Towns/Town X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting/Ten Towns/Town X.md",
+                "file": "Locations/Ten Towns/Town X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/Ten Towns/Town X.md"
+                "file": "Locations/Ten Towns/Town X.md"
               }
             }
           },
@@ -237,14 +245,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05d566ec07b11b8c",
+  "active": "425479cc273d7764",
   "lastOpenFiles": [
+    "New Text Document.txt",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
-    "Setting/Ten Towns/Town X.md",
-    "Setting/Ten Towns",
+    "Locations/Ten Towns/Town X.md",
+    "Locations/Ten Towns",
     "Party/Nilak Northbrook.md",
     "Session Notes/This is Your Life.md",
-    "Setting/Game Information.md",
+    "Locations/Game Information.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "Session Notes",
@@ -254,7 +263,7 @@
     "Assets/Sheet Backups/fvtt-Actor-oliver's-pc.json",
     "Assets/Sheet Backups",
     "Assets/Characters/PCs/Leo.stl",
-    "Setting",
+    "Locations",
     "Party",
     "Assets/Characters/PCs/Leonin.webp",
     "Assets/Characters/PCs/LeoninToken.webp"
