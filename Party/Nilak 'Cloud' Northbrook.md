@@ -47,4 +47,4 @@ Everything changed for the family when the ~~fire nation attacked~~ eternal wint
 
 After many nights consoling his pleading, broken father Nilak resolved to search for any evidence of his mother's demise, a nigh impossible task in the constant blizzards and darkness. Nilak stormed out in the wilderness slamming the door shut in the face of Andri's latest tirade telling him to give up on Isolde. Nilak was unsuccessful in his search, but worse than that, he completely lost his way. Feeling the cold close in, and his vision dim Nilak considered how he had failed his family. 
 
-Cloud awoke on his back in the middle of a ritualistic henge, stones inscribed with primal symbols in dried blood, and the corpe of a slaughtered leopard nearby. Cloud could remember all the  
+'Cloud' awoke on his back in the middle of a ritualistic henge, stones inscribed with primal symbols in dried blood, and the corpse of a slaughtered leopard nearby. Cloud could remember everything up to the moment he succumbed to the cold. With nothing else he could do he tried to return home while coming to terms with his new 

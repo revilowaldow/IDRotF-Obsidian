@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Northbrook Family/Talvi Northbrook.md",
+                "file": "Party/Nilak 'Cloud' Northbrook.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "a94983306cfacf77",
@@ -272,17 +273,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ff93621862f8582",
+  "active": "6e972f4dd448d5b7",
   "lastOpenFiles": [
-    "Session Notes/This is Your Life.md",
+    "NPCs/Northbrook Family/Talvi Northbrook.md",
+    "NPCs/Northbrook Family/Boreas Northbrook.md",
+    "Locations/Ten Towns/Town 2.md",
+    "Locations/Ten Towns/Town 1.md",
     "Party/Nilak 'Cloud' Northbrook.md",
+    "Session Notes/This is Your Life.md",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
     "NPCs/Northbrook Family/Andri Northbrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
-    "Locations/Ten Towns/Town 2.md",
-    "Locations/Ten Towns/Town 1.md",
-    "NPCs/Northbrook Family/Talvi Northbrook.md",
-    "NPCs/Northbrook Family/Boreas Northbrook.md",
     "New Text Document.txt",
     "Locations/Ten Towns",
     "Locations/Game Information.md",

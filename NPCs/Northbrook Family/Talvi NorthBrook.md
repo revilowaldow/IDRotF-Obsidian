@@ -10,7 +10,7 @@ Family:
 	- [[Andri Northbrook]]
 
 Occupation:
-- Artisan or Guild member
+- Jeweller 
 
 Residence:
 - [[Town 2]] 
