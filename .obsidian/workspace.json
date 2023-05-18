@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Northbrook Family/Olwen Northbrook.md",
+                "file": "Setting/Ten Towns/Town X.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Northbrook Family/Olwen Northbrook.md",
+                "file": "Setting/Ten Towns/Town X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Northbrook Family/Olwen Northbrook.md",
+                "file": "Setting/Ten Towns/Town X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Northbrook Family/Olwen Northbrook.md"
+                "file": "Setting/Ten Towns/Town X.md"
               }
             }
           },
@@ -239,8 +239,10 @@
   },
   "active": "05d566ec07b11b8c",
   "lastOpenFiles": [
-    "Party/Nilak Northbrook.md",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
+    "Setting/Ten Towns/Town X.md",
+    "Setting/Ten Towns",
+    "Party/Nilak Northbrook.md",
     "Session Notes/This is Your Life.md",
     "Setting/Game Information.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
@@ -255,7 +257,6 @@
     "Setting",
     "Party",
     "Assets/Characters/PCs/Leonin.webp",
-    "Assets/Characters/PCs/LeoninToken.webp",
-    "Assets/Characters/PCs"
+    "Assets/Characters/PCs/LeoninToken.webp"
   ]
 }
