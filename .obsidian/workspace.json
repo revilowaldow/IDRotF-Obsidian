@@ -62,6 +62,18 @@
             }
           },
           {
+            "id": "5bed22e19a5a4f92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Town 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "20b9856224f65913",
             "type": "leaf",
             "state": {
@@ -122,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "a94983306cfacf77",
@@ -219,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/This is Your Life.md",
+                "file": "Locations/Ten Towns/Town 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/This is Your Life.md",
+                "file": "Locations/Ten Towns/Town 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/This is Your Life.md"
+                "file": "Locations/Ten Towns/Town 2.md"
               }
             }
           },
@@ -289,8 +301,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6998f50aa828161e",
+  "active": "5bed22e19a5a4f92",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Town 1.md",
+    "Session Notes/This is Your Life.md",
     "Party/Nilak '' Northbrook.md",
     "Locations/Ten Towns/Town 2.md",
     "NPCs/Northbrook Family/Andri Northbrook.md",
@@ -298,8 +312,6 @@
     "NPCs/Northbrook Family/Boreas Northbrook.md",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
-    "Session Notes/This is Your Life.md",
-    "Locations/Ten Towns/Town 1.md",
     "New Text Document.txt",
     "Locations/Ten Towns",
     "Locations/Game Information.md",

@@ -40,16 +40,6 @@ My anger needed to be channelled into battle, or I risked becoming an indiscrimi
 
 Love interest for younger \<character name here\>??
 
-Father
-- Guard (dismissed, now fisherman)
-- Dwarf
-- Friendly
-
-
-
-
-
-
 
 Trinket:
 - A sewing box that smells of old wood and has three spools of blue thread inside

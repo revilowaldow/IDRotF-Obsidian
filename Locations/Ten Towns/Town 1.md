@@ -5,3 +5,5 @@
 
 ### Population Size:
 
+### Sacrifice:
+
