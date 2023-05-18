@@ -2,5 +2,8 @@
   "accentColor": "#1caba2",
   "translucency": true,
   "interfaceFontFamily": "",
-  "textFontFamily": "Calibri"
+  "textFontFamily": "Calibri",
+  "enabledCssSnippets": [
+    "justify"
+  ]
 }
