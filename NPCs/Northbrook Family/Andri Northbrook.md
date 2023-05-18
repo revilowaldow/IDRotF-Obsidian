@@ -1,8 +1,19 @@
-Male Hill Dwarf (27)
+N Male Hill Dwarf (27)
 
-Sibling 2
-- Younger
-- Neutral Good
+Family:
+- Parents:
+	- [[Olwen Northbrook]]
+	- [[Isolde Northbrook]]
+- Siblings:
+	- [[Boreas Northbrook]]
+	- [[Talvi NorthBrook]]
+	- [[Nilak Northbrook]]
+
+Occupation:
 - Exile, hermit or Refugee
+
+Residence:
+- Exiled
+
 - Alive and Well
 - Hostile
