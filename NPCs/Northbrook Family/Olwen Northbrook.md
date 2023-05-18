@@ -1,4 +1,4 @@
-Male Hill Dwarf
+Male Hill Dwarf (260)
 
 Widower:
 - [[Isolde Northbrook]]
