@@ -25,12 +25,16 @@
             "id": "b57db8df4de260db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party/Nilak Northbrook.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5cbc05389ffa98f1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -82,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "a94983306cfacf77",
@@ -179,7 +183,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Nilak Northbrook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +199,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Nilak Northbrook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,9 +220,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Party/Nilak Northbrook.md"
-              }
+              "state": {}
             }
           },
           {
@@ -249,17 +249,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b57db8df4de260db",
+  "active": "5cbc05389ffa98f1",
   "lastOpenFiles": [
+    "NPCs/Northbrook Family/Olwen Northbrook.md",
+    "Party/Nilak Northbrook.md",
     "NPCs/Northbrook Family/Andri Northbrook.md",
     "Session Notes/This is Your Life.md",
     "NPCs/Northbrook Family/Talvi NorthBrook.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
-    "NPCs/Northbrook Family/Olwen Northbrook.md",
     "Locations/Ten Towns/Town X.md",
     "New Text Document.txt",
     "Locations/Ten Towns",
-    "Party/Nilak Northbrook.md",
     "Locations/Game Information.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "Session Notes",
