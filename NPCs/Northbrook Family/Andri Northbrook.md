@@ -7,7 +7,7 @@ Family:
 - Siblings:
 	- [[Boreas Northbrook]]
 	- [[Talvi Northbrook]]
-	- [[Nilak '' Northbrook]]
+	- [[Nilak 'Cloud' Northbrook]]
 
 Occupation:
 - Exile, hermit or Refugee

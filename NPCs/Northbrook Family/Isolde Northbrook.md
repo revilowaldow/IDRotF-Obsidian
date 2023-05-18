@@ -7,7 +7,7 @@ Widower:
 
 Children *(youngest to eldest)*:
 - [[Andri Northbrook]]
-- [[Nilak '' Northbrook]]
+- [[Nilak 'Cloud' Northbrook]]
 - [[Talvi Northbrook]]
 - [[Boreas Northbrook]]
 
