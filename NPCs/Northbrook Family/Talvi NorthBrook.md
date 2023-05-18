@@ -6,7 +6,7 @@ Family:
 	- [[Isolde Northbrook]]
 - Siblings:
 	- [[Boreas Northbrook]]
-	- [[Nilak Northbrook]]
+	- [[Nilak '' Northbrook]]
 	- [[Andri Northbrook]]
 
 Occupation:

@@ -1,4 +1,5 @@
-Female Hill Dwarf
+Female Hill Dwarf (244)
+
 Deceased
 
 Widower:
@@ -6,6 +7,7 @@ Widower:
 
 Children *(youngest to eldest)*:
 - [[Andri Northbrook]]
-- [[Nilak Northbrook]]
+- [[Nilak '' Northbrook]]
 - [[Talvi Northbrook]]
 - [[Boreas Northbrook]]
+

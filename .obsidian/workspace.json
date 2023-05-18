@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Nilak Northbrook.md",
+                "file": "Party/Nilak '' Northbrook.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ten Towns/Town 2.md",
+                "file": "Party/Nilak '' Northbrook.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "a94983306cfacf77",
@@ -219,6 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/This is Your Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,6 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Session Notes/This is Your Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +258,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Session Notes/This is Your Life.md"
+              }
             }
           },
           {
@@ -285,20 +289,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a36cb8e274f58af5",
+  "active": "6998f50aa828161e",
   "lastOpenFiles": [
-    "NPCs/Northbrook Family/Talvi Northbrook.md",
+    "Party/Nilak '' Northbrook.md",
     "Locations/Ten Towns/Town 2.md",
-    "Locations/Ten Towns/Town 1.md",
-    "NPCs/Northbrook Family/Boreas Northbrook.md",
     "NPCs/Northbrook Family/Andri Northbrook.md",
+    "NPCs/Northbrook Family/Talvi Northbrook.md",
+    "NPCs/Northbrook Family/Boreas Northbrook.md",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
-    "Party/Nilak Northbrook.md",
+    "NPCs/Northbrook Family/Isolde Northbrook.md",
     "Session Notes/This is Your Life.md",
+    "Locations/Ten Towns/Town 1.md",
     "New Text Document.txt",
     "Locations/Ten Towns",
     "Locations/Game Information.md",
-    "NPCs/Northbrook Family/Isolde Northbrook.md",
     "Session Notes",
     "NPCs/Northbrook Family",
     "NPCs",
