@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Northbrook Family/Olwen Northbrook.md",
+                "file": "Party/Nilak Northbrook.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a94983306cfacf77",
@@ -87,7 +88,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting/Game Information.md",
+                "file": "Party/Nilak Northbrook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting/Game Information.md",
+                "file": "Party/Nilak Northbrook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/Game Information.md"
+                "file": "Party/Nilak Northbrook.md"
               }
             }
           },
@@ -223,12 +225,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fcb5514f52c353b8",
+  "active": "b57db8df4de260db",
   "lastOpenFiles": [
-    "Session Notes/This is Your Life.md",
-    "Setting/Game Information.md",
-    "Party/Nilak Northbrook.md",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
+    "Session Notes/This is Your Life.md",
+    "Party/Nilak Northbrook.md",
+    "Setting/Game Information.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "Session Notes",

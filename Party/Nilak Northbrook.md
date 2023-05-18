@@ -33,8 +33,13 @@
 - I protect those who cannot protect themselves.
 - I have a weakness for the vices of the city, especially hard drink.
 
+### Age: 
+34
+
 <hr>
 
+## Backstory: 
 
-
+Nilak is the younger middle child of [[Olwen Northbrook]] and [[Isolde Northbrook]]
+A family of dwarves
 
