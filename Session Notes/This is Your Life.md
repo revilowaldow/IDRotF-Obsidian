@@ -38,7 +38,7 @@ My anger needed to be channelled into battle, or I risked becoming an indiscrimi
 - Outcast from family
 16 gp from rescuing people
 
-Love interest for younger \<character name here\>
+Love interest for younger \<character name here\>??
 
 Father
 - Guard (dismissed, now fisherman)

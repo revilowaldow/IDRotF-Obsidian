@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Town X.md",
+                "file": "Session Notes/This is Your Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Town X.md",
+                "file": "Session Notes/This is Your Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Town X.md"
+                "file": "Session Notes/This is Your Life.md"
               }
             }
           },
@@ -245,11 +245,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "425479cc273d7764",
+  "active": "6998f50aa828161e",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Town X.md",
     "New Text Document.txt",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
-    "Locations/Ten Towns/Town X.md",
     "Locations/Ten Towns",
     "Party/Nilak Northbrook.md",
     "Session Notes/This is Your Life.md",
@@ -264,7 +264,6 @@
     "Assets/Sheet Backups",
     "Assets/Characters/PCs/Leo.stl",
     "Locations",
-    "Party",
     "Assets/Characters/PCs/Leonin.webp",
     "Assets/Characters/PCs/LeoninToken.webp"
   ]
