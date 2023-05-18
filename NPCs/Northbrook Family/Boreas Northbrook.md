@@ -5,7 +5,7 @@ Family:
 	- [[Olwen Northbrook]]
 	- [[Isolde Northbrook]]
 - Siblings:
-	- [[Talvi NorthBrook]]
+	- [[Talvi Northbrook]]
 	- [[Nilak Northbrook]]
 	- [[Andri Northbrook]]
 
@@ -13,7 +13,7 @@ Occupation:
 - Entertainer
 
 Residence:
-- [[Town X]] with father
+- [[Town 1]] with father
 
 
 

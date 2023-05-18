@@ -35,7 +35,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ten Towns/Town X.md",
+                "file": "Locations/Ten Towns/Town 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a36cb8e274f58af5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c064aa24b5208d20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Town 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,6 +86,18 @@
             }
           },
           {
+            "id": "6e972f4dd448d5b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Northbrook Family/Talvi Northbrook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cc35c1eb403562a5",
             "type": "leaf",
             "state": {
@@ -90,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "a94983306cfacf77",
@@ -187,7 +219,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Northbrook Family/Andri Northbrook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +235,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Northbrook Family/Andri Northbrook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,9 +256,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NPCs/Northbrook Family/Andri Northbrook.md"
-              }
+              "state": {}
             }
           },
           {
@@ -240,7 +268,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -257,15 +285,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc35c1eb403562a5",
+  "active": "a36cb8e274f58af5",
   "lastOpenFiles": [
+    "NPCs/Northbrook Family/Talvi Northbrook.md",
+    "Locations/Ten Towns/Town 2.md",
+    "Locations/Ten Towns/Town 1.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
-    "NPCs/Northbrook Family/Olwen Northbrook.md",
     "NPCs/Northbrook Family/Andri Northbrook.md",
+    "NPCs/Northbrook Family/Olwen Northbrook.md",
     "Party/Nilak Northbrook.md",
     "Session Notes/This is Your Life.md",
-    "NPCs/Northbrook Family/Talvi NorthBrook.md",
-    "Locations/Ten Towns/Town X.md",
     "New Text Document.txt",
     "Locations/Ten Towns",
     "Locations/Game Information.md",

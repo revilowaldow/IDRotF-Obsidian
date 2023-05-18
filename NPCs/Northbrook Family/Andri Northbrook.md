@@ -6,7 +6,7 @@ Family:
 	- [[Isolde Northbrook]]
 - Siblings:
 	- [[Boreas Northbrook]]
-	- [[Talvi NorthBrook]]
+	- [[Talvi Northbrook]]
 	- [[Nilak Northbrook]]
 
 Occupation:

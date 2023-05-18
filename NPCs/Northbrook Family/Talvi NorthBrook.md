@@ -1,9 +1,21 @@
-Female Hill Dwarf (53)
+NG Female Hill Dwarf (53)
 
-Sibling 3
-- Older
-- Neutral
+Family:
+- Parents:
+	- [[Olwen Northbrook]]
+	- [[Isolde Northbrook]]
+- Siblings:
+	- [[Boreas Northbrook]]
+	- [[Nilak Northbrook]]
+	- [[Andri Northbrook]]
+
+Occupation:
 - Artisan or Guild member
+
+Residence:
+- [[Town 2]] 
+
+
 - Alive and Well
 - Friendly
 - Own accommodation
