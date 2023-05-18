@@ -45,28 +45,11 @@ Father
 - Dwarf
 - Friendly
 
-Sibling 2
-- Younger
-- Neutral Good
-- Exile, hermit or Refugee
-- Alive and Well
-- Hostile
 
-Sibling 3
-- Older
-- Neutral
-- Artisan or Guild member
-- Alive and Well
-- Friendly
-- Own accommodation
 
-Sibling 4
-- Older
-- Neutral Good
-- Entertainer
-- Alive but doing poorly due to injury, financial trouble or relationship difficulties
-- Hostile
-- At home
+
+
+
 
 Trinket:
 - A sewing box that smells of old wood and has three spools of blue thread inside
@@ -97,4 +80,4 @@ Father - Olwen 260
 
 Younger Brother - Andri 27
 Older Sister - Talvi 53
-Eldest Brother - Boreas 100
+Eldest Brother - Boreas 99
