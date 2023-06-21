@@ -18,5 +18,3 @@ Something about Knucklehead Trout?
 - Bonus Action to drink a healing potion
 - The 'no two spells in one turn except action cantrip' rule is removed
 	"You can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action." - PHB p202
-
-![[LeoninToken.webp]]
