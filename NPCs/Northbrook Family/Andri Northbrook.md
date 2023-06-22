@@ -17,3 +17,6 @@ Residence:
 
 - Alive and Well
 - Hostile
+
+
+Left after Nilak was banished so Nilak is unaware!!
