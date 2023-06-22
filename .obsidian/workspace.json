@@ -101,8 +101,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "a94983306cfacf77",
@@ -231,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Information.md",
+                "file": "Party/Nilak 'Cloud' Northbrook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Information.md",
+                "file": "Party/Nilak 'Cloud' Northbrook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Information.md"
+                "file": "Party/Nilak 'Cloud' Northbrook.md"
               }
             }
           },
@@ -301,13 +300,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "065b59c5f02de42f",
+  "active": "4ff93621862f8582",
   "lastOpenFiles": [
+    "Game Information.md",
     "Assets/Characters/PCs/Leonin.webp",
     "Assets/Characters/PCs/LeoninToken.webp",
     "Party/Nilak 'Cloud' Northbrook.md",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
-    "Game Information.md",
     "Session Notes/This is Your Life.md",
     "NPCs/Northbrook Family/Talvi Northbrook.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
