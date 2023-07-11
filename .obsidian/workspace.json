@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ten Towns/Town 2.md",
+                "file": "Locations/Ten Towns/Termalaine.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,6 +90,38 @@
             }
           },
           {
+            "id": "3a34e7472cf873e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Bryn Shander.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95961a7dadc88797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assets/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db44e9d4a67595b2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "cc35c1eb403562a5",
             "type": "leaf",
             "state": {
@@ -114,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       },
       {
         "id": "a94983306cfacf77",
@@ -243,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Nilak 'Cloud' Northbrook.md",
+                "file": "Assets/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Nilak 'Cloud' Northbrook.md",
+                "file": "Assets/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Nilak 'Cloud' Northbrook.md"
+                "file": "Assets/Untitled.md"
               }
             }
           },
@@ -313,20 +345,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e972f4dd448d5b7",
+  "active": "95961a7dadc88797",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Targos.md",
+    "Assets/Untitled.md",
+    "Locations/Ten Towns/Bryn Shander.md",
+    "Locations/Ten Towns/Easthaven.md",
+    "NPCs/Captain Skath.md",
+    "Assets/Characters/NPCs",
+    "Assets/Characters/Untitled.md",
+    "Assets/Characters/NPCs/CaptainSkath.png",
+    "Locations/Ten Towns/Bremen.md",
+    "Locations/Ten Towns/Termalaine.md",
+    "Party/Nilak 'Cloud' Northbrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
     "NPCs/Northbrook Family/Andri Northbrook.md",
-    "Party/Nilak 'Cloud' Northbrook.md",
     "Game Information.md",
     "Assets/Characters/PCs/Leonin.webp",
     "Assets/Characters/PCs/LeoninToken.webp",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
     "Session Notes/This is Your Life.md",
     "NPCs/Northbrook Family/Talvi Northbrook.md",
-    "Locations/Ten Towns/Town 2.md",
-    "Locations/Ten Towns/Town 1.md",
     "New Text Document.txt",
     "Locations/Ten Towns",
     "Session Notes",
@@ -335,7 +375,6 @@
     "clean.bat",
     "Assets/Sheet Backups/fvtt-Actor-oliver's-pc.json",
     "Assets/Sheet Backups",
-    "Assets/Characters/PCs/Leo.stl",
-    "Locations"
+    "Assets/Characters/PCs/Leo.stl"
   ]
 }

@@ -13,7 +13,7 @@ Occupation:
 - Jeweller 
 
 Residence:
-- [[Town 2]] 
+- [[Termalaine]] 
 
 
 - Alive and Well

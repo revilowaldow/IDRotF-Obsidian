@@ -13,7 +13,7 @@ Occupation:
 - Entertainer
 
 Residence:
-- [[Town 1]] with father
+- [[Bremen]] with father
 
 
 
