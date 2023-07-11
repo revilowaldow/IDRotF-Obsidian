@@ -153,8 +153,12 @@
             "id": "5889ff4a794f7b1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/This is Your Life.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -242,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       },
       {
         "id": "a94983306cfacf77",
@@ -305,7 +309,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -371,6 +375,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/This is Your Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -387,6 +392,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Session Notes/This is Your Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -408,7 +414,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Session Notes/This is Your Life.md"
+              }
             }
           },
           {
