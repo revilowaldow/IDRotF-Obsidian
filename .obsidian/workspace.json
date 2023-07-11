@@ -146,6 +146,14 @@
             }
           },
           {
+            "id": "af5a5657392d723a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "cb00e02273e67708",
             "type": "leaf",
             "state": {
@@ -222,7 +230,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 4
       },
       {
         "id": "a94983306cfacf77",
@@ -351,6 +359,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Ten Towns/Termalaine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,6 +376,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/Ten Towns/Termalaine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -388,7 +398,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/Ten Towns/Termalaine.md"
+              }
             }
           },
           {
@@ -417,17 +429,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38359944da77db43",
+  "active": "5bed22e19a5a4f92",
   "lastOpenFiles": [
+    "Events/Murder.md",
+    "Locations/Ten Towns/Targos.md",
+    "Locations/Ten Towns/Bryn Shander.md",
+    "Locations/Ten Towns/Easthaven.md",
     "Locations/Shipwreck.md",
     "Events/Death of Isolde.md",
     "NPCs/Captain Skath.md",
     "NPCs/Naerth Maxildanarr.md",
     "Party/Nilak 'Cloud' Northbrook.md",
-    "Locations/Ten Towns/Targos.md",
     "Events/Sacrifices.md",
-    "Locations/Ten Towns/Easthaven.md",
-    "Locations/Ten Towns/Bryn Shander.md",
     "Locations/Ten Towns/Bremen.md",
     "Events",
     "Assets/Untitled.md",
