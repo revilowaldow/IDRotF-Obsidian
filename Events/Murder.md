@@ -5,3 +5,10 @@ _**Race:** Human_
 **Occupation:** Merchant  
 **Relationship:** Friendly  
 **Status:** Dead
+
+
+[[Akiko]] murdered in [[Targos]]
+- Cross at lack of investigation by guard
+- Confront [[Captain Skath]] in secret
+- Heated exchange
+- Ak
