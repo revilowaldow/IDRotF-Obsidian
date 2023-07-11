@@ -3,5 +3,7 @@
 
 Militia Captain of [[Targos]]
 
-In charge of lottery for  [[Sacrifices]]
+In charge of lottery for [[Sacrifices]]
+
+Takes bribes
 

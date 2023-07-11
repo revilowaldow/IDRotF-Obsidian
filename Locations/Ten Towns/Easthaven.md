@@ -1,3 +1,3 @@
 Doing [[Sacrifices]]
 
-[[Murder]] occurred here
+[[Murders]] occurred here
