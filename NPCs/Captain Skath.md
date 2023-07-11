@@ -1,5 +1,5 @@
 ![[CaptainSkath.png]]
 
 
-Skath lokks like this
+Militia Captain of [[Targos]]
 

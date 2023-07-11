@@ -102,12 +102,88 @@
             }
           },
           {
+            "id": "9e7835e89bb77e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Easthaven.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "95961a7dadc88797",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/Untitled.md",
+                "file": "Locations/Ten Towns/Targos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15dd20d92ed31d7f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9386330340f898ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Targos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb00e02273e67708",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Naerth Maxildanarr.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "028077152a4657d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Death of Isolde.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4685b8f4ca80f12",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "43139b0f5651ff47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Bremen.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 14
       },
       {
         "id": "a94983306cfacf77",
@@ -275,7 +351,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +367,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,9 +388,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Assets/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -345,19 +417,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95961a7dadc88797",
+  "active": "38359944da77db43",
   "lastOpenFiles": [
-    "Locations/Ten Towns/Targos.md",
-    "Assets/Untitled.md",
-    "Locations/Ten Towns/Bryn Shander.md",
-    "Locations/Ten Towns/Easthaven.md",
+    "Locations/Shipwreck.md",
+    "Events/Death of Isolde.md",
     "NPCs/Captain Skath.md",
+    "NPCs/Naerth Maxildanarr.md",
+    "Party/Nilak 'Cloud' Northbrook.md",
+    "Locations/Ten Towns/Targos.md",
+    "Events/Sacrifices.md",
+    "Locations/Ten Towns/Easthaven.md",
+    "Locations/Ten Towns/Bryn Shander.md",
+    "Locations/Ten Towns/Bremen.md",
+    "Events",
+    "Assets/Untitled.md",
     "Assets/Characters/NPCs",
     "Assets/Characters/Untitled.md",
     "Assets/Characters/NPCs/CaptainSkath.png",
-    "Locations/Ten Towns/Bremen.md",
     "Locations/Ten Towns/Termalaine.md",
-    "Party/Nilak 'Cloud' Northbrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
     "NPCs/Northbrook Family/Andri Northbrook.md",
@@ -374,7 +451,6 @@
     "NPCs",
     "clean.bat",
     "Assets/Sheet Backups/fvtt-Actor-oliver's-pc.json",
-    "Assets/Sheet Backups",
-    "Assets/Characters/PCs/Leo.stl"
+    "Assets/Sheet Backups"
   ]
 }
