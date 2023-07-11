@@ -20,316 +20,22 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "c6574239b0fed4a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Northbrook Family/Andri Northbrook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c064aa24b5208d20",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "065b59c5f02de42f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bed22e19a5a4f92",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d36382bfa927916e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Northbrook Family/Boreas Northbrook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e972f4dd448d5b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party/Nilak 'Cloud' Northbrook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a34e7472cf873e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Bryn Shander.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e7835e89bb77e2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Easthaven.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95961a7dadc88797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Targos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15dd20d92ed31d7f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9386330340f898ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Targos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dec017e6514e7f16",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5889ff4a794f7b1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/This is Your Life.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64b51c463f60bf01",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0bdcf6c2cecb4e28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Captain Skath.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af5a5657392d723a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "cb00e02273e67708",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Naerth Maxildanarr.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "028077152a4657d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Events/Death of Isolde.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4685b8f4ca80f12",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "43139b0f5651ff47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Bremen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db44e9d4a67595b2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "cc35c1eb403562a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Northbrook Family/Andri Northbrook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62e31cc7adb1d3b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Northbrook Family/Isolde Northbrook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 15
+        ]
       },
       {
-        "id": "a94983306cfacf77",
+        "id": "5df05b2de14888ef",
         "type": "tabs",
         "children": [
           {
-            "id": "fcb5514f52c353b8",
+            "id": "d0fae3da81b59a9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6998f50aa828161e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/This is Your Life.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccc566c8d9ccd72a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Characters/PCs/Leonin.webp"
-              }
-            }
-          },
-          {
-            "id": "564e889ecc461bce",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Characters/PCs/LeoninToken.webp"
-              }
-            }
-          },
-          {
-            "id": "20b9856224f65913",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Northbrook Family/Olwen Northbrook.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -395,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Captain Skath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -412,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Captain Skath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -434,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NPCs/Captain Skath.md"
-              }
+              "state": {}
             }
           },
           {
@@ -465,20 +167,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0bdcf6c2cecb4e28",
+  "active": "425479cc273d7764",
   "lastOpenFiles": [
-    "Events/Murders.md",
-    "Session Notes/This is Your Life.md",
-    "NPCs/Captain Skath.md",
-    "Locations/Ten Towns/Targos.md",
-    "NPCs/Torrga Icevein.md",
-    "Locations/Ten Towns/Termalaine.md",
+    "PCs",
+    "Party/Nilak 'Cloud' Northbrook.md",
+    "NPCs/Northbrook Family/Andri Northbrook.md",
+    "Game Information.md",
+    "NPCs/Northbrook Family/Boreas Northbrook.md",
     "Locations/Ten Towns/Bryn Shander.md",
     "Locations/Ten Towns/Easthaven.md",
+    "Locations/Ten Towns/Targos.md",
+    "Session Notes/This is Your Life.md",
+    "NPCs/Captain Skath.md",
+    "Assets/Characters/PCs/Leonin.webp",
+    "NPCs/Northbrook Family/Olwen Northbrook.md",
+    "Assets/Characters/PCs/LeoninToken.webp",
+    "Events/Murders.md",
+    "NPCs/Torrga Icevein.md",
+    "Locations/Ten Towns/Termalaine.md",
     "Locations/Shipwreck.md",
     "Events/Death of Isolde.md",
     "NPCs/Naerth Maxildanarr.md",
-    "Party/Nilak 'Cloud' Northbrook.md",
     "Events/Sacrifices.md",
     "Locations/Ten Towns/Bremen.md",
     "Events",
@@ -487,12 +196,6 @@
     "Assets/Characters/Untitled.md",
     "Assets/Characters/NPCs/CaptainSkath.png",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
-    "NPCs/Northbrook Family/Boreas Northbrook.md",
-    "NPCs/Northbrook Family/Andri Northbrook.md",
-    "Game Information.md",
-    "Assets/Characters/PCs/Leonin.webp",
-    "Assets/Characters/PCs/LeoninToken.webp",
-    "NPCs/Northbrook Family/Olwen Northbrook.md",
     "NPCs/Northbrook Family/Talvi Northbrook.md",
     "New Text Document.txt",
     "Locations/Ten Towns",
