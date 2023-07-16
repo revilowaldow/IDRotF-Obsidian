@@ -1,4 +1,4 @@
-NG Female Hill Dwarf (53)
+![[Talvi.webp]]NG Female Hill Dwarf (53)
 
 Family:
 - Parents:

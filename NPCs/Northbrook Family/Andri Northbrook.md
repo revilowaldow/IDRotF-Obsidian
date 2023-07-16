@@ -1,4 +1,4 @@
-N Male Hill Dwarf (27)
+![[Andri.webp]]N Male Hill Dwarf (27)
 
 Family:
 - Parents:

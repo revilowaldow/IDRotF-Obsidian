@@ -238,7 +238,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       },
       {
         "id": "5df05b2de14888ef",
@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Northbrook Family/Olwen Northbrook.md",
+                "file": "NPCs/Northbrook Family/Talvi Northbrook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Northbrook Family/Olwen Northbrook.md",
+                "file": "NPCs/Northbrook Family/Talvi Northbrook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Northbrook Family/Olwen Northbrook.md"
+                "file": "NPCs/Northbrook Family/Talvi Northbrook.md"
               }
             }
           },
@@ -405,13 +405,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "425479cc273d7764",
+  "active": "25ae93f453f31bac",
   "lastOpenFiles": [
+    "NPCs/Northbrook Family/Isolde Northbrook.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
     "NPCs/Northbrook Family/Andri Northbrook.md",
-    "NPCs/Northbrook Family/Talvi Northbrook.md",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
-    "NPCs/Northbrook Family/Isolde Northbrook.md",
+    "Assets/Characters/NPCs/Talvi.webp",
+    "Assets/Characters/NPCs/Andri.webp",
+    "Assets/Characters/NPCs/Olwen1.webp",
+    "Assets/Characters/NPCs/Boreas.webp",
+    "Assets/Characters/NPCs/Olwen2.webp",
+    "Assets/Characters/NPCs/Isolde.webp",
+    "Assets/Characters/NPCs/TalviToken.webp",
+    "Assets/Characters/NPCs/OlwenToken.webp",
+    "Assets/Characters/NPCs/IsoldeToken.webp",
+    "Assets/Characters/NPCs/BoreasToken.webp",
+    "NPCs/Northbrook Family/Talvi Northbrook.md",
     "Session Notes/This is Your Life.md",
     "Party/Nilak 'Cloud' Northbrook.md",
     "NPCs/Captain Skath.md",
@@ -428,13 +438,10 @@
     "Events/Death of Isolde.md",
     "PCs",
     "Game Information.md",
-    "Assets/Characters/PCs/Leonin.webp",
-    "Assets/Characters/PCs/LeoninToken.webp",
     "Events",
     "Assets/Untitled.md",
     "Assets/Characters/NPCs",
     "Assets/Characters/Untitled.md",
-    "Assets/Characters/NPCs/CaptainSkath.png",
     "New Text Document.txt",
     "Locations/Ten Towns",
     "Session Notes",

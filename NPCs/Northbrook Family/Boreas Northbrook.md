@@ -1,4 +1,4 @@
-NG Male Hill Dwarf (99)
+![[Boreas.webp]]NG Male Hill Dwarf (99)
 
 Family:
 - Parents:

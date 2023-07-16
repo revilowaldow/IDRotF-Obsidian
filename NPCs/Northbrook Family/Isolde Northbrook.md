@@ -1,4 +1,4 @@
-Female Hill Dwarf (244)
+![[Isolde.webp]]Female Hill Dwarf (244)
 
 Deceased
 
