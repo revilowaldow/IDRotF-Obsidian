@@ -9,4 +9,4 @@ The transporter?
 
 Crime Syndicate 🤏
 
-Implicated in the [[Murders]]s due to location at time of occurence
+Implicated in the [[Murders]] due to location at time of occurrence
