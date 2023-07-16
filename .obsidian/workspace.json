@@ -335,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Northbrook Family/Talvi Northbrook.md",
+                "file": "Session Notes/This is Your Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Northbrook Family/Talvi Northbrook.md",
+                "file": "Session Notes/This is Your Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -375,7 +375,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Northbrook Family/Talvi Northbrook.md"
+                "file": "Session Notes/This is Your Life.md"
               }
             }
           },
@@ -388,7 +388,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -405,8 +405,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "25ae93f453f31bac",
+  "active": "27e756508d1b7cb5",
   "lastOpenFiles": [
+    "NPCs/Northbrook Family/Talvi Northbrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
     "NPCs/Northbrook Family/Andri Northbrook.md",
@@ -421,7 +422,6 @@
     "Assets/Characters/NPCs/OlwenToken.webp",
     "Assets/Characters/NPCs/IsoldeToken.webp",
     "Assets/Characters/NPCs/BoreasToken.webp",
-    "NPCs/Northbrook Family/Talvi Northbrook.md",
     "Session Notes/This is Your Life.md",
     "Party/Nilak 'Cloud' Northbrook.md",
     "NPCs/Captain Skath.md",
