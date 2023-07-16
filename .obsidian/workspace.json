@@ -226,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "5df05b2de14888ef",
@@ -323,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Northbrook Family/Andri Northbrook.md",
+                "file": "NPCs/Northbrook Family/Boreas Northbrook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Northbrook Family/Andri Northbrook.md",
+                "file": "NPCs/Northbrook Family/Boreas Northbrook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -363,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Northbrook Family/Andri Northbrook.md"
+                "file": "NPCs/Northbrook Family/Boreas Northbrook.md"
               }
             }
           },
@@ -393,11 +393,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a84ad6a65ecf8cf9",
+  "active": "0529274676a79e00",
   "lastOpenFiles": [
+    "NPCs/Northbrook Family/Andri Northbrook.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
     "NPCs/Northbrook Family/Talvi Northbrook.md",
-    "NPCs/Northbrook Family/Andri Northbrook.md",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "Session Notes/This is Your Life.md",
