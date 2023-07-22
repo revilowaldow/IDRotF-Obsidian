@@ -13,6 +13,8 @@ Black Iron Blades in [[Bryn Shander]]
 
 
 Haggard Firbolg appears
+Haggard Firbolg
 Blue grey skin
 Seven Foot
 Emaciated
+Lots of Blood

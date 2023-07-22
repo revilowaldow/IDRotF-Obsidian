@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "b7e61e1751f69a32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Party/Hameylyn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bc36781870ad9b61",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
+                "file": "Party/Hameylyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
+                "file": "Party/Hameylyn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md"
+                "file": "Party/Hameylyn.md"
               }
             }
           },
@@ -236,12 +248,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73a27670022de365",
+  "active": "b7e61e1751f69a32",
   "lastOpenFiles": [
-    "Events/Murders.md",
-    "Session Notes/2023/07 22 - Session 1.md",
-    "Party/Nasir.md",
     "Locations/Ten Towns/Bryn Shander.md",
+    "Party/Hameylyn.md",
+    "Session Notes/2023/07 22 - Session 1.md",
+    "Events/Murders.md",
+    "Party/Nasir.md",
     "Locations/Ten Towns/Bremen.md",
     "Party/Turin.md",
     "Party/Nilak 'Cloud' Northbrook.md",

@@ -4,4 +4,6 @@ Doing [[Sacrifices]]
 
 Northbrook Inn
 	Ol'Bitey the talking Knucklehead Trout
+	Bartender - [[Scramsacks]] - History with [[Nasir]]
+
 
