@@ -35,3 +35,6 @@ Refuses to Elaborate
 
 
 
+Did some shopping
+
+[[Danika Greyteel]]
