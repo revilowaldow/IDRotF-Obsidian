@@ -302,9 +302,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e700542547e24a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Lonelywood.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -370,7 +382,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Frost Druids.md",
+                "file": "Locations/Ten Towns/Lonelywood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -387,7 +399,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Frost Druids.md",
+                "file": "Locations/Ten Towns/Lonelywood.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -410,7 +422,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Frost Druids.md"
+                "file": "Locations/Ten Towns/Lonelywood.md"
               }
             }
           },
@@ -440,16 +452,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea8d37d76493737a",
+  "active": "e700542547e24a9e",
   "lastOpenFiles": [
-    "Events/Murders.md",
+    "Locations/Ten Towns/Bremen.md",
+    "Locations/Ten Towns/Lonelywood.md",
     "NPCs/Frost Druids.md",
+    "Events/Murders.md",
     "NPCs/Naerth Maxildanarr.md",
     "Locations/Ten Towns/Targos/The Luskan Arms.md",
     "Session Notes/2023/07 22 - Session 1.md",
     "NPCs/Torrga Icevein.md",
     "Locations/Ten Towns/Targos/Targos.md",
-    "Locations/Ten Towns/Untitled.md",
     "Locations/Ten Towns/Targos",
     "Deity/Auril.md",
     "Assets/Maps/Targos.png",
@@ -469,7 +482,6 @@
     "Party/Nasir.md",
     "Events/Sacrifices.md",
     "Party/Hameylyn.md",
-    "Locations/Ten Towns/Bremen.md",
     "Deity",
     "Session Notes/2023",
     "NPCs/Northbrook Family/Talvi Northbrook.md",
