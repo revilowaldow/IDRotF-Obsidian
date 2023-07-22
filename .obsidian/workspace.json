@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "20ca32b1f09087de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deity/Auril.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b7e61e1751f69a32",
             "type": "leaf",
             "state": {
@@ -112,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
+                "file": "Party/Hameylyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
+                "file": "Party/Hameylyn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md"
+                "file": "Party/Hameylyn.md"
               }
             }
           },
@@ -248,10 +260,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73a27670022de365",
+  "active": "b7e61e1751f69a32",
   "lastOpenFiles": [
-    "Party/Hameylyn.md",
+    "Deity/Auril.md",
     "Session Notes/2023/07 22 - Session 1.md",
+    "Deity",
+    "Party/Hameylyn.md",
     "Locations/Ten Towns/Bryn Shander.md",
     "Events/Murders.md",
     "Party/Nasir.md",
@@ -289,12 +303,10 @@
     "Events",
     "Assets/Untitled.md",
     "Assets/Characters/NPCs",
-    "Assets/Characters/Untitled.md",
     "New Text Document.txt",
     "Locations/Ten Towns",
     "Session Notes",
     "NPCs/Northbrook Family",
-    "NPCs",
-    "clean.bat"
+    "NPCs"
   ]
 }
