@@ -52,6 +52,30 @@
             }
           },
           {
+            "id": "5f39ab498b525a22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Torrga Icevein.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12289b1baa2fcdf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "20bfc328974eef79",
             "type": "leaf",
             "state": {
@@ -69,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ten Towns/Targos.md",
+                "file": "Locations/Ten Towns/Targos/Targos.md",
                 "mode": "source",
                 "source": false
               }
@@ -256,7 +280,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -322,7 +346,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
+                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +363,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
+                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,7 +386,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md"
+                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md"
               }
             }
           },
@@ -375,7 +399,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -392,14 +416,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d42305bf3c9286f",
+  "active": "12289b1baa2fcdf0",
   "lastOpenFiles": [
     "Session Notes/2023/07 22 - Session 1.md",
+    "NPCs/Torrga Icevein.md",
+    "Locations/Ten Towns/Targos/The Luskan Arms.md",
+    "Locations/Ten Towns/Targos/Targos.md",
+    "Locations/Ten Towns/Untitled.md",
+    "Locations/Ten Towns/Targos",
     "Deity/Auril.md",
     "Assets/Maps/Targos.png",
     "Assets/Maps",
     "NPCs/Captain Skath.md",
-    "Locations/Ten Towns/Targos.md",
     "Events/Murders.md",
     "Party/Tando.md",
     "Session Notes/This is Your Life.md",
@@ -422,7 +450,6 @@
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
     "NPCs/Northbrook Family/Andri Northbrook.md",
-    "NPCs/Northbrook Family/Olwen Northbrook.md",
     "Assets/Characters/NPCs/Talvi.webp",
     "Assets/Characters/NPCs/Andri.webp",
     "Assets/Characters/NPCs/Olwen1.webp",
@@ -432,12 +459,10 @@
     "Assets/Characters/NPCs/TalviToken.webp",
     "Assets/Characters/NPCs/OlwenToken.webp",
     "Assets/Characters/NPCs/IsoldeToken.webp",
-    "NPCs/Torrga Icevein.md",
     "PCs",
     "Events",
     "Assets/Characters/NPCs",
     "New Text Document.txt",
-    "Locations/Ten Towns",
-    "Session Notes"
+    "Locations/Ten Towns"
   ]
 }

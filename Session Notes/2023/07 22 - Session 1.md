@@ -72,12 +72,10 @@ Gaslit Receptionist into lettign them see [[Captain Skath]]
 Skath admitted to taking bribes - 10gp to be removed from lottery
 
 [[The Luskan Arms]]
-	Oldest Pub in Ten Towns
-	Sturdy and Old
-	Well Kept
-	Draft from Cellar, Rats, Rotten Floorboards
 
-Inkeep is a bit depressed, Inn is 
+[[Triglio]] - Shopping?
+
+
 
 
 
