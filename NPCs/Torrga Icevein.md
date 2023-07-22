@@ -20,3 +20,5 @@ Caravan in heading to [[Bremen]] next
 
 Currently outside the [[Buried Treasure Inn]]
 
+Red headed dwarf
+
