@@ -9,3 +9,8 @@
 - [[Akiko]] allegedly bribed [[Captain Skath]]to be kept out of [[Sacrifices]] Lottery
 
 
+Halfling trapper in Easthaven
+
+
+
+Dwarf Glassblower in Targas

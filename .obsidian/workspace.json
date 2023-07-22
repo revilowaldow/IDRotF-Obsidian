@@ -38,9 +38,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc36781870ad9b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Murders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "292457e50f9c2399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Bryn Shander.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
+                "file": "Locations/Ten Towns/Bryn Shander.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
+                "file": "Locations/Ten Towns/Bryn Shander.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md"
+                "file": "Locations/Ten Towns/Bryn Shander.md"
               }
             }
           },
@@ -176,8 +200,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73a27670022de365",
+  "active": "292457e50f9c2399",
   "lastOpenFiles": [
+    "Events/Murders.md",
     "Session Notes/2023/07 22 - Session 1.md",
     "Party/Nilak 'Cloud' Northbrook.md",
     "Session Notes/This is Your Life.md",
@@ -207,7 +232,6 @@
     "Locations/Ten Towns/Bryn Shander.md",
     "Locations/Ten Towns/Bremen.md",
     "Events/Sacrifices.md",
-    "Events/Murders.md",
     "Events/Death of Isolde.md",
     "PCs",
     "Game Information.md",
