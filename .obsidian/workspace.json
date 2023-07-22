@@ -148,6 +148,18 @@
             }
           },
           {
+            "id": "947af393dd8ff707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/This is Your Life.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bc2f0af601f470c0",
             "type": "leaf",
             "state": {
@@ -334,9 +346,11 @@
   },
   "active": "73a27670022de365",
   "lastOpenFiles": [
-    "Locations/Ten Towns/Caer-Dineval.md",
-    "Session Notes/2023/07 22 - Session 1.md",
+    "Session Notes/This is Your Life.md",
     "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
+    "Party/Nilak 'Cloud' Northbrook.md",
+    "Session Notes/2023/07 22 - Session 1.md",
+    "Locations/Ten Towns/Caer-Dineval.md",
     "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
     "Deity/Amaunator.md",
     "Locations/Ten Towns/Bryn Shander/The Northlook.md",
@@ -345,13 +359,11 @@
     "Locations/Ten Towns/Bryn Shander",
     "Party/Nasir.md",
     "Events/Sacrifices.md",
-    "Party/Nilak 'Cloud' Northbrook.md",
     "Party/Hameylyn.md",
     "Events/Murders.md",
     "Locations/Ten Towns/Bremen.md",
     "Deity/Auril.md",
     "Deity",
-    "Session Notes/This is Your Life.md",
     "Session Notes/2023",
     "NPCs/Northbrook Family/Talvi Northbrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
