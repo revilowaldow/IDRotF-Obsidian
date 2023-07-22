@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "1a33de08844b7c46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Party/Tando.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ee428f19fcc0a713",
             "type": "leaf",
             "state": {
@@ -220,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -286,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Targos.md",
+                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Targos.md",
+                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Targos.md"
+                "file": "Session Notes/2023/07 22 - Session 1.md"
               }
             }
           },
@@ -356,8 +368,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ed57bdb729fe644",
+  "active": "73a27670022de365",
   "lastOpenFiles": [
+    "Party/Tando.md",
+    "Locations/Ten Towns/Targos.md",
     "Pasted image 20230722130719.png",
     "Session Notes/2023/07 22 - Session 1.md",
     "Session Notes/This is Your Life.md",
@@ -392,11 +406,9 @@
     "Assets/Characters/NPCs/TalviToken.webp",
     "Assets/Characters/NPCs/OlwenToken.webp",
     "Assets/Characters/NPCs/IsoldeToken.webp",
-    "Assets/Characters/NPCs/BoreasToken.webp",
     "NPCs/Captain Skath.md",
     "NPCs/Torrga Icevein.md",
     "NPCs/Naerth Maxildanarr.md",
-    "Locations/Shipwreck.md",
     "PCs",
     "Events",
     "Assets/Characters/NPCs",
