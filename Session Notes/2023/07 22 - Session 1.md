@@ -77,6 +77,7 @@ Skath admitted to taking bribes - 10gp to be removed from lottery
 	Well Kept
 	Draft from Cellar, Rats, Rotten Floorboards
 
+Inkeep is a bit depressed, Inn is 
 
 
 
