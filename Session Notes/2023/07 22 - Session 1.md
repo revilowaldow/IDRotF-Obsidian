@@ -37,4 +37,14 @@ Refuses to Elaborate
 
 Did some shopping
 
-[[Danika Greyteel]]
+[[Danika Greysteel]]
+	Chwingas - Fey Spirits
+	Like stealing cutlery
+	Had dinner parties with [[Hameylyn]]
+	Quest!! 
+	Persuade a Chwinga to visit her
+	25gp reward
+	Lantern, flame turns green if close to elementals 
+
+Lantern of Tracking
+
