@@ -160,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/The Northlook.md",
+                "file": "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/The Northlook.md",
+                "file": "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/The Northlook.md"
+                "file": "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md"
               }
             }
           },
@@ -296,11 +296,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9aae8ef3c4ebe982",
+  "active": "2ef582f4b3cce213",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Bryn Shander/The Northlook.md",
     "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
     "Session Notes/2023/07 22 - Session 1.md",
-    "Locations/Ten Towns/Bryn Shander/The Northlook.md",
     "Party/Torinn.md",
     "Locations/Ten Towns/Bryn Shander.md",
     "Locations/Ten Towns/Bryn Shander",
