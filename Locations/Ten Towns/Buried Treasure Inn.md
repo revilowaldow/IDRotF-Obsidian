@@ -7,3 +7,5 @@ Hand is missing two fingers
 Painting Behind the Counter
 	Picture shows line of dwarves panning for gold
 
+6 Rooms upstairs 
+

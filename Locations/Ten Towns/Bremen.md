@@ -5,7 +5,7 @@
 
 ### Population Size:
 
-### Sacrifice:
+### Sacrifice: Warmth Once a Month
 
 Apparently a Lake Monster 
 
@@ -20,4 +20,8 @@ Only accessible by crossing the frozen rivver
 Island building is uninhabited
 
 [[Buried Treasure Inn]] Owned by [[Olwen Northbrook]]
+
+
+Town Speaker getting senile
+	Needs search parties when they wander off
 
