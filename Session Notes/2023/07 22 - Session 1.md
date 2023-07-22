@@ -25,8 +25,8 @@ Lots of dried Blood
 Dwarf woman sits down at table:
 	Used to be an adventurer
 [[Turin]] used to be part of the militia
-
-
+[[Hillin Trollbane]] - Staying in Bryn Shander
+ 100gp payment if killer is identified an apprehended (without alerting the authorities)
 
 
 

@@ -9,11 +9,11 @@
 - [[Akiko]] allegedly bribed [[Captain Skath]]to be kept out of [[Sacrifices]] Lottery
 
 
-Halfling trapper in Easthaven
+Halfling trapper in [[Easthaven]]
 
+ [[Bryn Shander]]
 
-
-Dwarf Glassblower in Targas
+Dwarf Glassblower in [[Targos]]
 
 Everyone stabbed 
 
