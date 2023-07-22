@@ -66,3 +66,5 @@ Argument between [[Captain Skath]] and snow leopard
 One of the people on Torg's caravan was also on the ship with [[Tando]]
 	Now has glowing blue eyes and no cold weather gear
 
+
+
