@@ -84,6 +84,14 @@ Triglio lads bring fish aboard
 
 
 
+Travelling to [[Bremen]]
+Beating of giant wings overhead:
+> "Don't worry master, we'll be back to the cave shortly"
+ 
+Humanoid figure approaching from the left
+
+
+
 
 
 
