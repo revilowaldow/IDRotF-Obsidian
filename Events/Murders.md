@@ -16,3 +16,10 @@ Halfling trapper in Easthaven
 Dwarf Glassblower in Targas
 
 Everyone stabbed 
+
+[[Torrga Icevein]] caravan was in town when the murders happened
+	Those towns are the ones that conduct human [[Sacrifices]] 
+[[Torg's Caravan]]
+
+Torga is a dwarf but accompanied by Human muscle
+

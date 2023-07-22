@@ -22,3 +22,11 @@ Lots of dried Blood
 1489 DR
 
 
+Dwarf woman sits down at table:
+	Used to be an adventurer
+[[Turin]] used to be part of the militia
+
+
+
+
+

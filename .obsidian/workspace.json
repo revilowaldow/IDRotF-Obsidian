@@ -124,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Hameylyn.md",
+                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Hameylyn.md",
+                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Hameylyn.md"
+                "file": "Session Notes/2023/07 22 - Session 1.md"
               }
             }
           },
@@ -260,17 +260,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b7e61e1751f69a32",
+  "active": "73a27670022de365",
   "lastOpenFiles": [
-    "Deity/Auril.md",
-    "Session Notes/2023/07 22 - Session 1.md",
-    "Deity",
-    "Party/Hameylyn.md",
-    "Locations/Ten Towns/Bryn Shander.md",
+    "Party/Turin.md",
     "Events/Murders.md",
+    "Session Notes/2023/07 22 - Session 1.md",
+    "Party/Hameylyn.md",
+    "Deity/Auril.md",
+    "Deity",
+    "Locations/Ten Towns/Bryn Shander.md",
     "Party/Nasir.md",
     "Locations/Ten Towns/Bremen.md",
-    "Party/Turin.md",
     "Party/Nilak 'Cloud' Northbrook.md",
     "Session Notes/This is Your Life.md",
     "Session Notes/2023",
