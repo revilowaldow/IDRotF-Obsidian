@@ -6,3 +6,9 @@ Doing [[Sacrifices]]
 
 [[Murders]] occurred here
 
+Circled by a wooden wall including harbor
+
+Harbor iced in
+
+Largest Fishing Fleet
+
