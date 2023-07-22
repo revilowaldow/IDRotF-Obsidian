@@ -7,4 +7,5 @@ Sacrifices of people:
 
 Lottery is Run to select who should be the sacrifice 
 
-Registered Citizens are 
+Registered Citizens are entered into the lottery
+

@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Sacrifices.md",
+                "file": "Party/Turin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Sacrifices.md",
+                "file": "Party/Turin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Sacrifices.md"
+                "file": "Party/Turin.md"
               }
             }
           },
@@ -272,11 +272,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "efd3fe325332ea71",
+  "active": "9a6a7f1d5721e42b",
   "lastOpenFiles": [
+    "Party/Nasir.md",
+    "Events/Sacrifices.md",
     "Session Notes/2023/07 22 - Session 1.md",
     "Party/Turin.md",
-    "Party/Nasir.md",
     "Party/Nilak 'Cloud' Northbrook.md",
     "Party/Hameylyn.md",
     "Events/Murders.md",
@@ -308,7 +309,6 @@
     "Locations/Ten Towns/Termalaine.md",
     "Locations/Ten Towns/Targos.md",
     "Locations/Ten Towns/Easthaven.md",
-    "Events/Sacrifices.md",
     "Events/Death of Isolde.md",
     "PCs",
     "Game Information.md",
