@@ -62,6 +62,42 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a6a7f1d5721e42b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Party/Turin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "650a0268a8dabf99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Party/Nasir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9489b09c14e7603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Bremen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -202,6 +238,10 @@
   },
   "active": "292457e50f9c2399",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Bremen.md",
+    "Party/Nasir.md",
+    "Party/Turin.md",
+    "Locations/Ten Towns/Bryn Shander.md",
     "Events/Murders.md",
     "Session Notes/2023/07 22 - Session 1.md",
     "Party/Nilak 'Cloud' Northbrook.md",
@@ -229,8 +269,6 @@
     "Locations/Ten Towns/Termalaine.md",
     "Locations/Ten Towns/Targos.md",
     "Locations/Ten Towns/Easthaven.md",
-    "Locations/Ten Towns/Bryn Shander.md",
-    "Locations/Ten Towns/Bremen.md",
     "Events/Sacrifices.md",
     "Events/Death of Isolde.md",
     "PCs",
