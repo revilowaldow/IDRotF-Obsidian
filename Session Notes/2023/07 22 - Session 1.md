@@ -75,6 +75,13 @@ Skath admitted to taking bribes - 10gp to be removed from lottery
 
 [[Triglio]] - Shopping?
 
+Dressed in Fisherman's Clothes
+Scrawny looks like a scarecrow
+Mangled Left hand (crushed)
+
+Trigilo lads hoist upon the line
+Triglio lads bring fish aboard
+
 
 
 

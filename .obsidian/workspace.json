@@ -316,7 +316,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -382,7 +382,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Lonelywood.md",
+                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -399,7 +399,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Lonelywood.md",
+                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -422,7 +422,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Lonelywood.md"
+                "file": "Session Notes/2023/07 22 - Session 1.md"
               }
             }
           },
@@ -452,10 +452,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e700542547e24a9e",
+  "active": "1d42305bf3c9286f",
   "lastOpenFiles": [
-    "Locations/Ten Towns/Bremen.md",
     "Locations/Ten Towns/Lonelywood.md",
+    "Locations/Ten Towns/Bremen.md",
     "NPCs/Frost Druids.md",
     "Events/Murders.md",
     "NPCs/Naerth Maxildanarr.md",
