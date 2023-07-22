@@ -54,4 +54,7 @@ Glow in the dark antlers
 Herds of mammoth
 
 
-Met [[Tando]] in the [[Three Flags Sailing]
+Met [[Tando]] in the [[Three Flags Sailing]]
+
+Interested in the murders
+

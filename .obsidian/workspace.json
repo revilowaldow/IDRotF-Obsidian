@@ -232,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -298,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
+                "file": "Events/Murders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
+                "file": "Events/Murders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md"
+                "file": "Events/Murders.md"
               }
             }
           },
@@ -368,12 +368,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73a27670022de365",
+  "active": "bc36781870ad9b61",
   "lastOpenFiles": [
     "Party/Tando.md",
+    "Session Notes/2023/07 22 - Session 1.md",
     "Locations/Ten Towns/Targos.md",
     "Pasted image 20230722130719.png",
-    "Session Notes/2023/07 22 - Session 1.md",
     "Session Notes/This is Your Life.md",
     "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
     "Party/Nilak 'Cloud' Northbrook.md",

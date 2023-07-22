@@ -23,3 +23,13 @@ Everyone stabbed
 
 Torga is a dwarf but accompanied by Human muscle
 
+On a Journey, Looking for some Wizards
+
+School to the North
+
+Caught a lift with a magic user on her boat
+
+Ship didn't make it, able to pull his way out and make his way to the local town
+
+
+

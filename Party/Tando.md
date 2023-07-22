@@ -15,3 +15,11 @@ Carries limited gear
 
 two ice picks
 
+Traveller
+
+Arrived in [[Targos]] two weeks ago
+
+Needs some cash to get more gear due to hiccup
+
+
+
