@@ -328,6 +328,14 @@
             }
           },
           {
+            "id": "6baf3b448a261b90",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "e700542547e24a9e",
             "type": "leaf",
             "state": {
@@ -340,7 +348,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -390,7 +398,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 500.5
   },
   "right": {
     "id": "e2fde1fbd4583364",
@@ -406,7 +414,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Sephek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -423,7 +430,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Sephek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -445,9 +451,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NPCs/Sephek.md"
-              }
+              "state": {}
             }
           },
           {
@@ -459,12 +463,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 407.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -477,10 +480,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "168717855f7177b7",
+  "active": "6baf3b448a261b90",
   "lastOpenFiles": [
-    "Locations/Ten Towns/Buried Treasure Inn.md",
     "NPCs/Sephek.md",
+    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
+    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
+    "Locations/Ten Towns/Buried Treasure Inn.md",
     "Session Notes/2023/07 22 - Session 1.md",
     "Locations/Ten Towns/Bremen.md",
     "NPCs/Torrga Icevein.md",
@@ -508,7 +513,6 @@
     "Locations/Ten Towns/Bryn Shander",
     "Party/Nasir.md",
     "Events/Sacrifices.md",
-    "Party/Hameylyn.md",
     "Deity",
     "Session Notes/2023",
     "Assets/Characters/NPCs/Talvi.webp",
@@ -522,8 +526,6 @@
     "Assets/Characters/NPCs/IsoldeToken.webp",
     "PCs",
     "Events",
-    "Assets/Characters/NPCs",
-    "New Text Document.txt",
-    "Locations/Ten Towns"
+    "Assets/Characters/NPCs"
   ]
 }
