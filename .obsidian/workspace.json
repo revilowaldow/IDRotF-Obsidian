@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "efd3fe325332ea71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Sacrifices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "20ca32b1f09087de",
             "type": "leaf",
             "state": {
@@ -124,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
+                "file": "Events/Sacrifices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
+                "file": "Events/Sacrifices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md"
+                "file": "Events/Sacrifices.md"
               }
             }
           },
@@ -260,18 +272,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73a27670022de365",
+  "active": "efd3fe325332ea71",
   "lastOpenFiles": [
-    "Events/Murders.md",
-    "Locations/Ten Towns/Bremen.md",
     "Session Notes/2023/07 22 - Session 1.md",
     "Party/Turin.md",
+    "Party/Nasir.md",
+    "Party/Nilak 'Cloud' Northbrook.md",
     "Party/Hameylyn.md",
+    "Events/Murders.md",
+    "Locations/Ten Towns/Bremen.md",
     "Deity/Auril.md",
     "Deity",
     "Locations/Ten Towns/Bryn Shander.md",
-    "Party/Nasir.md",
-    "Party/Nilak 'Cloud' Northbrook.md",
     "Session Notes/This is Your Life.md",
     "Session Notes/2023",
     "NPCs/Northbrook Family/Talvi Northbrook.md",

@@ -5,3 +5,6 @@ Sacrifices of people:
 - [[Bryn Shander]]
 - [[Easthaven]]
 
+Lottery is Run to select who should be the sacrifice 
+
+Registered Citizens are 
