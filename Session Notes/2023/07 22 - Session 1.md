@@ -12,9 +12,13 @@ Black Iron Blades in [[Bryn Shander]]
 
 
 
-Haggard Firbolg appears
+Haggard Firbolg appears - [[Hameylyn]]
 Haggard Firbolg
 Blue grey skin
 Seven Foot
 Emaciated
-Lots of Blood
+Lots of dried Blood
+
+1489 DR
+
+

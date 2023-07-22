@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Hameylyn.md",
+                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Hameylyn.md",
+                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Hameylyn.md"
+                "file": "Session Notes/2023/07 22 - Session 1.md"
               }
             }
           },
@@ -248,11 +248,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b7e61e1751f69a32",
+  "active": "73a27670022de365",
   "lastOpenFiles": [
-    "Locations/Ten Towns/Bryn Shander.md",
     "Party/Hameylyn.md",
     "Session Notes/2023/07 22 - Session 1.md",
+    "Locations/Ten Towns/Bryn Shander.md",
     "Events/Murders.md",
     "Party/Nasir.md",
     "Locations/Ten Towns/Bremen.md",
