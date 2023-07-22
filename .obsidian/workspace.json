@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "ee428f19fcc0a713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Caer-Dineval.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9aae8ef3c4ebe982",
             "type": "leaf",
             "state": {
@@ -322,10 +334,11 @@
   },
   "active": "73a27670022de365",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Caer-Dineval.md",
+    "Session Notes/2023/07 22 - Session 1.md",
     "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
     "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
     "Deity/Amaunator.md",
-    "Session Notes/2023/07 22 - Session 1.md",
     "Locations/Ten Towns/Bryn Shander/The Northlook.md",
     "Party/Torinn.md",
     "Locations/Ten Towns/Bryn Shander.md",
@@ -360,7 +373,6 @@
     "NPCs/Naerth Maxildanarr.md",
     "Locations/Shipwreck.md",
     "Locations/Ten Towns/Termalaine.md",
-    "Locations/Ten Towns/Targos.md",
     "PCs",
     "Events",
     "Assets/Characters/NPCs",
