@@ -61,4 +61,8 @@ Interested in the murders
 [[Tando]] saw a snow leopard arguing with [[Naerth Maxildanarr]]
 
 Argument between [[Captain Skath]] and snow leopard 
+	Argument mentioned [[Torg's Caravan]]
+
+One of the people on Torg's caravan was also on the ship with [[Tando]]
+	Now has glowing blue eyes and no cold weather gear
 
