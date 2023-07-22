@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/The Northlook Inn.md",
+                "file": "Locations/Ten Towns/Bryn Shander/The Northlook.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/Black Iron Blades.md",
+                "file": "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
+                "file": "Locations/Ten Towns/Bryn Shander/The Northlook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
+                "file": "Locations/Ten Towns/Bryn Shander/The Northlook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md"
+                "file": "Locations/Ten Towns/Bryn Shander/The Northlook.md"
               }
             }
           },
@@ -296,12 +296,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73a27670022de365",
+  "active": "9aae8ef3c4ebe982",
   "lastOpenFiles": [
-    "Locations/Ten Towns/Bryn Shander/The Northlook Inn.md",
+    "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
     "Session Notes/2023/07 22 - Session 1.md",
+    "Locations/Ten Towns/Bryn Shander/The Northlook.md",
     "Party/Torinn.md",
-    "Locations/Ten Towns/Bryn Shander/Black Iron Blades.md",
     "Locations/Ten Towns/Bryn Shander.md",
     "Locations/Ten Towns/Bryn Shander",
     "Party/Nasir.md",

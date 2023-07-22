@@ -1,4 +1,4 @@
-Start in the [[The Northlook Inn]] in Bryn Shander
+Start in the [[The Northlook]] in Bryn Shander
 
 [[Nasir]] performing on the Lute
 
