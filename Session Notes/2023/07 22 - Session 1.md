@@ -69,4 +69,8 @@ One of the people on Torg's caravan was also on the ship with [[Tando]]
 Gaslit Receptionist into lettign them see [[Captain Skath]]
 
 
+Skath admitted to having 
+
+
+
 
