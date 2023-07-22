@@ -1,8 +1,8 @@
-Start in the [[Northbrook Inn]] in Bryn Shander
+Start in the [[The Northlook Inn]] in Bryn Shander
 
 [[Nasir]] performing on the Lute
 
-[[Turin]] watching
+[[Torinn]] watching
 
 Lake Monster terrorising [[Bremen]]
 
@@ -24,9 +24,14 @@ Lots of dried Blood
 
 Dwarf woman sits down at table:
 	Used to be an adventurer
-[[Turin]] used to be part of the militia
+[[Torinn]] used to be part of the militia
 [[Hillin Trollbane]] - Staying in Bryn Shander
  100gp payment if killer is identified an apprehended (without alerting the authorities)
+
+
+Runs in
+Eats Quiche and Pint
+Refuses to Elaborate
 
 
 
