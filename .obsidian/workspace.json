@@ -76,6 +76,18 @@
             }
           },
           {
+            "id": "41edaa948a3c4867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Naerth Maxildanarr.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "20bfc328974eef79",
             "type": "leaf",
             "state": {
@@ -280,7 +292,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -346,7 +358,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md",
+                "file": "NPCs/Naerth Maxildanarr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -363,7 +375,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md",
+                "file": "NPCs/Naerth Maxildanarr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -386,7 +398,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md"
+                "file": "NPCs/Naerth Maxildanarr.md"
               }
             }
           },
@@ -416,11 +428,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "12289b1baa2fcdf0",
+  "active": "41edaa948a3c4867",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Targos/The Luskan Arms.md",
     "Session Notes/2023/07 22 - Session 1.md",
     "NPCs/Torrga Icevein.md",
-    "Locations/Ten Towns/Targos/The Luskan Arms.md",
     "Locations/Ten Towns/Targos/Targos.md",
     "Locations/Ten Towns/Untitled.md",
     "Locations/Ten Towns/Targos",
