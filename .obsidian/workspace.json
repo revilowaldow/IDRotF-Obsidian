@@ -100,6 +100,18 @@
             }
           },
           {
+            "id": "2ef582f4b3cce213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Bryn Shander/Black Iron Blades.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9a6a7f1d5721e42b",
             "type": "leaf",
             "state": {
@@ -202,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Turin.md",
+                "file": "Locations/Ten Towns/Bryn Shander/Black Iron Blades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Turin.md",
+                "file": "Locations/Ten Towns/Bryn Shander/Black Iron Blades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Turin.md"
+                "file": "Locations/Ten Towns/Bryn Shander/Black Iron Blades.md"
               }
             }
           },
@@ -272,19 +284,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a6a7f1d5721e42b",
+  "active": "2ef582f4b3cce213",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Bryn Shander.md",
+    "Locations/Ten Towns/Bryn Shander/Black Iron Blades.md",
+    "Party/Turin.md",
+    "Locations/Ten Towns/Bryn Shander",
     "Party/Nasir.md",
     "Events/Sacrifices.md",
     "Session Notes/2023/07 22 - Session 1.md",
-    "Party/Turin.md",
     "Party/Nilak 'Cloud' Northbrook.md",
     "Party/Hameylyn.md",
     "Events/Murders.md",
     "Locations/Ten Towns/Bremen.md",
     "Deity/Auril.md",
     "Deity",
-    "Locations/Ten Towns/Bryn Shander.md",
     "Session Notes/This is Your Life.md",
     "Session Notes/2023",
     "NPCs/Northbrook Family/Talvi Northbrook.md",
@@ -313,12 +327,10 @@
     "PCs",
     "Game Information.md",
     "Events",
-    "Assets/Untitled.md",
     "Assets/Characters/NPCs",
     "New Text Document.txt",
     "Locations/Ten Towns",
     "Session Notes",
-    "NPCs/Northbrook Family",
-    "NPCs"
+    "NPCs/Northbrook Family"
   ]
 }
