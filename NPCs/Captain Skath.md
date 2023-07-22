@@ -7,3 +7,5 @@ In charge of lottery for [[Sacrifices]]
 
 Takes bribes
 
+Tiefling
+
