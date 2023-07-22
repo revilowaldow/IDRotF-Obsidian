@@ -14,3 +14,5 @@ Halfling trapper in Easthaven
 
 
 Dwarf Glassblower in Targas
+
+Everyone stabbed 

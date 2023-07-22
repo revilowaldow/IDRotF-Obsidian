@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Bryn Shander.md",
+                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Bryn Shander.md",
+                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Bryn Shander.md"
+                "file": "Session Notes/2023/07 22 - Session 1.md"
               }
             }
           },
@@ -236,14 +236,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "292457e50f9c2399",
+  "active": "73a27670022de365",
   "lastOpenFiles": [
-    "Locations/Ten Towns/Bremen.md",
-    "Party/Nasir.md",
-    "Party/Turin.md",
-    "Locations/Ten Towns/Bryn Shander.md",
     "Events/Murders.md",
     "Session Notes/2023/07 22 - Session 1.md",
+    "Party/Nasir.md",
+    "Locations/Ten Towns/Bryn Shander.md",
+    "Locations/Ten Towns/Bremen.md",
+    "Party/Turin.md",
     "Party/Nilak 'Cloud' Northbrook.md",
     "Session Notes/This is Your Life.md",
     "Session Notes/2023",

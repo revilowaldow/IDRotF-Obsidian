@@ -12,3 +12,6 @@ Purple Wyvern
 Lute
 
 Hates Fish
+
+War Gong
+
