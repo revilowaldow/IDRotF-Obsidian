@@ -316,7 +316,7 @@
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -382,7 +382,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Bremen.md",
+                "file": "NPCs/Torrga Icevein.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -399,7 +399,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Bremen.md",
+                "file": "NPCs/Torrga Icevein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -422,7 +422,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Bremen.md"
+                "file": "NPCs/Torrga Icevein.md"
               }
             }
           },
@@ -452,13 +452,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b9489b09c14e7603",
+  "active": "5f39ab498b525a22",
   "lastOpenFiles": [
-    "Party/Nilak 'Cloud' Northbrook.md",
     "Events/Murders.md",
+    "Locations/Ten Towns/Bremen.md",
+    "Party/Nilak 'Cloud' Northbrook.md",
     "Session Notes/2023/07 22 - Session 1.md",
     "Locations/Ten Towns/Lonelywood.md",
-    "Locations/Ten Towns/Bremen.md",
     "NPCs/Frost Druids.md",
     "NPCs/Naerth Maxildanarr.md",
     "Locations/Ten Towns/Targos/The Luskan Arms.md",

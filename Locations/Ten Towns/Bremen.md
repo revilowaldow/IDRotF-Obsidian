@@ -19,3 +19,5 @@ Only accessible by crossing the frozen rivver
 
 Island building is uninhabited
 
+[[Buried Treasure Inn]] Owned by [[Olwen Northbrook]]
+

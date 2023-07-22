@@ -18,3 +18,5 @@ Caravan in heading to [[Bremen]] next
 
 [[Easthaven]] > [[Bryn Shander]] > [[Targos]] > [[Bremen]]
 
+Currently outside the [[Buried Treasure Inn]]
+
