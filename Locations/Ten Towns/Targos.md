@@ -23,6 +23,8 @@ Three Flags Sailing - Tavern
 The Luskan Arms - Inn
 
 Body f Dwarven Woman hanging from a noose in the center of the town square
+Drawn in the Lottery
+
 
 
 
