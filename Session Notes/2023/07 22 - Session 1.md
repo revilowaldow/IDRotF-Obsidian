@@ -27,6 +27,7 @@ Dwarf woman sits down at table:
 [[Torinn]] used to be part of the militia
 [[Hillin Trollbane]] - Staying in Bryn Shander
  100gp payment if killer is identified an apprehended (without alerting the authorities)
+ Gave party a map
 
 
 Runs in
@@ -47,4 +48,6 @@ Did some shopping
 	Lantern, flame turns green if close to elementals 
 
 Lantern of Tracking
+
+
 
