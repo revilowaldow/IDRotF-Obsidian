@@ -328,7 +328,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -394,7 +394,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Buried Treasure Inn.md",
+                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -411,7 +411,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Buried Treasure Inn.md",
+                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -434,7 +434,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Buried Treasure Inn.md"
+                "file": "Session Notes/2023/07 22 - Session 1.md"
               }
             }
           },
@@ -465,7 +465,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "819f435ecd6d0cf6",
+  "active": "1d42305bf3c9286f",
   "lastOpenFiles": [
     "NPCs/Torrga Icevein.md",
     "Buried Treasure Inn.md",

@@ -22,3 +22,5 @@ Currently outside the [[Buried Treasure Inn]]
 
 Red headed dwarf
 
+Axe
+
