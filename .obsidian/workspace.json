@@ -315,7 +315,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -381,7 +382,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Nilak 'Cloud' Northbrook.md",
+                "file": "Locations/Ten Towns/Bremen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -398,7 +399,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Nilak 'Cloud' Northbrook.md",
+                "file": "Locations/Ten Towns/Bremen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -421,7 +422,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Party/Nilak 'Cloud' Northbrook.md"
+                "file": "Locations/Ten Towns/Bremen.md"
               }
             }
           },
@@ -451,10 +452,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0fae3da81b59a9d",
+  "active": "b9489b09c14e7603",
   "lastOpenFiles": [
-    "Events/Murders.md",
     "Party/Nilak 'Cloud' Northbrook.md",
+    "Events/Murders.md",
     "Session Notes/2023/07 22 - Session 1.md",
     "Locations/Ten Towns/Lonelywood.md",
     "Locations/Ten Towns/Bremen.md",

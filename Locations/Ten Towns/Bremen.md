@@ -12,3 +12,10 @@ Apparently a Lake Monster
 Potentially awakened
 
 
+Primarily Dawrves
+Some fishing but need to drag boats
+
+Only accessible by crossing the frozen rivver
+
+Island building is uninhabited
+
