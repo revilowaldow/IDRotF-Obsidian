@@ -58,3 +58,7 @@ Met [[Tando]] in the [[Three Flags Sailing]]
 
 Interested in the murders
 
+[[Tando]] saw a snow leopard arguing with [[Naerth Maxildanarr]]
+
+Argument between [[Captain Skath]] and snow leopard 
+

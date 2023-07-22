@@ -232,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -298,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Murders.md",
+                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Murders.md",
+                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Murders.md"
+                "file": "Session Notes/2023/07 22 - Session 1.md"
               }
             }
           },
@@ -368,11 +368,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc36781870ad9b61",
+  "active": "73a27670022de365",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Targos.md",
+    "Events/Murders.md",
     "Party/Tando.md",
     "Session Notes/2023/07 22 - Session 1.md",
-    "Locations/Ten Towns/Targos.md",
     "Pasted image 20230722130719.png",
     "Session Notes/This is Your Life.md",
     "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
@@ -387,7 +388,6 @@
     "Party/Nasir.md",
     "Events/Sacrifices.md",
     "Party/Hameylyn.md",
-    "Events/Murders.md",
     "Locations/Ten Towns/Bremen.md",
     "Deity/Auril.md",
     "Deity",
