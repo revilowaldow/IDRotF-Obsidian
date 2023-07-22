@@ -244,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -310,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Captain Skath.md",
+                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Captain Skath.md",
+                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -350,7 +350,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Captain Skath.md"
+                "file": "Session Notes/2023/07 22 - Session 1.md"
               }
             }
           },
@@ -363,7 +363,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -380,14 +380,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20bfc328974eef79",
+  "active": "73a27670022de365",
   "lastOpenFiles": [
-    "Session Notes/2023/07 22 - Session 1.md",
+    "Deity/Auril.md",
+    "Assets/Maps/Targos.png",
+    "Assets/Maps",
     "NPCs/Captain Skath.md",
+    "Session Notes/2023/07 22 - Session 1.md",
     "Locations/Ten Towns/Targos.md",
     "Events/Murders.md",
     "Party/Tando.md",
-    "Pasted image 20230722130719.png",
     "Session Notes/This is Your Life.md",
     "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
     "Party/Nilak 'Cloud' Northbrook.md",
@@ -402,7 +404,6 @@
     "Events/Sacrifices.md",
     "Party/Hameylyn.md",
     "Locations/Ten Towns/Bremen.md",
-    "Deity/Auril.md",
     "Deity",
     "Session Notes/2023",
     "NPCs/Northbrook Family/Talvi Northbrook.md",
@@ -420,13 +421,11 @@
     "Assets/Characters/NPCs/OlwenToken.webp",
     "Assets/Characters/NPCs/IsoldeToken.webp",
     "NPCs/Torrga Icevein.md",
-    "NPCs/Naerth Maxildanarr.md",
     "PCs",
     "Events",
     "Assets/Characters/NPCs",
     "New Text Document.txt",
     "Locations/Ten Towns",
-    "Session Notes",
-    "NPCs/Northbrook Family"
+    "Session Notes"
   ]
 }

@@ -12,7 +12,7 @@ Harbor iced in
 
 Largest Fishing Fleet
 
-![[Pasted image 20230722130719.png]]
+![[Targos.png]]
 
 
 Smells of nicely cooked fish
