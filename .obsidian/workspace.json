@@ -196,6 +196,18 @@
             }
           },
           {
+            "id": "ea8d37d76493737a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Frost Druids.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "292457e50f9c2399",
             "type": "leaf",
             "state": {
@@ -292,7 +304,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -358,7 +370,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Naerth Maxildanarr.md",
+                "file": "NPCs/Frost Druids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -375,7 +387,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Naerth Maxildanarr.md",
+                "file": "NPCs/Frost Druids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -398,7 +410,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Naerth Maxildanarr.md"
+                "file": "NPCs/Frost Druids.md"
               }
             }
           },
@@ -428,12 +440,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41edaa948a3c4867",
+  "active": "ea8d37d76493737a",
   "lastOpenFiles": [
-    "Locations/Ten Towns/Targos/The Luskan Arms.md",
     "Events/Murders.md",
-    "Session Notes/2023/07 22 - Session 1.md",
+    "NPCs/Frost Druids.md",
     "NPCs/Naerth Maxildanarr.md",
+    "Locations/Ten Towns/Targos/The Luskan Arms.md",
+    "Session Notes/2023/07 22 - Session 1.md",
     "NPCs/Torrga Icevein.md",
     "Locations/Ten Towns/Targos/Targos.md",
     "Locations/Ten Towns/Untitled.md",
@@ -461,7 +474,6 @@
     "Session Notes/2023",
     "NPCs/Northbrook Family/Talvi Northbrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
-    "NPCs/Northbrook Family/Boreas Northbrook.md",
     "Assets/Characters/NPCs/Talvi.webp",
     "Assets/Characters/NPCs/Andri.webp",
     "Assets/Characters/NPCs/Olwen1.webp",
