@@ -33,3 +33,5 @@ Ship didn't make it, able to pull his way out and make his way to the local town
 
 
 
+Militia in [[Targos]] isn't looking into it
+

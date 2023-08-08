@@ -40,18 +40,6 @@
             }
           },
           {
-            "id": "4e112d5f05350a16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party/Hameylyn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "20bfc328974eef79",
             "type": "leaf",
             "state": {
@@ -69,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ten Towns/Targos.md",
+                "file": "Locations/Ten Towns/Targos/Targos.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,6 +142,18 @@
               "type": "markdown",
               "state": {
                 "file": "Events/Murders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea8d37d76493737a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Frost Druids.md",
                 "mode": "source",
                 "source": false
               }
@@ -256,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -306,7 +306,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 500.5
   },
   "right": {
     "id": "e2fde1fbd4583364",
@@ -322,7 +322,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +338,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -361,9 +359,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -379,7 +375,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 407.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -392,37 +388,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73a27670022de365",
+  "active": "6baf3b448a261b90",
   "lastOpenFiles": [
-    "Party/Tando.md",
-    "Party/Nilak 'Cloud' Northbrook.md",
-    "Party/Nasir.md",
-    "Party/Torinn.md",
-    "Party/Hameylyn.md",
+    "NPCs/Sephek.md",
+    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
+    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
+    "Locations/Ten Towns/Buried Treasure Inn.md",
     "Session Notes/2023/07 22 - Session 1.md",
+    "Locations/Ten Towns/Bremen.md",
+    "NPCs/Torrga Icevein.md",
+    "Events/Murders.md",
+    "Party/Nilak 'Cloud' Northbrook.md",
+    "Locations/Ten Towns/Lonelywood.md",
+    "NPCs/Frost Druids.md",
+    "NPCs/Naerth Maxildanarr.md",
+    "Locations/Ten Towns/Targos/The Luskan Arms.md",
+    "Locations/Ten Towns/Targos/Targos.md",
+    "Locations/Ten Towns/Targos",
     "Deity/Auril.md",
     "Assets/Maps/Targos.png",
     "Assets/Maps",
     "NPCs/Captain Skath.md",
-    "Locations/Ten Towns/Targos.md",
-    "Events/Murders.md",
+    "Party/Tando.md",
     "Session Notes/This is Your Life.md",
     "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
     "Locations/Ten Towns/Caer-Dineval.md",
     "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
     "Deity/Amaunator.md",
     "Locations/Ten Towns/Bryn Shander/The Northlook.md",
+    "Party/Torinn.md",
     "Locations/Ten Towns/Bryn Shander.md",
     "Locations/Ten Towns/Bryn Shander",
+    "Party/Nasir.md",
     "Events/Sacrifices.md",
-    "Locations/Ten Towns/Bremen.md",
     "Deity",
     "Session Notes/2023",
-    "NPCs/Northbrook Family/Talvi Northbrook.md",
-    "NPCs/Northbrook Family/Isolde Northbrook.md",
-    "NPCs/Northbrook Family/Boreas Northbrook.md",
-    "NPCs/Northbrook Family/Andri Northbrook.md",
-    "NPCs/Northbrook Family/Olwen Northbrook.md",
     "Assets/Characters/NPCs/Talvi.webp",
     "Assets/Characters/NPCs/Andri.webp",
     "Assets/Characters/NPCs/Olwen1.webp",
@@ -432,12 +432,8 @@
     "Assets/Characters/NPCs/TalviToken.webp",
     "Assets/Characters/NPCs/OlwenToken.webp",
     "Assets/Characters/NPCs/IsoldeToken.webp",
-    "NPCs/Torrga Icevein.md",
     "PCs",
     "Events",
-    "Assets/Characters/NPCs",
-    "New Text Document.txt",
-    "Locations/Ten Towns",
-    "Session Notes"
+    "Assets/Characters/NPCs"
   ]
 }
