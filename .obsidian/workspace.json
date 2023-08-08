@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "4e112d5f05350a16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Party/Hameylyn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "20bfc328974eef79",
             "type": "leaf",
             "state": {
@@ -382,27 +394,27 @@
   },
   "active": "73a27670022de365",
   "lastOpenFiles": [
+    "Party/Tando.md",
+    "Party/Nilak 'Cloud' Northbrook.md",
+    "Party/Nasir.md",
+    "Party/Torinn.md",
+    "Party/Hameylyn.md",
+    "Session Notes/2023/07 22 - Session 1.md",
     "Deity/Auril.md",
     "Assets/Maps/Targos.png",
     "Assets/Maps",
     "NPCs/Captain Skath.md",
-    "Session Notes/2023/07 22 - Session 1.md",
     "Locations/Ten Towns/Targos.md",
     "Events/Murders.md",
-    "Party/Tando.md",
     "Session Notes/This is Your Life.md",
     "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
-    "Party/Nilak 'Cloud' Northbrook.md",
     "Locations/Ten Towns/Caer-Dineval.md",
     "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
     "Deity/Amaunator.md",
     "Locations/Ten Towns/Bryn Shander/The Northlook.md",
-    "Party/Torinn.md",
     "Locations/Ten Towns/Bryn Shander.md",
     "Locations/Ten Towns/Bryn Shander",
-    "Party/Nasir.md",
     "Events/Sacrifices.md",
-    "Party/Hameylyn.md",
     "Locations/Ten Towns/Bremen.md",
     "Deity",
     "Session Notes/2023",
