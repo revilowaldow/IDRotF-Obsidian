@@ -8,28 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0fae3da81b59a9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party/Nilak 'Cloud' Northbrook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d3069dd642eab99",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
-          },
-          {
             "id": "98137aca07d05e8f",
             "type": "leaf",
             "state": {
@@ -265,8 +243,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -398,8 +375,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d3069dd642eab99",
+  "active": "38359944da77db43",
   "lastOpenFiles": [
+    "Party/Nilak 'Cloud' Northbrook.md",
     "NPCs/Sephek.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
@@ -408,7 +386,6 @@
     "Locations/Ten Towns/Bremen.md",
     "NPCs/Torrga Icevein.md",
     "Events/Murders.md",
-    "Party/Nilak 'Cloud' Northbrook.md",
     "Locations/Ten Towns/Lonelywood.md",
     "NPCs/Frost Druids.md",
     "NPCs/Naerth Maxildanarr.md",
