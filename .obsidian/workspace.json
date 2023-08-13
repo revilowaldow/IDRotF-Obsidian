@@ -8,20 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98137aca07d05e8f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "73a27670022de365",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Session Notes/2023/07 22 - Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3ca0c9faf988824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -243,7 +247,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -309,6 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,6 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +353,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Game Information.md"
+              }
             }
           },
           {
@@ -375,14 +384,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38359944da77db43",
+  "active": "a3ca0c9faf988824",
   "lastOpenFiles": [
+    "Session Notes/2023/07 22 - Session 1.md",
     "Party/Nilak 'Cloud' Northbrook.md",
     "NPCs/Sephek.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Locations/Ten Towns/Buried Treasure Inn.md",
-    "Session Notes/2023/07 22 - Session 1.md",
     "Locations/Ten Towns/Bremen.md",
     "NPCs/Torrga Icevein.md",
     "Events/Murders.md",
