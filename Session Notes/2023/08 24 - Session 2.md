@@ -93,5 +93,14 @@ Visit the grumpy moose to dry out
 
 [[Torinn]] gave [[Nilak 'Cloud' Northbrook]] his shield with instructions to take good care of it
 
+Bard had promising career ahead of him
+Town speaker [[Dorbulgruf Shalescar]] has been wandering off, old age, senile
+Starting to resent the man, [[Boreas Northbrook]] injured
+[[Andri Northbrook]] hypothermia, angry
+Shard of black ice, snatched it an threatened him
+Went with two ti
 
+
+[[Boreas Northbrook]] lost leg and fingers
+[[Andri Northbrook]] frostbite but recovered
 
