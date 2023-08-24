@@ -98,8 +98,13 @@ Town speaker [[Dorbulgruf Shalescar]] has been wandering off, old age, senile
 Starting to resent the man, [[Boreas Northbrook]] injured
 [[Andri Northbrook]] hypothermia, angry
 Shard of black ice, snatched it an threatened him
-Went with two ti
+Went with two tieflings to a castle, they wore amulets with black ice
+Caer Dinervol - Castle 1
+Caer Konig - Ruined
 
+Aldi
+
+Olwen
 
 [[Boreas Northbrook]] lost leg and fingers
 [[Andri Northbrook]] frostbite but recovered
