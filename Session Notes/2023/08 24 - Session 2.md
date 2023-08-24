@@ -75,3 +75,11 @@ Need to take notes
 
 Awakened Plesiosaurus
 
+Human who gave the gift [[Ravisin]]
+Serves Frostmaiden
+
+Nasir from Highmoon, capital of Deeping dale
+
+
+
+
