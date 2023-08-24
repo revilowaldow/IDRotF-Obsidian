@@ -26,6 +26,7 @@ River's Mouth
 	[[Rowan Lago]]
 	Barley Wines
 	Fish and Chips
+> Definitely seen 
 
 Black bearded brother
 	Dirty tobacco
@@ -54,6 +55,7 @@ Overrun by gnolls
 Creature in Maer Dolden
 
 
+Dwarf at docks
 
 
 
