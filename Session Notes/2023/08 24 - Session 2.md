@@ -58,9 +58,8 @@ Creature in Maer Dolden
 
 Dwarf at docks
 
-Burly Remand
-
-Pronged Goat
+Burly Ram
+Pronged Goat - Bite mark
 
 [[Grinsk]] 
 
@@ -73,4 +72,4 @@ Need to take notes
 - Size
 - Attributes
 - general nature
-- 
+
