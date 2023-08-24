@@ -16,3 +16,25 @@ Got a lantern of tracking that tracks elementals
 <hr>
 
 
+The grumpy moose
+	Moren Lago owner - also grumpy
+	Lager
+	Lager
+
+River's Mouth
+	Fishers
+	Rowen Lago
+	Barley Wines
+	Fish and Chips
+
+Black bearded brother
+	Dirty tobacco
+	Rum and Fuck Off
+	Pickeld Onions
+
+Stones
+	Cocktail bar
+	Silas Lago
+	Will pay for
+	Aged Schnapps
+	
