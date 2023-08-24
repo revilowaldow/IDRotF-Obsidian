@@ -89,5 +89,9 @@ White Moose Causing trouble in lonelywood
 Ravisin went North
 
 
+Visit the grumpy moose to dry out
+
+[[Torinn]] gave [[Nilak 'Cloud' Northbrook]] his shield with instructions to take good care of it
+
 
 
