@@ -73,3 +73,5 @@ Need to take notes
 - Attributes
 - general nature
 
+Awakened Plesiosaurus
+
