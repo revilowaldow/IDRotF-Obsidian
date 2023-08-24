@@ -32,6 +32,14 @@
             }
           },
           {
+            "id": "6e354d3b60a02bc3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "20bfc328974eef79",
             "type": "leaf",
             "state": {
@@ -314,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Information.md",
+                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Information.md",
+                "file": "Session Notes/2023/07 22 - Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +362,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Information.md"
+                "file": "Session Notes/2023/07 22 - Session 1.md"
               }
             }
           },
@@ -384,7 +392,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3ca0c9faf988824",
+  "active": "425479cc273d7764",
   "lastOpenFiles": [
     "Session Notes/2023/07 22 - Session 1.md",
     "Party/Nilak 'Cloud' Northbrook.md",
