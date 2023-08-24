@@ -64,5 +64,13 @@ Pronged Goat
 
 [[Grinsk]] 
 
+Elf offers spell scroll of animal friendship
+Need to take notes
+5gp reward
+[[Taly]]
 
-
+- Where
+- Size
+- Attributes
+- general nature
+- 
