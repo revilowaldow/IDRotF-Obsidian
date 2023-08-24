@@ -35,6 +35,14 @@ Black bearded brother
 Stones
 	Cocktail bar
 	Silas Lago
-	Will pay for
+	Will pay for ingredients
 	Aged Schnapps
-	
+	Popcorn
+
+Even Keel
+	Busy!
+	Tropical
+	Keel Lago
+	Clear Sky Dwarven vodka
+	Calamari
+
