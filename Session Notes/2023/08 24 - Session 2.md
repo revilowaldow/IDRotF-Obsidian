@@ -26,7 +26,8 @@ River's Mouth
 	[[Rowan Lago]]
 	Barley Wines
 	Fish and Chips
-> Definitely seen 
+> Rowan thinks we're capable
+> Mentioned gem mine overrun
 
 Black bearded brother
 	Dirty tobacco
@@ -56,6 +57,10 @@ Creature in Maer Dolden
 
 
 Dwarf at docks
+
+Burly Remand
+
+Pronged Goat
 
 
 
