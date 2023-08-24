@@ -80,6 +80,10 @@ Serves Frostmaiden
 
 Nasir from Highmoon, capital of Deeping dale
 
+Ravisin wants humanoid sacrifices
+
+Frost druids
+
 
 
 
