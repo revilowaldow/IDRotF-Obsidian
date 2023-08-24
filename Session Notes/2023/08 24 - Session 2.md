@@ -5,7 +5,7 @@
 	- [x] Blue eyes
 	- [x] Boat
 	- [x] Shared mission
-- [ ] Ask [[Hameylyn]] about what he did before napping?
+- [x] Ask [[Hameylyn]] about what he did before napping?
 - [ ] Avoid mentioning family and being drawn
 - [ ] Over drink a bit
 - [ ] Obtain a Shield ASAP
