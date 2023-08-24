@@ -84,6 +84,10 @@ Ravisin wants humanoid sacrifices
 
 Frost druids
 
+White Moose Causing trouble in lonelywood
+
+Ravisin went North
+
 
 
 
