@@ -23,7 +23,7 @@ The grumpy moose
 
 River's Mouth
 	Fishers
-	Rowen Lago
+	[[Rowan Lago]]
 	Barley Wines
 	Fish and Chips
 
@@ -45,4 +45,15 @@ Even Keel
 	Keel Lago
 	Clear Sky Dwarven vodka
 	Calamari
+
+<hr>
+
+Tourmaline one of the mines has been closed
+Overrun by gnolls
+
+Creature in Maer Dolden
+
+
+
+
 
