@@ -10,3 +10,6 @@
 - [ ] Over drink a bit
 - [ ] Obtain a Shield ASAP
 
+Capture a Chwinga
+Got a lantern of tracking that tracks elementals
+
