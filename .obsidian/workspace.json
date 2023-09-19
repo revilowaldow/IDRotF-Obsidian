@@ -308,7 +308,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -374,7 +374,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
+                "file": "Locations/Ten Towns/Bryn Shander/The Northlook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -391,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
+                "file": "Locations/Ten Towns/Bryn Shander/The Northlook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -414,7 +414,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md"
+                "file": "Locations/Ten Towns/Bryn Shander/The Northlook.md"
               }
             }
           },
@@ -445,8 +445,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ef582f4b3cce213",
+  "active": "9aae8ef3c4ebe982",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
     "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
     "Locations/Ten Towns/Bryn Shander/The Northlook.md",
     "Session Notes/2023/07 22 - Session 1.md",
@@ -477,7 +478,6 @@
     "Party/Tando.md",
     "Session Notes/This is Your Life.md",
     "Locations/Ten Towns/Caer-Dineval.md",
-    "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
     "Locations/Ten Towns/Bryn Shander",
     "Deity",
     "Session Notes/2023",
