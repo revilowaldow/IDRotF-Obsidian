@@ -7,4 +7,15 @@ Start in [[Stones Tavern]]
 
 What does [[Torinn]] believe?
 	Redemption
-	
+
+[[Nasir]]
+	Sexually deviant
+
+
+
+Visit [[Targos]]
+	Go into [[Triglio]]
+	Hardware supply store
+	[[Jestin Hunray]]
+	Everything except fishing gear
+

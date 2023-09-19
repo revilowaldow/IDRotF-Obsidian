@@ -282,9 +282,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7612890d0fbb29a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Targos/Triglio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbc690feb00caa67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -350,7 +374,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023/09 19 - Session 3.md",
+                "file": "Locations/Ten Towns/Targos/Triglio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2023/09 19 - Session 3.md",
+                "file": "Locations/Ten Towns/Targos/Triglio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +414,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023/09 19 - Session 3.md"
+                "file": "Locations/Ten Towns/Targos/Triglio.md"
               }
             }
           },
@@ -421,15 +445,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab978fbc43407e14",
+  "active": "7612890d0fbb29a5",
   "lastOpenFiles": [
-    "Session Notes/2023/08 24 - Session 2.md",
     "Session Notes/2023/09 19 - Session 3.md",
+    "Locations/Ten Towns/Targos/Triglio.md",
+    "Session Notes/2023/07 22 - Session 1.md",
+    "Locations/Ten Towns/Targos/The Luskan Arms (1).md",
+    "Locations/Ten Towns/Targos/The Luskan Arms.md",
+    "Session Notes/2023/08 24 - Session 2.md",
     "NPCs/Ravisin.md",
     "Locations/Ten Towns/Bremen.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
-    "Session Notes/2023/07 22 - Session 1.md",
     "Game Information.md",
     "Party/Nilak 'Cloud' Northbrook.md",
     "NPCs/Sephek.md",
@@ -439,7 +466,6 @@
     "Locations/Ten Towns/Lonelywood.md",
     "NPCs/Frost Druids.md",
     "NPCs/Naerth Maxildanarr.md",
-    "Locations/Ten Towns/Targos/The Luskan Arms.md",
     "Locations/Ten Towns/Targos/Targos.md",
     "Locations/Ten Towns/Targos",
     "Deity/Auril.md",
@@ -452,8 +478,6 @@
     "Locations/Ten Towns/Caer-Dineval.md",
     "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
     "Deity/Amaunator.md",
-    "Locations/Ten Towns/Bryn Shander/The Northlook.md",
-    "Party/Torinn.md",
     "Locations/Ten Towns/Bryn Shander",
     "Deity",
     "Session Notes/2023",
