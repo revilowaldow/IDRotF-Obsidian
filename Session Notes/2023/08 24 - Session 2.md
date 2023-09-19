@@ -58,15 +58,16 @@ Creature in Maer Dolden
 
 Dwarf at docks
 
-Burly Ram
-Pronged Goat - Bite mark
+Boat names:
+	Burly Ram
+	Pronged Goat - Bite mark
 
-[[Grinsk]] 
+[[Grinsk Balbor]]  - Hired people to fish despite monster
 
 Elf offers spell scroll of animal friendship
 Need to take notes
 5gp reward
-[[Taly]]
+[[Taly]] - Researcher for monsters
 
 - Where
 - Size
