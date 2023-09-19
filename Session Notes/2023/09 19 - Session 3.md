@@ -4,3 +4,7 @@
 - [ ] Something with a War Gong
 
 Start in [[Stones Tavern]]
+
+What does [[Torinn]] believe?
+	Redemption
+	
