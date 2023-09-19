@@ -23,3 +23,9 @@ Bought shield + snowshoes
 
 Nasir and Tando had a scuffle
 
+Didn't get to go to the pub
+
+Nasir gloating about drinking problem
+
+Tried to push him in a snowdrift, failed
+
