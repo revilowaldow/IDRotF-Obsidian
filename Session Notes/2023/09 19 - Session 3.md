@@ -35,7 +35,10 @@ Nasir immediately visits House of the Morning Lord
 
 
 
-Obok Torn limb from limb
+[[Obok]] Torn limb from limb
 
 Had to leave sled behind 
 
+[[Storn]]
+
+Offer of a gemstone each for completing job
