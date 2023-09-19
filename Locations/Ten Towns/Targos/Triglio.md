@@ -9,4 +9,10 @@ Mangled Left hand (crushed)
 Trigilo lads hoist upon the line
 Triglio lads bring fish aboard
 
-Buisness not 
+Business not going well since eternal winter
+Harder to fish 
+Less travel
+
+Triglio no meaning
+
+
