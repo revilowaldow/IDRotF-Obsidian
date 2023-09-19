@@ -36,7 +36,7 @@ Black bearded brother
 
 Stones
 	Cocktail bar
-	Silas Lago
+	[[Silas Lago]]
 	Will pay for ingredients
 	Aged Schnapps
 	Popcorn
@@ -81,13 +81,13 @@ Serves Frostmaiden
 
 Nasir from Highmoon, capital of Deeping dale
 
-Ravisin wants humanoid sacrifices
+[[Ravisin]] wants humanoid sacrifices
 
 Frost druids
 
 White Moose Causing trouble in lonelywood
 
-Ravisin went North
+[[Ravisin]] went North
 
 
 Visit the grumpy moose to dry out
@@ -109,4 +109,5 @@ Olwen
 
 [[Boreas Northbrook]] lost leg and fingers
 [[Andri Northbrook]] frostbite but recovered
+
 

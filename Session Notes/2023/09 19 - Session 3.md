@@ -3,3 +3,4 @@
 	- [ ] Optional; make Adam's Life Hell
 - [ ] Something with a War Gong
 
+Start in [[Stones Tavern]]

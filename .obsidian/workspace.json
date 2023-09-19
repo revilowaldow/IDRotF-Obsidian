@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "1dd40ef43ea01737",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Ravisin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a3ca0c9faf988824",
             "type": "leaf",
             "state": {
@@ -273,24 +285,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "f62481f0ff50e872",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1dd40ef43ea01737",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Ravisin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -429,9 +423,9 @@
   },
   "active": "343766be0e3c65eb",
   "lastOpenFiles": [
-    "NPCs/Ravisin.md",
-    "Session Notes/2023/08 24 - Session 2.md",
     "Session Notes/2023/09 19 - Session 3.md",
+    "Session Notes/2023/08 24 - Session 2.md",
+    "NPCs/Ravisin.md",
     "Locations/Ten Towns/Bremen.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
