@@ -30,3 +30,6 @@ Nasir gloating about drinking problem
 Tried to push him in a snowdrift, failed
 
 Nasir immediately visits House of the Morning Lord
+
+[[Torinn]] goes to speak to [[Hillin Trollbane]] 
+	
