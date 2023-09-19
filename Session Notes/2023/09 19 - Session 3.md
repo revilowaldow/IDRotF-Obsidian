@@ -44,4 +44,9 @@ Ambushed by Yetis
 Offer of a gemstone each for completing job
 [[Obok]] Torn limb from limb
 
+Found ambush site, decapitated head, sled has been pulled south for another 30 mins
+
+Hear gruntning and heaving noises closer than that
+Light source 240ft away
+
 
