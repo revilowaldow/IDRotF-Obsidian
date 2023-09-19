@@ -308,7 +308,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -374,7 +374,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Targos/Triglio.md",
+                "file": "Session Notes/2023/09 19 - Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -391,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Targos/Triglio.md",
+                "file": "Session Notes/2023/09 19 - Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -414,7 +414,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Targos/Triglio.md"
+                "file": "Session Notes/2023/09 19 - Session 3.md"
               }
             }
           },
@@ -445,10 +445,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7612890d0fbb29a5",
+  "active": "ab978fbc43407e14",
   "lastOpenFiles": [
-    "Session Notes/2023/09 19 - Session 3.md",
     "Locations/Ten Towns/Targos/Triglio.md",
+    "Session Notes/2023/09 19 - Session 3.md",
     "Session Notes/2023/07 22 - Session 1.md",
     "Locations/Ten Towns/Targos/The Luskan Arms (1).md",
     "Locations/Ten Towns/Targos/The Luskan Arms.md",

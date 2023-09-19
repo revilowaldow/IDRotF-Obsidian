@@ -19,3 +19,7 @@ Visit [[Targos]]
 	[[Jestin Hunray]]
 	Everything except fishing gear
 
+Bought shield + snowshoes
+
+Nasir and Tando had a scuffle
+
