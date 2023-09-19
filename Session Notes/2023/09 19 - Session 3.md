@@ -36,14 +36,12 @@ Nasir immediately visits House of the Morning Lord
 
 
 Three Dwarves from [[Kelvin's Cairn]]
-Battlehammer Tribe
-Travelled through Dwarven Valley to Bryn Shander
+Mine owned by [[Battlehammer Clan]] at base of [[Kelvin's Cairn]]
+Travelled through Dwarven Valley to [[Bryn Shander]]
 [[Hruna]] (Leader), [[Korux]] (Quiet), [[Storn]] (Nervous)
 Shipment Iron Ingots on one sled
 Ambushed by Yetis
 Offer of a gemstone each for completing job
-
 [[Obok]] Torn limb from limb
-[[Storn]]
 
 
