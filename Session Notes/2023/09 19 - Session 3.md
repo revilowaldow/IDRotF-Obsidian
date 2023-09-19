@@ -32,4 +32,10 @@ Tried to push him in a snowdrift, failed
 Nasir immediately visits House of the Morning Lord
 
 [[Torinn]] goes to speak to [[Hillin Trollbane]] 
-	
+
+
+
+Obok Torn limb from limb
+
+Had to leave sled behind 
+
