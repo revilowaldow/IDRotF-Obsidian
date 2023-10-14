@@ -44,4 +44,6 @@ No family could have fallen down giant central shaft
 
 Kobolds serve leader typically
 
+Ten towns would rather [[Oarus Masthew]] not in charge
+[[Frost Druids]]
 
