@@ -6,4 +6,4 @@ Two Potions of animal friendship
 Sealskin pouch
 13sp 25cp
 
-Bone Whistle
+Bone Whistle - Polar Bears
