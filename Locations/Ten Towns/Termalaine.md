@@ -5,6 +5,7 @@
 ### Population Size:
 
 ### Sacrifice:
+Warmth
 
 Very pretty
 
@@ -13,3 +14,11 @@ Bordered by pine trees
 
 Very cold, gale of wind
 
+Feels like higher society
+
+The Blue Clam
+	Tavern
+	Spiced Chowder
+
+The Eastside
+	Inn
