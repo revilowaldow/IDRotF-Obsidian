@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
+                "file": "Factions/Battlehammer Clan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
+                "file": "Factions/Battlehammer Clan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md"
+                "file": "Factions/Battlehammer Clan.md"
               }
             }
           },
@@ -265,8 +265,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d472534d01055d63",
+  "active": "99dcc304ec09a413",
   "lastOpenFiles": [
+    "Brunor.md",
+    "Factions/Battlehammer Clan.md",
+    "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
     "Session Notes/2023/10 14 - Session 4.md",
     "Session Notes/2023/09 19 - Session 3.md",
     "Locations/Ten Towns/Bryn Shander/Bryn Shander.md",
@@ -277,7 +280,6 @@
     "Session Notes/This is Your Life.md",
     "Factions/Party/Nilak 'Cloud' Northbrook.md",
     "Factions/Party/Tando.md",
-    "Factions/Battlehammer Clan.md",
     "Factions",
     "Party/Factions",
     "conflict-files-obsidian-git.md",
@@ -299,7 +301,6 @@
     "Deity/Auril.md",
     "Assets/Maps/Targos.png",
     "Assets/Maps",
-    "NPCs/Captain Skath.md",
     "Locations/Ten Towns/Bryn Shander",
     "Deity",
     "Session Notes/2023",
