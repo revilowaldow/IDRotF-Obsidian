@@ -21,3 +21,5 @@ Blood Stones as reward
 > - [[Tando]]
 
 
+Bought many things, axe beaks are a future option
+Dog sleds available in large and small sizes

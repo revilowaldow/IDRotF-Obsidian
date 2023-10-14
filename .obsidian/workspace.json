@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md",
+                "file": "Session Notes/2023/10 14 - Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md",
+                "file": "Session Notes/2023/10 14 - Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md"
+                "file": "Session Notes/2023/10 14 - Session 4.md"
               }
             }
           },
@@ -301,8 +301,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f951c89b9b7df5e7",
+  "active": "eb22fc249fb2801a",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Targos/The Luskan Arms.md",
     "Session Notes/2023/10 14 - Session 4.md",
     "Drizzt Do'Urden.md",
     "Factions/Battlehammer Clan.md",
@@ -323,7 +324,6 @@
     "conflict-files-obsidian-git.md",
     "NPCs/Sephek.md",
     "NPCs/Frost Druids.md",
-    "Locations/Ten Towns/Targos/The Luskan Arms.md",
     "Locations/Ten Towns/Buried Treasure Inn (1).md",
     "NPCs/Frost Druids (1).md",
     "NPCs/Sephek (1).md",
