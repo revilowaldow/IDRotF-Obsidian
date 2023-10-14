@@ -8,12 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc8e45c3df8ec648",
+            "id": "ef6ac3c2b588e8a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Bryn Shander/Bryn Shander.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb22fc249fb2801a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Session Notes/2023/10 14 - Session 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a67df4beae3b385d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2c1db3b62b30dfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Bremen/Bremen.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Information.md",
+                "file": "Session Notes/2023/10 14 - Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Information.md",
+                "file": "Session Notes/2023/10 14 - Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Information.md"
+                "file": "Session Notes/2023/10 14 - Session 4.md"
               }
             }
           },
@@ -229,21 +265,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c89c780054f8894",
+  "active": "eb22fc249fb2801a",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Bryn Shander/Bryn Shander.md",
+    "Locations/Ten Towns/Bremen/Bremen.md",
+    "Locations/Ten Towns/Bremen",
+    "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
+    "Session Notes/2023/10 14 - Session 4.md",
+    "Session Notes/2023/09 19 - Session 3.md",
+    "Game Information.md",
     "Session Notes/This is Your Life.md",
     "Factions/Party/Nilak 'Cloud' Northbrook.md",
     "Factions/Party/Tando.md",
-    "Session Notes/2023/10 14 - Session 4.md",
-    "Game Information.md",
     "Factions/Battlehammer Clan.md",
-    "Session Notes/2023/09 19 - Session 3.md",
     "Factions",
     "Party/Factions",
     "conflict-files-obsidian-git.md",
     "NPCs/Sephek.md",
     "NPCs/Frost Druids.md",
-    "Locations/Ten Towns/Buried Treasure Inn.md",
     "Locations/Ten Towns/Targos/The Luskan Arms.md",
     "Locations/Ten Towns/Buried Treasure Inn (1).md",
     "NPCs/Frost Druids (1).md",
@@ -251,7 +290,6 @@
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Session Notes/2023/07 22 - Session 1.md",
-    "Locations/Ten Towns/Bremen.md",
     "NPCs/Torrga Icevein.md",
     "Events/Murders.md",
     "Locations/Ten Towns/Lonelywood.md",
@@ -262,8 +300,6 @@
     "Assets/Maps/Targos.png",
     "Assets/Maps",
     "NPCs/Captain Skath.md",
-    "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
-    "Locations/Ten Towns/Caer-Dineval.md",
     "Locations/Ten Towns/Bryn Shander",
     "Deity",
     "Session Notes/2023",
@@ -275,7 +311,6 @@
     "Assets/Characters/NPCs/Isolde.webp",
     "Assets/Characters/NPCs/TalviToken.webp",
     "Assets/Characters/NPCs/OlwenToken.webp",
-    "Assets/Characters/NPCs/IsoldeToken.webp",
-    "PCs"
+    "Assets/Characters/NPCs/IsoldeToken.webp"
   ]
 }

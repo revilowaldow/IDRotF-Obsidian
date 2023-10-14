@@ -7,3 +7,8 @@ Sealskin pouch
 13sp 25cp
 
 Bone Whistle - Polar Bears
+
+Return to [[Bryn Shander]] with ingots
+
+Gong Brothers & Co.
+
