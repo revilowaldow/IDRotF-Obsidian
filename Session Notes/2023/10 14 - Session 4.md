@@ -31,4 +31,9 @@ Drank heavily night before
 Hungover that morning
 Allowed to suffer by [[Torinn]]
 
+Ambushed by crag cats
+Discovered spell turning
+
+Saw herd of deer with glowing antlers
+
 
