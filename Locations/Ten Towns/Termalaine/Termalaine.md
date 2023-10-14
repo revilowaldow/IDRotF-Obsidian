@@ -26,8 +26,6 @@ Feels like higher society
 Speaker [[Oarus Masthew]]
 	[[Shaylen Masthew]] was the old speaker a year ago
 
-
-
 Mine closed, taken over by Gnolls
 
 - [ ] Ask Adam for gem shop names

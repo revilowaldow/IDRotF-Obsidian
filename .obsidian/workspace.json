@@ -185,7 +185,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/The Blue Clam.md",
+                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,6 +198,18 @@
               "type": "markdown",
               "state": {
                 "file": "Locations/Ten Towns/Termalaine/Termalaine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a31d89d4eee2612f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Termalaine/The Blue Clam.md",
                 "mode": "source",
                 "source": false
               }
@@ -240,7 +252,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -306,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/The Blue Clam.md",
+                "file": "Locations/Ten Towns/Termalaine/Termalaine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/The Blue Clam.md",
+                "file": "Locations/Ten Towns/Termalaine/Termalaine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +358,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/The Blue Clam.md"
+                "file": "Locations/Ten Towns/Termalaine/Termalaine.md"
               }
             }
           },
@@ -377,13 +389,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "177cc9cbdc0d48be",
+  "active": "1cec31279bc2e614",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Termalaine/The Blue Clam.md",
+    "Locations/Ten Towns/Termalaine/Termalaine.md",
+    "Locations/Ten Towns/Termalaine/Gem Mine.md",
     "Locations/Ten Towns/Targos/Targos.md",
     "Pasted image 20231014175527.png",
-    "Locations/Ten Towns/Termalaine/Termalaine.md",
     "Pasted image 20231014175405.png",
-    "Locations/Ten Towns/Termalaine/The Blue Clam.md",
     "Locations/Ten Towns/Termalaine",
     "Locations/Ten Towns/Lonelywood.md",
     "Factions/Party/Torinn.md",
@@ -410,7 +423,6 @@
     "NPCs/Frost Druids.md",
     "Locations/Ten Towns/Buried Treasure Inn (1).md",
     "NPCs/Frost Druids (1).md",
-    "NPCs/Sephek (1).md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Locations/Ten Towns/Targos",

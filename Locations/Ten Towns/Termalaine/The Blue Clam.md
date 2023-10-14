@@ -7,10 +7,11 @@ Spiced Chowder
 
 Green Half Orc, head in hands
 Grey and Black Hair
+[[Oarus Masthew]]
 
 5cp for ale
 
-Scriddly Bits
+Scriddly Bits (scraps/bits/ends, batter bits etc)
 
 
 > "Dust my chowder with your scriddly bits"
@@ -19,5 +20,4 @@ Scriddly Bits
 
 Chef has an apron and hat, is half orc
 
-Mine's actually been infiltrated by Kobolds
-
+Mine's actually been infiltrated by Kobolds!
