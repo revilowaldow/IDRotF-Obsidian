@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "f951c89b9b7df5e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d472534d01055d63",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023/10 14 - Session 4.md",
+                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2023/10 14 - Session 4.md",
+                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023/10 14 - Session 4.md"
+                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md"
               }
             }
           },
@@ -289,14 +301,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb22fc249fb2801a",
+  "active": "f951c89b9b7df5e7",
   "lastOpenFiles": [
+    "Session Notes/2023/10 14 - Session 4.md",
     "Drizzt Do'Urden.md",
     "Factions/Battlehammer Clan.md",
     "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
     "Locations/Ten Towns/Termalaine.md",
     "Brunor.md",
-    "Session Notes/2023/10 14 - Session 4.md",
     "Session Notes/2023/09 19 - Session 3.md",
     "Locations/Ten Towns/Bryn Shander/Bryn Shander.md",
     "Locations/Ten Towns/Bremen/Bremen.md",
