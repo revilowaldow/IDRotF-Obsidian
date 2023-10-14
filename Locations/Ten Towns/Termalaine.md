@@ -27,7 +27,7 @@ Speaker [[Oarus Masthew]]
 
 Mine closed, taken over by Gnolls
 
-- [ ] Ask adam for gem shop names
+- [ ] Ask Adam for gem shop names
 
 Components for casters
 
