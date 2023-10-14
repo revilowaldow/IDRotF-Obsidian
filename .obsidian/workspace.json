@@ -116,6 +116,30 @@
             }
           },
           {
+            "id": "79e3f156f89a1e72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drizzt Do'Urden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c0052f1567c2df8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Termalaine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1c89c780054f8894",
             "type": "leaf",
             "state": {
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -194,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Battlehammer Clan.md",
+                "file": "Drizzt Do'Urden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Battlehammer Clan.md",
+                "file": "Drizzt Do'Urden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Battlehammer Clan.md"
+                "file": "Drizzt Do'Urden.md"
               }
             }
           },
@@ -265,11 +289,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99dcc304ec09a413",
+  "active": "79e3f156f89a1e72",
   "lastOpenFiles": [
-    "Brunor.md",
     "Factions/Battlehammer Clan.md",
+    "Drizzt Do'Urden.md",
     "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
+    "Locations/Ten Towns/Termalaine.md",
+    "Brunor.md",
     "Session Notes/2023/10 14 - Session 4.md",
     "Session Notes/2023/09 19 - Session 3.md",
     "Locations/Ten Towns/Bryn Shander/Bryn Shander.md",
@@ -296,9 +322,7 @@
     "Events/Murders.md",
     "Locations/Ten Towns/Lonelywood.md",
     "NPCs/Naerth Maxildanarr.md",
-    "Locations/Ten Towns/Targos/Targos.md",
     "Locations/Ten Towns/Targos",
-    "Deity/Auril.md",
     "Assets/Maps/Targos.png",
     "Assets/Maps",
     "Locations/Ten Towns/Bryn Shander",

@@ -1,7 +1,6 @@
 Symbol is Foaming Mug
 Iron mine located in [[Dwarven Valley]]
-Sell 
-
+Sell Gems found to [[Termalaine]]
 
 ### Members
 Three miners:
