@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "d472534d01055d63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a67df4beae3b385d",
             "type": "leaf",
             "state": {
@@ -80,18 +92,6 @@
             }
           },
           {
-            "id": "da4d9598a958bb33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/This is Your Life.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ad2d0e98b45ab5cc",
             "type": "leaf",
             "state": {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023/10 14 - Session 4.md",
+                "file": "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2023/10 14 - Session 4.md",
+                "file": "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023/10 14 - Session 4.md"
+                "file": "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md"
               }
             }
           },
@@ -265,14 +265,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb22fc249fb2801a",
+  "active": "d472534d01055d63",
   "lastOpenFiles": [
+    "Session Notes/2023/10 14 - Session 4.md",
+    "Session Notes/2023/09 19 - Session 3.md",
     "Locations/Ten Towns/Bryn Shander/Bryn Shander.md",
     "Locations/Ten Towns/Bremen/Bremen.md",
     "Locations/Ten Towns/Bremen",
     "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
-    "Session Notes/2023/10 14 - Session 4.md",
-    "Session Notes/2023/09 19 - Session 3.md",
     "Game Information.md",
     "Session Notes/This is Your Life.md",
     "Factions/Party/Nilak 'Cloud' Northbrook.md",

@@ -12,6 +12,7 @@ Return to [[Bryn Shander]] with ingots
 
 Gong Brothers & Co.
 
-Blood Stones
+Blood Stones as reward
 	50 gp each
-	
+
+[[Garn the Hammer]] - 
