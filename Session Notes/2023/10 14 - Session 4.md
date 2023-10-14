@@ -23,3 +23,12 @@ Blood Stones as reward
 
 Bought many things, axe beaks are a future option
 Dog sleds available in large and small sizes
+
+
+[[Nilak 'Cloud' Northbrook]] won arm wrestle in [[The Luskan Arms]] against [[Tando]]
+
+Drank heavily night before
+Hungover that morning
+Allowed to suffer by [[Torinn]]
+
+
