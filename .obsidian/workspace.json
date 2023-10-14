@@ -185,7 +185,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine.md",
+                "file": "Locations/Ten Towns/Termalaine/The Blue Clam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cec31279bc2e614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Termalaine/Termalaine.md",
                 "mode": "source",
                 "source": false
               }
@@ -282,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine.md",
+                "file": "Locations/Ten Towns/Termalaine/The Blue Clam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine.md",
+                "file": "Locations/Ten Towns/Termalaine/The Blue Clam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine.md"
+                "file": "Locations/Ten Towns/Termalaine/The Blue Clam.md"
               }
             }
           },
@@ -355,8 +367,10 @@
   },
   "active": "177cc9cbdc0d48be",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Termalaine/Termalaine.md",
+    "Locations/Ten Towns/Termalaine/The Blue Clam.md",
+    "Locations/Ten Towns/Termalaine",
     "Locations/Ten Towns/Lonelywood.md",
-    "Locations/Ten Towns/Termalaine.md",
     "Factions/Party/Torinn.md",
     "NPCs/Sephek.md",
     "Session Notes/2023/10 14 - Session 4.md",
@@ -385,13 +399,11 @@
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Session Notes/2023/07 22 - Session 1.md",
-    "NPCs/Torrga Icevein.md",
     "Locations/Ten Towns/Targos",
     "Assets/Maps/Targos.png",
     "Assets/Maps",
     "Locations/Ten Towns/Bryn Shander",
     "Deity",
-    "Session Notes/2023",
     "Assets/Characters/NPCs/Talvi.webp",
     "Assets/Characters/NPCs/Andri.webp",
     "Assets/Characters/NPCs/Olwen1.webp",

@@ -16,14 +16,17 @@ Very cold, gale of wind
 
 Feels like higher society
 
-The Blue Clam
+[[The Blue Clam]]
 	Tavern
 	Spiced Chowder
 
-The Eastside
+[[The Eastside]]
 	Inn
 
 Speaker [[Oarus Masthew]]
+	[[Shaylen Masthew]] was the old speaker a year ago
+
+
 
 Mine closed, taken over by Gnolls
 
