@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drizzt Do'Urden.md",
+                "file": "Session Notes/2023/10 14 - Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drizzt Do'Urden.md",
+                "file": "Session Notes/2023/10 14 - Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drizzt Do'Urden.md"
+                "file": "Session Notes/2023/10 14 - Session 4.md"
               }
             }
           },
@@ -289,10 +289,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79e3f156f89a1e72",
+  "active": "eb22fc249fb2801a",
   "lastOpenFiles": [
-    "Factions/Battlehammer Clan.md",
     "Drizzt Do'Urden.md",
+    "Factions/Battlehammer Clan.md",
     "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
     "Locations/Ten Towns/Termalaine.md",
     "Brunor.md",

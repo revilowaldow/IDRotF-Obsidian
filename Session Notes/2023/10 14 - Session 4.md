@@ -15,4 +15,9 @@ Gong Brothers & Co.
 Blood Stones as reward
 	50 gp each
 
-[[Garn the Hammer]] - 
+[[Garn the Hammer]] 
+
+> "Frost of Living Crisis"
+> - [[Tando]]
+
+
