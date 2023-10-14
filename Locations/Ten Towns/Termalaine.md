@@ -22,3 +22,10 @@ The Blue Clam
 
 The Eastside
 	Inn
+
+Speaker [[Oarus Masthew]]
+
+Mine closed, taken over by Gnolls
+
+
+

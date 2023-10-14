@@ -155,9 +155,49 @@
             "id": "3c0052f1567c2df8",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb693e8e9c9962ae",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a41864019ac9ff64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Party/Torinn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "177cc9cbdc0d48be",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Locations/Ten Towns/Termalaine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a59e4fb85578dff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Lonelywood.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -313,15 +353,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c0052f1567c2df8",
+  "active": "177cc9cbdc0d48be",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Lonelywood.md",
+    "Locations/Ten Towns/Termalaine.md",
+    "Factions/Party/Torinn.md",
+    "NPCs/Sephek.md",
     "Session Notes/2023/10 14 - Session 4.md",
     "Locations/Ten Towns/Targos/The Luskan Arms.md",
     "Locations/Kelvin's Cairn.md",
     "Drizzt Do'Urden.md",
     "Factions/Battlehammer Clan.md",
     "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
-    "Locations/Ten Towns/Termalaine.md",
     "Brunor.md",
     "Session Notes/2023/09 19 - Session 3.md",
     "Locations/Ten Towns/Bryn Shander/Bryn Shander.md",
@@ -335,7 +378,6 @@
     "Factions",
     "Party/Factions",
     "conflict-files-obsidian-git.md",
-    "NPCs/Sephek.md",
     "NPCs/Frost Druids.md",
     "Locations/Ten Towns/Buried Treasure Inn (1).md",
     "NPCs/Frost Druids (1).md",
@@ -344,8 +386,6 @@
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Session Notes/2023/07 22 - Session 1.md",
     "NPCs/Torrga Icevein.md",
-    "Events/Murders.md",
-    "Locations/Ten Towns/Lonelywood.md",
     "Locations/Ten Towns/Targos",
     "Assets/Maps/Targos.png",
     "Assets/Maps",
