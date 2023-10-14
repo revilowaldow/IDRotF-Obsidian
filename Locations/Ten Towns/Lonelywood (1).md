@@ -1,3 +1,0 @@
-
-Awakened White Moose
-

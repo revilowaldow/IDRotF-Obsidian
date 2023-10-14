@@ -4,347 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "5df05b2de14888ef",
+        "id": "f3e09b0e65654e51",
         "type": "tabs",
         "children": [
           {
-            "id": "d0fae3da81b59a9d",
+            "id": "bc8e45c3df8ec648",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Party/Nilak 'Cloud' Northbrook.md",
+                "file": "Session Notes/2023/10 14 - Session 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "98137aca07d05e8f",
+            "id": "cbf8433dcc8b9bee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "73a27670022de365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "Session Notes/2023/07 22 - Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d42305bf3c9286f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f39ab498b525a22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Torrga Icevein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12289b1baa2fcdf0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "41edaa948a3c4867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Naerth Maxildanarr.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20bfc328974eef79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Captain Skath.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ed57bdb729fe644",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Targos/Targos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a33de08844b7c46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party/Tando.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee428f19fcc0a713",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Caer-Dineval.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9aae8ef3c4ebe982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/The Northlook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efd3fe325332ea71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Events/Sacrifices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20ca32b1f09087de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deity/Auril.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7e61e1751f69a32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party/Hameylyn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc36781870ad9b61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Events/Murders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea8d37d76493737a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Frost Druids.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "292457e50f9c2399",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Bryn Shander.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ef582f4b3cce213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39948be3680ddf38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "947af393dd8ff707",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/This is Your Life.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc2f0af601f470c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deity/Amaunator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a6a7f1d5721e42b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party/Torinn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "650a0268a8dabf99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Party/Nasir.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9489b09c14e7603",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Bremen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "819f435ecd6d0cf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Buried Treasure Inn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "168717855f7177b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Sephek.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6baf3b448a261b90",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e700542547e24a9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Lonelywood.md",
-                "mode": "source",
-                "source": false
+                "staged": false
               }
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -410,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Party/Nilak 'Cloud' Northbrook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -427,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Party/Nilak 'Cloud' Northbrook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -449,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Party/Nilak 'Cloud' Northbrook.md"
-              }
+              "state": {}
             }
           },
           {
@@ -480,21 +163,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6baf3b448a261b90",
+  "active": "cbf8433dcc8b9bee",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Session Notes/2023/10 14 - Session 4.md",
     "NPCs/Sephek.md",
+    "NPCs/Frost Druids.md",
+    "Locations/Ten Towns/Buried Treasure Inn.md",
+    "Session Notes/2023/09 19 - Session 3.md",
+    "Locations/Ten Towns/Targos/The Luskan Arms.md",
+    "Locations/Ten Towns/Buried Treasure Inn (1).md",
+    "NPCs/Frost Druids (1).md",
+    "NPCs/Sephek (1).md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
-    "Locations/Ten Towns/Buried Treasure Inn.md",
     "Session Notes/2023/07 22 - Session 1.md",
     "Locations/Ten Towns/Bremen.md",
     "NPCs/Torrga Icevein.md",
     "Events/Murders.md",
     "Party/Nilak 'Cloud' Northbrook.md",
     "Locations/Ten Towns/Lonelywood.md",
-    "NPCs/Frost Druids.md",
     "NPCs/Naerth Maxildanarr.md",
-    "Locations/Ten Towns/Targos/The Luskan Arms.md",
     "Locations/Ten Towns/Targos/Targos.md",
     "Locations/Ten Towns/Targos",
     "Deity/Auril.md",
@@ -507,12 +196,7 @@
     "Locations/Ten Towns/Caer-Dineval.md",
     "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
     "Deity/Amaunator.md",
-    "Locations/Ten Towns/Bryn Shander/The Northlook.md",
-    "Party/Torinn.md",
-    "Locations/Ten Towns/Bryn Shander.md",
     "Locations/Ten Towns/Bryn Shander",
-    "Party/Nasir.md",
-    "Events/Sacrifices.md",
     "Deity",
     "Session Notes/2023",
     "Assets/Characters/NPCs/Talvi.webp",

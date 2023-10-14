@@ -7,6 +7,7 @@
       "str": {
         "value": 16,
         "proficient": 1,
+        "max": null,
         "bonuses": {
           "check": "",
           "save": ""
@@ -15,6 +16,7 @@
       "dex": {
         "value": 10,
         "proficient": 0,
+        "max": null,
         "bonuses": {
           "check": "",
           "save": ""
@@ -23,6 +25,7 @@
       "con": {
         "value": 17,
         "proficient": 1,
+        "max": null,
         "bonuses": {
           "check": "",
           "save": ""
@@ -31,6 +34,7 @@
       "int": {
         "value": 9,
         "proficient": 0,
+        "max": null,
         "bonuses": {
           "check": "",
           "save": ""
@@ -39,6 +43,7 @@
       "wis": {
         "value": 12,
         "proficient": 0,
+        "max": null,
         "bonuses": {
           "check": "",
           "save": ""
@@ -47,6 +52,7 @@
       "cha": {
         "value": 9,
         "proficient": 0,
+        "max": null,
         "bonuses": {
           "check": "",
           "save": ""
@@ -60,7 +66,7 @@
         "formula": ""
       },
       "hp": {
-        "value": 24,
+        "value": 25,
         "max": null,
         "temp": null,
         "tempmax": null,
@@ -319,7 +325,7 @@
     "tools": {
       "cartographer": {
         "value": 1,
-        "ability": "int",
+        "ability": "str",
         "bonuses": {
           "check": ""
         }
@@ -419,7 +425,7 @@
   },
   "prototypeToken": {
     "name": "Cloud",
-    "displayName": 20,
+    "displayName": 40,
     "actorLink": true,
     "texture": {
       "src": "worlds/roof/Custom%20Files/PCs/CloudToken.webp",
@@ -474,7 +480,7 @@
       "color": null,
       "attenuation": 0,
       "brightness": 0,
-      "saturation": -1,
+      "saturation": 0,
       "contrast": 0
     },
     "detectionModes": [],
@@ -1305,7 +1311,7 @@
         "identifier": "barbarian",
         "levels": 2,
         "hitDice": "d12",
-        "hitDiceUsed": 1,
+        "hitDiceUsed": 0,
         "advancement": [
           {
             "_id": "62svnflxsuad7oar",
@@ -1582,11 +1588,11 @@
       },
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.2.1",
+        "systemVersion": "2.3.0",
         "coreVersion": "10.303",
         "createdTime": 1680431566588,
-        "modifiedTime": 1690048617340,
-        "lastModifiedBy": "keumlQlOIO5EmvrB"
+        "modifiedTime": 1692913373087,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
       }
     },
     {
@@ -1761,7 +1767,7 @@
           "units": "self"
         },
         "uses": {
-          "value": 1,
+          "value": 2,
           "max": "@scale.barbarian.rages",
           "per": "lr",
           "recovery": ""
@@ -1820,11 +1826,11 @@
       },
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.2.1",
+        "systemVersion": "2.3.0",
         "coreVersion": "10.303",
         "createdTime": 1680431567375,
-        "modifiedTime": 1690044304523,
-        "lastModifiedBy": "keumlQlOIO5EmvrB"
+        "modifiedTime": 1692913373087,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
       }
     },
     {
@@ -2230,7 +2236,7 @@
         },
         "strength": null,
         "stealth": false,
-        "proficient": true
+        "proficient": 1
       },
       "img": "icons/equipment/chest/shirt-collared-brown.webp",
       "flags": {
@@ -2524,7 +2530,8 @@
           "dc": null,
           "scaling": "spell"
         },
-        "consumableType": "trinket"
+        "consumableType": "trinket",
+        "properties": {}
       },
       "img": "icons/sundries/lights/torch-black.webp",
       "flags": {
@@ -2623,7 +2630,8 @@
           "dc": null,
           "scaling": "spell"
         },
-        "consumableType": "food"
+        "consumableType": "food",
+        "properties": {}
       },
       "img": "icons/consumables/meat/hock-leg-pink-brown.webp",
       "flags": {
@@ -2722,7 +2730,8 @@
           "dc": null,
           "scaling": "spell"
         },
-        "consumableType": "food"
+        "consumableType": "food",
+        "properties": {}
       },
       "img": "icons/sundries/survival/wetskin-leather-purple.webp",
       "flags": {
@@ -2821,7 +2830,8 @@
           "dc": 17,
           "scaling": "flat"
         },
-        "consumableType": "trinket"
+        "consumableType": "trinket",
+        "properties": {}
       },
       "img": "icons/sundries/survival/rope-wrapped-brown.webp",
       "flags": {
@@ -2939,7 +2949,7 @@
           "hvy": true,
           "two": true
         },
-        "proficient": true
+        "proficient": 1
       },
       "img": "icons/weapons/swords/greatsword-guard-gem-blue.webp",
       "flags": {
@@ -3069,7 +3079,7 @@
           "two": false,
           "ver": false
         },
-        "proficient": true
+        "proficient": 1
       },
       "img": "icons/weapons/axes/axe-broad-black.webp",
       "flags": {
@@ -3257,7 +3267,7 @@
           "ver": false,
           "lod": false
         },
-        "proficient": true
+        "proficient": 1
       },
       "img": "icons/weapons/ammunition/arrows-bodkin-yellow-red.webp",
       "flags": {
@@ -3764,7 +3774,7 @@
           "ver": false,
           "mgc": false
         },
-        "proficient": true
+        "proficient": 1
       },
       "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
       "ownership": {
@@ -3789,6 +3799,254 @@
         "createdTime": 1690048617075,
         "modifiedTime": 1690048617075,
         "lastModifiedBy": "keumlQlOIO5EmvrB"
+      }
+    },
+    {
+      "name": "Barley Wine",
+      "type": "consumable",
+      "system": {
+        "description": {
+          "value": "<p>From River's Mouth Tavern in Bremen.</p>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "",
+        "quantity": 1,
+        "weight": 0,
+        "price": {
+          "value": 0,
+          "denomination": "gp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "",
+        "identified": true,
+        "activation": {
+          "type": "",
+          "cost": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "cover": null,
+        "crewed": false,
+        "target": {
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": null,
+          "max": "",
+          "per": null,
+          "recovery": "",
+          "autoDestroy": false
+        },
+        "consume": {
+          "type": "",
+          "target": null,
+          "amount": null
+        },
+        "ability": null,
+        "actionType": "",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "spell"
+        },
+        "consumableType": "food",
+        "properties": {}
+      },
+      "_id": "xfymBC7iFqeWtZKp",
+      "img": "icons/consumables/drinks/alcohol-jug-spirits-brown.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.3.0",
+        "coreVersion": "10.303",
+        "createdTime": 1692904203385,
+        "modifiedTime": 1692904279679,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Taly's Notebook",
+      "type": "loot",
+      "system": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "",
+        "quantity": 1,
+        "weight": 0,
+        "price": {
+          "value": 0,
+          "denomination": "gp"
+        },
+        "rarity": "",
+        "identified": true
+      },
+      "_id": "zXDTZ8Rf7f68LyjU",
+      "img": "icons/sundries/books/book-worn-brown-grey.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.3.0",
+        "coreVersion": "10.303",
+        "createdTime": 1692905680083,
+        "modifiedTime": 1692905734742,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Torin's Scuffed Shield",
+      "type": "equipment",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--2\"><p>A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.</p></div>",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "quantity": 1,
+        "weight": 6,
+        "price": {
+          "value": 10,
+          "denomination": "gp"
+        },
+        "attunement": 0,
+        "equipped": true,
+        "rarity": "",
+        "identified": false,
+        "activation": {
+          "type": "",
+          "cost": null,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "cover": null,
+        "crewed": false,
+        "target": {
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": ""
+        },
+        "range": {
+          "value": 0,
+          "long": 0,
+          "units": "ft"
+        },
+        "uses": {
+          "value": null,
+          "max": "",
+          "per": null,
+          "recovery": ""
+        },
+        "consume": {
+          "type": "",
+          "target": "",
+          "amount": null
+        },
+        "ability": null,
+        "actionType": "",
+        "attackBonus": "",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "spell"
+        },
+        "armor": {
+          "value": 2,
+          "type": "shield",
+          "dex": null
+        },
+        "hp": {
+          "value": 0,
+          "max": 0,
+          "dt": null,
+          "conditions": ""
+        },
+        "baseItem": "",
+        "speed": {
+          "value": null,
+          "conditions": ""
+        },
+        "strength": null,
+        "stealth": false,
+        "proficient": null
+      },
+      "img": "icons/equipment/shield/buckler-wooden-boss-lightning.webp",
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "shield_phb"
+        }
+      },
+      "effects": [],
+      "_id": "T1ws4xgM8r4A3DPB",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.3.0",
+        "coreVersion": "10.303",
+        "createdTime": 1692911289120,
+        "modifiedTime": 1692911381465,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
       }
     }
   ],
@@ -3833,13 +4091,40 @@
         "startRound": null,
         "startTurn": null
       },
-      "disabled": false,
+      "disabled": true,
       "_id": "OXhs9z2z7tkFBtWj",
       "changes": [
         {
           "key": "system.bonuses.mwak.damage",
           "mode": 2,
           "value": "2[Raging]",
+          "priority": null
+        }
+      ],
+      "tint": null,
+      "transfer": false,
+      "flags": {}
+    },
+    {
+      "label": "Guidance",
+      "icon": "icons/magic/holy/chalice-glowing-gold-water.webp",
+      "origin": "Actor.170V5m4LCLyu0xm7",
+      "duration": {
+        "startTime": 36,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "disabled": true,
+      "_id": "bkvKbAgDRJ4y3kU1",
+      "changes": [
+        {
+          "key": "system.bonuses.abilities.check",
+          "mode": 2,
+          "value": "1d4[Guidance]",
           "priority": null
         }
       ],
@@ -3853,15 +4138,15 @@
       "world": "roof",
       "system": "dnd5e",
       "coreVersion": "10.303",
-      "systemVersion": "2.2.1"
+      "systemVersion": "2.3.0"
     }
   },
   "_stats": {
     "systemId": "dnd5e",
-    "systemVersion": "2.2.1",
+    "systemVersion": "2.3.0",
     "coreVersion": "10.303",
     "createdTime": 1680102683611,
-    "modifiedTime": 1690048613961,
-    "lastModifiedBy": "keumlQlOIO5EmvrB"
+    "modifiedTime": 1692914717943,
+    "lastModifiedBy": "fGyKkRuRb8WOlTlE"
   }
 }

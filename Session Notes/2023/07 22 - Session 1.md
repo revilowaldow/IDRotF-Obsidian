@@ -25,6 +25,7 @@ Lots of dried Blood
 Dwarf woman sits down at table:
 	Used to be an adventurer
 [[Torinn]] used to be part of the militia
+
 [[Hillin Trollbane]] - Staying in Bryn Shander
  100gp payment if killer is identified an apprehended (without alerting the authorities)
  Gave party a map
@@ -72,6 +73,10 @@ Gaslit Receptionist into lettign them see [[Captain Skath]]
 Skath admitted to taking bribes - 10gp to be removed from lottery
 
 [[The Luskan Arms]]
+	Oldest Pub in Ten Towns
+	Sturdy and Old
+	Well Kept
+	Draft from Cellar, Rats
 
 [[Triglio]] - Shopping?
 
@@ -89,9 +94,5 @@ Beating of giant wings overhead:
 > "Don't worry master, we'll be back to the cave shortly"
  
 Humanoid figure approaching from the left
-
-
-
-
 
 
