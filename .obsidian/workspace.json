@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md",
+                "file": "Locations/Kelvin's Cairn.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md",
+                "file": "Locations/Kelvin's Cairn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md",
+                "file": "Locations/Kelvin's Cairn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md"
+                "file": "Locations/Kelvin's Cairn.md"
               }
             }
           },
@@ -303,8 +303,9 @@
   },
   "active": "f951c89b9b7df5e7",
   "lastOpenFiles": [
-    "Session Notes/2023/10 14 - Session 4.md",
     "Locations/Ten Towns/Targos/The Luskan Arms.md",
+    "Locations/Kelvin's Cairn.md",
+    "Session Notes/2023/10 14 - Session 4.md",
     "Drizzt Do'Urden.md",
     "Factions/Battlehammer Clan.md",
     "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
@@ -333,7 +334,6 @@
     "NPCs/Torrga Icevein.md",
     "Events/Murders.md",
     "Locations/Ten Towns/Lonelywood.md",
-    "NPCs/Naerth Maxildanarr.md",
     "Locations/Ten Towns/Targos",
     "Assets/Maps/Targos.png",
     "Assets/Maps",
