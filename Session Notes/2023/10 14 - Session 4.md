@@ -12,3 +12,6 @@ Return to [[Bryn Shander]] with ingots
 
 Gong Brothers & Co.
 
+Blood Stones
+	50 gp each
+	
