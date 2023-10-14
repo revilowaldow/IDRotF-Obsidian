@@ -204,6 +204,18 @@
             }
           },
           {
+            "id": "f806501ac9b17baa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Targos/Targos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a59e4fb85578dff2",
             "type": "leaf",
             "state": {
@@ -367,7 +379,10 @@
   },
   "active": "177cc9cbdc0d48be",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Targos/Targos.md",
+    "Pasted image 20231014175527.png",
     "Locations/Ten Towns/Termalaine/Termalaine.md",
+    "Pasted image 20231014175405.png",
     "Locations/Ten Towns/Termalaine/The Blue Clam.md",
     "Locations/Ten Towns/Termalaine",
     "Locations/Ten Towns/Lonelywood.md",
@@ -398,7 +413,6 @@
     "NPCs/Sephek (1).md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
-    "Session Notes/2023/07 22 - Session 1.md",
     "Locations/Ten Towns/Targos",
     "Assets/Maps/Targos.png",
     "Assets/Maps",
@@ -410,8 +424,6 @@
     "Assets/Characters/NPCs/Boreas.webp",
     "Assets/Characters/NPCs/Olwen2.webp",
     "Assets/Characters/NPCs/Isolde.webp",
-    "Assets/Characters/NPCs/TalviToken.webp",
-    "Assets/Characters/NPCs/OlwenToken.webp",
-    "Assets/Characters/NPCs/IsoldeToken.webp"
+    "Assets/Characters/NPCs/TalviToken.webp"
   ]
 }
