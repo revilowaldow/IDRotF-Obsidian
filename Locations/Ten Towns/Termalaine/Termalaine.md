@@ -34,3 +34,5 @@ Components for casters
 
 
 ![[Pasted image 20231014175405.png]]
+The militia do not seem to be taking accountability
+
