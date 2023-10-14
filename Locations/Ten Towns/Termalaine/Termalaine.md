@@ -34,5 +34,14 @@ Components for casters
 
 
 ![[Pasted image 20231014175405.png]]
+
 The militia do not seem to be taking accountability
+
+Populus voted for [[Oarus Masthew]] but some people believe he only won due to nepotism
+
+Human miner went missing before the kobolds turned up
+No family could have fallen down giant central shaft
+
+Kobolds serve leader typically
+
 
