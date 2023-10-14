@@ -16,5 +16,6 @@ Something about Knucklehead Trout?
 - Death saves rolled in private
 - Flanking
 - Bonus Action to drink a healing potion
+- Bonus Action to light a torch
 - The 'no two spells in one turn except action cantrip' rule is removed
 	"You can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action." - PHB p202

@@ -42,9 +42,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c89c780054f8894",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Battlehammer Clan.md",
+                "file": "Session Notes/2023/10 14 - Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Battlehammer Clan.md",
+                "file": "Session Notes/2023/10 14 - Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Battlehammer Clan.md"
+                "file": "Session Notes/2023/10 14 - Session 4.md"
               }
             }
           },
@@ -181,10 +192,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99dcc304ec09a413",
+  "active": "bc8e45c3df8ec648",
   "lastOpenFiles": [
-    "Session Notes/2023/09 19 - Session 3.md",
+    "Game Information.md",
     "Factions/Battlehammer Clan.md",
+    "Session Notes/2023/09 19 - Session 3.md",
     "Factions",
     "Party/Factions",
     "Session Notes/2023/10 14 - Session 4.md",
