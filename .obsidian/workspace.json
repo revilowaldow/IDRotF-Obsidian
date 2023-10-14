@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "99dcc304ec09a413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Battlehammer Clan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023/10 14 - Session 4.md",
+                "file": "Factions/Battlehammer Clan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2023/10 14 - Session 4.md",
+                "file": "Factions/Battlehammer Clan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023/10 14 - Session 4.md"
+                "file": "Factions/Battlehammer Clan.md"
               }
             }
           },
@@ -168,9 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc8e45c3df8ec648",
+  "active": "99dcc304ec09a413",
   "lastOpenFiles": [
     "Session Notes/2023/09 19 - Session 3.md",
+    "Factions/Battlehammer Clan.md",
+    "Factions",
+    "Party/Factions",
     "Session Notes/2023/10 14 - Session 4.md",
     "conflict-files-obsidian-git.md",
     "NPCs/Sephek.md",
@@ -186,7 +202,7 @@
     "Locations/Ten Towns/Bremen.md",
     "NPCs/Torrga Icevein.md",
     "Events/Murders.md",
-    "Party/Nilak 'Cloud' Northbrook.md",
+    "Factions/Party/Nilak 'Cloud' Northbrook.md",
     "Locations/Ten Towns/Lonelywood.md",
     "NPCs/Naerth Maxildanarr.md",
     "Locations/Ten Towns/Targos/Targos.md",
@@ -195,12 +211,10 @@
     "Assets/Maps/Targos.png",
     "Assets/Maps",
     "NPCs/Captain Skath.md",
-    "Party/Tando.md",
+    "Factions/Party/Tando.md",
     "Session Notes/This is Your Life.md",
     "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
     "Locations/Ten Towns/Caer-Dineval.md",
-    "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
-    "Deity/Amaunator.md",
     "Locations/Ten Towns/Bryn Shander",
     "Deity",
     "Session Notes/2023",
@@ -213,8 +227,6 @@
     "Assets/Characters/NPCs/TalviToken.webp",
     "Assets/Characters/NPCs/OlwenToken.webp",
     "Assets/Characters/NPCs/IsoldeToken.webp",
-    "PCs",
-    "Events",
-    "Assets/Characters/NPCs"
+    "PCs"
   ]
 }

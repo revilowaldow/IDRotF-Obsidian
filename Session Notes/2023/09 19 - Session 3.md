@@ -34,12 +34,13 @@ Nasir immediately visits House of the Morning Lord
 [[Torinn]] goes to speak to [[Hillin Trollbane]] 
 
 
-
+[[Hillin Trollbane]]
 Three Dwarves from [[Kelvin's Cairn]]
 Mine owned by [[Battlehammer Clan]] at base of [[Kelvin's Cairn]]
 Travelled through Dwarven Valley to [[Bryn Shander]]
 [[Hruna]] (Leader), [[Korux]] (Quiet), [[Storn]] (Nervous)
 Shipment Iron Ingots on one sled
+Foaming Mug stamp on ingots
 Ambushed by Yetis
 Offer of a gemstone each for completing job
 [[Obok]] Torn limb from limb

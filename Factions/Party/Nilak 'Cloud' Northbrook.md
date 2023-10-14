@@ -1,4 +1,4 @@
-![[../Assets/Characters/PCs/Leonin.webp]]
+![[Leonin.webp]]
 
 ### Stats
 
