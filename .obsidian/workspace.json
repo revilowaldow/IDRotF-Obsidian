@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023/10 14 - Session 4.md",
+                "file": "Locations/Ten Towns/Termalaine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2023/10 14 - Session 4.md",
+                "file": "Locations/Ten Towns/Termalaine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023/10 14 - Session 4.md"
+                "file": "Locations/Ten Towns/Termalaine.md"
               }
             }
           },
@@ -313,11 +313,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb22fc249fb2801a",
+  "active": "3c0052f1567c2df8",
   "lastOpenFiles": [
+    "Session Notes/2023/10 14 - Session 4.md",
     "Locations/Ten Towns/Targos/The Luskan Arms.md",
     "Locations/Kelvin's Cairn.md",
-    "Session Notes/2023/10 14 - Session 4.md",
     "Drizzt Do'Urden.md",
     "Factions/Battlehammer Clan.md",
     "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
