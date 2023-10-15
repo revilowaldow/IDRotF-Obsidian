@@ -33,7 +33,7 @@ Mine closed, taken over by Gnolls
 Components for casters
 
 
-![[Pasted image 20231014175405.png]]
+![[TermalaineCrest.png]]
 
 The militia do not seem to be taking accountability
 

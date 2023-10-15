@@ -1,5 +1,4 @@
-Runs a dodgy caravan
-[[Torg's Caravan]]
+Runs a dodgy caravan: [[Torg's Caravan]]
 Dogsleds
 
 Travel town to town
