@@ -114,6 +114,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c034b27700674d3e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 8
@@ -239,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5,
-    "collapsed": true
+    "width": 407.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,8 +260,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e346a63526b9c55a",
+  "active": "425479cc273d7764",
   "lastOpenFiles": [
+    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Factions/Party/Hameylyn.md",
     "Locations/Ten Towns/Termalaine/The Eastside.md",
     "Locations/Ten Towns/Termalaine/Termalaine.md",
@@ -281,7 +289,6 @@
     "Deity/Amaunator.md",
     "Deity/Auril.md",
     "NPCs/Torrga Icevein.md",
-    "NPCs/Sephek.md",
     "Assets/Crests",
     "Assets/Crests/TargosCrest.png",
     "Assets/Crests/TermalaineCrest.png",
@@ -291,7 +298,6 @@
     "Locations/Ten Towns/Bremen",
     "Factions",
     "Party/Factions",
-    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Locations/Ten Towns/Targos",
     "Assets/Maps/Targos.png",
     "Assets/Maps",

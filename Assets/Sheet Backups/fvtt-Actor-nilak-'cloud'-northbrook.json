@@ -66,7 +66,7 @@
         "formula": ""
       },
       "hp": {
-        "value": 25,
+        "value": 24,
         "max": null,
         "temp": null,
         "tempmax": null,
@@ -171,9 +171,9 @@
     },
     "currency": {
       "pp": 0,
-      "gp": 9,
+      "gp": 8,
       "ep": 0,
-      "sp": 200,
+      "sp": 198,
       "cp": 13
     },
     "skills": {
@@ -603,7 +603,7 @@
           "_id": "ypTJyEmlR82IHSI1"
         }
       ],
-      "img": "https://5etools-mirror-1.github.io/img/races/MOT/Leonin.png",
+      "img": "https://5etools-mirror-1.github.io/img/races/MOT/Leonin.webp",
       "_id": "IQyOqe6BDtR6PETs",
       "folder": null,
       "sort": 100000,
@@ -613,10 +613,10 @@
       },
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.3.0",
-        "coreVersion": "10.303",
+        "systemVersion": "2.3.1",
+        "coreVersion": "10.312",
         "createdTime": 1680431566220,
-        "modifiedTime": 1695214629436,
+        "modifiedTime": 1701372865459,
         "lastModifiedBy": "fGyKkRuRb8WOlTlE"
       }
     },
@@ -1767,7 +1767,7 @@
           "units": "self"
         },
         "uses": {
-          "value": 1,
+          "value": 2,
           "max": "@scale.barbarian.rages",
           "per": "lr",
           "recovery": ""
@@ -1826,10 +1826,10 @@
       },
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.3.0",
-        "coreVersion": "10.303",
+        "systemVersion": "2.3.1",
+        "coreVersion": "10.312",
         "createdTime": 1680431567375,
-        "modifiedTime": 1697296211577,
+        "modifiedTime": 1701376135520,
         "lastModifiedBy": "fGyKkRuRb8WOlTlE"
       }
     },
@@ -2122,7 +2122,7 @@
         "proficient": 1,
         "bonus": ""
       },
-      "img": "icons/tools/navigation/map-chart-tan.webp",
+      "img": "icons/tools/navigation/map-marked-red.webp",
       "flags": {
         "plutonium": {
           "page": "items.html",
@@ -2140,10 +2140,10 @@
       },
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.2.1",
+        "systemVersion": "2.3.1",
         "coreVersion": "10.303",
         "createdTime": 1680431569251,
-        "modifiedTime": 1689113784078,
+        "modifiedTime": 1699104155237,
         "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
@@ -2296,7 +2296,7 @@
           "pp": 0
         }
       },
-      "img": "icons/containers/bags/pack-simple-leather.webp",
+      "img": "icons/containers/bags/pack-rounded-leather-brown.webp",
       "flags": {
         "plutonium": {
           "page": "items.html",
@@ -2314,11 +2314,11 @@
       },
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.1.3",
-        "coreVersion": "10.291",
+        "systemVersion": "2.3.1",
+        "coreVersion": "10.303",
         "createdTime": 1680431569420,
-        "modifiedTime": 1680431569420,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1699104155237,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -2340,7 +2340,7 @@
         "rarity": "",
         "identified": false
       },
-      "img": "icons/sundries/survival/bedroll-grey.webp",
+      "img": "icons/sundries/survival/bedroll-pink.webp",
       "flags": {
         "plutonium": {
           "page": "items.html",
@@ -2358,11 +2358,11 @@
       },
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.1.3",
-        "coreVersion": "10.291",
+        "systemVersion": "2.3.1",
+        "coreVersion": "10.303",
         "createdTime": 1680431569481,
-        "modifiedTime": 1680431569481,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1699104155237,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -2384,7 +2384,7 @@
         "rarity": "",
         "identified": false
       },
-      "img": "icons/tools/cooking/fork-steel-tan.webp",
+      "img": "icons/containers/kitchenware/bowl-clay-brown.webp",
       "flags": {
         "plutonium": {
           "page": "items.html",
@@ -2402,11 +2402,11 @@
       },
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.1.3",
-        "coreVersion": "10.291",
+        "systemVersion": "2.3.1",
+        "coreVersion": "10.303",
         "createdTime": 1680431569540,
-        "modifiedTime": 1680431569540,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1699104155237,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -2428,7 +2428,7 @@
         "rarity": "",
         "identified": false
       },
-      "img": "icons/sundries/lights/torch-black.webp",
+      "img": "icons/containers/boxes/crate-worn-brown.webp",
       "flags": {
         "plutonium": {
           "page": "items.html",
@@ -2446,11 +2446,11 @@
       },
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.1.3",
-        "coreVersion": "10.291",
+        "systemVersion": "2.3.1",
+        "coreVersion": "10.303",
         "createdTime": 1680431569614,
-        "modifiedTime": 1680431569614,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1699104155237,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -2533,7 +2533,7 @@
         "consumableType": "trinket",
         "properties": {}
       },
-      "img": "icons/sundries/lights/torch-black.webp",
+      "img": "icons/sundries/lights/torch-white.webp",
       "flags": {
         "plutonium": {
           "page": "items.html",
@@ -2551,11 +2551,11 @@
       },
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.2.1",
+        "systemVersion": "2.3.1",
         "coreVersion": "10.303",
         "createdTime": 1680431569695,
-        "modifiedTime": 1690047446893,
-        "lastModifiedBy": "keumlQlOIO5EmvrB"
+        "modifiedTime": 1699104155238,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -2633,7 +2633,7 @@
         "consumableType": "food",
         "properties": {}
       },
-      "img": "icons/consumables/meat/hock-leg-pink-brown.webp",
+      "img": "icons/consumables/grains/bread-loaf-boule-rustic-brown.webp",
       "flags": {
         "plutonium": {
           "page": "items.html",
@@ -2651,11 +2651,11 @@
       },
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.1.3",
-        "coreVersion": "10.291",
+        "systemVersion": "2.3.1",
+        "coreVersion": "10.303",
         "createdTime": 1680431569758,
-        "modifiedTime": 1680431569758,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1699104155238,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -2966,7 +2966,7 @@
         },
         "proficient": 1
       },
-      "img": "icons/weapons/swords/greatsword-guard-gem-blue.webp",
+      "img": "icons/weapons/swords/greatsword-guard-gold-worn.webp",
       "flags": {
         "plutonium": {
           "page": "items.html",
@@ -2984,11 +2984,11 @@
       },
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.3.0",
+        "systemVersion": "2.3.1",
         "coreVersion": "10.303",
         "createdTime": 1680431570026,
-        "modifiedTime": 1697282949106,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1699104155238,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -3099,7 +3099,7 @@
         },
         "proficient": 1
       },
-      "img": "icons/weapons/axes/axe-broad-engraved-black-grey.webp",
+      "img": "icons/weapons/axes/axe-broad-black.webp",
       "flags": {
         "plutonium": {
           "page": "items.html",
@@ -3117,11 +3117,11 @@
       },
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.3.0",
+        "systemVersion": "2.3.1",
         "coreVersion": "10.303",
         "createdTime": 1680431570108,
-        "modifiedTime": 1697299366221,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1699104155238,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -3231,7 +3231,7 @@
           "recovery": ""
         },
         "consume": {
-          "type": "ammo",
+          "type": "",
           "target": "",
           "amount": 1
         },
@@ -3290,7 +3290,7 @@
         },
         "proficient": 1
       },
-      "img": "icons/weapons/ammunition/arrows-bodkin-yellow-red.webp",
+      "img": "icons/weapons/polearms/javelin-flared.webp",
       "flags": {
         "plutonium": {
           "page": "items.html",
@@ -3308,10 +3308,10 @@
       },
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.3.0",
-        "coreVersion": "10.303",
+        "systemVersion": "2.3.1",
+        "coreVersion": "10.312",
         "createdTime": 1680431570328,
-        "modifiedTime": 1697297623832,
+        "modifiedTime": 1701380577486,
         "lastModifiedBy": "fGyKkRuRb8WOlTlE"
       }
     },
@@ -3348,7 +3348,7 @@
           "pp": 0
         }
       },
-      "img": "icons/containers/bags/coinpouch-simple-tan.webp",
+      "img": "icons/containers/bags/pouch-simple-leather-tan.webp",
       "flags": {
         "plutonium": {
           "page": "items.html",
@@ -3366,11 +3366,11 @@
       },
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.1.3",
-        "coreVersion": "10.291",
+        "systemVersion": "2.3.1",
+        "coreVersion": "10.303",
         "createdTime": 1680431570486,
-        "modifiedTime": 1680431570486,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1699104155238,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -3883,7 +3883,7 @@
       "type": "equipment",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p>A <em>shield</em> is made from wood or metal and is carried in one hand. Wielding a <em>shield</em> increases your Armor Class by 2. You can benefit from only one <em>shield</em> at a time.<br /><br />Roughly Painted with the crest of Targos</p><img src=\"https://5etools-mirror-1.github.io/img/adventure/IDRotF/073-01-036.shield-targos.png\" /></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>A <em>shield</em> is made from wood or metal and is carried in one hand. Wielding a <em>shield</em> increases your Armor Class by 2. You can benefit from only one <em>shield</em> at a time.<br /><br />Roughly Painted with the crest of Targos</p><img src=\"https://5etools-mirror-1.github.io/img/adventure/IDRotF/073-01-036.shield-targos.webp\" /></div>",
           "chat": "",
           "unidentified": ""
         },
@@ -3969,7 +3969,7 @@
         "stealth": false,
         "proficient": null
       },
-      "img": "https://5etools-mirror-1.github.io/img/adventure/IDRotF/073-01-036.shield-targos.png",
+      "img": "https://5etools-mirror-1.github.io/img/adventure/IDRotF/073-01-036.shield-targos.webp",
       "ownership": {
         "default": 0,
         "fGyKkRuRb8WOlTlE": 3
@@ -3987,11 +3987,11 @@
       "sort": 0,
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.3.0",
+        "systemVersion": "2.3.1",
         "coreVersion": "10.303",
         "createdTime": 1695151000858,
-        "modifiedTime": 1695151058062,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1699103599500,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -4267,7 +4267,7 @@
           "pp": 0
         }
       },
-      "img": "icons/containers/bags/coinpouch-leather-grey.webp",
+      "img": "icons/containers/bags/pouch-simple-leather-tan.webp",
       "ownership": {
         "default": 0,
         "fGyKkRuRb8WOlTlE": 3
@@ -4285,11 +4285,11 @@
       "sort": 0,
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.3.0",
+        "systemVersion": "2.3.1",
         "coreVersion": "10.303",
         "createdTime": 1697283173889,
-        "modifiedTime": 1697283230726,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1699104155238,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -4311,7 +4311,7 @@
         "rarity": "",
         "identified": false
       },
-      "img": "icons/tools/instruments/pipe-flue-tan.webp",
+      "img": "icons/tools/instruments/flute-simple-wood.webp",
       "ownership": {
         "default": 0,
         "fGyKkRuRb8WOlTlE": 3
@@ -4329,11 +4329,11 @@
       "sort": 0,
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.3.0",
+        "systemVersion": "2.3.1",
         "coreVersion": "10.303",
         "createdTime": 1697283174017,
-        "modifiedTime": 1697284341305,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1699104155238,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -4379,6 +4379,89 @@
         "modifiedTime": 1697286432128,
         "lastModifiedBy": "fGyKkRuRb8WOlTlE"
       }
+    },
+    {
+      "name": "Miner's Pick",
+      "type": "loot",
+      "system": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "PHB",
+        "quantity": 1,
+        "weight": 10,
+        "price": {
+          "value": 2,
+          "denomination": "gp"
+        },
+        "rarity": "",
+        "identified": false
+      },
+      "img": "icons/tools/hand/pickaxe-steel-white.webp",
+      "ownership": {
+        "default": 3,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "miner's%20pick_phb",
+          "propDroppable": "item"
+        }
+      },
+      "effects": [],
+      "_id": "H8TDh8PV23Mp5QeT",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.3.1",
+        "coreVersion": "10.312",
+        "createdTime": 1701378305901,
+        "modifiedTime": 1701378305901,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "name": "Stone Figurine of a Dog with two Gemstone Eyes the size of Pebbles",
+      "type": "loot",
+      "system": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "unidentified": ""
+        },
+        "source": "",
+        "quantity": 1,
+        "weight": 0,
+        "price": {
+          "value": 0,
+          "denomination": "gp"
+        },
+        "rarity": "",
+        "identified": true
+      },
+      "_id": "P9WT0S7le0cYFel1",
+      "img": "icons/commodities/treasure/figurine-dog.webp",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.3.1",
+        "coreVersion": "10.312",
+        "createdTime": 1701379984582,
+        "modifiedTime": 1701380051307,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
     }
   ],
   "effects": [
@@ -4422,7 +4505,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "disabled": false,
+      "disabled": true,
       "_id": "OXhs9z2z7tkFBtWj",
       "changes": [
         {
@@ -4495,16 +4578,16 @@
     "exportSource": {
       "world": "roof",
       "system": "dnd5e",
-      "coreVersion": "10.303",
-      "systemVersion": "2.3.0"
+      "coreVersion": "10.312",
+      "systemVersion": "2.3.1"
     }
   },
   "_stats": {
     "systemId": "dnd5e",
-    "systemVersion": "2.3.0",
+    "systemVersion": "2.3.1",
     "coreVersion": "10.303",
     "createdTime": 1680102683611,
-    "modifiedTime": 1697302864012,
+    "modifiedTime": 1701386716527,
     "lastModifiedBy": "fGyKkRuRb8WOlTlE"
   }
 }
