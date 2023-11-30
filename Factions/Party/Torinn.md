@@ -9,3 +9,5 @@ Has  problem with the Lottery
 
 [[Easthaven]]
 
+Served in the Military a while back
+

@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "19ea6b58b72c7875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Party/Torinn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6120af502719f058",
             "type": "leaf",
             "state": {
@@ -38,18 +50,6 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/2023/10 14 - Session 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4291e417a9c8c27d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Termalaine/The Blue Clam.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md",
+                "file": "Factions/Party/Torinn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md",
+                "file": "Factions/Party/Torinn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md"
+                "file": "Factions/Party/Torinn.md"
               }
             }
           },
@@ -217,26 +217,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "425479cc273d7764",
+  "active": "19ea6b58b72c7875",
   "lastOpenFiles": [
-    "Assets/Maps/Gem Mine.png",
     "Session Notes/2023/11 30 - Session 5.md",
     "NPCs/Captain Skath.md",
-    "Locations/Ten Towns/Termalaine/Termalaine.md",
+    "Session Notes/2023/10 14 - Session 4.md",
+    "Factions/Party/Tando.md",
+    "Factions/Party/Torinn.md",
+    "Locations/Ten Towns/Bryn Shander/The Northlook.md",
+    "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
     "Locations/Ten Towns/Termalaine/The Blue Clam.md",
     "Locations/Ten Towns/Termalaine/Gem Mine.md",
-    "Session Notes/2023/10 14 - Session 4.md",
+    "Locations/Ten Towns/Termalaine/Termalaine.md",
+    "Assets/Maps/Gem Mine.png",
     "Locations/Kelvin's Cairn.md",
     "Locations/Ten Towns/Targos/The Luskan Arms.md",
     "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
     "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
     "Locations/Ten Towns/Bremen/Bremen.md",
-    "Factions/Party/Tando.md",
     "Factions/Party/Nilak 'Cloud' Northbrook.md",
     "Session Notes/2023/09 19 - Session 3.md",
     "Factions/Battlehammer Clan.md",
     "NPCs/Drizzt Do'Urden.md",
-    "Factions/Party/Torinn.md",
     "Deity/Amaunator.md",
     "Deity/Auril.md",
     "NPCs/Torrga Icevein.md",
@@ -250,7 +252,6 @@
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook (2).json",
     "Locations/Ten Towns/Termalaine",
-    "NPCs/Brunor.md",
     "Locations/Ten Towns/Bremen",
     "Factions",
     "Party/Factions",
@@ -263,7 +264,6 @@
     "Assets/Characters/NPCs/Olwen1.webp",
     "Assets/Characters/NPCs/Boreas.webp",
     "Assets/Characters/NPCs/Olwen2.webp",
-    "Assets/Characters/NPCs/Isolde.webp",
-    "Assets/Characters/NPCs/TalviToken.webp"
+    "Assets/Characters/NPCs/Isolde.webp"
   ]
 }
