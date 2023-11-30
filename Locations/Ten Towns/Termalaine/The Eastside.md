@@ -21,3 +21,8 @@ Haven't had a shipment of Good Mead™️ recently
 
 
 
+50 years ago woman in fur lined red cloak stopped here
+Woman gave them ring
+Howling wind tossed the woman around
+She fled, and wind knocked out grandparents
+
