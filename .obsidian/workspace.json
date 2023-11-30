@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4291e417a9c8c27d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Termalaine/The Blue Clam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c282bb615d038e6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Termalaine/Termalaine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e346a63526b9c55a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023/10 14 - Session 4.md",
+                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2023/10 14 - Session 4.md",
+                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023/10 14 - Session 4.md"
+                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md"
               }
             }
           },
@@ -169,10 +205,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c190065a97cbca99",
+  "active": "e346a63526b9c55a",
   "lastOpenFiles": [
-    "Session Notes/2023/11 30 - Session 5.md",
+    "Locations/Ten Towns/Termalaine/Termalaine.md",
+    "Locations/Ten Towns/Termalaine/Gem Mine.md",
+    "Locations/Ten Towns/Termalaine/The Blue Clam.md",
     "Session Notes/2023/10 14 - Session 4.md",
+    "Session Notes/2023/11 30 - Session 5.md",
     "Locations/Kelvin's Cairn.md",
     "Locations/Ten Towns/Targos/The Luskan Arms.md",
     "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
@@ -184,9 +223,6 @@
     "Factions/Battlehammer Clan.md",
     "NPCs/Drizzt Do'Urden.md",
     "Factions/Party/Torinn.md",
-    "Locations/Ten Towns/Termalaine/Gem Mine.md",
-    "Locations/Ten Towns/Termalaine/Termalaine.md",
-    "Locations/Ten Towns/Termalaine/The Blue Clam.md",
     "Deity/Amaunator.md",
     "Deity/Auril.md",
     "NPCs/Torrga Icevein.md",
