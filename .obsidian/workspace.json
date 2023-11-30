@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md",
+                "file": "Locations/Ten Towns/Termalaine/Termalaine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md",
+                "file": "Locations/Ten Towns/Termalaine/Termalaine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md"
+                "file": "Locations/Ten Towns/Termalaine/Termalaine.md"
               }
             }
           },
@@ -205,13 +205,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e346a63526b9c55a",
+  "active": "c282bb615d038e6d",
   "lastOpenFiles": [
-    "Locations/Ten Towns/Termalaine/Termalaine.md",
-    "Locations/Ten Towns/Termalaine/Gem Mine.md",
     "Locations/Ten Towns/Termalaine/The Blue Clam.md",
-    "Session Notes/2023/10 14 - Session 4.md",
     "Session Notes/2023/11 30 - Session 5.md",
+    "Locations/Ten Towns/Termalaine/Gem Mine.md",
+    "Locations/Ten Towns/Termalaine/Termalaine.md",
+    "Session Notes/2023/10 14 - Session 4.md",
     "Locations/Kelvin's Cairn.md",
     "Locations/Ten Towns/Targos/The Luskan Arms.md",
     "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
