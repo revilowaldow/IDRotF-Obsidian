@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef6ac3c2b588e8a0",
+            "id": "eb22fc249fb2801a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/Bryn Shander.md",
+                "file": "Session Notes/2023/11 30 - Session 5.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eb22fc249fb2801a",
+            "id": "c190065a97cbca99",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,317 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f951c89b9b7df5e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Kelvin's Cairn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c76fd6a6292a6da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d472534d01055d63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a67df4beae3b385d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2c1db3b62b30dfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Bremen/Bremen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4875e469ce766cd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Party/Tando.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4ad4a145d01fe3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Party/Nilak 'Cloud' Northbrook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad2d0e98b45ab5cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2023/09 19 - Session 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99dcc304ec09a413",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Battlehammer Clan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79e3f156f89a1e72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Drizzt Do'Urden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c0052f1567c2df8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "cb693e8e9c9962ae",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a41864019ac9ff64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Party/Torinn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "177cc9cbdc0d48be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cec31279bc2e614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Termalaine/Termalaine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a31d89d4eee2612f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Termalaine/The Blue Clam.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db577496f41c62d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deity/Amaunator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8afb601190680209",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "96c25a8b0163f2d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deity/Auril.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f806501ac9b17baa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Targos/Targos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9af74277fb9ec495",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Crests/TermalaineCrest.png"
-              }
-            }
-          },
-          {
-            "id": "5ddda50c86fb4645",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Crests/TargosCrest.png"
-              }
-            }
-          },
-          {
-            "id": "00c097171b3de6af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Frost Druids.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "799aedd303b9590c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Lonelywood.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d24c783d2932b99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Sephek.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9817a4719bbc0e88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Torrga Icevein.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c89c780054f8894",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -406,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deity/Amaunator.md",
+                "file": "Session Notes/2023/10 14 - Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -423,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deity/Amaunator.md",
+                "file": "Session Notes/2023/10 14 - Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -446,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deity/Amaunator.md"
+                "file": "Session Notes/2023/10 14 - Session 4.md"
               }
             }
           },
@@ -477,12 +169,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "425479cc273d7764",
+  "active": "c190065a97cbca99",
   "lastOpenFiles": [
-    "Deity/Auril.md",
-    "Deity/Amaunator.md",
-    "Locations/Ten Towns/Termalaine/The Blue Clam.md",
+    "Session Notes/2023/11 30 - Session 5.md",
     "Session Notes/2023/10 14 - Session 4.md",
+    "Locations/Kelvin's Cairn.md",
+    "Locations/Ten Towns/Targos/The Luskan Arms.md",
+    "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
+    "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
+    "Locations/Ten Towns/Bremen/Bremen.md",
+    "Factions/Party/Tando.md",
+    "Factions/Party/Nilak 'Cloud' Northbrook.md",
+    "Session Notes/2023/09 19 - Session 3.md",
+    "Factions/Battlehammer Clan.md",
+    "NPCs/Drizzt Do'Urden.md",
+    "Factions/Party/Torinn.md",
+    "Locations/Ten Towns/Termalaine/Gem Mine.md",
+    "Locations/Ten Towns/Termalaine/Termalaine.md",
+    "Locations/Ten Towns/Termalaine/The Blue Clam.md",
+    "Deity/Amaunator.md",
+    "Deity/Auril.md",
     "NPCs/Torrga Icevein.md",
     "NPCs/Sephek.md",
     "Locations/Ten Towns/Lonelywood.md",
@@ -491,27 +197,13 @@
     "Assets/Crests/TargosCrest.png",
     "Assets/Crests/TermalaineCrest.png",
     "Locations/Ten Towns/Targos/Targos.md",
-    "Locations/Ten Towns/Termalaine/Termalaine.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook (2).json",
-    "Locations/Ten Towns/Termalaine/Gem Mine.md",
     "Locations/Ten Towns/Termalaine",
-    "Factions/Party/Torinn.md",
-    "Locations/Ten Towns/Targos/The Luskan Arms.md",
-    "Locations/Kelvin's Cairn.md",
-    "NPCs/Drizzt Do'Urden.md",
-    "Factions/Battlehammer Clan.md",
-    "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
     "NPCs/Brunor.md",
-    "Session Notes/2023/09 19 - Session 3.md",
     "Locations/Ten Towns/Bryn Shander/Bryn Shander.md",
-    "Locations/Ten Towns/Bremen/Bremen.md",
     "Locations/Ten Towns/Bremen",
-    "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
     "Game Information.md",
-    "Session Notes/This is Your Life.md",
-    "Factions/Party/Nilak 'Cloud' Northbrook.md",
-    "Factions/Party/Tando.md",
     "Factions",
     "Party/Factions",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
