@@ -6,3 +6,5 @@ Closed due to kobold infiltration
 ![[Gem Mine.png]]
 
 
+Figurine of a dog with two gemstone eyes the size of pebbles
+

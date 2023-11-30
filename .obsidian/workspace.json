@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Party/Hameylyn.md",
+                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Party/Hameylyn.md",
+                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Party/Hameylyn.md"
+                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md"
               }
             }
           },
@@ -253,12 +253,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ca8758ef411e2bd",
+  "active": "e346a63526b9c55a",
   "lastOpenFiles": [
+    "Factions/Party/Hameylyn.md",
     "Locations/Ten Towns/Termalaine/The Eastside.md",
     "Locations/Ten Towns/Termalaine/Termalaine.md",
     "Factions/Party/Nasir.md",
-    "Factions/Party/Hameylyn.md",
     "Factions/Party/Nilak 'Cloud' Northbrook.md",
     "Factions/Party/Torinn.md",
     "Session Notes/2023/11 30 - Session 5.md",
