@@ -228,6 +228,14 @@
             }
           },
           {
+            "id": "8afb601190680209",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "96c25a8b0163f2d0",
             "type": "leaf",
             "state": {
@@ -469,7 +477,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db577496f41c62d5",
+  "active": "425479cc273d7764",
   "lastOpenFiles": [
     "Deity/Auril.md",
     "Deity/Amaunator.md",
