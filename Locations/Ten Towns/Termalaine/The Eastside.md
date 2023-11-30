@@ -26,3 +26,5 @@ Woman gave them ring
 Howling wind tossed the woman around
 She fled, and wind knocked out grandparents
 
+[[Nilak 'Cloud' Northbrook]] gave [[Marta]] a gold and told her to buy her dad a coat
+
