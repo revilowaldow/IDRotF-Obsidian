@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Party/Nasir.md",
+                "file": "Locations/Ten Towns/Termalaine/The Eastside.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Party/Nasir.md",
+                "file": "Locations/Ten Towns/Termalaine/The Eastside.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Party/Nasir.md"
+                "file": "Locations/Ten Towns/Termalaine/The Eastside.md"
               }
             }
           },
@@ -253,8 +253,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4bcb627e18258f11",
+  "active": "19ea6b58b72c7875",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Termalaine/Termalaine.md",
+    "Factions/Party/Nasir.md",
     "Factions/Party/Hameylyn.md",
     "Factions/Party/Nilak 'Cloud' Northbrook.md",
     "Locations/Ten Towns/Termalaine/The Eastside.md",
@@ -267,7 +269,6 @@
     "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
     "Locations/Ten Towns/Termalaine/The Blue Clam.md",
     "Locations/Ten Towns/Termalaine/Gem Mine.md",
-    "Locations/Ten Towns/Termalaine/Termalaine.md",
     "Assets/Maps/Gem Mine.png",
     "Locations/Kelvin's Cairn.md",
     "Locations/Ten Towns/Targos/The Luskan Arms.md",
@@ -281,7 +282,6 @@
     "Deity/Auril.md",
     "NPCs/Torrga Icevein.md",
     "NPCs/Sephek.md",
-    "Locations/Ten Towns/Lonelywood.md",
     "Assets/Crests",
     "Assets/Crests/TargosCrest.png",
     "Assets/Crests/TermalaineCrest.png",

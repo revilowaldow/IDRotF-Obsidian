@@ -9,6 +9,7 @@ Each twin room is 2sp
 Short 5'2"
 Long Blonde Hair
 Human
+Singing to herself
 
 [[Clyde]] her dad owns the Inn but has been ill
 Age, fishing, cold from winds
