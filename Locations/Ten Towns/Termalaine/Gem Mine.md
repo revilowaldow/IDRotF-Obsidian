@@ -3,3 +3,6 @@ Closed due to kobold infiltration
 
 50gp to evict knolls
 
+![[Gem Mine.png]]
+
+

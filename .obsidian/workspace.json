@@ -79,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023/11 30 - Session 5.md",
+                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2023/11 30 - Session 5.md",
+                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023/11 30 - Session 5.md"
+                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md"
               }
             }
           },
@@ -216,10 +217,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb22fc249fb2801a",
+  "active": "425479cc273d7764",
   "lastOpenFiles": [
-    "NPCs/Captain Skath.md",
+    "Assets/Maps/Gem Mine.png",
     "Session Notes/2023/11 30 - Session 5.md",
+    "NPCs/Captain Skath.md",
     "Locations/Ten Towns/Termalaine/Termalaine.md",
     "Locations/Ten Towns/Termalaine/The Blue Clam.md",
     "Locations/Ten Towns/Termalaine/Gem Mine.md",
@@ -249,7 +251,6 @@
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook (2).json",
     "Locations/Ten Towns/Termalaine",
     "NPCs/Brunor.md",
-    "Locations/Ten Towns/Bryn Shander/Bryn Shander.md",
     "Locations/Ten Towns/Bremen",
     "Factions",
     "Party/Factions",
