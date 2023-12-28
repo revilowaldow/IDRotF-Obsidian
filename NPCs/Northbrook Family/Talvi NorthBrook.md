@@ -19,3 +19,12 @@ Residence:
 - Alive and Well
 - Friendly
 - Own accommodation
+
+
+<hr>
+
+Met Talvi and sold 64gp worth of gems
+Tried identifying skull gem but no indication of knowledge
+A little shocked by my appearance
+
+
