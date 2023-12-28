@@ -12,3 +12,7 @@ Need to do mining in the mine before reopening it
 
 Spoke to Marta, dad doing better?
 
+Tando and Hamelyn go to find Oarus
+
+Town hall has a genie with gemstones for eyes and teeth carved on the outside
+
