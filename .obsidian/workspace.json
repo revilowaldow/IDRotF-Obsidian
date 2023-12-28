@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "c190065a97cbca99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2023/12 28 - Session 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c282bb615d038e6d",
             "type": "leaf",
             "state": {
@@ -66,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c190065a97cbca99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2023/12 28 - Session 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023/12 28 - Session 6.md",
+                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2023/12 28 - Session 6.md",
+                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023/12 28 - Session 6.md"
+                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md"
               }
             }
           },
@@ -206,8 +206,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c190065a97cbca99",
+  "active": "e346a63526b9c55a",
   "lastOpenFiles": [
+    "Session Notes/2023/12 28 - Session 6.md",
+    "Locations/Ten Towns/Termalaine/Gem Mine.md",
     "Locations/Ten Towns/Termalaine/Termalaine.md",
     "Factions/Party/Nilak 'Cloud' Northbrook.md",
     "NPCs/Captain Skath.md",
@@ -215,9 +217,7 @@
     "Factions/Party/Hameylyn.md",
     "Session Notes/2023/11 30 - Session 5.md",
     "Locations/Ten Towns/Termalaine/The Eastside.md",
-    "Session Notes/2023/12 28 - Session 6.md",
     "Session Notes/2023/10 14 - Session 4.md",
-    "Locations/Ten Towns/Termalaine/Gem Mine.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Factions/Party/Torinn.md",
     "Factions/Party/Tando.md",
