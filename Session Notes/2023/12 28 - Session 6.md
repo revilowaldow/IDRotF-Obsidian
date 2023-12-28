@@ -18,3 +18,6 @@ Town hall has a genie with gemstones for eyes and teeth carved on the outside
 
 Trex's bag is filled with moss from Kelvin's Cairn
 
+- [ ] Player permissions to change images
+
+

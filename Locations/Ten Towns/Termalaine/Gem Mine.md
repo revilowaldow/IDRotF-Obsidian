@@ -1,7 +1,7 @@
 Closed due to kobold infiltration
 (Not gnolls)
 
-50gp to evict knolls
+50gp to evict gnolls
 
 ![[Gem Mine.png]]
 
