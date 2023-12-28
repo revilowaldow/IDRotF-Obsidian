@@ -18,6 +18,9 @@ Scriddly Bits (scraps/bits/ends, batter bits etc)
 > - [[Nilak 'Cloud' Northbrook]]
 
 
-Chef has an apron and hat, is half orc
+
+[[Vernon]] Chef has an apron and hat, is half orc
 
 Mine's actually been infiltrated by Kobolds!
+
+

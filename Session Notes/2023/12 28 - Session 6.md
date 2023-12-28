@@ -24,6 +24,10 @@ Trex and co are going to work at [[The Eastside]]
 
 Mining in mine completed
 
-Militia has cleared out of t
+Militia has cleared out of [[The Blue Clam]]
+Captain Skath has left after a disagreement 
+
+
+
 
 
