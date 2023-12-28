@@ -27,6 +27,8 @@ Mining in mine completed
 Militia has cleared out of [[The Blue Clam]]
 Captain Skath has left after a disagreement 
 
+We level up!
+
 
 
 
