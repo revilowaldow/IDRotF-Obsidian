@@ -20,4 +20,9 @@ Trex's bag is filled with moss from Kelvin's Cairn
 
 - [ ] Player permissions to change images
 
+Trex and co are going to work at [[The Eastside]]
+
+Mining in mine completed
+
+
 
