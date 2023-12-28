@@ -8,5 +8,5 @@ Closed due to kobold infiltration
 
 Figurine of a dog with two gemstone eyes the size of pebbles
 
-Cloud jumped from 1 to 
+Cloud jumped from 1 to 3
 

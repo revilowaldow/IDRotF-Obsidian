@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2023/11 30 - Session 5.md",
+                "file": "Locations/Ten Towns/Termalaine/The Eastside.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md",
+                "file": "Session Notes/2023/12 28 - Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md",
+                "file": "Session Notes/2023/12 28 - Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md"
+                "file": "Session Notes/2023/12 28 - Session 6.md"
               }
             }
           },
@@ -206,17 +206,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e346a63526b9c55a",
+  "active": "c190065a97cbca99",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Termalaine/The Eastside.md",
     "Session Notes/2023/12 28 - Session 6.md",
+    "Session Notes/2023/11 30 - Session 5.md",
     "Locations/Ten Towns/Termalaine/Gem Mine.md",
     "Locations/Ten Towns/Termalaine/Termalaine.md",
     "Factions/Party/Nilak 'Cloud' Northbrook.md",
     "NPCs/Captain Skath.md",
     "Factions/Party/Nasir.md",
     "Factions/Party/Hameylyn.md",
-    "Session Notes/2023/11 30 - Session 5.md",
-    "Locations/Ten Towns/Termalaine/The Eastside.md",
     "Session Notes/2023/10 14 - Session 4.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Factions/Party/Torinn.md",
