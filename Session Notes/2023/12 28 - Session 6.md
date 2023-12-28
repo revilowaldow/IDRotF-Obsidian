@@ -10,3 +10,5 @@ Returning to [[Oarus Masthew]]
 
 Need to do mining in the mine before reopening it
 
+Spoke to Marta, dad doing better?
+
