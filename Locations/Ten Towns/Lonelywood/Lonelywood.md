@@ -10,4 +10,10 @@ Council of Speakers
 
 Sacrifice Food
 
+Timber supplier for Ten Towns
+
+
+Inn might be closed
+
+Tavern Owner is full of stories
 
