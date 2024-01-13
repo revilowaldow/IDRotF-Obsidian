@@ -5,3 +5,5 @@ Threatened [[Lonelywood]]
 [[Lonelywood]] made basket of treasures and asked the druids to leave
 [[White Moose]] appeared around the same time
 
+Female frost druid bothering lonelywood
+
