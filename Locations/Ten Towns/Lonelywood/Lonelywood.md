@@ -32,3 +32,8 @@ Ex adventurers, assassins, ex cons etc
 But all retired
 
 Human Female passed note to halfling child 
+Ran off to speakers house
+
+Nimsy's Son is called Scoot
+
+
