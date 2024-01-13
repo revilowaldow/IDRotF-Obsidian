@@ -28,4 +28,7 @@ Ramshackle Closed Inn
 Lonelywood don't want to talk about their house
 Friendly welcoming place
 Neutral ground
-Ex adventurers, 
+Ex adventurers, assassins, ex cons etc
+But all retired
+
+Human Female passed note to halfling child 
