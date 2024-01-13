@@ -30,7 +30,7 @@ Going to Lonelywood to deal with the moose
 Ramshackle can be given to us
 
 Charm is Conjuration
-
+Conjures a feast
 
 
 
