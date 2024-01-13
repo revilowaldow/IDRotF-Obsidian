@@ -40,4 +40,9 @@ Nimsy's Son is called Scoop
 Owner of the Scrimshander
 Iriskree, human female
 
+[[Sazah Bodz]] - Friend of [[Nimsy]]
+Human Female with Dark hair
 
+Shopping:
+
+Engraving of Dragon
