@@ -19,6 +19,8 @@ Looking for portal magic to visit and explore himself
 
 Hamyln summons owl from under hat
 
+Each chiwinga has a piece of cutlery
+
 
 
 
