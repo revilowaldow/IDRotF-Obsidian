@@ -19,4 +19,13 @@ Inn might be closed
 
 Tavern Owner is full of stories
 
-Lucky Liar 
+Lucky Liar Tavern
+
+The Happy Scrimshander Shop
+
+Ramshackle Closed Inn
+
+Lonelywood don't want to talk about their house
+Friendly welcoming place
+Neutral ground
+Ex adventurers, 
