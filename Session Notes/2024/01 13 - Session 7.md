@@ -17,6 +17,8 @@ Wizard died when tando's dad
 Earth Genie - Tando's dad
 Looking for portal magic to visit and explore himself
 
+Hamyln summons owl from under hat
+
 
 
 
