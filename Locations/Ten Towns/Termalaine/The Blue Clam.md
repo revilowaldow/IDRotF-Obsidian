@@ -24,3 +24,5 @@ Scriddly Bits (scraps/bits/ends, batter bits etc)
 Mine's actually been infiltrated by Kobolds!
 
 
+Thythran? Dwarf Male
+
