@@ -46,3 +46,7 @@ Human Female with Dark hair
 Shopping:
 
 Engraving of Dragon
+Inks, tools needles knives, etc
+Groceries
+Convenience score
+
