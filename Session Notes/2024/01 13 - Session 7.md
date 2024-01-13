@@ -32,6 +32,13 @@ Ramshackle can be given to us
 Charm is Conjuration
 Conjures a feast
 
+Large crystal and marble structure
+
+white marble structure 
+
+Gnomon sundial
+
+
 
 
 
