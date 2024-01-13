@@ -22,6 +22,11 @@ Hamyln summons owl from under hat
 Each chiwinga has a piece of cutlery
 
 
+Made friends with Star the chwinga
+Given a three use charm
+Going to Lonelywood to deal with the moose
+
+
 
 
 
