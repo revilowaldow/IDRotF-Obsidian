@@ -29,6 +29,8 @@ Going to Lonelywood to deal with the moose
 125gp total for dealing with the moose
 Ramshackle can be given to us
 
+Charm is Conjuration
+
 
 
 
