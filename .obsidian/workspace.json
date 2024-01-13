@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/The Blue Clam.md",
+                "file": "Session Notes/2024/01 13 - Session 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/The Blue Clam.md",
+                "file": "Session Notes/2024/01 13 - Session 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/The Blue Clam.md"
+                "file": "Session Notes/2024/01 13 - Session 7.md"
               }
             }
           },
@@ -205,11 +205,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1192344813ec64dc",
+  "active": "c190065a97cbca99",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Termalaine/The Blue Clam.md",
     "Locations/Ten Towns/Termalaine/The Eastside.md",
     "Session Notes/2023/12 28 - Session 6.md",
-    "Locations/Ten Towns/Termalaine/The Blue Clam.md",
     "Factions/Party/Nilak 'Cloud' Northbrook.md",
     "Locations/Ten Towns/Termalaine/Termalaine.md",
     "Locations/Ten Towns/Termalaine/Gem Mine.md",
