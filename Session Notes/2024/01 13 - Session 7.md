@@ -26,7 +26,10 @@ Made friends with Star the chwinga
 Given a three use charm
 Going to Lonelywood to deal with the moose
 
-100gp total for dealing with the 
+125gp total for dealing with the moose
+Ramshackle can be given to us
+
+
 
 
 
