@@ -37,3 +37,7 @@ Ran off to speakers house
 Nimsy's Son is called Scoot
 
 
+Owner of the Scrimshander
+Iriskree, human female
+
+
