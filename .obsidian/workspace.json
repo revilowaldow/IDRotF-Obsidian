@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "1fe55da66a5183b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Lonelywood.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "48cdfc8f468cd4b8",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/01 13 - Session 7.md",
+                "file": "Locations/Ten Towns/Lonelywood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/01 13 - Session 7.md",
+                "file": "Locations/Ten Towns/Lonelywood.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/01 13 - Session 7.md"
+                "file": "Locations/Ten Towns/Lonelywood.md"
               }
             }
           },
@@ -205,15 +217,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c190065a97cbca99",
+  "active": "1fe55da66a5183b1",
   "lastOpenFiles": [
+    "Session Notes/2024/01 13 - Session 7.md",
+    "Locations/Ten Towns/Untitled",
     "Locations/Ten Towns/Termalaine/The Blue Clam.md",
     "Locations/Ten Towns/Termalaine/The Eastside.md",
     "Session Notes/2023/12 28 - Session 6.md",
     "Factions/Party/Nilak 'Cloud' Northbrook.md",
     "Locations/Ten Towns/Termalaine/Termalaine.md",
     "Locations/Ten Towns/Termalaine/Gem Mine.md",
-    "Session Notes/2024/01 13 - Session 7.md",
     "Session Notes/2024",
     "NPCs/Northbrook Family/Talvi Northbrook.md",
     "NPCs/Northbrook Family/Andri Northbrook.md",
@@ -244,7 +257,6 @@
     "Locations/Ten Towns/Bremen",
     "Factions",
     "Party/Factions",
-    "Locations/Ten Towns/Targos",
     "Assets/Maps/Targos.png",
     "Assets/Characters/NPCs/Talvi.webp",
     "Assets/Characters/NPCs/Andri.webp",
