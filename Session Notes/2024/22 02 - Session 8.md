@@ -17,3 +17,11 @@ Fought a banshee
 > - Ravesin
 
 
+Awakened reindeer, polar bears
+
+Vurnis - sister of ravesin
+
+Merchant who took basket killed Vurnis
+
+
+
