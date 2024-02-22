@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ravisin.md",
+                "file": "Session Notes/2024/22 02 - Session 8.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,8 +95,12 @@
             "id": "3b36976570606e87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2023/12 28 - Session 6.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -124,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -190,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Ravisin.md",
+                "file": "Session Notes/2024/01 13 - Session 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Ravisin.md",
+                "file": "Session Notes/2024/01 13 - Session 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Ravisin.md"
+                "file": "Session Notes/2024/01 13 - Session 7.md"
               }
             }
           },
@@ -261,8 +265,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "425479cc273d7764",
+  "active": "7f7cb066714faeec",
   "lastOpenFiles": [
+    "Session Notes/2024/22 02 - Session 8.md",
+    "Session Notes/2023/12 28 - Session 6.md",
+    "NPCs/Ravisin.md",
     "NPCs/Frost Druids.md",
     "Locations/Ten Towns/Lonelywood/Lonelywood.md",
     "Session Notes/2024/01 13 - Session 7.md",
@@ -270,7 +277,6 @@
     "Locations/Ten Towns/Lonelywood",
     "Locations/Ten Towns/Untitled",
     "Locations/Ten Towns/Termalaine/The Eastside.md",
-    "Session Notes/2023/12 28 - Session 6.md",
     "Factions/Party/Nilak 'Cloud' Northbrook.md",
     "Locations/Ten Towns/Termalaine/Termalaine.md",
     "Locations/Ten Towns/Termalaine/Gem Mine.md",
@@ -292,8 +298,6 @@
     "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
     "Assets/Maps/Gem Mine.png",
     "Locations/Kelvin's Cairn.md",
-    "Locations/Ten Towns/Targos/The Luskan Arms.md",
-    "Locations/Ten Towns/Bryn Shander/Blackiron Blades.md",
     "Assets/Crests",
     "Assets/Crests/TargosCrest.png",
     "Assets/Crests/TermalaineCrest.png",
