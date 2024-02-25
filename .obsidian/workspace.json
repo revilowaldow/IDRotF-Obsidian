@@ -138,9 +138,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25e6f1c81f0db56b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -277,7 +287,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "425479cc273d7764",
+  "active": "25e6f1c81f0db56b",
   "lastOpenFiles": [
     "Session Notes/2024/22 02 - Session 8.md",
     "Session Notes/2024/01 13 - Session 7.md",
