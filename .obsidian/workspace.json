@@ -92,30 +92,6 @@
             }
           },
           {
-            "id": "69d7329737add1e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2024/01 13 - Session 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b36976570606e87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2023/12 28 - Session 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7f7cb066714faeec",
             "type": "leaf",
             "state": {
@@ -140,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -206,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023/12 28 - Session 6.md",
+                "file": "Session Notes/2024/22 02 - Session 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2023/12 28 - Session 6.md",
+                "file": "Session Notes/2024/22 02 - Session 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023/12 28 - Session 6.md"
+                "file": "Session Notes/2024/22 02 - Session 8.md"
               }
             }
           },
@@ -277,11 +253,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48cdfc8f468cd4b8",
+  "active": "952091f25a97f4a7",
   "lastOpenFiles": [
+    "Session Notes/2023/12 28 - Session 6.md",
     "Session Notes/2024/22 02 - Session 8.md",
     "Session Notes/2024/01 13 - Session 7.md",
-    "Session Notes/2023/12 28 - Session 6.md",
     "NPCs/Ravisin.md",
     "NPCs/Frost Druids.md",
     "Locations/Ten Towns/Lonelywood/Lonelywood.md",
