@@ -5,3 +5,4 @@ Mix of fisherman and lumberjacks
 
 Barkeep wrote something down after telling her we killed moose
 
+Dougan's ho

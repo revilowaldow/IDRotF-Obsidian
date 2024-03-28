@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ten Towns/Lonelywood/Lucky Liar.md",
+                "file": "Locations/Ten Towns/Lonelywood/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Lonelywood/Lucky Liar.md",
+                "file": "Locations/Ten Towns/Lonelywood/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Lonelywood/Lucky Liar.md",
+                "file": "Locations/Ten Towns/Lonelywood/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Lonelywood/Lucky Liar.md"
+                "file": "Locations/Ten Towns/Lonelywood/Untitled.md"
               }
             }
           },
@@ -195,10 +195,11 @@
   },
   "active": "1fe55da66a5183b1",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Lonelywood/Ramshackle.md",
+    "Locations/Ten Towns/Lonelywood/Untitled.md",
+    "Locations/Ten Towns/Lonelywood/Lucky Liar.md",
     "Locations/Ten Towns/Termalaine/The Blue Clam.md",
     "Locations/Ten Towns/Termalaine/Termalaine.md",
-    "Locations/Ten Towns/Lonelywood/Lucky Liar.md",
-    "Locations/Ten Towns/Lonelywood/Ramshackle.md",
     "Locations/Ten Towns/Lonelywood/Lonelywood.md",
     "Locations/Ten Towns/Lonelywood/The Lucky Liar.md",
     "Session Notes/2024/02 22 - Session 8.md",
@@ -223,7 +224,6 @@
     "NPCs/Captain Skath.md",
     "Factions/Party/Nasir.md",
     "Factions/Party/Hameylyn.md",
-    "Session Notes/2023/10 14 - Session 4.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Assets/Maps/Gem Mine.png",
     "Assets/Crests",
