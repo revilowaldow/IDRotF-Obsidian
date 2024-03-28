@@ -64,4 +64,6 @@ South West from Termaline
 Indefinite madness
 No trust, only imaginary friend
 
+> You attune. And you hear a loud and constant alarm in your head. Like a homing beacon drawing you to a location in the tundra. 
+> You also gain a form of madness. There’s only one person you can truly trust in this world and it’s a special friend that only you can see”
 
