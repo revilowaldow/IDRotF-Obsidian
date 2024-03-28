@@ -90,9 +90,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8db85948928585de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2023/07 22 - Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5637a123373c5db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2023/08 24 - Session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "909de88eb6378a77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -158,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/03 28 - Session 9.md",
+                "file": "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/03 28 - Session 9.md",
+                "file": "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/03 28 - Session 9.md"
+                "file": "Locations/Ten Towns/Bremen/Buried Treasure Inn.md"
               }
             }
           },
@@ -229,11 +265,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "836c5ced15735563",
+  "active": "909de88eb6378a77",
   "lastOpenFiles": [
+    "Session Notes/2023/08 24 - Session 2.md",
+    "Session Notes/2023/07 22 - Session 1.md",
+    "Session Notes/2024/03 28 - Session 9.md",
     "Locations/Ten Towns/Lonelywood/Ramshackle.md",
     "Locations/Ten Towns/Lonelywood/Liar.md",
-    "Session Notes/2024/03 28 - Session 9.md",
     "Session Notes/2024/02 22 - Session 8.md",
     "Locations/Ten Towns/Lonelywood/Untitled.md",
     "Locations/Ten Towns/Lonelywood/Lucky Liar.md",
@@ -242,7 +280,6 @@
     "Locations/Ten Towns/Lonelywood/Lonelywood.md",
     "Locations/Ten Towns/Lonelywood/The Lucky Liar.md",
     "Session Notes/2024/01 13 - Session 7.md",
-    "Session Notes/2023/08 24 - Session 2.md",
     "Session Notes/2023/12 28 - Session 6.md",
     "NPCs/Ravisin.md",
     "NPCs/Frost Druids.md",
@@ -259,7 +296,6 @@
     "NPCs/Northbrook Family/Olwen Northbrook.md",
     "Session Notes/2023/11 30 - Session 5.md",
     "NPCs/Captain Skath.md",
-    "Factions/Party/Nasir.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Assets/Maps/Gem Mine.png",
     "Assets/Crests",
