@@ -53,5 +53,5 @@ White Moose up antlers and pelt
 
 [[Iriskri]] admitted to killing Vurnis when confronted
 
-
+Snowy barn owl flying overhead
 
