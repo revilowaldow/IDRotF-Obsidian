@@ -50,4 +50,8 @@ Paint and charcoal
 [[Meakas Anranrakas]]
 Animated spectral hand doing sketching
 
+Shield of all the towns on the wall
+
+White Moose up antlers and pelt
+
 
