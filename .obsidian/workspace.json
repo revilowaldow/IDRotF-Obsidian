@@ -138,19 +138,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "25e6f1c81f0db56b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -216,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/01 13 - Session 7.md",
+                "file": "Session Notes/2023/12 28 - Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/01 13 - Session 7.md",
+                "file": "Session Notes/2023/12 28 - Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/01 13 - Session 7.md"
+                "file": "Session Notes/2023/12 28 - Session 6.md"
               }
             }
           },
@@ -287,7 +277,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "25e6f1c81f0db56b",
+  "active": "48cdfc8f468cd4b8",
   "lastOpenFiles": [
     "Session Notes/2024/22 02 - Session 8.md",
     "Session Notes/2024/01 13 - Session 7.md",
