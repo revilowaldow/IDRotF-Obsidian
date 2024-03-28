@@ -39,14 +39,11 @@ Taking accurate notes and maps
 
 Morning:
 
-Animated stood collecting wood?
+Animated stool collecting wood?
 
 Red Tiefling with green eyes and long black silky hair and wings
-
 Dressed in expensive bright clothes
-
 Paint and charcoal
-
 [[Meakas Anranrakas]]
 Animated spectral hand doing sketching
 
