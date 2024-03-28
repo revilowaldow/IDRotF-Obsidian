@@ -14,6 +14,9 @@ reception desk
 large barrel, few more barrels
 
 kitchen area
+long, left is worksurfaces
+aga dow
+
 
 set of stairs
 
