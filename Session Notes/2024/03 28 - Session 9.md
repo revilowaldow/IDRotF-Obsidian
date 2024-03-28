@@ -37,4 +37,16 @@ taking solace in views in wilderness, despite hate it, still beautiful
 Taking accurate notes and maps
 
 
+Morning:
+
+Animated stood collecting wood?
+
+Red Tiefling with green eyes and long black silky hair and wings
+
+Dressed in expensive bright clothes
+
+Paint and charcoal
+
+[[Meakas Anranrakas]]
+
 
