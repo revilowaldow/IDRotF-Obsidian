@@ -67,3 +67,13 @@ No trust, only imaginary friend
 > You attune. And you hear a loud and constant alarm in your head. Like a homing beacon drawing you to a location in the tundra. 
 > You also gain a form of madness. There’s only one person you can truly trust in this world and it’s a special friend that only you can see”
 
+ 50-60 ear old woman with winter clothes kills last bandit
+ Wand of magic missile
+Wand is trembling
+Eyepatch
+gold brooch in the shape of an elongated diamond
+
+Cloud still raging "who the fuck are you"
+
+
+ 
