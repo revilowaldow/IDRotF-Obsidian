@@ -51,4 +51,7 @@ Shield of all the towns on the wall
 
 White Moose up antlers and pelt
 
+[[Iriskri]] admitted to killing Vurnis when confronted
+
+
 
