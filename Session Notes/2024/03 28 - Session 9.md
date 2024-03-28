@@ -27,6 +27,14 @@ In wet trout, mum not there
 very sad
 
 Hamlyn
+dream of dinner table in cabin, whole table of food
+Eat and eat and eat
+Look up and massive toad opposite
+
+Cloud
+dream myself wandering ten towns feeling isolated
+taking solace in views in wilderness, despite hate it, still beautiful
+Taking accurate notes and maps
 
 
 
