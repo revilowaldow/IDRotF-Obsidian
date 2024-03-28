@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/03 28 - Session 9.md",
+                "file": "Locations/Ten Towns/Lonelywood/Liar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/03 28 - Session 9.md",
+                "file": "Locations/Ten Towns/Lonelywood/Liar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/03 28 - Session 9.md"
+                "file": "Locations/Ten Towns/Lonelywood/Liar.md"
               }
             }
           },
@@ -217,8 +217,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "836c5ced15735563",
+  "active": "1fe55da66a5183b1",
   "lastOpenFiles": [
+    "Session Notes/2024/03 28 - Session 9.md",
     "Session Notes/2024/02 22 - Session 8.md",
     "Locations/Ten Towns/Lonelywood/Liar.md",
     "Locations/Ten Towns/Lonelywood/Untitled.md",
@@ -230,7 +231,6 @@
     "Locations/Ten Towns/Lonelywood/The Lucky Liar.md",
     "Session Notes/2024/01 13 - Session 7.md",
     "Session Notes/2023/08 24 - Session 2.md",
-    "Session Notes/2024/03 28 - Session 9.md",
     "Session Notes/2023/12 28 - Session 6.md",
     "NPCs/Ravisin.md",
     "NPCs/Frost Druids.md",
