@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Lonelywood/Ramshackle.md",
+                "file": "Session Notes/2024/03 28 - Session 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Lonelywood/Ramshackle.md",
+                "file": "Session Notes/2024/03 28 - Session 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Lonelywood/Ramshackle.md"
+                "file": "Session Notes/2024/03 28 - Session 9.md"
               }
             }
           },
@@ -229,13 +229,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f78a3a9bd8fe7a4e",
+  "active": "836c5ced15735563",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Lonelywood/Ramshackle.md",
     "Locations/Ten Towns/Lonelywood/Liar.md",
     "Session Notes/2024/03 28 - Session 9.md",
     "Session Notes/2024/02 22 - Session 8.md",
     "Locations/Ten Towns/Lonelywood/Untitled.md",
-    "Locations/Ten Towns/Lonelywood/Ramshackle.md",
     "Locations/Ten Towns/Lonelywood/Lucky Liar.md",
     "Locations/Ten Towns/Termalaine/The Blue Clam.md",
     "Locations/Ten Towns/Termalaine/Termalaine.md",

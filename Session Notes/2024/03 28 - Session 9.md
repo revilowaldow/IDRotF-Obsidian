@@ -11,6 +11,22 @@ Torinn touched by the frostmaiden?
 	Want to go back to Easthaven left abruptly
 	Spent a lot of time working behind the bar [[Wet Trout]]
 
+Nasir dream
+In bed with lady
+fishbowl with angler fish in on desk
+
+Tando dream
+On ship, blizzard, crash
+Very cold, blizzard shapes of town
+
+Torinn dream
+Battle fending off sword attacks
+Compatriots aside
+Blow to head
+In wet trout, mum not there
+very sad
+
+Hamlyn
 
 
 
