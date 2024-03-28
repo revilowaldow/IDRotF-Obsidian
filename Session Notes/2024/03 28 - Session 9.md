@@ -1,4 +1,6 @@
 [[Iriskri]] - shopkeep
 
-[[Hameylyn]] feeds 
+[[Hameylyn]] feeds the awakened shrub some axe beak dung
+
+
 
