@@ -48,5 +48,6 @@ Dressed in expensive bright clothes
 Paint and charcoal
 
 [[Meakas Anranrakas]]
+Animated spectral hand doing sketching
 
 
