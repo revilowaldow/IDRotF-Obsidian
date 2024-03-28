@@ -15,8 +15,9 @@ large barrel, few more barrels
 
 kitchen area
 long, left is worksurfaces
-aga dow
-
+aga down end
+center chopping area
+crates 
 
 set of stairs
 
