@@ -53,3 +53,7 @@ We have located and captured Rendaril at long last. He is a valuable asset to us
 Prudence
 
 /award party 92gp 76sp 125cp
+
+Zhentarim
+Torrga had brooch of Zhentarim
+
