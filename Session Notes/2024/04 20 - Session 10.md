@@ -45,3 +45,11 @@ Torin has aged a decade
 4 light crossbows
 20 crossbow bolts
 
+
+
+> Torrga,
+I'm sure you've already Travelled to Luskan by now to collect the Half Elf's bounty. If so, you must return immediately!
+We have located and captured Rendaril at long last. He is a valuable asset to us and I know you have a particular task for him. Report back as soon as you get this!
+Prudence
+
+/award party 92gp 76sp 125cp
