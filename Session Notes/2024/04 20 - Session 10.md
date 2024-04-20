@@ -93,6 +93,9 @@ Keegan
 [[Boy]]
 
 
+Need to review inventory and gold for all
+Need to 
+
 
 
 
