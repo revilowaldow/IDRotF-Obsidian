@@ -19,7 +19,7 @@ Ship was lost
 
 Marta moved ring to dad,
 Dad awake 
+[[Clyde Peskryk]] 
 
 Reminder to loot all the bandits
 
-[[Clyde]]

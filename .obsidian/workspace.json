@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2023/09 19 - Session 3.md",
+                "file": "Session Notes/2024/04 20 - Session 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2023/09 19 - Session 3.md",
+                "file": "Session Notes/2024/04 20 - Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2023/09 19 - Session 3.md"
+                "file": "Session Notes/2024/04 20 - Session 10.md"
               }
             }
           },
@@ -253,13 +253,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96714b46b749c1d0",
+  "active": "836c5ced15735563",
   "lastOpenFiles": [
+    "Session Notes/2023/08 24 - Session 2.md",
+    "Session Notes/2023/09 19 - Session 3.md",
     "Session Notes/2023/10 14 - Session 4.md",
     "Session Notes/2024/01 13 - Session 7.md",
     "Session Notes/2023/11 30 - Session 5.md",
     "Session Notes/2023/12 28 - Session 6.md",
-    "Session Notes/2023/08 24 - Session 2.md",
     "Session Notes/2024/04 20 - Session 10.md",
     "Session Notes/2024/03 28 - Session 9.md",
     "Session Notes/2023/07 22 - Session 1.md",
@@ -285,7 +286,6 @@
     "Session Notes/2024",
     "NPCs/Northbrook Family/Talvi Northbrook.md",
     "NPCs/Northbrook Family/Andri Northbrook.md",
-    "NPCs/Northbrook Family/Boreas Northbrook.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Assets/Maps/Gem Mine.png",
     "Assets/Crests",
