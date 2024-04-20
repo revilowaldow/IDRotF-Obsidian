@@ -87,7 +87,10 @@ Torga and Sepehek killed elf
 "It's Nilak"
 "Where have you been?"
 
+Lost dog
 Where's Garett
+Keegan
+[[Boy]]
 
 
 
