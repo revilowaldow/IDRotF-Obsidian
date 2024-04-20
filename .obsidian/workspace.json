@@ -8,66 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb22fc249fb2801a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Termalaine/The Eastside.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1192344813ec64dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Termalaine/The Blue Clam.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e51ffaaa0d93650f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Lonelywood/Lonelywood.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fe55da66a5183b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Lonelywood/Liar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f78a3a9bd8fe7a4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Lonelywood/Ramshackle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "61eb850ab885d4d4",
             "type": "leaf",
             "state": {
@@ -92,43 +32,19 @@
             }
           },
           {
-            "id": "8db85948928585de",
+            "id": "254a32e03f1065e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5637a123373c5db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2023/08 24 - Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "909de88eb6378a77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
+                "file": "Session Notes/2024/03 28 - Session 9.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md",
+                "file": "Session Notes/2024/03 28 - Session 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md",
+                "file": "Session Notes/2024/03 28 - Session 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md"
+                "file": "Session Notes/2024/03 28 - Session 9.md"
               }
             }
           },
@@ -265,23 +181,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "425479cc273d7764",
+  "active": "254a32e03f1065e4",
   "lastOpenFiles": [
-    "Session Notes/2024/03 28 - Session 9.md",
     "Session Notes/2024/04 20 - Session 10.md",
-    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
-    "Assets/Sheet Backups/fvtt-Actor-cloud.json",
+    "Session Notes/2023/07 22 - Session 1.md",
     "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
     "Session Notes/2023/08 24 - Session 2.md",
-    "Session Notes/2023/07 22 - Session 1.md",
-    "Locations/Ten Towns/Lonelywood/Ramshackle.md",
-    "Locations/Ten Towns/Lonelywood/Liar.md",
     "Session Notes/2024/02 22 - Session 8.md",
+    "Locations/Ten Towns/Termalaine/The Eastside.md",
+    "Locations/Ten Towns/Termalaine/The Blue Clam.md",
+    "Locations/Ten Towns/Lonelywood/Lonelywood.md",
+    "Locations/Ten Towns/Lonelywood/Liar.md",
+    "Locations/Ten Towns/Lonelywood/Ramshackle.md",
+    "Session Notes/2024/03 28 - Session 9.md",
+    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
+    "Assets/Sheet Backups/fvtt-Actor-cloud.json",
     "Locations/Ten Towns/Lonelywood/Untitled.md",
     "Locations/Ten Towns/Lonelywood/Lucky Liar.md",
-    "Locations/Ten Towns/Termalaine/The Blue Clam.md",
     "Locations/Ten Towns/Termalaine/Termalaine.md",
-    "Locations/Ten Towns/Lonelywood/Lonelywood.md",
     "Locations/Ten Towns/Lonelywood/The Lucky Liar.md",
     "Session Notes/2024/01 13 - Session 7.md",
     "Session Notes/2023/12 28 - Session 6.md",
@@ -289,7 +206,6 @@
     "NPCs/Frost Druids.md",
     "Locations/Ten Towns/Lonelywood",
     "Locations/Ten Towns/Untitled",
-    "Locations/Ten Towns/Termalaine/The Eastside.md",
     "Factions/Party/Nilak 'Cloud' Northbrook.md",
     "Locations/Ten Towns/Termalaine/Gem Mine.md",
     "Session Notes/2024",
