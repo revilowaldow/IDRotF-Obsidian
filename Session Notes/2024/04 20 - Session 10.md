@@ -5,10 +5,16 @@ Magic Missile wand
 Gold Booch in shape of elongated diamond
 
 Looking for a colleague [[Nass Lantomir]]
-Another member of Arcane Brotherhod
+Another member of [[Arcane Brotherhood]]
 Stole a precious heirloom
 Professor Skant
 Professor Orb
 
 Mission to strengthen brotherhood by acquiring magic items
-Luskin - base of arcan
+Luskin - base of arcane
+
+[[Tando]] has met [[Nass Lantomir]]
+Was on the [[Dark Duchess]] as well
+Ship was lost
+
+ 
