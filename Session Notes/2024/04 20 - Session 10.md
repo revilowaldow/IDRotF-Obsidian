@@ -82,6 +82,10 @@ battleaxe with foaming mug emblem (clan battlehammer)
 
 Torga and Sepehek killed elf
 
+"[[Talvi]] is that you?"
+"It's Nilak"
+"Where have you been?"
+
 
 
 

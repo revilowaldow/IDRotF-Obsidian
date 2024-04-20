@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "4e8f9cd518337f27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Northbrook Family/Talvi Northbrook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1ae33f95c22eaa9e",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md",
+                "file": "NPCs/Northbrook Family/Talvi Northbrook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md",
+                "file": "NPCs/Northbrook Family/Talvi Northbrook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md"
+                "file": "NPCs/Northbrook Family/Talvi Northbrook.md"
               }
             }
           },
@@ -265,13 +277,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "836c5ced15735563",
+  "active": "4e8f9cd518337f27",
   "lastOpenFiles": [
+    "Session Notes/2024/04 20 - Session 10.md",
     "Factions/Party/Tando.md",
     "Session Notes/2024/01 13 - Session 7.md",
     "Session Notes/2024/02 22 - Session 8.md",
     "Session Notes/2024/03 28 - Session 9.md",
-    "Session Notes/2024/04 20 - Session 10.md",
     "Session Notes/2023/08 24 - Session 2.md",
     "Session Notes/2023/09 19 - Session 3.md",
     "Session Notes/2023/10 14 - Session 4.md",
