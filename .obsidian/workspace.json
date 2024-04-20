@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "6848aa2859c0edf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Targos/Targos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9510883dec5b174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/This is Your Life.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4e8f9cd518337f27",
             "type": "leaf",
             "state": {
@@ -150,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Characters/NPCs/Talvi.webp",
+                "file": "Locations/Ten Towns/Targos/Targos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Characters/NPCs/Talvi.webp",
+                "file": "Locations/Ten Towns/Targos/Targos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Characters/NPCs/Talvi.webp"
+                "file": "Locations/Ten Towns/Targos/Targos.md"
               }
             }
           },
@@ -287,9 +311,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb4fcdbd7a081a7f",
+  "active": "6848aa2859c0edf8",
   "lastOpenFiles": [
     "Session Notes/2024/04 20 - Session 10.md",
+    "Session Notes/This is Your Life.md",
+    "Locations/Ten Towns/Targos/Targos.md",
     "Assets/Characters/NPCs/Talvi.webp",
     "NPCs/Northbrook Family/Talvi Northbrook.md",
     "Factions/Party/Tando.md",
@@ -318,7 +344,6 @@
     "NPCs/Frost Druids.md",
     "Locations/Ten Towns/Lonelywood",
     "Locations/Ten Towns/Untitled",
-    "Factions/Party/Nilak 'Cloud' Northbrook.md",
     "Session Notes/2024",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Assets/Maps/Gem Mine.png",
