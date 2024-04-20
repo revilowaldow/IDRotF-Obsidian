@@ -23,7 +23,7 @@
         }
       },
       "con": {
-        "value": 17,
+        "value": 18,
         "proficient": 1,
         "max": null,
         "bonuses": {
@@ -66,7 +66,7 @@
         "formula": ""
       },
       "hp": {
-        "value": 35,
+        "value": 49,
         "max": null,
         "temp": 0,
         "tempmax": 0,
@@ -140,7 +140,7 @@
       "background": "8ABimffvuDa2w45s",
       "originalClass": "JB4irYzEDVYJqN2B",
       "xp": {
-        "value": 900
+        "value": 2700
       },
       "appearance": "Snow Leopard Leonin",
       "trait": "Thinking is for other people. I prefer action.\n\nIf someone is in trouble, I'm always ready to lend help.",
@@ -356,7 +356,7 @@
         }
       },
       "prc": {
-        "value": 1,
+        "value": 2,
         "ability": "wis",
         "bonuses": {
           "check": "",
@@ -382,7 +382,7 @@
         }
       },
       "per": {
-        "value": 0,
+        "value": 1,
         "ability": "cha",
         "bonuses": {
           "check": "",
@@ -660,7 +660,7 @@
           "custom": "PHB"
         },
         "identifier": "barbarian",
-        "levels": 3,
+        "levels": 4,
         "hitDice": "d12",
         "hitDiceUsed": 0,
         "advancement": [
@@ -834,16 +834,6 @@
             "_id": "Xbi45p95bJC8eOFP"
           },
           {
-            "type": "HitPoints",
-            "value": {
-              "1": "max",
-              "2": "avg",
-              "3": "avg"
-            },
-            "_id": "qWReC9BMCdrlWRo8",
-            "configuration": {}
-          },
-          {
             "_id": "XlO5y2wAduCjVVsr",
             "type": "ItemGrant",
             "level": 3,
@@ -859,6 +849,17 @@
                 "fdafaXY16kYrlrsM": ""
               }
             }
+          },
+          {
+            "type": "HitPoints",
+            "value": {
+              "1": "max",
+              "2": "avg",
+              "3": "avg",
+              "4": "avg"
+            },
+            "_id": "qWReC9BMCdrlWRo8",
+            "configuration": {}
           }
         ],
         "spellcasting": {
@@ -942,12 +943,13 @@
               "_totals": {
                 "yes": 10,
                 "no": 0,
-                "ignored": 5
+                "ignored": 6
               },
               "_combineBlue": "or",
               "_combineRed": "or",
               "BGG": 1,
-              "TDCSR": 0
+              "TDCSR": 0,
+              "HWCS": 0
             },
             "Miscellaneous": {
               "Reprinted": 2,
@@ -958,10 +960,11 @@
               "_totals": {
                 "yes": 0,
                 "no": 2,
-                "ignored": 2
+                "ignored": 3
               },
               "_combineBlue": "or",
-              "_combineRed": "or"
+              "_combineRed": "or",
+              "Legacy": 0
             },
             "Other/Text Options": {
               "isDisplayClassIfSubclassActive": false,
@@ -984,11 +987,11 @@
       },
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "3.1.0",
+        "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1680431566588,
-        "modifiedTime": 1711319763943,
-        "lastModifiedBy": "H31VUr2zjgPXSDCK"
+        "modifiedTime": 1713635125927,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
       }
     },
     {
@@ -1187,7 +1190,7 @@
           "units": "self"
         },
         "uses": {
-          "value": 2,
+          "value": 3,
           "max": "@scale.barbarian.rages",
           "per": "lr",
           "recovery": "",
@@ -1256,7 +1259,7 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1680431567375,
-        "modifiedTime": 1711664802328,
+        "modifiedTime": 1713634695454,
         "lastModifiedBy": "fGyKkRuRb8WOlTlE"
       }
     },
@@ -1540,11 +1543,13 @@
       "type": "tool",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"></div><div class=\"rd__b  rd__b--2\"><p>Using <i>cartographer's tools</i>, you can create accurate maps to make travel easier for yourself and those who come after you. These maps can range from large-scale depictions of mountain ranges to diagrams that show the layout of a dungeon level.</p><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"164\"> <span class=\"entry-title-inner\">Components.</span></span> <p><i>Cartographer's tools</i> consist of a quill, ink, parchment, a pair of compasses, calipers, and a ruler.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"165\"> <span class=\"entry-title-inner\">Arcana, History, Religion.</span></span> <p>You can use your knowledge of maps and locations to unearth more detailed information when you use these skills. For instance, you might spot hidden messages in a map, identify when the map was made to determine if geographical features have changed since then, and so forth.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"166\"> <span class=\"entry-title-inner\">Nature.</span></span> <p>Your familiarity with physical geography makes it easier for you to answer questions or solve issues relating to the terrain around you.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"167\"> <span class=\"entry-title-inner\">Survival.</span></span> <p>Your understanding of geography makes it easier to find paths to civilization, to predict areas where villages or towns might be found, and to avoid becoming lost. You have studied so many maps that common patterns, such as how trade routes evolve and where settlements arise in relation to geographic locations, are familiar to you.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"168\"> <span class=\"entry-title-inner\">Craft a Map.</span></span> <p>While traveling, you can draw a map as you go in addition to engaging in other activity.</p><div class=\"rd__spc-inline-post\"></div></div><table class=\"w-100 rd__table  stripe-odd-table\"><caption>Cartographer's Tools</caption><thead><tr><th class=\"col-10\" data-rd-isroller=\"false\">Activity</th><th class=\"col-2 text-center\" data-rd-isroller=\"false\">DC</th></tr></thead><tbody><tr><td class=\"col-10\">Determine a map's age and origin</td><td class=\"col-2 text-center\">10</td></tr><tr><td class=\"col-10\">Estimate direction and distance to a landmark</td><td class=\"col-2 text-center\">15</td></tr><tr><td class=\"col-10\">Discern that a map is fake</td><td class=\"col-2 text-center\">15</td></tr><tr><td class=\"col-10\">Fill in a missing part of a map</td><td class=\"col-2 text-center\">20</td></tr></tbody></table></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"></div><div class=\"rd__b  rd__b--2\"><p>Using cartographer's tools, you can create accurate maps to make travel easier for yourself and those who come after you. These maps can range from large-scale depictions of mountain ranges to diagrams that show the layout of a dungeon level.</p><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Components.</span></span> <p>Cartographer's tools consist of a quill, ink, parchment, a pair of compasses, calipers, and a ruler.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Arcana, History, Religion.</span></span> <p>You can use your knowledge of maps and locations to unearth more detailed information when you use these skills. For instance, you might spot hidden messages in a map, identify when the map was made to determine if geographical features have changed since then, and so forth.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Nature.</span></span> <p>Your familiarity with physical geography makes it easier for you to answer questions or solve issues relating to the terrain around you.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"4\"> <span class=\"entry-title-inner\">Survival.</span></span> <p>Your understanding of geography makes it easier to find paths to civilization, to predict areas where villages or towns might be found, and to avoid becoming lost. You have studied so many maps that common patterns, such as how trade routes evolve and where settlements arise in relation to geographic locations, are familiar to you.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"5\"> <span class=\"entry-title-inner\">Craft a Map.</span></span> <p>While traveling, you can draw a map as you go in addition to engaging in other activity.</p><div class=\"rd__spc-inline-post\"></div></div><table class=\"w-100 rd__table  stripe-odd-table\"><caption>Cartographer's Tools</caption><thead><tr><th class=\"ve-col-10\" data-rd-isroller=\"false\">Activity</th><th class=\"ve-col-2 ve-text-center\" data-rd-isroller=\"false\">DC</th></tr></thead><tbody><tr><td class=\"ve-col-10\">Determine a map's age and origin</td><td class=\"ve-col-2 ve-text-center\">10</td></tr><tr><td class=\"ve-col-10\">Estimate direction and distance to a landmark</td><td class=\"ve-col-2 ve-text-center\">15</td></tr><tr><td class=\"ve-col-10\">Discern that a map is fake</td><td class=\"ve-col-2 ve-text-center\">15</td></tr><tr><td class=\"ve-col-10\">Fill in a missing part of a map</td><td class=\"ve-col-2 ve-text-center\">20</td></tr></tbody></table></div>",
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "154"
         },
         "quantity": 1,
         "weight": 6,
@@ -1558,7 +1563,7 @@
         "identified": true,
         "ability": "int",
         "chatFlavor": "",
-        "proficient": 1,
+        "proficient": null,
         "bonus": "",
         "unidentified": {
           "description": ""
@@ -1591,8 +1596,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1680431569251,
-        "modifiedTime": 1711661248456,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -1604,7 +1609,9 @@
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "150"
         },
         "quantity": 1,
         "weight": 3,
@@ -1685,7 +1692,7 @@
           "conditions": ""
         },
         "strength": null,
-        "proficient": 1,
+        "proficient": null,
         "unidentified": {
           "description": ""
         },
@@ -1701,7 +1708,7 @@
         "summons": null,
         "properties": []
       },
-      "img": "icons/equipment/chest/shirt-collared-brown.webp",
+      "img": "icons/equipment/leg/pants-brown-leather-pants.webp",
       "flags": {
         "plutonium": {
           "page": "items.html",
@@ -1722,8 +1729,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1680431569322,
-        "modifiedTime": 1711661205240,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -1731,11 +1738,13 @@
       "type": "container",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p>A <i>backpack</i> can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a <i>backpack</i>.</p></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.</p></div>",
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "153"
         },
         "quantity": 1,
         "weight": 5,
@@ -1746,7 +1755,7 @@
         "attunement": 0,
         "equipped": false,
         "rarity": "",
-        "identified": false,
+        "identified": true,
         "capacity": {
           "type": "weight",
           "value": 30
@@ -1787,8 +1796,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1680431569420,
-        "modifiedTime": 1711652164072,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -1800,7 +1809,9 @@
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "150"
         },
         "quantity": 1,
         "weight": 7,
@@ -1841,8 +1852,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1680431569481,
-        "modifiedTime": 1711661254885,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -1854,7 +1865,9 @@
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "152"
         },
         "quantity": 2,
         "weight": 1,
@@ -1895,8 +1908,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1680431569540,
-        "modifiedTime": 1711661256997,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -1908,7 +1921,9 @@
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "153"
         },
         "quantity": 1,
         "weight": 1,
@@ -1918,10 +1933,10 @@
         },
         "rarity": "",
         "identified": true,
+        "container": "8KWz5DJbWUpNWniP",
         "unidentified": {
           "description": ""
         },
-        "container": null,
         "properties": [],
         "type": {
           "value": "",
@@ -1949,8 +1964,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1680431569614,
-        "modifiedTime": 1711661259506,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -1958,11 +1973,13 @@
       "type": "consumable",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p>A <i>torch</i> burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning <i>torch</i> and hit, it deals 1 fire damage.</p></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.</p></div>",
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "153"
         },
         "quantity": 9,
         "weight": 1,
@@ -2033,6 +2050,7 @@
           "dc": null,
           "scaling": "spell"
         },
+        "container": "8KWz5DJbWUpNWniP",
         "unidentified": {
           "description": ""
         },
@@ -2044,7 +2062,6 @@
           "bonus": "",
           "flat": false
         },
-        "container": null,
         "summons": null,
         "magicalBonus": null,
         "properties": []
@@ -2070,8 +2087,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1680431569695,
-        "modifiedTime": 1711661211788,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -2079,11 +2096,13 @@
       "type": "consumable",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p><i>Rations</i> consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.</p></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.</p></div>",
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "153"
         },
         "quantity": 10,
         "weight": 2,
@@ -2149,6 +2168,7 @@
           "dc": null,
           "scaling": "spell"
         },
+        "container": "XY8b594Dn7plACLL",
         "unidentified": {
           "description": ""
         },
@@ -2160,7 +2180,6 @@
           "bonus": "",
           "flat": false
         },
-        "container": null,
         "summons": null,
         "magicalBonus": null,
         "properties": []
@@ -2186,8 +2205,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1680431569758,
-        "modifiedTime": 1711661214544,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -2195,11 +2214,13 @@
       "type": "consumable",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p>A <i>waterskin</i> can hold up to 4 pints of liquid.</p></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>A waterskin can hold up to 4 pints of liquid.</p></div>",
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "153"
         },
         "quantity": 1,
         "weight": 5,
@@ -2265,6 +2286,7 @@
           "dc": null,
           "scaling": "spell"
         },
+        "container": "6OYR11aJX2dEVtOj",
         "unidentified": {
           "description": ""
         },
@@ -2276,7 +2298,6 @@
           "bonus": "",
           "flat": false
         },
-        "container": null,
         "summons": null,
         "magicalBonus": null,
         "properties": []
@@ -2302,8 +2323,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1680431569855,
-        "modifiedTime": 1711661216979,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -2315,7 +2336,9 @@
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "153"
         },
         "quantity": 1,
         "weight": 10,
@@ -2397,7 +2420,7 @@
         "magicalBonus": null,
         "properties": []
       },
-      "img": "icons/sundries/survival/rope-wrapped-brown.webp",
+      "img": "icons/sundries/survival/rope-coiled-wrapped-brown.webp",
       "flags": {
         "plutonium": {
           "page": "items.html",
@@ -2418,8 +2441,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1680431569950,
-        "modifiedTime": 1711661219944,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -2431,7 +2454,9 @@
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "149"
         },
         "quantity": 1,
         "weight": 6,
@@ -2502,7 +2527,7 @@
           "scaling": "spell"
         },
         "armor": {
-          "value": 10
+          "value": null
         },
         "hp": {
           "value": 0,
@@ -2514,10 +2539,20 @@
           "hvy",
           "two"
         ],
-        "proficient": 1,
+        "proficient": null,
         "unidentified": {
-          "description": "",
-          "name": ""
+          "name": "",
+          "description": ""
+        },
+        "summons": {
+          "prompt": true,
+          "bonuses": {},
+          "match": {
+            "attacks": false,
+            "proficiency": false,
+            "saves": false
+          },
+          "profiles": []
         },
         "type": {
           "value": "martialM",
@@ -2528,7 +2563,6 @@
           "flat": false
         },
         "container": null,
-        "summons": null,
         "magicalBonus": null
       },
       "img": "icons/weapons/swords/greatsword-guard-gold-worn.webp",
@@ -2552,8 +2586,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1680431570026,
-        "modifiedTime": 1711661166636,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -2565,7 +2599,9 @@
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "149"
         },
         "quantity": 2,
         "weight": 2,
@@ -2610,7 +2646,7 @@
         "consume": {
           "type": "",
           "target": "",
-          "amount": 1,
+          "amount": null,
           "scale": false
         },
         "ability": "",
@@ -2636,7 +2672,7 @@
           "scaling": "spell"
         },
         "armor": {
-          "value": 10
+          "value": null
         },
         "hp": {
           "value": 0,
@@ -2648,7 +2684,17 @@
           "lgt",
           "thr"
         ],
-        "proficient": 1,
+        "proficient": null,
+        "summons": {
+          "prompt": true,
+          "bonuses": {},
+          "match": {
+            "attacks": false,
+            "proficiency": false,
+            "saves": false
+          },
+          "profiles": []
+        },
         "unidentified": {
           "description": ""
         },
@@ -2661,7 +2707,6 @@
           "flat": false
         },
         "container": null,
-        "summons": null,
         "magicalBonus": null
       },
       "img": "icons/weapons/axes/axe-broad-black.webp",
@@ -2685,7 +2730,7 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1680431570108,
-        "modifiedTime": 1711661187083,
+        "modifiedTime": 1713614115530,
         "lastModifiedBy": "fGyKkRuRb8WOlTlE"
       }
     },
@@ -2694,11 +2739,13 @@
       "type": "container",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p>An <i>iron pot</i> holds 1 gallon of liquid.</p></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>An iron pot holds 1 gallon of liquid.</p></div>",
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "153"
         },
         "quantity": 1,
         "weight": 10,
@@ -2709,7 +2756,7 @@
         "attunement": 0,
         "equipped": false,
         "rarity": "",
-        "identified": false,
+        "identified": true,
         "capacity": {
           "type": "weight",
           "value": 8.4
@@ -2727,7 +2774,7 @@
         "container": null,
         "properties": []
       },
-      "img": "icons/tools/laboratory/cauldron-filled-gold.webp",
+      "img": "icons/containers/kitchenware/vase-clay-etched-brown.webp",
       "flags": {
         "plutonium": {
           "page": "items.html",
@@ -2746,11 +2793,11 @@
       },
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.1.3",
-        "coreVersion": "10.291",
+        "systemVersion": "3.1.1",
+        "coreVersion": "11.315",
         "createdTime": 1680431570257,
-        "modifiedTime": 1680431570257,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -2762,9 +2809,11 @@
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "149"
         },
-        "quantity": 9,
+        "quantity": 10,
         "weight": 2,
         "price": {
           "value": 5,
@@ -2807,7 +2856,7 @@
         "consume": {
           "type": "",
           "target": "",
-          "amount": 1,
+          "amount": null,
           "scale": false
         },
         "ability": "",
@@ -2833,7 +2882,7 @@
           "scaling": "spell"
         },
         "armor": {
-          "value": 10
+          "value": null
         },
         "hp": {
           "value": 0,
@@ -2844,7 +2893,17 @@
         "properties": [
           "thr"
         ],
-        "proficient": 1,
+        "proficient": null,
+        "summons": {
+          "prompt": true,
+          "bonuses": {},
+          "match": {
+            "attacks": false,
+            "proficiency": false,
+            "saves": false
+          },
+          "profiles": []
+        },
         "unidentified": {
           "description": ""
         },
@@ -2857,7 +2916,6 @@
           "flat": false
         },
         "container": null,
-        "summons": null,
         "magicalBonus": null
       },
       "img": "icons/weapons/polearms/javelin-flared.webp",
@@ -2881,7 +2939,7 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1680431570328,
-        "modifiedTime": 1711661190114,
+        "modifiedTime": 1713629449331,
         "lastModifiedBy": "fGyKkRuRb8WOlTlE"
       }
     },
@@ -2890,11 +2948,13 @@
       "type": "container",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p>A cloth or leather <i>pouch</i> can hold up to 20 @item[sling bullet|phb|sling bullets] or 50 @item[blowgun needle|phb|blowgun needles], among other things. A compartmentalized <i>pouch</i> for holding spell components is called a @item[component pouch|phb]. A <i>pouch</i> can hold up to ⅕ cubic foot or 6 pounds of gear.</p></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>A cloth or leather pouch can hold up to 20 @item[sling bullet|phb|sling bullets] or 50 @item[blowgun needle|phb|blowgun needles], among other things. A compartmentalized pouch for holding spell components is called a @item[component pouch|phb]. A pouch can hold up to ⅕ cubic foot or 6 pounds of gear.</p></div>",
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "153"
         },
         "quantity": 1,
         "weight": 1,
@@ -2903,9 +2963,9 @@
           "denomination": "sp"
         },
         "attunement": 0,
-        "equipped": false,
+        "equipped": true,
         "rarity": "",
-        "identified": false,
+        "identified": true,
         "capacity": {
           "type": "weight",
           "value": 6
@@ -2942,10 +3002,10 @@
       },
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.3.1",
-        "coreVersion": "10.303",
+        "systemVersion": "3.1.1",
+        "coreVersion": "11.315",
         "createdTime": 1680431570486,
-        "modifiedTime": 1699104155238,
+        "modifiedTime": 1711672990122,
         "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
@@ -2958,7 +3018,9 @@
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "150"
         },
         "quantity": 1,
         "weight": 5,
@@ -2999,8 +3061,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1680431570561,
-        "modifiedTime": 1711661324470,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -3516,7 +3578,9 @@
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "144"
         },
         "quantity": 1,
         "weight": 6,
@@ -3598,19 +3662,28 @@
         },
         "strength": null,
         "proficient": null,
+        "type": {
+          "baseItem": "shield",
+          "value": "shield"
+        },
+        "summons": {
+          "prompt": true,
+          "bonuses": {},
+          "match": {
+            "attacks": false,
+            "proficiency": false,
+            "saves": false
+          },
+          "profiles": []
+        },
         "unidentified": {
           "description": ""
-        },
-        "type": {
-          "value": "shield",
-          "baseItem": ""
         },
         "attack": {
           "bonus": "",
           "flat": false
         },
         "container": null,
-        "summons": null,
         "properties": []
       },
       "img": "https://5etools-mirror-1.github.io/img/adventure/IDRotF/073-01-036.shield-targos.webp",
@@ -3634,7 +3707,7 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1695151000858,
-        "modifiedTime": 1711661207784,
+        "modifiedTime": 1713625956754,
         "lastModifiedBy": "fGyKkRuRb8WOlTlE"
       }
     },
@@ -3643,11 +3716,13 @@
       "type": "loot",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p><i>Snowshoes</i> reduce the likelihood of their wearer getting stuck in the deep snow.</p></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>Snowshoes reduce the likelihood of their wearer getting stuck in the deep snow.</p></div>",
           "chat": ""
         },
         "source": {
-          "custom": "IDRotF"
+          "custom": "",
+          "book": "IDRotF",
+          "page": "20"
         },
         "quantity": 1,
         "weight": 4,
@@ -3657,15 +3732,15 @@
         },
         "rarity": "",
         "identified": true,
+        "type": {
+          "value": "gear",
+          "subtype": ""
+        },
         "unidentified": {
           "description": ""
         },
         "container": null,
-        "properties": [],
-        "type": {
-          "value": "",
-          "subtype": ""
-        }
+        "properties": []
       },
       "img": "icons/equipment/feet/boots-armored-steel-blue.webp",
       "ownership": {
@@ -3688,8 +3763,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1695151000973,
-        "modifiedTime": 1711661320859,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -3806,7 +3881,9 @@
           "chat": ""
         },
         "source": {
-          "custom": "DMG"
+          "custom": "",
+          "book": "DMG",
+          "page": "187"
         },
         "quantity": 1,
         "weight": 0,
@@ -3872,7 +3949,9 @@
           "dc": 13,
           "scaling": "flat"
         },
-        "properties": [],
+        "properties": [
+          "mgc"
+        ],
         "unidentified": {
           "description": ""
         },
@@ -3906,11 +3985,11 @@
       "sort": 0,
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.3.0",
-        "coreVersion": "10.303",
+        "systemVersion": "3.1.1",
+        "coreVersion": "11.315",
         "createdTime": 1697283173785,
-        "modifiedTime": 1697284316401,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -3922,7 +4001,9 @@
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "153"
         },
         "quantity": 1,
         "weight": 1,
@@ -3931,9 +4012,9 @@
           "denomination": "sp"
         },
         "attunement": 0,
-        "equipped": false,
+        "equipped": true,
         "rarity": "",
-        "identified": false,
+        "identified": true,
         "capacity": {
           "type": "weight",
           "value": 6
@@ -3970,10 +4051,10 @@
       "sort": 0,
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.3.1",
-        "coreVersion": "10.303",
+        "systemVersion": "3.1.1",
+        "coreVersion": "11.315",
         "createdTime": 1697283173889,
-        "modifiedTime": 1699104155238,
+        "modifiedTime": 1711672990122,
         "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
@@ -3986,7 +4067,9 @@
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "150"
         },
         "quantity": 1,
         "weight": 0,
@@ -4027,8 +4110,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1697283174017,
-        "modifiedTime": 1711661319068,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -4040,7 +4123,9 @@
           "chat": ""
         },
         "source": {
-          "custom": "PHB"
+          "custom": "",
+          "book": "PHB",
+          "page": "150"
         },
         "quantity": 1,
         "weight": 10,
@@ -4069,8 +4154,7 @@
         "plutonium": {
           "page": "items.html",
           "source": "PHB",
-          "hash": "miner's%20pick_phb",
-          "propDroppable": "item"
+          "hash": "miner's%20pick_phb"
         }
       },
       "effects": [],
@@ -4082,8 +4166,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1701378305901,
-        "modifiedTime": 1711661297452,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -4177,54 +4261,6 @@
         "coreVersion": "11.315",
         "createdTime": 1703755143276,
         "modifiedTime": 1703755186337,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
-      }
-    },
-    {
-      "name": "Gem from Skull",
-      "type": "loot",
-      "system": {
-        "description": {
-          "value": "<p>Warmth energy</p><p></p><p>Evocation Aura</p>",
-          "chat": ""
-        },
-        "source": {},
-        "quantity": 1,
-        "weight": 0,
-        "price": {
-          "value": 0,
-          "denomination": "gp"
-        },
-        "rarity": "",
-        "identified": true,
-        "type": {
-          "value": "gem",
-          "subtype": ""
-        },
-        "unidentified": {
-          "description": ""
-        },
-        "container": null,
-        "properties": [
-          "mgc"
-        ]
-      },
-      "_id": "xdck38hOpFyZdmki",
-      "img": "icons/commodities/gems/gem-rough-oval-pink.webp",
-      "effects": [],
-      "folder": null,
-      "sort": 0,
-      "ownership": {
-        "default": 0,
-        "fGyKkRuRb8WOlTlE": 3
-      },
-      "flags": {},
-      "_stats": {
-        "systemId": "dnd5e",
-        "systemVersion": "3.1.1",
-        "coreVersion": "11.315",
-        "createdTime": 1703757634272,
-        "modifiedTime": 1711665000837,
         "lastModifiedBy": "fGyKkRuRb8WOlTlE"
       }
     },
@@ -4794,146 +4830,6 @@
       }
     },
     {
-      "_id": "U6eXXLZstMQaNsXZ",
-      "name": "Grell Tentacle Whip",
-      "type": "weapon",
-      "system": {
-        "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p>The poisionous tentacle of a Grell with a lashed grip at the base (27 skill check to harvest)<br />Up on wall in The White Moose<br /></p></div><div class=\"rd__b  rd__b--2\"><p>The following effect has been used up.</p><p><span style=\"font-family:Signika, sans-serif\">and the target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. The poisoned target is paralyzed, and it can repeat the saving throw at the end of each of its turns, ending the effect on a success.</span></p></div><p>DC11 vs @condition[Poisoned] for 1 min and @condition[Paralyzed]</p>",
-          "chat": ""
-        },
-        "source": {
-          "custom": "",
-          "book": "PHB",
-          "page": "149",
-          "license": ""
-        },
-        "quantity": 1,
-        "weight": 3,
-        "price": {
-          "value": 2,
-          "denomination": "gp"
-        },
-        "attunement": 0,
-        "equipped": false,
-        "rarity": "",
-        "identified": true,
-        "activation": {
-          "type": "action",
-          "cost": 1,
-          "condition": ""
-        },
-        "duration": {
-          "value": "",
-          "units": ""
-        },
-        "cover": null,
-        "crewed": false,
-        "target": {
-          "value": null,
-          "width": null,
-          "units": "",
-          "type": "",
-          "prompt": true
-        },
-        "range": {
-          "value": 10,
-          "long": 0,
-          "units": "ft"
-        },
-        "uses": {
-          "value": null,
-          "max": "",
-          "per": null,
-          "recovery": "",
-          "prompt": true
-        },
-        "consume": {
-          "type": "",
-          "target": "",
-          "amount": null,
-          "scale": false
-        },
-        "ability": "",
-        "actionType": "mwak",
-        "chatFlavor": "",
-        "critical": {
-          "threshold": null,
-          "damage": ""
-        },
-        "damage": {
-          "parts": [
-            [
-              "1d4 + @mod",
-              "slashing"
-            ]
-          ],
-          "versatile": ""
-        },
-        "formula": "",
-        "save": {
-          "ability": "con",
-          "dc": 11,
-          "scaling": "flat"
-        },
-        "armor": {
-          "value": null
-        },
-        "hp": {
-          "value": 0,
-          "max": 0,
-          "dt": null,
-          "conditions": ""
-        },
-        "properties": [
-          "fin",
-          "rch"
-        ],
-        "proficient": null,
-        "unidentified": {
-          "description": "",
-          "name": ""
-        },
-        "type": {
-          "value": "martialM",
-          "baseItem": "whip"
-        },
-        "attack": {
-          "bonus": "",
-          "flat": false
-        },
-        "container": null,
-        "summons": null,
-        "magicalBonus": null
-      },
-      "img": "icons/weapons/misc/whip-red-yellow.webp",
-      "ownership": {
-        "default": 0,
-        "fGyKkRuRb8WOlTlE": 3
-      },
-      "flags": {
-        "plutonium": {
-          "page": "items.html",
-          "source": "PHB",
-          "hash": "whip_phb"
-        },
-        "core": {
-          "sourceId": "Actor.170V5m4LCLyu0xm7.Item.U6eXXLZstMQaNsXZ"
-        }
-      },
-      "effects": [],
-      "folder": null,
-      "sort": 0,
-      "_stats": {
-        "systemId": "dnd5e",
-        "systemVersion": "3.1.1",
-        "coreVersion": "11.315",
-        "createdTime": 1705146873074,
-        "modifiedTime": 1711661160066,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
-      }
-    },
-    {
       "_id": "saJ2eSNTSIGWdUQT",
       "name": "Greataxe",
       "type": "weapon",
@@ -5030,6 +4926,16 @@
           "two"
         ],
         "proficient": null,
+        "summons": {
+          "prompt": true,
+          "bonuses": {},
+          "match": {
+            "attacks": false,
+            "proficiency": false,
+            "saves": false
+          },
+          "profiles": []
+        },
         "unidentified": {
           "description": ""
         },
@@ -5042,7 +4948,6 @@
           "flat": false
         },
         "container": null,
-        "summons": null,
         "magicalBonus": null
       },
       "img": "icons/weapons/axes/axe-double.webp",
@@ -5054,8 +4959,7 @@
         "plutonium": {
           "page": "items.html",
           "source": "PHB",
-          "hash": "greataxe_phb",
-          "propDroppable": "item"
+          "hash": "greataxe_phb"
         },
         "core": {
           "sourceId": "Item.JFz2yRdYabYnPEbZ"
@@ -5069,8 +4973,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1705157544477,
-        "modifiedTime": 1711661200231,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -5079,7 +4983,7 @@
       "type": "consumable",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p>As an action, you can spill these tiny metal balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall @condition[prone]. A creature moving through the area at half speed doesn't need to make the saving throw.</p></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>As an action, you can spill these tiny metal balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall &amp;Reference[condition=prone]. A creature moving through the area at half speed doesn't need to make the saving throw.</p></div>",
           "chat": ""
         },
         "source": {
@@ -5188,8 +5092,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1705158962450,
-        "modifiedTime": 1711661232783,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -5255,7 +5159,7 @@
       "type": "consumable",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p>As an action, you can spread a single bag of <i>caltrops</i> to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.</p></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.</p></div>",
           "chat": ""
         },
         "source": {
@@ -5369,8 +5273,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1705158963269,
-        "modifiedTime": 1711661235296,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -5379,7 +5283,7 @@
       "type": "consumable",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p>For 1 hour, a <i>candle</i> sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</p></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</p></div>",
           "chat": ""
         },
         "source": {
@@ -5488,8 +5392,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1705158963565,
-        "modifiedTime": 1711661238203,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -5555,7 +5459,7 @@
       "type": "consumable",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p>A <i>climber's kit</i> includes special pitons, boot tips, gloves, and a harness. You can use the <i>climber's kit</i> as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor.</p></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor.</p></div>",
           "chat": ""
         },
         "source": {
@@ -5664,8 +5568,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1705158964129,
-        "modifiedTime": 1711661240565,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -5731,7 +5635,7 @@
       "type": "container",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p>A <i>flask</i> holds 1 pint of liquid.</p></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>A flask holds 1 pint of liquid.</p></div>",
           "chat": ""
         },
         "source": {
@@ -5749,7 +5653,7 @@
         "attunement": 0,
         "equipped": false,
         "rarity": "",
-        "identified": false,
+        "identified": true,
         "capacity": {
           "type": "weight",
           "value": 1
@@ -5795,8 +5699,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1705158964696,
-        "modifiedTime": 1711652185545,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711678346143,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -5805,7 +5709,7 @@
       "type": "consumable",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p>These metal restraints can bind a Small or Medium creature. Escaping the <i>manacles</i> requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of <i>manacles</i> comes with one key. Without the key, a creature proficient with @item[thieves' tools|PHB] can pick the <i>manacles</i>' lock with a successful DC 15 Dexterity check. <i>Manacles</i> have 15 hit points.</p></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>These metal restraints can bind a Small or Medium creature. Escaping the manacles requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of manacles comes with one key. Without the key, a creature proficient with @item[thieves' tools|PHB] can pick the manacles' lock with a successful DC 15 Dexterity check. Manacles have 15 hit points.</p></div>",
           "chat": ""
         },
         "source": {
@@ -5914,8 +5818,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1705158965000,
-        "modifiedTime": 1711661242950,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -5924,7 +5828,7 @@
       "type": "container",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p>A <i>sack</i> can hold up to 1 cubic foot or 30 pounds of gear.</p></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>A sack can hold up to 1 cubic foot or 30 pounds of gear.</p></div>",
           "chat": ""
         },
         "source": {
@@ -5940,9 +5844,9 @@
           "denomination": "cp"
         },
         "attunement": 0,
-        "equipped": false,
+        "equipped": true,
         "rarity": "",
-        "identified": false,
+        "identified": true,
         "capacity": {
           "type": "weight",
           "value": 30
@@ -5978,11 +5882,11 @@
       "sort": 0,
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.4.1",
+        "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1705158965637,
-        "modifiedTime": 1705158965637,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -6219,7 +6123,7 @@
       "type": "container",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p>A <i>tankard</i> holds 1 pint of liquid.</p></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>A tankard holds 1 pint of liquid.</p></div>",
           "chat": ""
         },
         "source": {
@@ -6237,7 +6141,7 @@
         "attunement": 0,
         "equipped": false,
         "rarity": "",
-        "identified": false,
+        "identified": true,
         "capacity": {
           "type": "weight",
           "value": 1
@@ -6273,11 +6177,11 @@
       "sort": 0,
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.4.1",
+        "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1705158967254,
-        "modifiedTime": 1705158967254,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -6286,7 +6190,7 @@
       "type": "container",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p>A <i>vial</i> can hold up to 4 ounces of liquid.</p></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>A vial can hold up to 4 ounces of liquid.</p></div>",
           "chat": ""
         },
         "source": {
@@ -6304,7 +6208,7 @@
         "attunement": 0,
         "equipped": false,
         "rarity": "",
-        "identified": false,
+        "identified": true,
         "capacity": {
           "type": "weight",
           "value": 0.25
@@ -6340,11 +6244,11 @@
       "sort": 0,
       "_stats": {
         "systemId": "dnd5e",
-        "systemVersion": "2.4.1",
+        "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1705158967558,
-        "modifiedTime": 1705158967558,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -6380,7 +6284,7 @@
         "container": null,
         "properties": []
       },
-      "img": "icons/environment/wilderness/camp-improvised.webp",
+      "img": "icons/environment/settlement/tent.webp",
       "ownership": {
         "default": 0,
         "fGyKkRuRb8WOlTlE": 3
@@ -6400,8 +6304,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1705158967872,
-        "modifiedTime": 1711661275291,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -6484,19 +6388,28 @@
           "scaling": "spell"
         },
         "properties": [],
+        "type": {
+          "subtype": "slingBullet",
+          "value": "potion"
+        },
+        "summons": {
+          "prompt": true,
+          "bonuses": {},
+          "match": {
+            "attacks": false,
+            "proficiency": false,
+            "saves": false
+          },
+          "profiles": []
+        },
         "unidentified": {
           "description": ""
-        },
-        "type": {
-          "value": "ammo",
-          "subtype": ""
         },
         "attack": {
           "bonus": "",
           "flat": false
         },
         "container": null,
-        "summons": null,
         "magicalBonus": null
       },
       "img": "icons/skills/ranged/bullets-triple-ball-yellow.webp",
@@ -6519,8 +6432,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1705158968180,
-        "modifiedTime": 1711661244959,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -6676,6 +6589,16 @@
           "amm"
         ],
         "proficient": null,
+        "summons": {
+          "prompt": true,
+          "bonuses": {},
+          "match": {
+            "attacks": false,
+            "proficiency": false,
+            "saves": false
+          },
+          "profiles": []
+        },
         "unidentified": {
           "description": ""
         },
@@ -6688,7 +6611,6 @@
           "flat": false
         },
         "container": null,
-        "summons": null,
         "magicalBonus": null
       },
       "img": "icons/weapons/slings/slingshot-wood.webp",
@@ -6711,8 +6633,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1705158968791,
-        "modifiedTime": 1711661202203,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -6835,7 +6757,7 @@
       "type": "loot",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p>Using a <i>crowbar</i> grants advantage to Strength checks where the <i>crowbar</i>'s leverage can be applied.</p></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.</p></div>",
           "chat": ""
         },
         "source": {
@@ -6856,10 +6778,10 @@
           "value": "",
           "subtype": ""
         },
+        "container": "XY8b594Dn7plACLL",
         "unidentified": {
           "description": ""
         },
-        "container": null,
         "properties": []
       },
       "img": "icons/sundries/lights/candle-unlit-bone-white.webp",
@@ -6882,8 +6804,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1705159146365,
-        "modifiedTime": 1711661266127,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -6892,7 +6814,7 @@
       "type": "tool",
       "system": {
         "description": {
-          "value": "<div class=\"rd__b  rd__b--2\"><p>This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing.</p></div><div class=\"rd__b  rd__b--2\"><p>Proficiency with an herbalism kit allows you to identify plants and safely collect their useful elements.</p><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Components.</span></span> <p>An herbalism kit includes pouches to store herbs, clippers and leather gloves for collecting plants, a mortar and pestle, and several glass jars.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Arcana.</span></span> <p>Your knowledge of the nature and uses of herbs can add insight to your magical studies that deal with plants and your attempts to identify potions.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Investigation.</span></span> <p>When you inspect an area overgrown with plants, your proficiency can help you pick out details and clues that others might miss.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"4\"> <span class=\"entry-title-inner\">Medicine.</span></span> <p>Your mastery of herbalism improves your ability to treat illnesses and wounds by augmenting your methods of care with medicinal plants.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"5\"> <span class=\"entry-title-inner\">Nature and Survival.</span></span> <p>When you travel in the wild, your skill in herbalism makes it easier to identify plants and spot sources of food that others might overlook.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"6\"> <span class=\"entry-title-inner\">Identify Plants.</span></span> <p>You can identify most plants with a quick inspection of their appearance and smell.</p><div class=\"rd__spc-inline-post\"></div></div><table class=\"w-100 rd__table  stripe-odd-table\"><caption>Herbalism Kit</caption><thead><tr><th class=\"col-10\" data-rd-isroller=\"false\">Activity</th><th class=\"col-2 ve-text-center\" data-rd-isroller=\"false\">DC</th></tr></thead><tbody><tr><td class=\"col-10\">Find plants</td><td class=\"col-2 ve-text-center\">15</td></tr><tr><td class=\"col-10\">Identify poison</td><td class=\"col-2 ve-text-center\">20</td></tr></tbody></table></div>",
+          "value": "<div class=\"rd__b  rd__b--2\"><p>This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and potions of healing.</p></div><div class=\"rd__b  rd__b--2\"><p>Proficiency with an herbalism kit allows you to identify plants and safely collect their useful elements.</p><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Components.</span></span> <p>An herbalism kit includes pouches to store herbs, clippers and leather gloves for collecting plants, a mortar and pestle, and several glass jars.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"2\"> <span class=\"entry-title-inner\">Arcana.</span></span> <p>Your knowledge of the nature and uses of herbs can add insight to your magical studies that deal with plants and your attempts to identify potions.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"3\"> <span class=\"entry-title-inner\">Investigation.</span></span> <p>When you inspect an area overgrown with plants, your proficiency can help you pick out details and clues that others might miss.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"4\"> <span class=\"entry-title-inner\">Medicine.</span></span> <p>Your mastery of herbalism improves your ability to treat illnesses and wounds by augmenting your methods of care with medicinal plants.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"5\"> <span class=\"entry-title-inner\">Nature and Survival.</span></span> <p>When you travel in the wild, your skill in herbalism makes it easier to identify plants and spot sources of food that others might overlook.</p><div class=\"rd__spc-inline-post\"></div></div><div class=\"rd__b  rd__b--3\"><span class=\"rd__h rd__h--3\" data-title-index=\"6\"> <span class=\"entry-title-inner\">Identify Plants.</span></span> <p>You can identify most plants with a quick inspection of their appearance and smell.</p><div class=\"rd__spc-inline-post\"></div></div><table class=\"w-100 rd__table  stripe-odd-table\"><caption>Herbalism Kit</caption><thead><tr><th class=\"ve-col-10\" data-rd-isroller=\"false\">Activity</th><th class=\"ve-col-2 ve-text-center\" data-rd-isroller=\"false\">DC</th></tr></thead><tbody><tr><td class=\"ve-col-10\">Find plants</td><td class=\"ve-col-2 ve-text-center\">15</td></tr><tr><td class=\"ve-col-10\">Identify poison</td><td class=\"ve-col-2 ve-text-center\">20</td></tr></tbody></table></div>",
           "chat": ""
         },
         "source": {
@@ -6934,8 +6856,7 @@
         "plutonium": {
           "page": "items.html",
           "source": "PHB",
-          "hash": "herbalism%20kit_phb",
-          "propDroppable": "item"
+          "hash": "herbalism%20kit_phb"
         },
         "core": {
           "sourceId": "Item.DgNj30oNeosnwkaS"
@@ -6949,8 +6870,8 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1708642506037,
-        "modifiedTime": 1711661250932,
-        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
       }
     },
     {
@@ -8032,7 +7953,7 @@
           "type": ""
         },
         "uses": {
-          "value": 0,
+          "value": 1,
           "max": "1",
           "per": "sr",
           "recovery": "",
@@ -8092,7 +8013,7 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1711652794223,
-        "modifiedTime": 1711666308709,
+        "modifiedTime": 1713628956535,
         "lastModifiedBy": "fGyKkRuRb8WOlTlE"
       }
     },
@@ -8136,7 +8057,7 @@
         },
         "container": null,
         "properties": [],
-        "equipped": false
+        "equipped": true
       },
       "img": "icons/containers/bags/pouch-simple-leather-tan.webp",
       "ownership": {
@@ -8147,8 +8068,7 @@
         "plutonium": {
           "page": "items.html",
           "source": "PHB",
-          "hash": "pouch_phb",
-          "propDroppable": "item"
+          "hash": "pouch_phb"
         },
         "core": {
           "sourceId": "Item.XIYtTSdDiPJIYAVF"
@@ -8162,7 +8082,580 @@
         "systemVersion": "3.1.1",
         "coreVersion": "11.315",
         "createdTime": 1711654008892,
-        "modifiedTime": 1711654008892,
+        "modifiedTime": 1711672990122,
+        "lastModifiedBy": "H31VUr2zjgPXSDCK"
+      }
+    },
+    {
+      "_id": "gZCavGuL8Uu37FwN",
+      "name": "Psi Crystal",
+      "type": "equipment",
+      "system": {
+        "source": {
+          "custom": "",
+          "book": "IDRotF",
+          "page": "315",
+          "license": ""
+        },
+        "description": {
+          "value": "<div><i>(requires attunement by a creature with an intelligence score of 3 or higher)</i></div>\n\t\t<div class=\"rd__b  rd__b--2\"><p>This crystal grants you telepathy for as long as you remain attuned to it. See the <a href=\"https://5etools-mirror-2.github.io/book.html#MM,0,telepathy,0\">introduction of the Monster Manual</a> for rules on how this telepathy works.</p><p>The crystal also glows with a purplish inner light while you are attuned to it.</p><p>The higher your intelligence, the greater the light's intensity and the greater the range of the telepathy (see the <i>Psi Crystal</i> Properties table).</p><table class=\"w-100 rd__table  stripe-odd-table\"><caption>Psi Crystal Properties</caption><thead><tr><th class=\"ve-col-2 ve-text-center\" data-rd-isroller=\"false\">Intelligence Score</th><th class=\"ve-col-2 ve-text-center\" data-rd-isroller=\"false\">Range of Telepathy</th><th class=\"ve-col-8\" data-rd-isroller=\"false\">Light Intensity</th></tr></thead><tbody><tr><td class=\"ve-col-2 ve-text-center\">3-7</td><td class=\"ve-col-2 ve-text-center\">15 feet</td><td class=\"ve-col-8\">Dim light out to a range of 5 feet</td></tr><tr><td class=\"ve-col-2 ve-text-center\">8-11</td><td class=\"ve-col-2 ve-text-center\">30 feet</td><td class=\"ve-col-8\">Bright light in a 5-foot radius and dim light for an additional 5 feet</td></tr><tr><td class=\"ve-col-2 ve-text-center\">12-15</td><td class=\"ve-col-2 ve-text-center\">60 feet</td><td class=\"ve-col-8\">Bright light in a 10-foot radius and dim light for an additional 10 feet</td></tr><tr><td class=\"ve-col-2 ve-text-center\">16 or higher</td><td class=\"ve-col-2 ve-text-center\">120 feet</td><td class=\"ve-col-8\">Bright light in a 15-foot radius and dim light for an additional 15 feet</td></tr></tbody></table></div>",
+          "chat": ""
+        },
+        "quantity": 1,
+        "weight": 0,
+        "price": {
+          "value": 0,
+          "denomination": "gp"
+        },
+        "identified": true,
+        "rarity": "uncommon",
+        "type": {
+          "value": "trinket",
+          "baseItem": ""
+        },
+        "properties": [
+          "mgc"
+        ],
+        "attunement": 2,
+        "activation": {
+          "type": "",
+          "cost": 0,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "target": {
+          "value": null,
+          "units": "",
+          "type": "",
+          "width": null,
+          "prompt": true
+        },
+        "range": {
+          "value": null,
+          "long": null,
+          "units": ""
+        },
+        "uses": {
+          "value": null,
+          "max": "",
+          "per": null,
+          "recovery": "",
+          "prompt": true
+        },
+        "actionType": "",
+        "attack": {
+          "bonus": "",
+          "flat": false
+        },
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "spell"
+        },
+        "armor": {
+          "value": null,
+          "dex": null,
+          "magicalBonus": null
+        },
+        "strength": null,
+        "consume": {
+          "type": "",
+          "target": null,
+          "amount": null,
+          "scale": false
+        },
+        "hp": {
+          "value": 0,
+          "max": 0,
+          "dt": null,
+          "conditions": ""
+        },
+        "speed": {
+          "value": null,
+          "conditions": ""
+        },
+        "unidentified": {
+          "description": "",
+          "name": "Unidentified Equipment"
+        },
+        "container": null,
+        "cover": null,
+        "crewed": false,
+        "ability": null,
+        "summons": null,
+        "equipped": true,
+        "proficient": null
+      },
+      "img": "assets/srd5e/img/items/IDRotF/Psi Crystal.webp",
+      "ownership": {
+        "default": 3,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "IDRotF",
+          "hash": "psi%20crystal_idrotf",
+          "propDroppable": "item"
+        },
+        "core": {
+          "sourceId": "Item.FmJ4hm7F8l7ejbtD"
+        }
+      },
+      "effects": [
+        {
+          "name": "Indefinite Madness",
+          "icon": "icons/commodities/gems/gem-rough-oval-purple.webp",
+          "_id": "JwNHBcy3OJ46BJPI",
+          "changes": [],
+          "disabled": false,
+          "duration": {
+            "startTime": 126,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": 1,
+            "startTurn": 12
+          },
+          "description": "<p>You attune. And you hear a loud and constant alarm in your head. Like a homing beacon drawing you to a location in the tundra. </p><p>You also gain a form of madness. There’s only one person you can truly trust in this world and it’s a special friend that only you can see”</p>",
+          "origin": "Actor.170V5m4LCLyu0xm7.Item.gZCavGuL8Uu37FwN",
+          "transfer": true,
+          "statuses": [],
+          "flags": {
+            "core": {
+              "sourceId": "Actor.170V5m4LCLyu0xm7.ActiveEffect.NMm7aMbDtQmxscpZ"
+            }
+          },
+          "tint": null
+        }
+      ],
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "3.1.1",
+        "coreVersion": "11.315",
+        "createdTime": 1711670812557,
+        "modifiedTime": 1711670966125,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "_id": "OsgPKXxkTnxWDICL",
+      "name": "Scimitar",
+      "type": "weapon",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--2\"></div>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "PHB",
+          "page": "149",
+          "license": ""
+        },
+        "quantity": 1,
+        "weight": 3,
+        "price": {
+          "value": 25,
+          "denomination": "gp"
+        },
+        "attunement": 0,
+        "rarity": "",
+        "identified": true,
+        "activation": {
+          "type": "action",
+          "cost": 1,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "cover": null,
+        "target": {
+          "value": 0,
+          "units": "",
+          "type": "",
+          "width": null,
+          "prompt": true
+        },
+        "range": {
+          "value": 5,
+          "long": 0,
+          "units": "ft"
+        },
+        "uses": {
+          "value": null,
+          "max": "",
+          "per": null,
+          "recovery": "",
+          "prompt": true
+        },
+        "consume": {
+          "type": "",
+          "target": "",
+          "amount": null,
+          "scale": false
+        },
+        "ability": null,
+        "actionType": "mwak",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [
+            [
+              "1d6 + @mod",
+              "slashing"
+            ]
+          ],
+          "versatile": ""
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "spell"
+        },
+        "armor": {
+          "value": null
+        },
+        "hp": {
+          "value": 0,
+          "max": 0,
+          "dt": null,
+          "conditions": ""
+        },
+        "properties": [
+          "fin",
+          "lgt"
+        ],
+        "type": {
+          "value": "martialM",
+          "baseItem": "scimitar"
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "crewed": false,
+        "attack": {
+          "bonus": "",
+          "flat": false
+        },
+        "summons": {
+          "match": {
+            "attacks": false,
+            "proficiency": false,
+            "saves": false
+          },
+          "profiles": [],
+          "bonuses": {},
+          "prompt": true
+        },
+        "magicalBonus": null,
+        "equipped": true,
+        "proficient": null
+      },
+      "img": "icons/weapons/swords/scimitar-guard-brown.webp",
+      "ownership": {
+        "default": 3,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "scimitar_phb",
+          "propDroppable": "item"
+        },
+        "core": {
+          "sourceId": "Item.yDw0qVUgpcs7Y4V3"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "3.1.1",
+        "coreVersion": "11.315",
+        "createdTime": 1713614356312,
+        "modifiedTime": 1713614358617,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "_id": "huPQRTcEJu4XIGNx",
+      "name": "Battleaxe",
+      "type": "weapon",
+      "system": {
+        "description": {
+          "value": "<div class=\"rd__b  rd__b--2\"></div>",
+          "chat": ""
+        },
+        "source": {
+          "custom": "",
+          "book": "PHB",
+          "page": "149",
+          "license": ""
+        },
+        "quantity": 1,
+        "weight": 4,
+        "price": {
+          "value": 10,
+          "denomination": "gp"
+        },
+        "attunement": 0,
+        "rarity": "",
+        "identified": true,
+        "activation": {
+          "type": "action",
+          "cost": 1,
+          "condition": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "cover": null,
+        "target": {
+          "value": 0,
+          "units": "",
+          "type": "",
+          "width": null,
+          "prompt": true
+        },
+        "range": {
+          "value": 5,
+          "long": 0,
+          "units": "ft"
+        },
+        "uses": {
+          "value": null,
+          "max": "",
+          "per": null,
+          "recovery": "",
+          "prompt": true
+        },
+        "consume": {
+          "type": "",
+          "target": "",
+          "amount": null,
+          "scale": false
+        },
+        "ability": null,
+        "actionType": "mwak",
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "damage": {
+          "parts": [
+            [
+              "1d8 + @mod",
+              "slashing"
+            ]
+          ],
+          "versatile": "1d10 + @mod"
+        },
+        "formula": "",
+        "save": {
+          "ability": "",
+          "dc": null,
+          "scaling": "spell"
+        },
+        "armor": {
+          "value": null
+        },
+        "hp": {
+          "value": 0,
+          "max": 0,
+          "dt": null,
+          "conditions": ""
+        },
+        "properties": [
+          "ver"
+        ],
+        "type": {
+          "value": "martialM",
+          "baseItem": "battleaxe"
+        },
+        "unidentified": {
+          "description": ""
+        },
+        "container": null,
+        "crewed": false,
+        "attack": {
+          "bonus": "",
+          "flat": false
+        },
+        "summons": {
+          "match": {
+            "attacks": false,
+            "proficiency": false,
+            "saves": false
+          },
+          "profiles": [],
+          "bonuses": {},
+          "prompt": true
+        },
+        "magicalBonus": null,
+        "equipped": true,
+        "proficient": null
+      },
+      "img": "icons/weapons/axes/axe-double-simple-brown.webp",
+      "ownership": {
+        "default": 3,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "flags": {
+        "plutonium": {
+          "page": "items.html",
+          "source": "PHB",
+          "hash": "battleaxe_phb",
+          "propDroppable": "item"
+        },
+        "core": {
+          "sourceId": "Item.VDKqMApMTEIFHWgz"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "3.1.1",
+        "coreVersion": "11.315",
+        "createdTime": 1713628410550,
+        "modifiedTime": 1713628414657,
+        "lastModifiedBy": "fGyKkRuRb8WOlTlE"
+      }
+    },
+    {
+      "_id": "MsyPdQvHl6peqF1O",
+      "name": "Skill Expert",
+      "type": "feat",
+      "system": {
+        "source": {
+          "custom": "",
+          "book": "TCE",
+          "page": "80",
+          "license": ""
+        },
+        "description": {
+          "value": "<div><hr /><div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"rd__b  rd__b--3\"><p>You have honed your proficiency with particular skills, granting you the following benefits:</p><div class=\"rd__spc-inline-post\"></div><ul class=\"rd__list\"><li class=\"rd__li \">Increase your Constitution score by 1, to a maximum of 20.</li><li class=\"rd__li \">You gain proficiency in one @table[skills|phb|skill] of your choice.</li><li class=\"rd__li \">Choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn't already benefiting from a feature, such as Expertise, that doubles your proficiency bonus.</li></ul></div>\n\t\t\t</div></div>",
+          "chat": ""
+        },
+        "damage": {
+          "parts": [],
+          "versatile": ""
+        },
+        "duration": {
+          "value": "",
+          "units": ""
+        },
+        "range": {
+          "units": "",
+          "value": null,
+          "long": null
+        },
+        "requirements": "",
+        "save": {
+          "scaling": "flat",
+          "ability": "",
+          "dc": null
+        },
+        "activation": {
+          "type": "",
+          "cost": null,
+          "condition": ""
+        },
+        "target": {
+          "prompt": true,
+          "value": null,
+          "width": null,
+          "units": "",
+          "type": ""
+        },
+        "uses": {
+          "value": null,
+          "max": "",
+          "per": null,
+          "recovery": "",
+          "prompt": true
+        },
+        "actionType": "other",
+        "attack": {
+          "bonus": "",
+          "flat": false
+        },
+        "chatFlavor": "",
+        "critical": {
+          "threshold": null,
+          "damage": ""
+        },
+        "formula": "",
+        "recharge": {
+          "charged": false,
+          "value": null
+        },
+        "consume": {
+          "type": "",
+          "target": null,
+          "amount": null,
+          "scale": false
+        },
+        "type": {
+          "value": "feat",
+          "subtype": ""
+        },
+        "properties": [],
+        "cover": null,
+        "crewed": false,
+        "ability": null,
+        "summons": null
+      },
+      "ownership": {
+        "default": 0,
+        "fGyKkRuRb8WOlTlE": 3
+      },
+      "img": "icons/skills/melee/weapons-crossed-swords-white-blue.webp",
+      "flags": {
+        "plutonium": {
+          "page": "feats.html",
+          "source": "TCE",
+          "hash": "skill%20expert_tce"
+        }
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "3.1.1",
+        "coreVersion": "11.315",
+        "createdTime": 1713635127132,
+        "modifiedTime": 1713635127132,
         "lastModifiedBy": "fGyKkRuRb8WOlTlE"
       }
     }
@@ -8180,7 +8673,7 @@
         "startRound": null,
         "startTurn": null
       },
-      "disabled": false,
+      "disabled": true,
       "_id": "OXhs9z2z7tkFBtWj",
       "changes": [
         {
@@ -8301,28 +8794,6 @@
       "statuses": [],
       "flags": {},
       "tint": null
-    },
-    {
-      "name": "Indefinite Madness",
-      "icon": "icons/commodities/gems/gem-rough-oval-purple.webp",
-      "_id": "NMm7aMbDtQmxscpZ",
-      "changes": [],
-      "disabled": false,
-      "duration": {
-        "startTime": 126,
-        "seconds": null,
-        "combat": null,
-        "rounds": null,
-        "turns": null,
-        "startRound": 1,
-        "startTurn": 12
-      },
-      "description": "<p>You attune. And you hear a loud and constant alarm in your head. Like a homing beacon drawing you to a location in the tundra. </p><p>You also gain a form of madness. There’s only one person you can truly trust in this world and it’s a special friend that only you can see”</p>",
-      "origin": null,
-      "transfer": false,
-      "statuses": [],
-      "flags": {},
-      "tint": null
     }
   ],
   "folder": "fZWuKBbPG7Ao2Jte",
@@ -8330,7 +8801,6 @@
     "dnd5e": {
       "showTokenPortrait": false
     },
-    "core": {},
     "exportSource": {
       "world": "roof",
       "system": "dnd5e",
@@ -8340,10 +8810,10 @@
   },
   "_stats": {
     "systemId": "dnd5e",
-    "systemVersion": "3.1.0",
+    "systemVersion": "3.1.1",
     "coreVersion": "11.315",
-    "createdTime": 1680102683611,
-    "modifiedTime": 1711660218697,
+    "createdTime": 1711670812557,
+    "modifiedTime": 1713635178342,
     "lastModifiedBy": "fGyKkRuRb8WOlTlE"
   }
 }
