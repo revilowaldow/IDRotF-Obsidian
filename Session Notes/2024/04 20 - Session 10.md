@@ -94,7 +94,9 @@ Keegan
 
 
 Need to review inventory and gold for all
-Need to 
+Need to fix Hamelyn's AC?
+
+![[Pasted image 20240420155702.png]]
 
 
 
