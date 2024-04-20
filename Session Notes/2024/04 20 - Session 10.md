@@ -37,4 +37,6 @@ With Son at base of Kelvin's Cairn, collecting plant samples
 
 Murdered by yeti
 
+Torin has aged a decade
+
 
