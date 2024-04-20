@@ -45,6 +45,7 @@ Torin has aged a decade
 4 light crossbows
 20 crossbow bolts
 
+~~7bloodstones~~ 70gp 
 
 
 > Torrga,
