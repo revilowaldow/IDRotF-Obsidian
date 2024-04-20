@@ -101,8 +101,18 @@ Need to fix Hamelyn's AC?
 
 
 Garrett traveling with 
+[[Mokingo Growling Bear Akannathi]] male goliath warrior
+looking for [[Oyaminartok]] female polar bear shapechanger
 
-[[Oyaminartok]] male goliath warrior
+[[Perilou Fishfinger]] Female lightfot halfling, holy symbol
+
+[[Astrix]] foul mouthed teifling
+
+
+
+
+
+
 
 
 
