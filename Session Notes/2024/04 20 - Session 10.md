@@ -30,4 +30,10 @@ Red Wizard due to be burned in Easthaven
 
 Bag has an aura of necromancy
 
+Bag is named [[Janth]]
+
+With Son at base of Kelvin's Cairn, collecting plant samples
+
+Murdered by yeti
+
 
