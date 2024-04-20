@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "eb4fcdbd7a081a7f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/NPCs/Talvi.webp"
+              }
+            }
+          },
+          {
             "id": "1ae33f95c22eaa9e",
             "type": "leaf",
             "state": {
@@ -140,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Northbrook Family/Talvi Northbrook.md",
+                "file": "Assets/Characters/NPCs/Talvi.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Northbrook Family/Talvi Northbrook.md",
+                "file": "Assets/Characters/NPCs/Talvi.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Northbrook Family/Talvi Northbrook.md"
+                "file": "Assets/Characters/NPCs/Talvi.webp"
               }
             }
           },
@@ -277,8 +287,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e8f9cd518337f27",
+  "active": "eb4fcdbd7a081a7f",
   "lastOpenFiles": [
+    "NPCs/Northbrook Family/Talvi Northbrook.md",
     "Session Notes/2024/04 20 - Session 10.md",
     "Factions/Party/Tando.md",
     "Session Notes/2024/01 13 - Session 7.md",
@@ -309,7 +320,6 @@
     "Factions/Party/Nilak 'Cloud' Northbrook.md",
     "Locations/Ten Towns/Termalaine/Gem Mine.md",
     "Session Notes/2024",
-    "NPCs/Northbrook Family/Talvi Northbrook.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Assets/Maps/Gem Mine.png",
     "Assets/Crests",
