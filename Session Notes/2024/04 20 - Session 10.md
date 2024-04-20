@@ -23,3 +23,6 @@ Dad awake
 
 Reminder to loot all the bandits
 
+Red Wizard due to be burned in Easthaven
+
+
