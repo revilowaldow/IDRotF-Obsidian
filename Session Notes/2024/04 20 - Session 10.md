@@ -87,6 +87,8 @@ Torga and Sepehek killed elf
 "It's Nilak"
 "Where have you been?"
 
+Where's Garett
+
 
 
 
