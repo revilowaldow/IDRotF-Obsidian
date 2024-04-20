@@ -174,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Targos/Targos.md",
+                "file": "Session Notes/2024/04 20 - Session 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Targos/Targos.md",
+                "file": "Session Notes/2024/04 20 - Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Targos/Targos.md"
+                "file": "Session Notes/2024/04 20 - Session 10.md"
               }
             }
           },
@@ -311,17 +311,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6848aa2859c0edf8",
+  "active": "836c5ced15735563",
   "lastOpenFiles": [
+    "Session Notes/2024/03 28 - Session 9.md",
+    "Locations/Ten Towns/Targos/Targos.md",
     "Session Notes/2024/04 20 - Session 10.md",
     "Session Notes/This is Your Life.md",
-    "Locations/Ten Towns/Targos/Targos.md",
     "Assets/Characters/NPCs/Talvi.webp",
     "NPCs/Northbrook Family/Talvi Northbrook.md",
     "Factions/Party/Tando.md",
     "Session Notes/2024/01 13 - Session 7.md",
     "Session Notes/2024/02 22 - Session 8.md",
-    "Session Notes/2024/03 28 - Session 9.md",
     "Session Notes/2023/08 24 - Session 2.md",
     "Session Notes/2023/09 19 - Session 3.md",
     "Session Notes/2023/10 14 - Session 4.md",
