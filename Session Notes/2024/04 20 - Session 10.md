@@ -100,6 +100,12 @@ Need to fix Hamelyn's AC?
 
 
 
+Garrett traveling with 
+
+[[Oyaminartok]] male goliath warrior
+
+
+
 
 
 
