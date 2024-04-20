@@ -62,6 +62,23 @@ Gold Wolf Paw Flag on black background
 
 Wrapped up body of half elf in his 30s
 
+Wood and flint tinderbox
+4 flasks of whale oil
+a dizen blankets
+5 wolf pelts
+20 rations
+7 bottles of good mead
+13 bottles of ale
+21 assorted mediciens
+8 vials of poison (rat emblem)
+wooden shield
+2 rapiers with termaline encrusted in hilt
+3 black iron longsword
+5 sets of snowshoes
+longbow
+battleaxe with foaming mug
+
+
 
 
 
