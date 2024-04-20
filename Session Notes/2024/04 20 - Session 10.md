@@ -40,6 +40,8 @@ Murdered by yeti
 Torin has aged a decade
 
 4x
-4 scimitar 4 leather armour
+4 scimitar
+4 leather armour
 4 light crossbows
+20 crossbow bolts
 
