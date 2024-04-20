@@ -76,7 +76,12 @@ wooden shield
 3 black iron longsword
 5 sets of snowshoes
 longbow
-battleaxe with foaming mug
+battleaxe with foaming mug emblem (clan battlehammer)
+
+18 dogs 3 sleds
+
+
+
 
 
 
