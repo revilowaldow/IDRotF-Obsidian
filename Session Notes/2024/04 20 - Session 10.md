@@ -80,6 +80,7 @@ battleaxe with foaming mug emblem (clan battlehammer)
 
 18 dogs 3 sleds
 
+Torga and Sepehek killed elf
 
 
 
