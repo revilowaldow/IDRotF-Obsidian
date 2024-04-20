@@ -19,7 +19,10 @@ Ship was lost
 
 Marta moved ring to dad,
 Dad awake 
-[[Clyde Peskryk]] 
+[[Clyde Peskryk]] 60/70
+Been sick for a year/18 months
+
+
 
 Reminder to loot all the bandits
 
