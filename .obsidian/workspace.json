@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/03 28 - Session 9.md",
+                "file": "Session Notes/2024/04 20 - Session 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/03 28 - Session 9.md",
+                "file": "Session Notes/2024/04 20 - Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/03 28 - Session 9.md"
+                "file": "Session Notes/2024/04 20 - Session 10.md"
               }
             }
           },
@@ -181,8 +181,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "254a32e03f1065e4",
+  "active": "836c5ced15735563",
   "lastOpenFiles": [
+    "Session Notes/2024/03 28 - Session 9.md",
     "Session Notes/2024/04 20 - Session 10.md",
     "Session Notes/2023/07 22 - Session 1.md",
     "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
@@ -193,7 +194,6 @@
     "Locations/Ten Towns/Lonelywood/Lonelywood.md",
     "Locations/Ten Towns/Lonelywood/Liar.md",
     "Locations/Ten Towns/Lonelywood/Ramshackle.md",
-    "Session Notes/2024/03 28 - Session 9.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
     "Assets/Sheet Backups/fvtt-Actor-cloud.json",
     "Locations/Ten Towns/Lonelywood/Untitled.md",
