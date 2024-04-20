@@ -32,6 +32,78 @@
             }
           },
           {
+            "id": "1ae33f95c22eaa9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2023/08 24 - Session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d60d31854df50f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2023/12 28 - Session 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c01aa2c85e7e4ded",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2023/11 30 - Session 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8db509104a0d535",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2024/01 13 - Session 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61cbb129293deb92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2023/10 14 - Session 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96714b46b749c1d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2023/09 19 - Session 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "254a32e03f1065e4",
             "type": "leaf",
             "state": {
@@ -44,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -110,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md",
+                "file": "Session Notes/2023/09 19 - Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md",
+                "file": "Session Notes/2023/09 19 - Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md"
+                "file": "Session Notes/2023/09 19 - Session 3.md"
               }
             }
           },
@@ -181,13 +253,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "836c5ced15735563",
+  "active": "96714b46b749c1d0",
   "lastOpenFiles": [
-    "Session Notes/2024/03 28 - Session 9.md",
+    "Session Notes/2023/10 14 - Session 4.md",
+    "Session Notes/2024/01 13 - Session 7.md",
+    "Session Notes/2023/11 30 - Session 5.md",
+    "Session Notes/2023/12 28 - Session 6.md",
+    "Session Notes/2023/08 24 - Session 2.md",
     "Session Notes/2024/04 20 - Session 10.md",
+    "Session Notes/2024/03 28 - Session 9.md",
     "Session Notes/2023/07 22 - Session 1.md",
     "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
-    "Session Notes/2023/08 24 - Session 2.md",
     "Session Notes/2024/02 22 - Session 8.md",
     "Locations/Ten Towns/Termalaine/The Eastside.md",
     "Locations/Ten Towns/Termalaine/The Blue Clam.md",
@@ -200,8 +276,6 @@
     "Locations/Ten Towns/Lonelywood/Lucky Liar.md",
     "Locations/Ten Towns/Termalaine/Termalaine.md",
     "Locations/Ten Towns/Lonelywood/The Lucky Liar.md",
-    "Session Notes/2024/01 13 - Session 7.md",
-    "Session Notes/2023/12 28 - Session 6.md",
     "NPCs/Ravisin.md",
     "NPCs/Frost Druids.md",
     "Locations/Ten Towns/Lonelywood",
@@ -212,8 +286,6 @@
     "NPCs/Northbrook Family/Talvi Northbrook.md",
     "NPCs/Northbrook Family/Andri Northbrook.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
-    "NPCs/Northbrook Family/Isolde Northbrook.md",
-    "NPCs/Northbrook Family/Olwen Northbrook.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Assets/Maps/Gem Mine.png",
     "Assets/Crests",

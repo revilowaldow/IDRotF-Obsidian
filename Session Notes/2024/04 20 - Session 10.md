@@ -17,4 +17,9 @@ Luskin - base of arcane
 Was on the [[Dark Duchess]] as well
 Ship was lost
 
- 
+Marta moved ring to dad,
+Dad awake 
+
+Reminder to loot all the bandits
+
+[[Clyde]]
