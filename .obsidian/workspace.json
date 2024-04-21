@@ -184,17 +184,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7621155f07825761",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -260,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md",
+                "file": "Session Notes/2024/03 28 - Session 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md",
+                "file": "Session Notes/2024/03 28 - Session 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md"
+                "file": "Session Notes/2024/03 28 - Session 9.md"
               }
             }
           },
@@ -330,15 +322,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "836c5ced15735563",
+  "active": "254a32e03f1065e4",
   "lastOpenFiles": [
+    "Session Notes/2024/04 20 - Session 10.md",
     "Session Notes/2024/02 22 - Session 8.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
     "Assets/Sheet Backups/fvtt-Actor-cloud-170V5m4LCLyu0xm7.json",
     "Assets/Pasted image 20240420182822.png",
     "Assets/Pasted image 20240420155702.png",
     "Locations/Ten Towns/Targos/Triglio.md",
-    "Session Notes/2024/04 20 - Session 10.md",
     "Session Notes/2023/11 30 - Session 5.md",
     "Session Notes/2023/12 28 - Session 6.md",
     "Session Notes/2024/01 13 - Session 7.md",
