@@ -184,9 +184,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50c6134f35226013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/This is Your Life.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -252,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/03 28 - Session 9.md",
+                "file": "Session Notes/This is Your Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/03 28 - Session 9.md",
+                "file": "Session Notes/This is Your Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/03 28 - Session 9.md"
+                "file": "Session Notes/This is Your Life.md"
               }
             }
           },
@@ -322,8 +334,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "254a32e03f1065e4",
+  "active": "50c6134f35226013",
   "lastOpenFiles": [
+    "Session Notes/2024/03 28 - Session 9.md",
     "Session Notes/2024/04 20 - Session 10.md",
     "Session Notes/2024/02 22 - Session 8.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
@@ -334,7 +347,6 @@
     "Session Notes/2023/11 30 - Session 5.md",
     "Session Notes/2023/12 28 - Session 6.md",
     "Session Notes/2024/01 13 - Session 7.md",
-    "Session Notes/2024/03 28 - Session 9.md",
     "Locations/Ten Towns/Targos/Targos.md",
     "Session Notes/This is Your Life.md",
     "Assets/Characters/NPCs/Talvi.webp",
