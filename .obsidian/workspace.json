@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/This is Your Life.md",
+                "file": "Session Notes/Cloud v2.md",
                 "mode": "source",
                 "source": false
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/This is Your Life.md",
+                "file": "Session Notes/Cloud v2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/This is Your Life.md",
+                "file": "Session Notes/Cloud v2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/This is Your Life.md"
+                "file": "Session Notes/Cloud v2.md"
               }
             }
           },
@@ -317,7 +317,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -336,6 +336,10 @@
   },
   "active": "50c6134f35226013",
   "lastOpenFiles": [
+    "Assets/Pasted image 20240522150517.png",
+    "Assets/Pasted image 20240522150509.png",
+    "Session Notes/This is Your Life.md",
+    "Session Notes/Cloud v2.md",
     "Session Notes/2024/03 28 - Session 9.md",
     "Session Notes/2024/04 20 - Session 10.md",
     "Session Notes/2024/02 22 - Session 8.md",
@@ -348,7 +352,6 @@
     "Session Notes/2023/12 28 - Session 6.md",
     "Session Notes/2024/01 13 - Session 7.md",
     "Locations/Ten Towns/Targos/Targos.md",
-    "Session Notes/This is Your Life.md",
     "Assets/Characters/NPCs/Talvi.webp",
     "NPCs/Northbrook Family/Talvi Northbrook.md",
     "Factions/Party/Tando.md",
@@ -366,7 +369,6 @@
     "Locations/Ten Towns/Lonelywood/Untitled.md",
     "Locations/Ten Towns/Lonelywood/Lucky Liar.md",
     "Locations/Ten Towns/Termalaine/Termalaine.md",
-    "Locations/Ten Towns/Lonelywood/The Lucky Liar.md",
     "Locations/Ten Towns/Lonelywood",
     "Locations/Ten Towns/Untitled",
     "Session Notes/2024",
@@ -379,7 +381,6 @@
     "Locations/Ten Towns/Termalaine",
     "Assets/Maps/Targos.png",
     "Assets/Characters/NPCs/Andri.webp",
-    "Assets/Characters/NPCs/Olwen1.webp",
-    "Assets/Characters/NPCs/Boreas.webp"
+    "Assets/Characters/NPCs/Olwen1.webp"
   ]
 }
