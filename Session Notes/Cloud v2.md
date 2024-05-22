@@ -22,7 +22,8 @@ Custom Skills (clashed)
 Sleight of Hand
 Survival
 Custom Tools:
-Jewelers 
+Jeweller's 
+Weavers
 
 Same ideal/trait/bond/flaw as before
 
