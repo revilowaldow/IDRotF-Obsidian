@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "33301f0d8bd427df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Bryn Shander/Bryn Shander.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4457bc0e234af606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6da7e16a39233437",
             "type": "leaf",
             "state": {
@@ -194,8 +218,10 @@
   },
   "active": "836c5ced15735563",
   "lastOpenFiles": [
-    "Session Notes/2024/04 20 - Session 10.md",
+    "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
+    "Locations/Ten Towns/Bryn Shander/Bryn Shander.md",
     "Session Notes/2024/05 23 - Session 11.md",
+    "Session Notes/2024/04 20 - Session 10.md",
     "Session Notes/2024/02 22 - Session 8.md",
     "Locations/Ten Towns/Targos/Triglio.md",
     "Locations/Ten Towns/Targos/Targos.md",
@@ -226,8 +252,6 @@
     "Locations/Ten Towns/Lonelywood/Liar.md",
     "Locations/Ten Towns/Lonelywood/Ramshackle.md",
     "Locations/Ten Towns/Lonelywood/Untitled.md",
-    "Locations/Ten Towns/Lonelywood/Lucky Liar.md",
-    "Locations/Ten Towns/Termalaine/Termalaine.md",
     "Locations/Ten Towns/Lonelywood",
     "Locations/Ten Towns/Untitled",
     "Session Notes/2024",
