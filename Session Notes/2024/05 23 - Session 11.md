@@ -58,7 +58,20 @@ Long term closed shop in center square
 
 Auril's Might Continuously On Display
 Illustration of Horned Owl on back of giant bird
-Auril spotted aboard a mightly white roc
+"Auril spotted aboard a mighly white roc"
+Aurora appears monthly or so
+
+THe hunt goes on for Northern Light
+Ally Sherard furious
+Magical lantern outside of Caer Konig Pub stolen
+
+Termalaine Mine reopened Gong Bros and Co save lucrative 
+
+Monster of Maer Dolden not seen for a tenday
+
+Ramshackle in Lonleywood to reopen and rebrand
+
+
 
 
 
