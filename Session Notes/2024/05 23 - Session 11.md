@@ -21,6 +21,9 @@ Have a look at AC for both Hamelyn and Torinn
 Dragon grounded because of the blizzard
 
 
+Torinn told Nasir about green stone?
+
+[[Mishann]] priest of morning lord
 
 
 
