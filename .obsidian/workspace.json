@@ -196,6 +196,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8374ca95f48ec5d5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 15
@@ -334,7 +342,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c6134f35226013",
+  "active": "425479cc273d7764",
   "lastOpenFiles": [
     "Assets/Pasted image 20240522150517.png",
     "Assets/Pasted image 20240522150509.png",
