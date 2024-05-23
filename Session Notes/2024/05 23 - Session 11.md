@@ -93,6 +93,12 @@ Been in hiding
 Strong connection with "the weave"
 Identifies spellcasters via weave
 
+Sack of small stones
+
+Sending Stone
+Rendaril's Bag of transportation
+
+
 
 
 
