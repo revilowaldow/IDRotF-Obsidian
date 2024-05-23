@@ -25,6 +25,10 @@ Torinn told Nasir about green stone?
 
 [[Mishann]] priest of morning lord
 
+Large stone altar in back of house of morning lord
+Avenator
+
+Inner calm 
 
 
 
