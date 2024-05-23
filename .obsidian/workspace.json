@@ -8,166 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61eb850ab885d4d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2024/02 22 - Session 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "836c5ced15735563",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Session Notes/2024/04 20 - Session 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "778195d9ec4d4970",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Targos/Triglio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6848aa2859c0edf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Targos/Targos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9510883dec5b174",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/This is Your Life.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e8f9cd518337f27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Northbrook Family/Talvi Northbrook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb4fcdbd7a081a7f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Characters/NPCs/Talvi.webp"
-              }
-            }
-          },
-          {
-            "id": "1ae33f95c22eaa9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2023/08 24 - Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d60d31854df50f81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2023/12 28 - Session 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c01aa2c85e7e4ded",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2023/11 30 - Session 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8db509104a0d535",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2024/01 13 - Session 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "feb368efae7654d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Party/Tando.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61cbb129293deb92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2023/10 14 - Session 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96714b46b749c1d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2023/09 19 - Session 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,17 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8374ca95f48ec5d5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 277.5
   },
   "right": {
     "id": "e2fde1fbd4583364",
@@ -272,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Cloud v2.md",
+                "file": "Session Notes/2024/04 20 - Session 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Cloud v2.md",
+                "file": "Session Notes/2024/04 20 - Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Cloud v2.md"
+                "file": "Session Notes/2024/04 20 - Session 10.md"
               }
             }
           },
@@ -329,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 407.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -342,30 +180,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "425479cc273d7764",
+  "active": "1ff96f72ce71dfc4",
   "lastOpenFiles": [
+    "Session Notes/2024/02 22 - Session 8.md",
+    "Session Notes/2024/04 20 - Session 10.md",
+    "Locations/Ten Towns/Targos/Triglio.md",
+    "Locations/Ten Towns/Targos/Targos.md",
+    "Session Notes/This is Your Life.md",
+    "NPCs/Northbrook Family/Talvi Northbrook.md",
+    "Assets/Characters/NPCs/Talvi.webp",
+    "Session Notes/2023/08 24 - Session 2.md",
+    "Session Notes/2023/12 28 - Session 6.md",
+    "Session Notes/2023/11 30 - Session 5.md",
+    "Session Notes/2024/01 13 - Session 7.md",
+    "Session Notes/2023/10 14 - Session 4.md",
+    "Factions/Party/Tando.md",
+    "Session Notes/2024/03 28 - Session 9.md",
+    "Assets/Pasted image 20240420155702.png",
+    "Assets/Sheet Backups/fvtt-Actor-cloud.json",
+    "Session Notes/Cloud v2.md",
     "Assets/Pasted image 20240522150517.png",
     "Assets/Pasted image 20240522150509.png",
-    "Session Notes/This is Your Life.md",
-    "Session Notes/Cloud v2.md",
-    "Session Notes/2024/03 28 - Session 9.md",
-    "Session Notes/2024/04 20 - Session 10.md",
-    "Session Notes/2024/02 22 - Session 8.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
     "Assets/Sheet Backups/fvtt-Actor-cloud-170V5m4LCLyu0xm7.json",
     "Assets/Pasted image 20240420182822.png",
-    "Assets/Pasted image 20240420155702.png",
-    "Locations/Ten Towns/Targos/Triglio.md",
-    "Session Notes/2023/11 30 - Session 5.md",
-    "Session Notes/2023/12 28 - Session 6.md",
-    "Session Notes/2024/01 13 - Session 7.md",
-    "Locations/Ten Towns/Targos/Targos.md",
-    "Assets/Characters/NPCs/Talvi.webp",
-    "NPCs/Northbrook Family/Talvi Northbrook.md",
-    "Factions/Party/Tando.md",
-    "Session Notes/2023/08 24 - Session 2.md",
     "Session Notes/2023/09 19 - Session 3.md",
-    "Session Notes/2023/10 14 - Session 4.md",
     "Session Notes/2023/07 22 - Session 1.md",
     "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
     "Locations/Ten Towns/Termalaine/The Eastside.md",
@@ -373,7 +212,6 @@
     "Locations/Ten Towns/Lonelywood/Lonelywood.md",
     "Locations/Ten Towns/Lonelywood/Liar.md",
     "Locations/Ten Towns/Lonelywood/Ramshackle.md",
-    "Assets/Sheet Backups/fvtt-Actor-cloud.json",
     "Locations/Ten Towns/Lonelywood/Untitled.md",
     "Locations/Ten Towns/Lonelywood/Lucky Liar.md",
     "Locations/Ten Towns/Termalaine/Termalaine.md",
@@ -388,7 +226,6 @@
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook (2).json",
     "Locations/Ten Towns/Termalaine",
     "Assets/Maps/Targos.png",
-    "Assets/Characters/NPCs/Andri.webp",
-    "Assets/Characters/NPCs/Olwen1.webp"
+    "Assets/Characters/NPCs/Andri.webp"
   ]
 }
