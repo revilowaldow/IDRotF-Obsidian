@@ -89,8 +89,10 @@ Renderum
 Been in hiding
 
 [[Zhentarim]]
-
+(Torgga broach)
 Strong connection with "the weave"
+Identifies spellcasters via weave
+
 
 
 
