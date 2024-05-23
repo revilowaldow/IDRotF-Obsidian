@@ -77,6 +77,9 @@ Nasir Eldest Sister
 Tied up guy
 Waiting for [[Torrga Icevein]] to come back.
 
+4 thugs one tied up person
+Two Flying snakes
+
 
 
 
