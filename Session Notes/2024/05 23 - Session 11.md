@@ -45,6 +45,10 @@ Old black cabin been around forever
 [[MacRaedis]] tinkerer?
 "Stubborn Fool"
 Make a device to end eternal winter
+West
+
+Copper likes winding up Mishann
+
 
 
 
