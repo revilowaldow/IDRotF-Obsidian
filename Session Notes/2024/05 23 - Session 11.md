@@ -4,3 +4,13 @@ Have until midday to sort out Torinn's aging
 
 Bryn Shander
 
+Black skeleton wizard robes
+
+[[Methelond]] 
+
+Ancient White Dragon
+
+Skeleton on back
+
+Dragon old eyes glazed over
+
