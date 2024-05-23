@@ -81,7 +81,9 @@ Waiting for [[Torrga Icevein]] to come back.
 Two Flying snakes
 
 
-Sending Flint sent to Targos, Steel to Easthaven to look 
+Sending Flint sent to Targos, Steel to Easthaven to look for Torrga
+
+
 
 
 
