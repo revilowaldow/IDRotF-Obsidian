@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md",
+                "file": "Session Notes/2024/05 23 - Session 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md",
+                "file": "Session Notes/2024/05 23 - Session 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md"
+                "file": "Session Notes/2024/05 23 - Session 11.md"
               }
             }
           },
@@ -193,10 +192,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6da7e16a39233437",
+  "active": "836c5ced15735563",
   "lastOpenFiles": [
-    "Session Notes/2024/05 23 - Session 11.md",
     "Session Notes/2024/04 20 - Session 10.md",
+    "Session Notes/2024/05 23 - Session 11.md",
     "Session Notes/2024/02 22 - Session 8.md",
     "Locations/Ten Towns/Targos/Triglio.md",
     "Locations/Ten Towns/Targos/Targos.md",
