@@ -54,5 +54,12 @@ Copper likes winding up Mishann
 Long term closed shop in center square
 [[Rendarel]]
 
+"The Bryn Shander Bulletin"
+
+Auril's Might Continuously On Display
+Illustration of Horned Owl on back of giant bird
+Auril spotted aboard a mightly white roc
+
+
 
 
