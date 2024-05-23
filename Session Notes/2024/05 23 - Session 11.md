@@ -28,7 +28,9 @@ Torinn told Nasir about green stone?
 Large stone altar in back of house of morning lord
 Avenator
 
-Inner calm 
+Inner calm takes over Cloud after praying for more dawns on the tundra
+
+
 
 
 
