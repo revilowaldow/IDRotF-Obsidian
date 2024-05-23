@@ -98,6 +98,8 @@ Sack of small stones
 Sending Stone
 Rendaril's Bag of transportation
 
+4 thugs worth of loot + Skath's loot (papers armour badge of office etc)
+
 
 
 
