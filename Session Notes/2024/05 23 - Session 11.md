@@ -51,5 +51,8 @@ Copper likes winding up Mishann
 
 
 
+Long term closed shop in center square
+[[Rendarel]]
+
 
 
