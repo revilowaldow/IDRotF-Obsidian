@@ -90,6 +90,8 @@ Been in hiding
 
 [[Zhentarim]]
 
+Strong connection with "the weave"
+
 
 
 
