@@ -6,7 +6,7 @@ Bryn Shander
 
 Black skeleton wizard robes
 
-[[Methelond]] 
+[[Meltharond]]
 
 Ancient White Dragon
 
@@ -18,7 +18,6 @@ Dragon old eyes glazed over
 
 ![[Pasted image 20240523194349.png]]
 Have a look at AC for both Hamelyn and Torinn
-
 
 
 
