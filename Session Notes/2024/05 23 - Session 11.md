@@ -18,6 +18,8 @@ Dragon old eyes glazed over
 
 ![[Pasted image 20240523194349.png]]
 Have a look at AC for both Hamelyn and Torinn
+Dragon grounded because of the blizzard
+
 
 
 
