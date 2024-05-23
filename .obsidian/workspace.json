@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Session Notes/2024/05 23 - Session 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6da7e16a39233437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Session Notes/2024/04 20 - Session 10.md",
                 "mode": "source",
                 "source": false
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +193,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ff96f72ce71dfc4",
+  "active": "6da7e16a39233437",
   "lastOpenFiles": [
-    "Session Notes/2024/02 22 - Session 8.md",
+    "Session Notes/2024/05 23 - Session 11.md",
     "Session Notes/2024/04 20 - Session 10.md",
+    "Session Notes/2024/02 22 - Session 8.md",
     "Locations/Ten Towns/Targos/Triglio.md",
     "Locations/Ten Towns/Targos/Targos.md",
     "Session Notes/This is Your Life.md",
