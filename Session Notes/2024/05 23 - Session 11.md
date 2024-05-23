@@ -73,8 +73,9 @@ Ramshackle in Lonleywood to reopen and rebrand
 
 Nasir Eldest Sister
 
-Captain Skath in Renderal
+[[Captain Skath]] in Renderal
 Tied up guy
+Waiting for [[Torrga Icevein]] to come back.
 
 
 
