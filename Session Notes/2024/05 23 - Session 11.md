@@ -30,7 +30,9 @@ Avenator
 
 Inner calm takes over Cloud after praying for more dawns on the tundra
 
+1000gp 
 
+Cloud's birthday is October 7th
 
 
 
