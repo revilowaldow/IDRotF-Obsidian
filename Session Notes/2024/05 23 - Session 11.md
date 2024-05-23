@@ -34,7 +34,18 @@ Inner calm takes over Cloud after praying for more dawns on the tundra
 
 Cloud's birthday is October 7th
 
-Hamelyn organ's shifted
+Hamelyn organ's shifted??
+
+Old black cabin been around forever
+	Unknown construction
+	Bad feeling haunted
+	Gnome in bryn Shander, magical experiments
+	[[Copper]]
+
+[[MacRaedis]] tinkerer?
+"Stubborn Fool"
+Make a device to end eternal winter
+
 
 
 

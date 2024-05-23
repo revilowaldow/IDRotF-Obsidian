@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Locations/Ten Towns/Lonelywood/Liar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3dd5a3c88b861d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Session Notes/2024/05 23 - Session 11.md",
                 "mode": "source",
                 "source": false
@@ -79,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,11 +229,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "836c5ced15735563",
+  "active": "d3dd5a3c88b861d0",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Lonelywood/Liar.md",
+    "Session Notes/2024/05 23 - Session 11.md",
     "Assets/Pasted image 20240523194349.png",
     "Session Notes/2024/04 20 - Session 10.md",
-    "Session Notes/2024/05 23 - Session 11.md",
     "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
     "Locations/Ten Towns/Bryn Shander/Bryn Shander.md",
     "Session Notes/2024/02 22 - Session 8.md",
@@ -250,7 +264,6 @@
     "Locations/Ten Towns/Termalaine/The Eastside.md",
     "Locations/Ten Towns/Termalaine/The Blue Clam.md",
     "Locations/Ten Towns/Lonelywood/Lonelywood.md",
-    "Locations/Ten Towns/Lonelywood/Liar.md",
     "Locations/Ten Towns/Lonelywood/Ramshackle.md",
     "Locations/Ten Towns/Lonelywood",
     "Locations/Ten Towns/Untitled",
@@ -262,7 +275,6 @@
     "Assets/Crests/TermalaineCrest.png",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook (2).json",
     "Locations/Ten Towns/Termalaine",
-    "Assets/Maps/Targos.png",
-    "Assets/Characters/NPCs/Andri.webp"
+    "Assets/Maps/Targos.png"
   ]
 }

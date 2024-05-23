@@ -15,7 +15,7 @@ Old black cabin been around forever
 	Unknown construction
 	Bad feeling haunted
 	Gnome in bryn Shander, magical experiments
-	Copper
+	[[Copper]]
 
 
 [[Danae Xotal]]
