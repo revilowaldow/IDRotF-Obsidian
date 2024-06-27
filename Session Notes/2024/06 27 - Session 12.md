@@ -32,3 +32,11 @@ punched old bitey off the wall
 
 Four fishers went missing 10 days ago
 
+Scout the coastline for the missing fishers
+
+Siphon can provide a boat if needed
+
+Can give us the wizards effects
+
+Speaker is busy
+
