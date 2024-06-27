@@ -15,5 +15,8 @@ leather armor
 
 [[Zhentarim]]
 'the zhents'
+Symbol: Black dragon on field of gold
+
+
 
 
