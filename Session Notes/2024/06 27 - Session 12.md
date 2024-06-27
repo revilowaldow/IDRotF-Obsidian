@@ -12,3 +12,6 @@ heavy crossbow
 leather armor
 40 crossbow bolts
 
+
+Zhentarim
+
