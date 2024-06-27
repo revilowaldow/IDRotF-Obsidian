@@ -30,3 +30,5 @@ punched old bitey off the wall
 
 [[The Wet Trout]]
 
+Four fishers went missing 10 days ago
+
