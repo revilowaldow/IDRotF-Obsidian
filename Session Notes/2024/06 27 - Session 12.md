@@ -50,5 +50,9 @@ Out to the North east
 
 [[Scython]] - looks after
 
+[[Nymetra]] - second mother - pro [[Auril]]
+[[Dura]] - first mother sacrified in the lottery
+
+
 
 
