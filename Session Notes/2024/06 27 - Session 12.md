@@ -20,3 +20,5 @@ Symbol: Black dragon on field of gold
 
 136gp 4sp 2cp each
 
+The Northern Light missing lantern
+
