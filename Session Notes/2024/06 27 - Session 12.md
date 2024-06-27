@@ -24,4 +24,7 @@ The Northern Light missing lantern
 
 Old Bitey had signet ring from Nasir's past inside
 
-Nasir fucked scram sacks 
+Nasir fucked scram sacks' daughter in the past
+
+punched old bitey off the wall
+
