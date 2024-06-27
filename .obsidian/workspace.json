@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/06 27 - Session 12.md",
+                "file": "Session Notes/2024/05 23 - Session 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/06 27 - Session 12.md",
+                "file": "Session Notes/2024/05 23 - Session 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/06 27 - Session 12.md"
+                "file": "Session Notes/2024/05 23 - Session 11.md"
               }
             }
           },
@@ -313,10 +313,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d0c09622968993f6",
+  "active": "4250cb1d5dcb4409",
   "lastOpenFiles": [
-    "Locations/Ten Towns/Bryn Shander/The Northlook.md",
     "Session Notes/2024/06 27 - Session 12.md",
+    "Locations/Ten Towns/Bryn Shander/The Northlook.md",
     "Locations/Ten Towns/Bryn Shander/Bryn Shander.md",
     "Session Notes/2023/07 22 - Session 1.md",
     "NPCs/Naerth Maxildanarr.md",
