@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "3abb677061def19e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Easthaven/The Wet Trout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7ece5da5f1168d71",
             "type": "leaf",
             "state": {
@@ -339,10 +351,10 @@
   },
   "active": "1a0520e07fa2b31c",
   "lastOpenFiles": [
-    "Locations/Ten Towns/Easthaven/Easthaven.md",
     "Locations/Ten Towns/Easthaven/The Wet Trout.md",
-    "Locations/Ten Towns/Easthaven/The White Lady Inn.md",
     "Session Notes/2024/06 27 - Session 12.md",
+    "Locations/Ten Towns/Easthaven/Easthaven.md",
+    "Locations/Ten Towns/Easthaven/The White Lady Inn.md",
     "Locations/Ten Towns/Easthaven",
     "Session Notes/2024/05 23 - Session 11.md",
     "Locations/Ten Towns/Bryn Shander/The Northlook.md",
