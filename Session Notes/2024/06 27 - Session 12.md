@@ -22,3 +22,6 @@ Symbol: Black dragon on field of gold
 
 The Northern Light missing lantern
 
+Old Bitey had signet ring from Nasir's past inside
+
+Nasir fucked scram sacks 
