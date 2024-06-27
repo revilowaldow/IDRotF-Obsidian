@@ -61,6 +61,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Session Notes/2023/07 22 - Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0c09622968993f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Session Notes/2024/06 27 - Session 12.md",
                 "mode": "source",
                 "source": false
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -289,11 +301,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6eb2c004fde322e7",
+  "active": "d0c09622968993f6",
   "lastOpenFiles": [
+    "Session Notes/2023/07 22 - Session 1.md",
+    "Session Notes/2024/06 27 - Session 12.md",
     "NPCs/Naerth Maxildanarr.md",
     "Locations/Ten Towns/Targos/Targos.md",
-    "Session Notes/2024/06 27 - Session 12.md",
     "Session Notes/2024/05 23 - Session 11.md",
     "Assets/Sheet Backups/fvtt-Actor-cloud 1.json",
     "Session Notes/2024/04 20 - Session 10.md",
@@ -323,7 +336,6 @@
     "Assets/Sheet Backups/fvtt-Actor-cloud-170V5m4LCLyu0xm7.json",
     "Assets/Pasted image 20240420182822.png",
     "Session Notes/2023/09 19 - Session 3.md",
-    "Session Notes/2023/07 22 - Session 1.md",
     "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
     "Locations/Ten Towns/Termalaine/The Eastside.md",
     "Locations/Ten Towns/Termalaine/The Blue Clam.md",
