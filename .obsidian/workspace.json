@@ -37,10 +37,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2024/05 23 - Session 11.md",
+                "file": "Session Notes/2024/06 27 - Session 12.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "4250cb1d5dcb4409",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -182,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/05 23 - Session 11.md",
+                "file": "Session Notes/2024/06 27 - Session 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/05 23 - Session 11.md",
+                "file": "Session Notes/2024/06 27 - Session 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/05 23 - Session 11.md"
+                "file": "Session Notes/2024/06 27 - Session 12.md"
               }
             }
           },
@@ -255,9 +263,10 @@
   },
   "active": "c2165dd8661ce747",
   "lastOpenFiles": [
+    "Session Notes/2024/05 23 - Session 11.md",
+    "Session Notes/2024/06 27 - Session 12.md",
     "Assets/Sheet Backups/fvtt-Actor-cloud 1.json",
     "Session Notes/2024/04 20 - Session 10.md",
-    "Session Notes/2024/05 23 - Session 11.md",
     "NPCs/Captain Skath.md",
     "Locations/Ten Towns/Lonelywood/Liar.md",
     "Assets/Pasted image 20240523194349.png",
@@ -299,7 +308,6 @@
     "Assets/Crests/TargosCrest.png",
     "Assets/Crests/TermalaineCrest.png",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook (2).json",
-    "Locations/Ten Towns/Termalaine",
     "Assets/Maps/Targos.png"
   ]
 }
