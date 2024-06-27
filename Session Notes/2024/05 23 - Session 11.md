@@ -96,7 +96,7 @@ Identifies spellcasters via weave
 Sack of small stones
 
 Sending Stone
-Rendaril's Bag of transportation
+Rendaril's Bag of Passing
 
 4 thugs worth of loot + Skath's loot (papers armour badge of office etc)
 
