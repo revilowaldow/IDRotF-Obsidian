@@ -13,5 +13,7 @@ leather armor
 40 crossbow bolts
 
 
-Zhentarim
+[[Zhentarim]]
+'the zhents'
+
 
