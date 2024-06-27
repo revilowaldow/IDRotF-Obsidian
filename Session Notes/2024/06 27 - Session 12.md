@@ -46,5 +46,5 @@ has tried to be selective
 Takes a break from the lottery 
 
 Large black rock structure that went deeper into ground?
+Out to the North east
 
-Out to the east
