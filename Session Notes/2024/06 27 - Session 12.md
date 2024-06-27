@@ -40,3 +40,11 @@ Can give us the wizards effects
 
 Speaker is busy
 
+[[Danneth Waylen]] - town speaker, not military
+tried to resist sacrifices
+has tried to be selective
+Takes a break from the lottery 
+
+Large black rock structure that went deeper into ground?
+
+Out to the east
