@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2024/06 27 - Session 12.md",
+                "file": "Locations/Ten Towns/Easthaven/The White Lady Inn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "307cb6d1c3a54738",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Easthaven/Easthaven.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -242,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/05 23 - Session 11.md",
+                "file": "Locations/Ten Towns/Easthaven/Easthaven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/05 23 - Session 11.md",
+                "file": "Locations/Ten Towns/Easthaven/Easthaven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/05 23 - Session 11.md"
+                "file": "Locations/Ten Towns/Easthaven/Easthaven.md"
               }
             }
           },
@@ -313,15 +325,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4250cb1d5dcb4409",
+  "active": "307cb6d1c3a54738",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Easthaven/The Wet Trout.md",
+    "Locations/Ten Towns/Easthaven/Easthaven.md",
+    "Locations/Ten Towns/Easthaven/The White Lady Inn.md",
     "Session Notes/2024/06 27 - Session 12.md",
+    "Locations/Ten Towns/Easthaven",
+    "Session Notes/2024/05 23 - Session 11.md",
     "Locations/Ten Towns/Bryn Shander/The Northlook.md",
     "Locations/Ten Towns/Bryn Shander/Bryn Shander.md",
     "Session Notes/2023/07 22 - Session 1.md",
     "NPCs/Naerth Maxildanarr.md",
     "Locations/Ten Towns/Targos/Targos.md",
-    "Session Notes/2024/05 23 - Session 11.md",
     "Assets/Sheet Backups/fvtt-Actor-cloud 1.json",
     "Session Notes/2024/04 20 - Session 10.md",
     "NPCs/Captain Skath.md",
@@ -348,11 +364,7 @@
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
     "Assets/Sheet Backups/fvtt-Actor-cloud-170V5m4LCLyu0xm7.json",
     "Assets/Pasted image 20240420182822.png",
-    "Session Notes/2023/09 19 - Session 3.md",
-    "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
-    "Locations/Ten Towns/Termalaine/The Eastside.md",
     "Locations/Ten Towns/Lonelywood",
-    "Locations/Ten Towns/Untitled",
     "Session Notes/2024",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Assets/Maps/Gem Mine.png",

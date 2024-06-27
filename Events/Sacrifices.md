@@ -3,7 +3,7 @@ Sacrifices are being made to [[Auril]]
 Sacrifices of people:
 - [[Targos]]
 - [[Bryn Shander]]
-- [[Easthaven]]
+- [[Locations/Ten Towns/Easthaven]]
 
 Lottery is Run to select who should be the sacrifice 
 

@@ -9,7 +9,7 @@
 - [[Akiko]] allegedly bribed [[Captain Skath]]to be kept out of [[Sacrifices]] Lottery
 
 
-Halfling trapper in [[Easthaven]]
+Halfling trapper in [[Locations/Ten Towns/Easthaven]]
 
  [[Bryn Shander]]
 
