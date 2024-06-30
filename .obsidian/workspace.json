@@ -104,6 +104,14 @@
             }
           },
           {
+            "id": "dc4e19c96c5775c9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "3abb677061def19e",
             "type": "leaf",
             "state": {
@@ -278,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/06 27 - Session 12.md",
+                "file": "Locations/Ten Towns/Lonelywood/Liar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/06 27 - Session 12.md",
+                "file": "Locations/Ten Towns/Lonelywood/Liar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/06 27 - Session 12.md"
+                "file": "Locations/Ten Towns/Lonelywood/Liar.md"
               }
             }
           },
@@ -349,8 +357,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a0520e07fa2b31c",
+  "active": "425479cc273d7764",
   "lastOpenFiles": [
+    "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ.json",
     "Locations/Ten Towns/Easthaven/The Wet Trout.md",
     "Session Notes/2024/06 27 - Session 12.md",
     "Locations/Ten Towns/Easthaven/Easthaven.md",
@@ -382,7 +391,6 @@
     "Session Notes/2024/03 28 - Session 9.md",
     "Assets/Pasted image 20240420155702.png",
     "Assets/Sheet Backups/fvtt-Actor-cloud.json",
-    "Session Notes/Cloud v2.md",
     "Assets/Pasted image 20240522150517.png",
     "Assets/Pasted image 20240522150509.png",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
