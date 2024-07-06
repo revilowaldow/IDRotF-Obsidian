@@ -20,3 +20,7 @@ Bunch'O Knuckleheads
 
 Nanna Whisperlance has particularly saggy breasts
 
+Caves
+
+Frozen waterfall
+
