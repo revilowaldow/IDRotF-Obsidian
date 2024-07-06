@@ -17,3 +17,6 @@ Bunch'O Knuckleheads
 
 
 ! Fix snow leopard default token
+
+Nanna Whisperlance has particularly saggy breasts
+
