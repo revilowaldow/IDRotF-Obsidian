@@ -116,6 +116,14 @@
             }
           },
           {
+            "id": "47bd7c9f1bb699f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "3abb677061def19e",
             "type": "leaf",
             "state": {
@@ -224,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -290,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/07 06 - Session 13.md",
+                "file": "Session Notes/Cloud v2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +315,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/07 06 - Session 13.md",
+                "file": "Session Notes/Cloud v2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +338,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/07 06 - Session 13.md"
+                "file": "Session Notes/Cloud v2.md"
               }
             }
           },
@@ -361,8 +369,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc4e19c96c5775c9",
+  "active": "50c6134f35226013",
   "lastOpenFiles": [
+    "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 1.json",
     "Session Notes/2024/07 06 - Session 13.md",
     "Locations/Ten Towns/Lonelywood/Liar.md",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ.json",
@@ -393,7 +402,6 @@
     "Session Notes/2024/01 13 - Session 7.md",
     "Session Notes/2023/10 14 - Session 4.md",
     "Factions/Party/Tando.md",
-    "Session Notes/2024/03 28 - Session 9.md",
     "Assets/Pasted image 20240420155702.png",
     "Assets/Sheet Backups/fvtt-Actor-cloud.json",
     "Assets/Pasted image 20240522150517.png",
