@@ -91,6 +91,6 @@ Liable to be cursed
 Figure head depicts Urtu a Balor Demon that terrorised over a century ago
 
 Found in Lac Dinnershere
-
+	 
 
 
