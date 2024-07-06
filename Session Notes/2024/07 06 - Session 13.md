@@ -31,3 +31,11 @@ Huge greataxe on back?
 
 Creepy singing
 
+Old ugly woman 
+Copper
+
+Hag has stewed the 4 fishermen
+
+[[Maud Chiselbone]]
+Hag
+
