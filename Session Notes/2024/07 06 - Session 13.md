@@ -73,3 +73,8 @@ Emerald
 Ruby
 Diamond
 
+Election going on in [[Goodmead]]
+
+Dazaan is a memeber of the arcane brotherhood
+
+
