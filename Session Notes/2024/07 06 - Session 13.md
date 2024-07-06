@@ -8,3 +8,4 @@ White lady Inn
 - Story of a ghost on lac dinnershere
 
 Temperature has been dropping
+
