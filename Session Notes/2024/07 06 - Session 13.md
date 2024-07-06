@@ -58,5 +58,10 @@ Big Knuck 1479DR
 
 [[Danneth Waylen]]
 
+Got a bag of tricks, gray and a scroll of fireball
+
+Hidden door in town hall behind painting of lac dinnershere
+Speaker's office
+
 
 
