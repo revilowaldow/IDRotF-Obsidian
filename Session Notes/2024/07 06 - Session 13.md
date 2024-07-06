@@ -48,3 +48,5 @@ Lived with this hag
 "I think there's someone living in these caves. Shortly after discovering the hot spring, I heard what sounded like a granny singing. When the song ended with a shrill laugh, dread sunk its teeth in me. Ye gods, that horrible cackle! I shall leave these caves in the morning and never return."
 
 
+[[Prudence]] receptionist at Easthaven Town Hall
+
