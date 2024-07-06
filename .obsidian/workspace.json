@@ -107,8 +107,12 @@
             "id": "dc4e19c96c5775c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2024/07 06 - Session 13.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -220,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -286,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Lonelywood/Liar.md",
+                "file": "Session Notes/2024/07 06 - Session 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Lonelywood/Liar.md",
+                "file": "Session Notes/2024/07 06 - Session 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Lonelywood/Liar.md"
+                "file": "Session Notes/2024/07 06 - Session 13.md"
               }
             }
           },
@@ -357,8 +361,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "425479cc273d7764",
+  "active": "dc4e19c96c5775c9",
   "lastOpenFiles": [
+    "Session Notes/2024/07 06 - Session 13.md",
+    "Locations/Ten Towns/Lonelywood/Liar.md",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ.json",
     "Locations/Ten Towns/Easthaven/The Wet Trout.md",
     "Session Notes/2024/06 27 - Session 12.md",
@@ -374,7 +380,6 @@
     "Assets/Sheet Backups/fvtt-Actor-cloud 1.json",
     "Session Notes/2024/04 20 - Session 10.md",
     "NPCs/Captain Skath.md",
-    "Locations/Ten Towns/Lonelywood/Liar.md",
     "Assets/Pasted image 20240523194349.png",
     "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
     "Session Notes/2024/02 22 - Session 8.md",
@@ -403,7 +408,6 @@
     "Assets/Crests",
     "Assets/Crests/TargosCrest.png",
     "Assets/Crests/TermalaineCrest.png",
-    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook (2).json",
     "Assets/Maps/Targos.png"
   ]
 }
