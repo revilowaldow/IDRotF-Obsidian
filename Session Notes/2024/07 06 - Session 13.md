@@ -11,5 +11,7 @@ Temperature has been dropping
 
 4 caves, overturned rowboat
 One at water level
-Others at 20-30 ft above
+Others at 20 ft above
+
+Bunch'O Knuckleheads
 
