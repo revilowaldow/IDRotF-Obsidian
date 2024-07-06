@@ -15,3 +15,5 @@ Others at 20 ft above
 
 Bunch'O Knuckleheads
 
+
+! Fix snow leopard default token
