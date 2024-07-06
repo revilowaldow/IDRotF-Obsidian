@@ -75,6 +75,22 @@ Diamond
 
 Election going on in [[Goodmead]]
 
-Dazaan is a memeber of the arcane brotherhood
+Dazaan is a member of the arcane brotherhood
+
+Figurehead of a demon on a ship
+
+three tiered gallery
+
+Made of black obsidian
+
+Shardalin - nasty stuff
+
+Liable to be cursed
+
+
+Figure head depicts Urtu a Balor Demon that terrorised over a century ago
+
+Found in Lac Dinnershere
+
 
 
