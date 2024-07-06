@@ -64,4 +64,12 @@ Hidden door in town hall behind painting of lac dinnershere
 Speaker's office
 
 
+Treasure of Easthaven behind portrait in Speakers office
+
+500gp
+Block amber
+Sapphire
+Emerald
+Ruby
+Diamond
 
