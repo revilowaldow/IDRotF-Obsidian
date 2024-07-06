@@ -24,3 +24,10 @@ Caves
 
 Frozen waterfall
 
+
+Discovered large frozen skeleton
+Huge greataxe on back?
+
+
+Creepy singing
+
