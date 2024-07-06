@@ -50,3 +50,13 @@ Lived with this hag
 
 [[Prudence]] receptionist at Easthaven Town Hall
 
+Riches on sunken ship 
+
+Town hall has all sorts of images of Easthaven Life
+5ft Knucklehead Trout
+Big Knuck 1479DR
+
+[[Danneth Waylen]]
+
+
+
