@@ -19,3 +19,5 @@ Dazaan structure
 (secret action)
 Nasir keeps Rinaldo's bard of the year poster
 
+The lost spire of netheril?
+
