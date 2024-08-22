@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9062f4740dad4197",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -157,7 +165,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "1576a794dc6ee096",
+  "active": "425479cc273d7764",
   "lastOpenFiles": [
     "Session Notes/2024/05 23 - Session 11.md",
     "Session Notes/2024/07 06 - Session 13.md",
