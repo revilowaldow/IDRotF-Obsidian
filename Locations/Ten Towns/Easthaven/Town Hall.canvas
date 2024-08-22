@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"29548ecde3cf940d","x":221,"y":-280,"width":179,"height":60,"type":"text","text":"Records\nbard of the year"},
+		{"id":"f814299291faa478","x":40,"y":-400,"width":250,"height":60,"type":"text","text":"Chair storage room"},
+		{"id":"9bf372b7793393e4","x":-352,"y":-187,"width":250,"height":60,"type":"text","text":"Speaker's Office"},
+		{"id":"cb4e7dd4e1db03f1","x":-227,"y":-20,"width":138,"height":60,"type":"text","text":"Toilet"},
+		{"id":"6169949d3c60119d","x":-102,"y":-310,"width":138,"height":60,"color":"5","type":"text","text":"Outside"},
+		{"id":"7ce4481ea1688b9b","x":40,"y":150,"width":250,"height":60,"type":"text","text":"Gallery"},
+		{"id":"6172143615e910d0","x":40,"y":-108,"width":250,"height":177,"type":"text","text":"Statue room"},
+		{"id":"6332a44acf983a9b","x":-408,"y":-20,"width":138,"height":60,"type":"text","text":"Cloakroom"},
+		{"id":"a0eff37c26737b51","x":-380,"y":90,"width":250,"height":60,"type":"text","text":"Admin room"},
+		{"id":"da2e0f00a2d92db1","x":-780,"y":-20,"width":250,"height":60,"type":"text","text":"Reception"}
+	],
+	"edges":[
+		{"id":"cd2b5b37bd3abed9","fromNode":"f814299291faa478","fromSide":"bottom","toNode":"6172143615e910d0","toSide":"top"},
+		{"id":"2d0fa49f79a464d6","fromNode":"29548ecde3cf940d","fromSide":"bottom","toNode":"6172143615e910d0","toSide":"top"},
+		{"id":"0550ac9669e9c1aa","fromNode":"6172143615e910d0","fromSide":"left","toNode":"9bf372b7793393e4","toSide":"right"},
+		{"id":"a5fe71e5659e822a","fromNode":"9bf372b7793393e4","fromSide":"bottom","toNode":"6332a44acf983a9b","toSide":"top"},
+		{"id":"241ad0d3ce435f4d","fromNode":"6332a44acf983a9b","fromSide":"right","toNode":"cb4e7dd4e1db03f1","toSide":"left"},
+		{"id":"3febb5e3be7cb915","fromNode":"6172143615e910d0","fromSide":"left","toNode":"a0eff37c26737b51","toSide":"right"},
+		{"id":"7937c37a70c039cf","fromNode":"da2e0f00a2d92db1","fromSide":"right","toNode":"9bf372b7793393e4","toSide":"left","color":"6","label":"Secret"},
+		{"id":"382f0ed4a336b465","fromNode":"da2e0f00a2d92db1","fromSide":"right","toNode":"a0eff37c26737b51","toSide":"left"},
+		{"id":"262524a9f6a3158f","fromNode":"6172143615e910d0","fromSide":"left","toNode":"6169949d3c60119d","toSide":"bottom","label":"Dark Corridor"},
+		{"id":"e5077e5311d4b466","fromNode":"6172143615e910d0","fromSide":"bottom","toNode":"7ce4481ea1688b9b","toSide":"top"}
+	]
+}

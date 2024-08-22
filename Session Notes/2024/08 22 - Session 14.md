@@ -16,6 +16,10 @@ Awakened polar bear
 Black Cabin 
 Dazaan structure
 
+
+
+
+
 (secret action)
 Nasir keeps Rinaldo's bard of the year poster
 
@@ -38,5 +42,8 @@ Cleaned cauldron
 
 Struggle in speaker's office
 
+
+Two thugs in reception
+three in office
 
 
