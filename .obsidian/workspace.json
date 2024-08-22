@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e54a4eb0f0f3c38",
+            "id": "1237f0c0fe1271a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Session Notes/2024/07 06 - Session 13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e54a4eb0f0f3c38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2024/08 22 - Session 14.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,8 +169,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "4e54a4eb0f0f3c38",
+  "active": "1237f0c0fe1271a9",
   "lastOpenFiles": [
+    "Session Notes/2024/08 22 - Session 14.md",
+    "Session Notes/2024/07 06 - Session 13.md",
     "Locations/Ten Towns/Lonelywood/Liar.md",
     "Session Notes/2024/04 20 - Session 10.md",
     "Locations/Ten Towns/Targos/Targos.md",
@@ -167,7 +181,6 @@
     "Locations/Ten Towns/Easthaven/The White Lady Inn.md",
     "Locations/Ten Towns/Easthaven/Easthaven.md",
     "Session Notes/2024/06 27 - Session 12.md",
-    "Session Notes/2024/07 06 - Session 13.md",
     "Session Notes/2024/03 28 - Session 9.md",
     "Session Notes/Cloud v2.md",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 1.json",
@@ -190,7 +203,6 @@
     "Session Notes/2023/12 28 - Session 6.md",
     "Session Notes/2023/11 30 - Session 5.md",
     "Session Notes/2024/01 13 - Session 7.md",
-    "Session Notes/2023/10 14 - Session 4.md",
     "Assets/Pasted image 20240420155702.png",
     "Assets/Sheet Backups/fvtt-Actor-cloud.json",
     "Assets/Pasted image 20240522150517.png",
