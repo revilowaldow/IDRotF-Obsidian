@@ -11,8 +11,8 @@ Olwen
 Boreas and Andri
 Mother lost
 
-Missing chiildren
-Awakened poalr bear
+Missing children
+Awakened polar bear
 Black Cabin 
 Dazaan structure
 
@@ -23,4 +23,6 @@ The lost spire of netheril?
 
 Barteban - Owner of the white lady inn
 Wound up by Rinaldo
+
+Oarus Matthew - Supposedly in a relationship - Talvi
 
