@@ -16,9 +16,7 @@ Awakened polar bear
 Black Cabin 
 Dazaan structure
 
-
-
-
+![[Town Hall.canvas]]
 
 (secret action)
 Nasir keeps Rinaldo's bard of the year poster
@@ -46,4 +44,6 @@ Struggle in speaker's office
 Two thugs in reception
 three in office
 
+Large crash from statue room
 
+Figurehead smashed
