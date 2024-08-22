@@ -6,4 +6,9 @@ People taste like iron
 
 Nasir attempting to write a work to help him gain favour with his parents
 
+Told party about backstory
+Olwen
+Boreas and Andri
+Mother lost
+
 
