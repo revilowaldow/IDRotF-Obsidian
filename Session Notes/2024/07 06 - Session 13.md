@@ -83,14 +83,15 @@ three tiered gallery
 
 Made of black obsidian
 
-Shardalin - nasty stuff
-
+[[Shardalin]] - nasty stuff
+Looks like black ice, properties of steeel
 Liable to be cursed
-
 
 Figure head depicts Urtu a Balor Demon that terrorised over a century ago
 
 Found in Lac Dinnershere
-	 
+
+
+Currently guarding the cauldron in the dungeons
 
 
