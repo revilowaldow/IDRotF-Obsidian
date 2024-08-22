@@ -116,6 +116,16 @@
             }
           },
           {
+            "id": "c61abb956f1cf7e1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/NPCs/Olwen1.webp"
+              }
+            }
+          },
+          {
             "id": "d0cb13b22c2d2825",
             "type": "leaf",
             "state": {
@@ -128,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -194,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ten Towns/Bremen/Bremen.md",
+                "file": "Assets/Characters/NPCs/Olwen1.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ten Towns/Bremen/Bremen.md",
+                "file": "Assets/Characters/NPCs/Olwen1.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ten Towns/Bremen/Bremen.md"
+                "file": "Assets/Characters/NPCs/Olwen1.webp"
               }
             }
           },
@@ -266,10 +276,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "8e778399f9b5f13c",
+  "active": "c61abb956f1cf7e1",
   "lastOpenFiles": [
-    "NPCs/Northbrook Family/Boreas Northbrook.md",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
+    "NPCs/Northbrook Family/Boreas Northbrook.md",
+    "Locations/Ten Towns/Bremen/Bremen.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "NPCs/Northbrook Family/Talvi Northbrook.md",
     "NPCs/Northbrook Family/Andri Northbrook.md",
@@ -298,7 +309,6 @@
     "Assets/Sheet Backups/fvtt-Actor-cloud 1.json",
     "NPCs/Captain Skath.md",
     "Assets/Pasted image 20240523194349.png",
-    "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
     "Assets/Characters/NPCs/Talvi.webp",
     "Assets/Pasted image 20240420155702.png",
     "Assets/Sheet Backups/fvtt-Actor-cloud.json",
