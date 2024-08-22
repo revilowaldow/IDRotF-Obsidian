@@ -4,235 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f3e09b0e65654e51",
+        "id": "959ae2ee9a3cf6c3",
         "type": "tabs",
         "children": [
           {
-            "id": "836c5ced15735563",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Lonelywood/Liar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3dd5a3c88b861d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2165dd8661ce747",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Targos/Targos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d53e3dbd04a8271",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Naerth Maxildanarr.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6eb2c004fde322e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0c09622968993f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Easthaven/The White Lady Inn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "307cb6d1c3a54738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Easthaven/Easthaven.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a0520e07fa2b31c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2024/06 27 - Session 12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc4e19c96c5775c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2024/07 06 - Session 13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47bd7c9f1bb699f7",
+            "id": "4e54a4eb0f0f3c38",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "3abb677061def19e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Easthaven/The Wet Trout.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ece5da5f1168d71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/The Northlook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4250cb1d5dcb4409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2024/05 23 - Session 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64e3db56f453046b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Captain Skath.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33301f0d8bd427df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/Bryn Shander.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4457bc0e234af606",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6da7e16a39233437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "254a32e03f1065e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2024/03 28 - Session 9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50c6134f35226013",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Cloud v2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 18
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 269.5
   },
   "right": {
     "id": "e2fde1fbd4583364",
@@ -298,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Cloud v2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Cloud v2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -337,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Session Notes/Cloud v2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -369,25 +148,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50c6134f35226013",
+  "active": "4e54a4eb0f0f3c38",
   "lastOpenFiles": [
-    "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 1.json",
-    "Session Notes/2024/07 06 - Session 13.md",
     "Locations/Ten Towns/Lonelywood/Liar.md",
+    "Session Notes/2024/04 20 - Session 10.md",
+    "Locations/Ten Towns/Targos/Targos.md",
+    "NPCs/Naerth Maxildanarr.md",
+    "Session Notes/2023/07 22 - Session 1.md",
+    "Locations/Ten Towns/Easthaven/The White Lady Inn.md",
+    "Locations/Ten Towns/Easthaven/Easthaven.md",
+    "Session Notes/2024/06 27 - Session 12.md",
+    "Session Notes/2024/07 06 - Session 13.md",
+    "Session Notes/2024/03 28 - Session 9.md",
+    "Session Notes/Cloud v2.md",
+    "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 1.json",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ.json",
     "Locations/Ten Towns/Easthaven/The Wet Trout.md",
-    "Session Notes/2024/06 27 - Session 12.md",
-    "Locations/Ten Towns/Easthaven/Easthaven.md",
-    "Locations/Ten Towns/Easthaven/The White Lady Inn.md",
     "Locations/Ten Towns/Easthaven",
     "Session Notes/2024/05 23 - Session 11.md",
     "Locations/Ten Towns/Bryn Shander/The Northlook.md",
     "Locations/Ten Towns/Bryn Shander/Bryn Shander.md",
-    "Session Notes/2023/07 22 - Session 1.md",
-    "NPCs/Naerth Maxildanarr.md",
-    "Locations/Ten Towns/Targos/Targos.md",
     "Assets/Sheet Backups/fvtt-Actor-cloud 1.json",
-    "Session Notes/2024/04 20 - Session 10.md",
     "NPCs/Captain Skath.md",
     "Assets/Pasted image 20240523194349.png",
     "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",
@@ -401,7 +182,6 @@
     "Session Notes/2023/11 30 - Session 5.md",
     "Session Notes/2024/01 13 - Session 7.md",
     "Session Notes/2023/10 14 - Session 4.md",
-    "Factions/Party/Tando.md",
     "Assets/Pasted image 20240420155702.png",
     "Assets/Sheet Backups/fvtt-Actor-cloud.json",
     "Assets/Pasted image 20240522150517.png",
@@ -413,7 +193,6 @@
     "Session Notes/2024",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Assets/Maps/Gem Mine.png",
-    "Assets/Crests",
     "Assets/Crests/TargosCrest.png",
     "Assets/Crests/TermalaineCrest.png",
     "Assets/Maps/Targos.png"
