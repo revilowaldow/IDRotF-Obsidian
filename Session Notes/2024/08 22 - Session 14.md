@@ -26,3 +26,6 @@ Wound up by Rinaldo
 
 Oarus Matthew - Supposedly in a relationship - Talvi
 
+Rinaldo wants to conduct a seance
+	Attempt to call the white lady
+	
