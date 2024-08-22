@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/07 06 - Session 13.md",
+                "file": "Session Notes/2024/08 22 - Session 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/07 06 - Session 13.md",
+                "file": "Session Notes/2024/08 22 - Session 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/07 06 - Session 13.md"
+                "file": "Session Notes/2024/08 22 - Session 14.md"
               }
             }
           },
@@ -169,10 +170,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "1237f0c0fe1271a9",
+  "active": "4e54a4eb0f0f3c38",
   "lastOpenFiles": [
-    "NPCs/Danneth Waylen.md",
     "Session Notes/2024/07 06 - Session 13.md",
+    "NPCs/Danneth Waylen.md",
     "Session Notes/2024/08 22 - Session 14.md",
     "Locations/Ten Towns/Lonelywood/Liar.md",
     "Session Notes/2024/04 20 - Session 10.md",
