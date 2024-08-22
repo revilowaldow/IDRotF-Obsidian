@@ -164,6 +164,18 @@
             }
           },
           {
+            "id": "d13172f5d8d72fcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Easthaven/The White Lady Inn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a812a47d603039ba",
             "type": "leaf",
             "state": {
@@ -296,7 +308,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -362,7 +374,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md",
+                "file": "Session Notes/2024/08 22 - Session 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -379,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md",
+                "file": "Session Notes/2024/08 22 - Session 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -402,7 +414,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/04 20 - Session 10.md"
+                "file": "Session Notes/2024/08 22 - Session 14.md"
               }
             }
           },
@@ -434,8 +446,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "d0b06d717fc7e2bd",
+  "active": "4e54a4eb0f0f3c38",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Easthaven/The White Lady Inn.md",
+    "Session Notes/2024/08 22 - Session 14.md",
+    "Session Notes/2024/04 20 - Session 10.md",
     "Session Notes/2024/05 23 - Session 11.md",
     "NPCs/Brunor.md",
     "NPCs/Captain Skath.md",
@@ -447,7 +462,6 @@
     "NPCs/Sephek.md",
     "NPCs/Torrga Icevein.md",
     "Session Notes/2024/07 06 - Session 13.md",
-    "Session Notes/2024/08 22 - Session 14.md",
     "Session Notes/2023/08 24 - Session 2.md",
     "Session Notes/2023/09 19 - Session 3.md",
     "Session Notes/2023/07 22 - Session 1.md",
@@ -461,8 +475,6 @@
     "Session Notes/This is Your Life.md",
     "Events/Death of Isolde.md",
     "Locations/Ten Towns/Bryn Shander/Bryn Shander.md",
-    "Locations/Ten Towns/Bryn Shander/The Northlook.md",
-    "Locations/Ten Towns/Lonelywood/Liar.md",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 1.json",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ.json",
     "Locations/Ten Towns/Easthaven",

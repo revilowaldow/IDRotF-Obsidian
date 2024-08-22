@@ -21,3 +21,6 @@ Nasir keeps Rinaldo's bard of the year poster
 
 The lost spire of netheril?
 
+Barteban - Owner of the white lady inn
+Wound up by Rinaldo
+
