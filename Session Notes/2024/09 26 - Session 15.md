@@ -24,4 +24,7 @@ Duergar stronghold in the spine of the world
 
 Zublorr
 
+Kelvin's Cairn
+Nildar marked on map
+
 
