@@ -20,5 +20,5 @@ Durth's father very powerful, lots of parties looking for chardyln, building som
 Working with the frost druids
 Duergar stronghold in the spine of the world
 
-
+Xardorok 
 
