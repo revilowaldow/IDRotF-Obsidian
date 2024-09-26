@@ -30,3 +30,4 @@ Nildar marked on map
 Durth put in pouch in Tando's backpack
 
 
+![[Pasted image 20240926232747.png]]
