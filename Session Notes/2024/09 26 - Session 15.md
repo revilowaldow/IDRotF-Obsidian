@@ -27,4 +27,6 @@ Zublorr
 Kelvin's Cairn
 Nildar marked on map
 
+Durth put in pouch in Tando's backpack
+
 
