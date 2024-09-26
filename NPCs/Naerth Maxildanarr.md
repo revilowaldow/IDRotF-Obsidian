@@ -6,5 +6,7 @@ Stays at [[The Luskan Arms]]
 
 Really doesn't get on with [[Nasir]]
 
-Doesn't realise that [[Captain Skath]] is taking bribes.
+LIE! Doesn't realise that [[Captain Skath]] is taking bribes.
+
+He's a Zhentarim agent
 

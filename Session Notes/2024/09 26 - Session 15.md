@@ -11,5 +11,5 @@ Zhentarim want to make 10 towns a stronghold ,establish trade oligrachy
 
 Goodmead has zhentarim
 
-Naerth Maxildinar in targos
+[[Naerth Maxildanarr]] in targos
 
