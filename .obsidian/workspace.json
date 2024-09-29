@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/09 26 - Session 15.md",
+                "file": "Session Notes/2024/08 22 - Session 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/09 26 - Session 15.md",
+                "file": "Session Notes/2024/08 22 - Session 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/09 26 - Session 15.md"
+                "file": "Session Notes/2024/08 22 - Session 14.md"
               }
             }
           },
@@ -194,8 +194,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "9062f4740dad4197",
+  "active": "425479cc273d7764",
   "lastOpenFiles": [
+    "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 2.json",
     "Assets/Pasted image 20240926232747.png",
     "Session Notes/2024/07 06 - Session 13.md",
     "Session Notes/2024/08 22 - Session 14.md",
@@ -241,7 +242,6 @@
     "Session Notes/2024",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Assets/Maps/Gem Mine.png",
-    "Assets/Crests/TargosCrest.png",
-    "Assets/Crests/TermalaineCrest.png"
+    "Assets/Crests/TargosCrest.png"
   ]
 }
