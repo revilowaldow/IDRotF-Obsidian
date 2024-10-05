@@ -46,9 +46,16 @@ Reattuned to psi crystal
 
 Bright light staggering towards us
 Coldlight Walker
-"This is the doom that awaits you all, Behold the final light"
+
+> "This is the doom that awaits you all, this is the fate of any who dare to claim what is mine, Behold the final light"
+	- Auril
 
 ![[Pasted image 20241005124628.png]]
 
 
-Coldlight Walker was [[Captain S]]
+Coldlight Walker was [[Captain Skath]]
+
+Blade drops out of the sleeve of the walker, glowing with magic
+
+
+
