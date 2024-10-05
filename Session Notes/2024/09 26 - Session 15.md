@@ -22,7 +22,7 @@ Duergar stronghold in the spine of the world
 
 [[Xardorok]] 
 
-Zublorr
+[[Zublorr]]
 
 Kelvin's Cairn
 Nildar marked on map
