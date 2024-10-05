@@ -20,3 +20,6 @@ Residence:
 
 
 Left after Nilak was banished so Nilak is unaware!!
+
+![[Pasted image 20241005150543.png]]
+
