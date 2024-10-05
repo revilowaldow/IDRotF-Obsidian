@@ -9,5 +9,7 @@ Elderly human Roark - Mop Man
 
 Sacrifice food
 
+The speaker lives in the castle
+Not been seen for a while
 
 
