@@ -79,3 +79,5 @@ Systematic destruction of ten towns
 
 ![[Pasted image 20241005155559.png]]
 
+Amulets are cult of levistus
+
