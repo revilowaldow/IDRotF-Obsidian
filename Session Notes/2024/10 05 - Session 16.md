@@ -11,4 +11,5 @@ Durth is the lesser son
 
 [[Xardorok]] has gone rogue, building something, needs a lot of chardylin
 
-He has a gr
+He has a great forge, powered by the heart of a red dragon
+
