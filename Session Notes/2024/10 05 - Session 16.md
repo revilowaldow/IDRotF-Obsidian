@@ -3,3 +3,9 @@ Took paperwork back to the speaker to investigate
 
 Took [[Durth]] back to [[captain aligarth]] 
 
+[[Xardorok Sunblight]]
+
+Durth is the lesser son
+
+[[Nildarr]] is the preffered son of Xaradorok
+
