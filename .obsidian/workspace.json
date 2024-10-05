@@ -54,6 +54,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a19925a32ae7bb2b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
