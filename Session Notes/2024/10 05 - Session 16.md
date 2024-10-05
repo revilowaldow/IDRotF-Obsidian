@@ -65,4 +65,12 @@ Younger teenage tiefling girl
 
 [[Kadroth]] - senior figure in the group
 
+There are evil invisible duergar in the ten towns
 
+[[Xardorok Sunblight]] duergar warlord will conquer all of icewind dale
+
+Has a fort on the surface hidden in the spine of the world
+
+Building a terrible weapon - dragon built of chardyln
+
+Systematic destruction of ten towns
