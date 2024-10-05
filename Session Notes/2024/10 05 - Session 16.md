@@ -35,3 +35,4 @@ Sent Rendaril the lantern of tracking, ideally to be used to track duergar, but 
 
 Cult in Caer Dineval, in the keep
 
+Get sled dogs 
