@@ -54,6 +54,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a1f791224a3b4cb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -194,7 +202,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "703d549c65737ec8",
+  "active": "425479cc273d7764",
   "lastOpenFiles": [
     "Session Notes/2024/09 26 - Session 15.md",
     "Session Notes/2024/10 05 - Session 16.md",
