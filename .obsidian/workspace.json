@@ -59,12 +59,28 @@
             "id": "5a1f791224a3b4cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Frost Druids.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9ce5740f650fee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Party/Torinn.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/10 05 - Session 16.md",
+                "file": "Factions/Party/Torinn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/10 05 - Session 16.md",
+                "file": "Factions/Party/Torinn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/10 05 - Session 16.md"
+                "file": "Factions/Party/Torinn.md"
               }
             }
           },
@@ -202,11 +218,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "703d549c65737ec8",
+  "active": "a9ce5740f650fee4",
   "lastOpenFiles": [
+    "NPCs/Frost Druids.md",
+    "Session Notes/2024/10 05 - Session 16.md",
     "Assets/Pasted image 20241005124628.png",
     "Session Notes/2024/09 26 - Session 15.md",
-    "Session Notes/2024/10 05 - Session 16.md",
     "NPCs/Naerth Maxildanarr.md",
     "Session Notes/2024/08 22 - Session 14.md",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 2.json",
@@ -221,7 +238,6 @@
     "NPCs/Captain Skath.md",
     "NPCs/Danneth Waylen.md",
     "NPCs/Drizzt Do'Urden.md",
-    "NPCs/Frost Druids.md",
     "NPCs/Ravisin.md",
     "NPCs/Sephek.md",
     "NPCs/Torrga Icevein.md",
@@ -249,7 +265,6 @@
     "Assets/Pasted image 20240420182822.png",
     "Locations/Ten Towns/Lonelywood",
     "Session Notes/2024",
-    "Assets/Maps/Gem Mine.png",
-    "Assets/Crests/TargosCrest.png"
+    "Assets/Maps/Gem Mine.png"
   ]
 }
