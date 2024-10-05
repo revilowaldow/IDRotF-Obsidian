@@ -74,3 +74,8 @@ Has a fort on the surface hidden in the spine of the world
 Building a terrible weapon - dragon built of chardyln
 
 Systematic destruction of ten towns
+
+[[Levistus]] - Level 4 of hell frozen devil
+
+![[Pasted image 20241005155559.png]]
+
