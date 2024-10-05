@@ -138,9 +138,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c91d37346f6f1c10",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/NPCs/Andri.webp"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -206,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/10 05 - Session 16.md",
+                "file": "Assets/Characters/NPCs/Andri.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/10 05 - Session 16.md",
+                "file": "Assets/Characters/NPCs/Andri.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/10 05 - Session 16.md"
+                "file": "Assets/Characters/NPCs/Andri.webp"
               }
             }
           },
@@ -278,11 +288,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "703d549c65737ec8",
+  "active": "c91d37346f6f1c10",
   "lastOpenFiles": [
+    "NPCs/Northbrook Family/Andri Northbrook.md",
+    "Session Notes/2024/10 05 - Session 16.md",
     "Assets/Pasted image 20241005155559.png",
     "Session Notes/2024/09 26 - Session 15.md",
-    "NPCs/Northbrook Family/Andri Northbrook.md",
     "Assets/Pasted image 20241005150543.png",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
@@ -290,7 +301,6 @@
     "Locations/Ten Towns/Caer-Dineval.md",
     "Factions/Party/Torinn.md",
     "NPCs/Frost Druids.md",
-    "Session Notes/2024/10 05 - Session 16.md",
     "Assets/Pasted image 20241005124628.png",
     "NPCs/Naerth Maxildanarr.md",
     "Session Notes/2024/08 22 - Session 14.md",
@@ -324,7 +334,6 @@
     "Assets/Pasted image 20240522150509.png",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
     "Assets/Sheet Backups/fvtt-Actor-cloud-170V5m4LCLyu0xm7.json",
-    "Assets/Pasted image 20240420182822.png",
     "Locations/Ten Towns/Lonelywood",
     "Session Notes/2024"
   ]
