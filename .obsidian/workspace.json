@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "61f2096b758f1f34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Northbrook Family/Olwen Northbrook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3f8c6cfc26711325",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -280,15 +292,16 @@
   },
   "active": "976178a6b8d32a83",
   "lastOpenFiles": [
+    "NPCs/Northbrook Family/Isolde Northbrook.md",
+    "NPCs/Northbrook Family/Olwen Northbrook.md",
+    "NPCs/Northbrook Family/Talvi Northbrook.md",
+    "NPCs/Northbrook Family/Andri Northbrook.md",
+    "NPCs/Northbrook Family/Boreas Northbrook.md",
     "Session Notes/2024/10 05 - Session 16.md",
     "Session Notes/2024/09 26 - Session 15.md",
-    "NPCs/Northbrook Family/Andri Northbrook.md",
     "Assets/Characters/NPCs/Andri.webp",
     "Assets/Pasted image 20241005155559.png",
     "Assets/Pasted image 20241005150543.png",
-    "NPCs/Northbrook Family/Boreas Northbrook.md",
-    "NPCs/Northbrook Family/Isolde Northbrook.md",
-    "NPCs/Northbrook Family/Talvi Northbrook.md",
     "Locations/Ten Towns/Caer-Dineval.md",
     "Factions/Party/Torinn.md",
     "NPCs/Frost Druids.md",
