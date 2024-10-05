@@ -31,3 +31,5 @@ Durth
 
 <hr>
 
+Sent Rendaril the lantern of tracking, ideally to be used to track duergar, but could be a source
+
