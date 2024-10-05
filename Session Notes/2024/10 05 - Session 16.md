@@ -45,5 +45,9 @@ Axe Beaks:
 Reattuned to psi crystal
 
 Bright light staggering towards us
-
+Coldlight Walker
 "This is the doom that awaits you all, Behold the final light"
+
+![[Pasted image 20241005124628.png]]
+
+
