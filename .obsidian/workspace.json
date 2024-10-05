@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Northbrook Family/Andri Northbrook.md",
+                "file": "Session Notes/2024/10 05 - Session 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Northbrook Family/Andri Northbrook.md",
+                "file": "Session Notes/2024/10 05 - Session 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Northbrook Family/Andri Northbrook.md"
+                "file": "Session Notes/2024/10 05 - Session 16.md"
               }
             }
           },
@@ -290,12 +290,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "976178a6b8d32a83",
+  "active": "703d549c65737ec8",
   "lastOpenFiles": [
+    "NPCs/Northbrook Family/Andri Northbrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
     "NPCs/Northbrook Family/Talvi Northbrook.md",
-    "NPCs/Northbrook Family/Andri Northbrook.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
     "Session Notes/2024/10 05 - Session 16.md",
     "Session Notes/2024/09 26 - Session 15.md",

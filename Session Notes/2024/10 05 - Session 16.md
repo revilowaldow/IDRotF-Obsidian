@@ -81,3 +81,5 @@ Systematic destruction of ten towns
 
 Amulets are cult of levistus
 
+Andri agrees to come with us to work on the duergar
+
