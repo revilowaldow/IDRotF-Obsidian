@@ -42,4 +42,8 @@ Axe Beaks:
 - Aldi
 - Paul
 
-Reattuned to psi crsyt
+Reattuned to psi crystal
+
+Bright light staggering towards us
+
+"This is the doom that awaits you all, Behold the final light"
