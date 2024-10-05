@@ -49,22 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Naerth Maxildanarr.md",
+                "file": "Session Notes/2024/10 05 - Session 16.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a19925a32ae7bb2b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/08 22 - Session 14.md",
+                "file": "Session Notes/2024/10 05 - Session 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/08 22 - Session 14.md",
+                "file": "Session Notes/2024/10 05 - Session 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/08 22 - Session 14.md"
+                "file": "Session Notes/2024/10 05 - Session 16.md"
               }
             }
           },
@@ -202,14 +194,15 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "425479cc273d7764",
+  "active": "703d549c65737ec8",
   "lastOpenFiles": [
+    "NPCs/Naerth Maxildanarr.md",
+    "Session Notes/2024/10 05 - Session 16.md",
+    "Session Notes/2024/09 26 - Session 15.md",
+    "Session Notes/2024/08 22 - Session 14.md",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 2.json",
     "Assets/Pasted image 20240926232747.png",
     "Session Notes/2024/07 06 - Session 13.md",
-    "Session Notes/2024/08 22 - Session 14.md",
-    "Session Notes/2024/09 26 - Session 15.md",
-    "NPCs/Naerth Maxildanarr.md",
     "Naerth.md",
     "Session Notes/2024/05 23 - Session 11.md",
     "Session Notes/2024/04 20 - Session 10.md",
@@ -248,7 +241,6 @@
     "Assets/Pasted image 20240420182822.png",
     "Locations/Ten Towns/Lonelywood",
     "Session Notes/2024",
-    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook 1.json",
     "Assets/Maps/Gem Mine.png",
     "Assets/Crests/TargosCrest.png"
   ]
