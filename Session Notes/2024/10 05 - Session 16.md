@@ -58,6 +58,8 @@ Coldlight Walker was [[Captain Skath]]
 Blade drops out of the sleeve of the walker, glowing with evocation magic, Tando took
 
 
+The Knights of the Black Sword
+
 
 
 
