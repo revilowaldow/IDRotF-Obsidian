@@ -51,3 +51,4 @@ Coldlight Walker
 ![[Pasted image 20241005124628.png]]
 
 
+Coldlight Walker was [[Captain S]]
