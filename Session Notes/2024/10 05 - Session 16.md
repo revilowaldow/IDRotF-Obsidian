@@ -61,7 +61,8 @@ Blade drops out of the sleeve of the walker, glowing with evocation magic, Tando
 The Knights of the Black Sword
 
 Mere, no necklace
+Younger teenage tiefling girl
 
-
+[[Kadroth]] - senior figure in the group
 
 
