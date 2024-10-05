@@ -138,19 +138,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c91d37346f6f1c10",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Characters/NPCs/Andri.webp"
-              }
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -216,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Characters/NPCs/Andri.webp",
+                "file": "NPCs/Northbrook Family/Andri Northbrook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Characters/NPCs/Andri.webp",
+                "file": "NPCs/Northbrook Family/Andri Northbrook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Characters/NPCs/Andri.webp"
+                "file": "NPCs/Northbrook Family/Andri Northbrook.md"
               }
             }
           },
@@ -288,12 +278,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "c91d37346f6f1c10",
+  "active": "976178a6b8d32a83",
   "lastOpenFiles": [
-    "NPCs/Northbrook Family/Andri Northbrook.md",
     "Session Notes/2024/10 05 - Session 16.md",
-    "Assets/Pasted image 20241005155559.png",
     "Session Notes/2024/09 26 - Session 15.md",
+    "NPCs/Northbrook Family/Andri Northbrook.md",
+    "Assets/Characters/NPCs/Andri.webp",
+    "Assets/Pasted image 20241005155559.png",
     "Assets/Pasted image 20241005150543.png",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
@@ -331,7 +322,6 @@
     "Assets/Pasted image 20240420155702.png",
     "Assets/Sheet Backups/fvtt-Actor-cloud.json",
     "Assets/Pasted image 20240522150517.png",
-    "Assets/Pasted image 20240522150509.png",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook.json",
     "Assets/Sheet Backups/fvtt-Actor-cloud-170V5m4LCLyu0xm7.json",
     "Locations/Ten Towns/Lonelywood",
