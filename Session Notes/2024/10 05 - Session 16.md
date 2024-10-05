@@ -19,3 +19,15 @@ Invisible duergar in caer-dineval and caer-konig
 
 Cult in caer-dineval
 
+<hr>
+
+Durth's letter to Xardorok
+
+Father,
+
+The frost druids are relentless in their commitment to Auril and their pursuit of misery to the towns folk. I almost admire them but they seem to think they have command over me, this makes me hate them almost as much as those arrogant surface dwelling dwarves that hide in the valley. Despite this, the druids are undeniably helping our cause, giving us vital information in our search for Chardalyn fragments. We have found a large chardalyn artefact but it is guarded within the walls of the Easthaven Town Hall. Retrieving it will almost certainly mean we are discovered and killed. I do not understand your alliance with the Frostmaiden and these druids, but I will retrieve it for you to prove my worth to you father.
+
+Durth
+
+<hr>
+
