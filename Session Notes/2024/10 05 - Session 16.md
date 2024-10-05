@@ -55,7 +55,9 @@ Coldlight Walker
 
 Coldlight Walker was [[Captain Skath]]
 
-Blade drops out of the sleeve of the walker, glowing with magic
+Blade drops out of the sleeve of the walker, glowing with evocation magic, Tando took
+
+
 
 
 
