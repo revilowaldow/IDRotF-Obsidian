@@ -63,8 +63,7 @@
               "title": "Boreas Northbrook"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Northbrook Family/Andri Northbrook.md",
+                "file": "Session Notes/2024/10 29 - Session 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Andri Northbrook"
+              "title": "Backlinks for 10 29 - Session 17"
             }
           },
           {
@@ -155,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Northbrook Family/Andri Northbrook.md",
+                "file": "Session Notes/2024/10 29 - Session 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Andri Northbrook"
+              "title": "Outgoing links from 10 29 - Session 17"
             }
           },
           {
@@ -182,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Northbrook Family/Andri Northbrook.md"
+                "file": "Session Notes/2024/10 29 - Session 17.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Andri Northbrook"
+              "title": "Outline of 10 29 - Session 17"
             }
           },
           {
@@ -218,12 +217,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "3518b1bc88aefcc7",
+  "active": "58316c805039148b",
   "lastOpenFiles": [
+    "NPCs/Northbrook Family/Andri Northbrook.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
     "Session Notes/2024/10 05 - Session 16.md",
     "Session Notes/2024/10 29 - Session 17.md",
-    "NPCs/Northbrook Family/Andri Northbrook.md",
     "Session Notes/2024/08 22 - Session 14.md",
     "Session Notes/2024/07 06 - Session 13.md",
     "Session Notes/2024/09 26 - Session 15.md",
