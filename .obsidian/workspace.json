@@ -63,8 +63,7 @@
               "title": "Boreas Northbrook"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Northbrook Family/Boreas Northbrook.md",
+                "file": "Session Notes/2024/10 29 - Session 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Boreas Northbrook"
+              "title": "Backlinks for 10 29 - Session 17"
             }
           },
           {
@@ -155,12 +154,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Northbrook Family/Boreas Northbrook.md",
+                "file": "Session Notes/2024/10 29 - Session 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Boreas Northbrook"
+              "title": "Outgoing links from 10 29 - Session 17"
             }
           },
           {
@@ -182,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Northbrook Family/Boreas Northbrook.md"
+                "file": "Session Notes/2024/10 29 - Session 17.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Boreas Northbrook"
+              "title": "Outline of 10 29 - Session 17"
             }
           },
           {
@@ -218,8 +217,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "7d8fd648a9ae115d",
+  "active": "58316c805039148b",
   "lastOpenFiles": [
+    "NPCs/Northbrook Family/Boreas Northbrook.md",
     "NPCs/Northbrook Family/Andri Northbrook.md",
     "Session Notes/2024/10 05 - Session 16.md",
     "Session Notes/2024/10 29 - Session 17.md",
@@ -232,7 +232,6 @@
     "NPCs/Northbrook Family/Talvi Northbrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
-    "NPCs/Northbrook Family/Boreas Northbrook.md",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 3.json",
     "Assets/Characters/NPCs/Andri.webp",
     "Assets/Pasted image 20241005155559.png",
