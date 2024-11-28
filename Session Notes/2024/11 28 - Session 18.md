@@ -23,3 +23,6 @@ very young lady, dogs start barking
 Pearl Necklace stolen
 Pair of goats stolen
 
+[[Hook Line and Sinker]]
+Nets strung everywhere
+
