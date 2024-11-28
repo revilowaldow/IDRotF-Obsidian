@@ -8,3 +8,5 @@ Crannok - trade for commoners
 
 Cloud smashed Andri's amulet and added to the bag
 
+
+
