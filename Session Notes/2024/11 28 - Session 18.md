@@ -31,3 +31,7 @@ CHunky Half Elf
 
 [[Ally]] and sister own [[Northern Lights]]
 
+Town speaker is smashed dragonborn
+
+![](https://5e.tools/img/adventure/IDRotF/034-01-017.trovus.webp)
+
