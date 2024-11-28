@@ -75,7 +75,7 @@ Diamond
 
 Election going on in [[Goodmead]]
 
-Dazaan is a member of the arcane brotherhood
+[[Dazaan]] is a member of the [[arcane brotherhood]]
 
 Figurehead of a demon on a ship
 
