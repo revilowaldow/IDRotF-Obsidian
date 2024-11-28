@@ -28,3 +28,6 @@ Nets strung everywhere
 
 CHunky Half Elf
 [[Glen]]  Eglendar
+
+[[Ally]] and sister own [[Northern Lights]]
+
