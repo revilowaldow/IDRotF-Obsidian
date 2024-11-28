@@ -13,7 +13,7 @@ very young lady, dogs start barking
 
 [[Gargle]] and [[Gurgle]]
 
-[[Frozen Far Expeditions]]
+[[Frozenfar Expeditions]]
 
 [[Mere]] is now the town speaker
 

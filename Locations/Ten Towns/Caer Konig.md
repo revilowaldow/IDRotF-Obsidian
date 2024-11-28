@@ -8,3 +8,7 @@ Ruined Castle
 
 Give up food
 
+[[Frozenfar Expeditions]]
+
+Elderly Gent
+[[Atenas Swift]]
