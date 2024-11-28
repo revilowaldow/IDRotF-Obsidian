@@ -6,7 +6,7 @@ Start in the [[The Northlook]] in Bryn Shander
 
 Lake Monster terrorising [[Bremen]]
 
-Speaker in [[Caer-Dineval]] has not been seen in a while
+Speaker in [[Caer Dineval]] has not been seen in a while
 
 Black Iron Blades in [[Bryn Shander]]
 

@@ -6,3 +6,5 @@ Hills and slopes
 
 Ruined Castle
 
+Give up food
+

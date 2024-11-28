@@ -63,7 +63,7 @@ Aurora appears monthly or so
 
 THe hunt goes on for Northern Light
 Ally Sherard furious
-Magical lantern outside of Caer Konig Pub stolen
+Magical lantern outside of [Caer Konig] Pub stolen
 
 Termalaine Mine reopened Gong Bros and Co save lucrative 
 

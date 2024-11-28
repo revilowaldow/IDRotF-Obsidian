@@ -18,4 +18,4 @@ very young lady, dogs start barking
 [[Mere]] is now the town speaker
 
 
- Arrive at [[Caer-Konig]]
+ Arrive at [[Caer Konig]]
