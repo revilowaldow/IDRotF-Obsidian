@@ -27,4 +27,4 @@ Pair of goats stolen
 Nets strung everywhere
 
 CHunky Half Elf
-[[Glen]] 
+[[Glen]]  Eglendar
