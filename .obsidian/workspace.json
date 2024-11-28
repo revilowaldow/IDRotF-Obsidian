@@ -119,7 +119,8 @@
               "title": "09 26 - Session 15"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -273,10 +274,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "58316c805039148b",
+  "active": "6bc33abd52cdea2e",
   "lastOpenFiles": [
-    "Session Notes/2024/10 05 - Session 16.md",
     "Session Notes/2024/10 29 - Session 17.md",
+    "Session Notes/2024/10 05 - Session 16.md",
     "Session Notes/2024/11 28 - Session 18.md",
     "Session Notes/2024/07 06 - Session 13.md",
     "Session Notes/2024/08 22 - Session 14.md",
