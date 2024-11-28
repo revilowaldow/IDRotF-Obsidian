@@ -26,3 +26,5 @@ Pair of goats stolen
 [[Hook Line and Sinker]]
 Nets strung everywhere
 
+CHunky Half Elf
+[[Glen]] 
