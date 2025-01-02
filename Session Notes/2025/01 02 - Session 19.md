@@ -17,3 +17,6 @@ three [daggers](https://5e.warlow.engineer/items.html#dagger_phb), a set of [w
 
 
 
+<hr>
+
+[[Jarthra Farzassh]]
