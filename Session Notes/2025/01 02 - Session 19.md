@@ -7,3 +7,8 @@ Duergar outpost
 2 climbers kits -1
 4 mess kits
 
+Several shards of dark crystal
+crumpled paper
+burlap sack
+lantern shifting green blue red light
+
