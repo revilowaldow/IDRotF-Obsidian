@@ -38,7 +38,8 @@ Town speaker is smashed dragonborn
 history with Nasir
 ![[Pasted image 20241128220248.png]]
 
-Cory Sister
+[[Cory Shorard]]
+Sister
 
 
 Cage of ogre zombie
