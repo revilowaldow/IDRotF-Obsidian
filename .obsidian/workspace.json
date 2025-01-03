@@ -54,6 +54,16 @@
             }
           },
           {
+            "id": "fd690a2c70c406ee",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
             "id": "89872e4c13198e0f",
             "type": "leaf",
             "state": {
@@ -306,7 +316,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "6382da0fe04a248f",
+  "active": "425479cc273d7764",
   "lastOpenFiles": [
     "Session Notes/2024/08 22 - Session 14.md",
     "Session Notes/2024/07 06 - Session 13.md",
