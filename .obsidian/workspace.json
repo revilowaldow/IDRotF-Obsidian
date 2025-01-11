@@ -161,8 +161,7 @@
               "title": "08 22 - Session 14"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 351.5
   },
   "right": {
     "id": "e2fde1fbd4583364",
@@ -316,8 +315,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "425479cc273d7764",
+  "active": "c7a90724ee53ed36",
   "lastOpenFiles": [
+    "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 6.json",
+    "Session Notes/2024/09 26 - Session 15.md",
     "Session Notes/2024/08 22 - Session 14.md",
     "Session Notes/2024/07 06 - Session 13.md",
     "Session Notes/2024/06 27 - Session 12.md",
@@ -327,7 +328,6 @@
     "Session Notes/2024/11 28 - Session 18.md",
     "Session Notes/2024/10 29 - Session 17.md",
     "Session Notes/2024/10 05 - Session 16.md",
-    "Session Notes/2024/09 26 - Session 15.md",
     "Locations/Ten Towns/Caer Konig.md",
     "Session Notes/2025",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 5.json",
@@ -355,7 +355,6 @@
     "Assets/Pasted image 20240926232747.png",
     "Naerth.md",
     "Locations/Ten Towns/Easthaven/Town Hall.canvas",
-    "Locations/Ten Towns/Easthaven/The White Lady Inn.md",
     "Assets/Characters/NPCs/Olwen1.webp",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 1.json",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ.json",
