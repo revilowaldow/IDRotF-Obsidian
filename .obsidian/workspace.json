@@ -54,16 +54,6 @@
             }
           },
           {
-            "id": "27da40dfd59e37dc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "89872e4c13198e0f",
             "type": "leaf",
             "state": {
@@ -162,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -316,7 +306,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "27da40dfd59e37dc",
+  "active": "6382da0fe04a248f",
   "lastOpenFiles": [
     "Session Notes/2024/09 26 - Session 15.md",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ (1).json",
