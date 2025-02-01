@@ -20,8 +20,14 @@ Accusations of theft
 Bought mead
 
 Kwan 
-Skytower Shelter
+Clan Skytower Shelter
 Looking for [[Oyaminartok]] goliath werebear
 
+Clan Wyrmdoom Crag
+
+Squabbling over sporting events
+
+Statue of silver raven glowing
+Figurine of Wonderous Power
 
 
