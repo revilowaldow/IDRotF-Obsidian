@@ -35,4 +35,6 @@ Is it near the cave of the berserkers?
 Verbeeg humanoid
 terrorising the town
 
+[[Olivessar]]
+[[Shander]]
 
