@@ -30,4 +30,6 @@ Squabbling over sporting events
 Statue of silver raven glowing
 Figurine of Wonderous Power
 
+Is it near the cave of the berserkers?
+
 
