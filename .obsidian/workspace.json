@@ -83,8 +83,7 @@
               "title": "Dougan's Hole"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,10 +237,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "15a5a1d888a80857",
+  "active": "d3ab4a07e39e905b",
   "lastOpenFiles": [
-    "Session Notes/2025/02 01 - Session 20.md",
     "Locations/Ten Towns/Dougan's Hole/Dougan's Hole.md",
+    "Session Notes/2025/02 01 - Session 20.md",
+    "NPCs/Northbrook Family/Andri Northbrook.md",
     "Pasted image 20250201134920.png",
     "Pasted image 20250201134847.png",
     "Locations/Ten Towns/Good Mead/Good Mead.md",
@@ -269,7 +269,6 @@
     "Session Notes/2023/08 24 - Session 2.md",
     "Locations/Ten Towns/Lonelywood/Liar.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
-    "NPCs/Northbrook Family/Andri Northbrook.md",
     "Locations/Ten Towns/Easthaven/Easthaven.md",
     "Session Notes/2024/04 20 - Session 10.md",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 4.json",
