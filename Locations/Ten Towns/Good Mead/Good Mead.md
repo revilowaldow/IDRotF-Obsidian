@@ -19,8 +19,9 @@ Small magic aura
 Accusations of theft
 Bought mead
 
-
-
+Kwan 
+Skytower Shelter
+Looking for [[Oyaminartok]] goliath werebear
 
 
 
