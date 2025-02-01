@@ -8,6 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d3ab4a07e39e905b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2025/02 01 - Session 20.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "02 01 - Session 20"
+            }
+          },
+          {
             "id": "c7a90724ee53ed36",
             "type": "leaf",
             "pinned": true,
@@ -39,8 +55,7 @@
               "title": "11 28 - Session 18"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 217.5
   },
   "right": {
     "id": "e2fde1fbd4583364",
@@ -194,11 +209,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "17ed7770c1011291",
+  "active": "d3ab4a07e39e905b",
   "lastOpenFiles": [
+    "Session Notes/2024/11 28 - Session 18.md",
+    "Session Notes/2025/02 01 - Session 20.md",
     "Session Notes/2024/09 26 - Session 15.md",
     "Session Notes/2024/10 29 - Session 17.md",
-    "Session Notes/2024/11 28 - Session 18.md",
     "Session Notes/2024/03 28 - Session 9.md",
     "Session Notes/2024/06 27 - Session 12.md",
     "Session Notes/2024/07 06 - Session 13.md",
