@@ -14,3 +14,7 @@ Bruenor was friends with Dritz
 Great white wwyrm arviaturice wizard meltherond strapped to back
 Icingdeath
 
+![[Pasted image 20250201134920.png]]
+
+
+
