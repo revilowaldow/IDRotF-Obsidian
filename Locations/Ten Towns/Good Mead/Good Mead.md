@@ -2,7 +2,7 @@
 ![](https://5e.tools/img/adventure/IDRotF/058-01-029.shield-good-mead.webp)
 
 Constant buzzing 
-
+Sacrifices warmth
 Two story mead hall
 
 "Time of mourning"
@@ -31,5 +31,8 @@ Statue of silver raven glowing
 Figurine of Wonderous Power
 
 Is it near the cave of the berserkers?
+
+Verbeeg humanoid
+terrorising the town
 
 
