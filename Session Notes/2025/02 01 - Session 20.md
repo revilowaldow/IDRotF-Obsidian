@@ -1,6 +1,9 @@
 
 In Person
 
+[[NAsir]] gifted a journal of [[Drizzt Do'Urden]]
+Found in [[Termaline]]
+
 Gnolls in tundra, and spine of the world
 Easthaven fishermen killed by gnolls
 
