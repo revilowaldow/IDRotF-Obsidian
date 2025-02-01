@@ -22,6 +22,10 @@ Resting in forest area
 
 Killed wolves, but more exist
 
+Oyenam
+Force for good, female, goliath/polar hear hybrid
+Bite and turned into werebears
+Bites only those who are pure of heart
 
 
 
