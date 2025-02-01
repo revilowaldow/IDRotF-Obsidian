@@ -34,3 +34,4 @@ Skull with three arrows though it symbol
 Nilak knows 
 
 
+![[Pasted image 20250201181618.png]]
