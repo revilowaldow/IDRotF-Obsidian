@@ -11,4 +11,13 @@ Our beloved speaker has been killed
 
 Memorial due at local shrine
 
+Shrine of the Flaming Sword
+God Tempus, of war
+
+Angry words with female goliath
+Small magic aura
+
+
+
+
 
