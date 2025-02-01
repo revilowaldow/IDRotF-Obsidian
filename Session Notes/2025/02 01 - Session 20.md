@@ -4,3 +4,10 @@ In Person
 Gnolls in tundra, and spine of the world
 Easthaven fishermen killed by gnolls
 
+Evil wizard wanted to conquer ten towns
+Battlehammer clan
+Bruenor was friends with Dritz
+
+Great white wwyrm arviaturice wizard meltherond strapped to back
+Icingdeath
+
