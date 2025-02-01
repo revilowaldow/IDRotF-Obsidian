@@ -20,7 +20,9 @@ Words in Deep speech
 
 Resting in forest area
 
-Killed wolves
+Killed wolves, but more exist
+
+
 
 
 
