@@ -16,5 +16,7 @@ Icingdeath
 
 ![[Pasted image 20250201134920.png]]
 
+Words in Deep speech
+
 
 
