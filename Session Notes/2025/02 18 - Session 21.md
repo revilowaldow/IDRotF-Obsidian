@@ -5,3 +5,6 @@ Trinket:
 
 Turn off the alarm
 
+![](https://5e.tools/img/adventure/IDRotF/113-02-012.nautiloid.webp)
+
+
