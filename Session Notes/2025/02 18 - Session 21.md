@@ -20,6 +20,6 @@ Laser Rifle
 
 [[Hameylyn]] leaves the party, cloud gave beer away
 
-
+![](https://5e.tools/img/adventure/IDRotF/147-03-000.chapter-splash.webp)
 
 
