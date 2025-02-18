@@ -26,3 +26,5 @@ Disguise self  through door
 
 Manacles on guard room
 
+Some duergar are loyal to [[Grendalfa]]
+
