@@ -16,6 +16,8 @@ Id Ascendant
 
 [[Isolde Northbrook]] is deceased
 
+Laser Rifle
+
 
 
 
