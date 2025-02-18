@@ -22,4 +22,4 @@ Laser Rifle
 
 ![](https://5e.tools/img/adventure/IDRotF/147-03-000.chapter-splash.webp)
 
-Disguise self 
+Disguise self  through door
