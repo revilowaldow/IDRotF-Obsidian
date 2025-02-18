@@ -28,3 +28,6 @@ Manacles on guard room
 
 Some duergar are loyal to [[Grendalfa]]
 
+Dragon - Dougan's hole, goodmead
+
+
