@@ -40,20 +40,6 @@
             }
           },
           {
-            "id": "15a5a1d888a80857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Northbrook Family/Andri Northbrook.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Andri Northbrook"
-            }
-          },
-          {
             "id": "221db4af7d500513",
             "type": "leaf",
             "state": {
@@ -65,6 +51,20 @@
               },
               "icon": "lucide-file",
               "title": "Good Mead"
+            }
+          },
+          {
+            "id": "15a5a1d888a80857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Northbrook Family/Andri Northbrook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Andri Northbrook"
             }
           },
           {
@@ -253,12 +253,12 @@
   "active": "d3ab4a07e39e905b",
   "lastOpenFiles": [
     "Session Notes/2025/02 18 - Session 21.md",
+    "Locations/Ten Towns/Good Mead/Good Mead.md",
+    "Session Notes/2025/02 01 - Session 20.md",
+    "NPCs/Northbrook Family/Andri Northbrook.md",
     "Session Notes/Cloud v2.md",
     "Session Notes/This is Your Life.md",
-    "Locations/Ten Towns/Good Mead/Good Mead.md",
     "Assets/Pasted image 20240420155702.png",
-    "NPCs/Northbrook Family/Andri Northbrook.md",
-    "Session Notes/2025/02 01 - Session 20.md",
     "Session Notes/2025/01 02 - Session 19.md",
     "Session Notes/2024/11 28 - Session 18.md",
     "Locations/Ten Towns/Dougan's Hole/Dougan's Hole.md",

@@ -35,6 +35,8 @@ Is it near the cave of the berserkers?
 Verbeeg humanoid
 terrorising the town
 
+
+Options for new town speaker:
 [[Olivessar]]
-[[Shander]]
+[[Shander]] - Potentially Zentarim
 

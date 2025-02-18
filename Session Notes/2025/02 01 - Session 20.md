@@ -28,6 +28,7 @@ Force for good, female, goliath/polar hear hybrid
 Bite and turned into werebears
 Bites only those who are pure of heart
 
+Crashed nautiloid discovered
 
 Orcs pass by with a half ogre
 Skull with three arrows though it symbol
