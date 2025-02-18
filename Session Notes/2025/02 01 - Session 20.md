@@ -22,6 +22,7 @@ Resting in forest area
 
 Killed wolves, but more exist
 
+Visited [[Good Mead]]
 Oyenam
 Force for good, female, goliath/polar hear hybrid
 Bite and turned into werebears
