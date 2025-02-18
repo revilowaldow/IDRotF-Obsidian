@@ -8,11 +8,15 @@ Turn off the alarm
 ![](https://5e.tools/img/adventure/IDRotF/113-02-012.nautiloid.webp)
 
 
-[[Dredavax]]
-
-Gnome Cereomorph
+[[Dredavax]] & [[Vorryn]] Gnome Cereomorphs
 
 Id Ascendant
 
-[[Vorryn]]
+[[Andri Northbrook]] removed from Levistus' control with the psi crystal
+
+[[Isolde Northbrook]] is deceased
+
+
+
+
 
