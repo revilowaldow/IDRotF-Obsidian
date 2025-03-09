@@ -122,21 +122,9 @@
               "icon": "lucide-file",
               "title": "08 22 - Session 14"
             }
-          },
-          {
-            "id": "d002c3f7c26872a3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -292,7 +280,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "d002c3f7c26872a3",
+  "active": "ea1d3586dfa06fd2",
   "lastOpenFiles": [
     "Session Notes/2023/11 30 - Session 5.md",
     "Session Notes/2023/12 28 - Session 6.md",
