@@ -66,9 +66,65 @@
               "icon": "lucide-file",
               "title": "03 27 - Session 22"
             }
+          },
+          {
+            "id": "049578d3ea3a7a87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Northbrook Family/Andri Northbrook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Andri Northbrook"
+            }
+          },
+          {
+            "id": "0d9a46eea118c948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Northbrook Family/Boreas Northbrook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boreas Northbrook"
+            }
+          },
+          {
+            "id": "0d65ff7cb5d83f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Northbrook Family/Isolde Northbrook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Isolde Northbrook"
+            }
+          },
+          {
+            "id": "47d82d0ccceabce7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Northbrook Family/Olwen Northbrook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Olwen Northbrook"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -223,15 +279,17 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "ae111783885977cb",
+  "active": "47d82d0ccceabce7",
   "lastOpenFiles": [
+    "NPCs/Northbrook Family/Andri Northbrook.md",
+    "NPCs/Northbrook Family/Olwen Northbrook.md",
+    "NPCs/Northbrook Family/Isolde Northbrook.md",
+    "NPCs/Northbrook Family/Boreas Northbrook.md",
+    "Session Notes/2025/03 27 - Session 22.md",
     "Pasted image 20250327200647.png",
     "Session Notes/2025/02 01 - Session 20.md",
-    "Session Notes/2025/03 27 - Session 22.md",
-    "NPCs/Northbrook Family/Isolde Northbrook.md",
     "Session Notes/2025/02 18 - Session 21.md",
     "Locations/Ten Towns/Good Mead/Good Mead.md",
-    "NPCs/Northbrook Family/Andri Northbrook.md",
     "Session Notes/This is Your Life.md",
     "Session Notes/Cloud v2.md",
     "Session Notes/2024/08 22 - Session 14.md",
@@ -264,13 +322,11 @@
     "Session Notes/2025",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 5.json",
     "Assets/Pasted image 20241128220248.png",
-    "Session Notes/2023/08 24 - Session 2.md",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 4.json",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 3.json",
     "Assets/Characters/NPCs/Andri.webp",
     "Assets/Pasted image 20241005155559.png",
     "Assets/Pasted image 20241005150543.png",
-    "Assets/Pasted image 20241005124628.png",
-    "Assets/Pasted image 20240926232747.png"
+    "Assets/Pasted image 20241005124628.png"
   ]
 }
