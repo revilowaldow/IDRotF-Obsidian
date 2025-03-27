@@ -17,7 +17,7 @@ a rolled-up leather scroll with the following sequence of numbers written on it 
 | 1-3-6 | 2-5-2 | 9-7-5 | 4-3-4 |
 | ----- | ----- | ----- | ----- |
 | 8-2-7 | 5-6-3 | 7-1-4 | 2-9-9 |
-|       |       |       |       |
+
 
 
 ![](https://5e.tools/img/adventure/IDRotF/155-map-4.1-dragons-flight-path.webp)
