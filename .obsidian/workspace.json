@@ -24,38 +24,9 @@
             }
           },
           {
-            "id": "eeedf12292e3974d",
+            "id": "7c869cec3fe2169a",
             "type": "leaf",
             "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2025/02 18 - Session 21.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02 18 - Session 21"
-            }
-          },
-          {
-            "id": "ea1d3586dfa06fd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2024/08 22 - Session 14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08 22 - Session 14"
-            }
-          },
-          {
-            "id": "ae111783885977cb",
-            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -63,82 +34,25 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "03 27 - Session 22"
             }
           },
           {
-            "id": "20b1511d5551ec74",
+            "id": "ae111783885977cb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2024/09 26 - Session 15.md",
+                "file": "Session Notes/2025/04 15 - Session 23.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "09 26 - Session 15"
-            }
-          },
-          {
-            "id": "ac00f0073257d39b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250201134920.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250201134920"
-            }
-          },
-          {
-            "id": "eeb4442c85b8845e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250201134847.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250201134847"
-            }
-          },
-          {
-            "id": "672e7e29b2054cfe",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250201181618.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250201181618"
-            }
-          },
-          {
-            "id": "ff95a3c3ed1170d6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250327200647.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250327200647"
-            }
-          },
-          {
-            "id": "e3738e50dc317cb9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250327211451.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250327211451"
+              "title": "04 15 - Session 23"
             }
           },
           {
@@ -317,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20250201134920.png",
+                "file": "NPCs/Northbrook Family/Isolde Northbrook.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250201134920"
+              "title": "Outline of Isolde Northbrook"
             }
           },
           {
@@ -356,25 +270,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac00f0073257d39b",
+  "active": "0d65ff7cb5d83f13",
   "lastOpenFiles": [
-    "Pasted image 20250201181618.png",
+    "NPCs/Northbrook Family/Olwen Northbrook.md",
+    "NPCs/Northbrook Family/Isolde Northbrook.md",
+    "NPCs/Northbrook Family/Boreas Northbrook.md",
+    "NPCs/Northbrook Family/Andri Northbrook.md",
+    "Session Notes/2025/04 15 - Session 23.md",
+    "Session Notes/2025/02 01 - Session 20.md",
+    "Session Notes/2024/08 22 - Session 14.md",
+    "Session Notes/2025/02 18 - Session 21.md",
+    "Game Information.md",
+    "NPCs/Naerth.md",
+    "Session Notes/2025/03 27 - Session 22.md",
     "Pasted image 20250327211451.png",
     "Pasted image 20250327200647.png",
+    "Pasted image 20250201181618.png",
     "Pasted image 20250201134847.png",
     "Pasted image 20250201134920.png",
     "Session Notes/2024/09 26 - Session 15.md",
-    "Session Notes/2025/03 27 - Session 22.md",
-    "NPCs/Northbrook Family/Olwen Northbrook.md",
-    "NPCs/Northbrook Family/Andri Northbrook.md",
-    "NPCs/Northbrook Family/Isolde Northbrook.md",
-    "NPCs/Northbrook Family/Boreas Northbrook.md",
-    "Session Notes/2025/02 01 - Session 20.md",
-    "Session Notes/2025/02 18 - Session 21.md",
     "Locations/Ten Towns/Good Mead/Good Mead.md",
     "Session Notes/This is Your Life.md",
     "Session Notes/Cloud v2.md",
-    "Session Notes/2024/08 22 - Session 14.md",
     "Session Notes/2023/11 30 - Session 5.md",
     "Session Notes/2023/12 28 - Session 6.md",
     "Locations/Ten Towns/Termalaine/Termalaine.md",
@@ -390,12 +307,10 @@
     "Session Notes/2024/10 29 - Session 17.md",
     "Session Notes/2024/03 28 - Session 9.md",
     "Session Notes/2024/06 27 - Session 12.md",
-    "Session Notes/2024/07 06 - Session 13.md",
     "Locations/Ten Towns/Easthaven/Town Hall.canvas",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ (1).json",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ (2).json",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 6.json",
-    "Session Notes/2024/05 23 - Session 11.md",
     "Session Notes/2025",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 5.json",
     "Assets/Pasted image 20241128220248.png",
