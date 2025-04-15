@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Northbrook Family/Isolde Northbrook.md",
+                "file": "Session Notes/2025/04 15 - Session 23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Isolde Northbrook"
+              "title": "Outline of 04 15 - Session 23"
             }
           },
           {
@@ -255,7 +255,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 407.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,13 +271,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d65ff7cb5d83f13",
+  "active": "ae111783885977cb",
   "lastOpenFiles": [
     "NPCs/Northbrook Family/Olwen Northbrook.md",
+    "Session Notes/2025/04 15 - Session 23.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
     "NPCs/Northbrook Family/Andri Northbrook.md",
-    "Session Notes/2025/04 15 - Session 23.md",
     "Session Notes/2025/02 01 - Session 20.md",
     "Session Notes/2024/08 22 - Session 14.md",
     "Session Notes/2025/02 18 - Session 21.md",
