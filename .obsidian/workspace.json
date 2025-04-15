@@ -243,10 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2024/10 29 - Session 17.md"
+                "file": "Session Notes/2025/03 27 - Session 22.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10 29 - Session 17"
+              "title": "Outline of 03 27 - Session 22"
             }
           },
           {
@@ -255,17 +258,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 407.5,
-    "collapsed": true
+    "width": 407.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,17 +278,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae111783885977cb",
+  "active": "38359944da77db43",
   "lastOpenFiles": [
+    "Session Notes/2025/03 27 - Session 22.md",
     "Pasted image 20250327211451.png",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
     "NPCs/Northbrook Family/Andri Northbrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
-    "Session Notes/2025/03 27 - Session 22.md",
     "Pasted image 20250327200647.png",
     "Session Notes/2025/02 01 - Session 20.md",
     "Session Notes/2025/02 18 - Session 21.md",
@@ -326,7 +329,6 @@
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 3.json",
     "Assets/Characters/NPCs/Andri.webp",
     "Assets/Pasted image 20241005155559.png",
-    "Assets/Pasted image 20241005150543.png",
-    "Assets/Pasted image 20241005124628.png"
+    "Assets/Pasted image 20241005150543.png"
   ]
 }
