@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -285,10 +285,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "7c869cec3fe2169a",
+  "active": "7bd2318098c3d587",
   "lastOpenFiles": [
-    "Session Notes/2025/05 03 - Session 24.md",
+    "Pasted image 20250503144819.png",
+    "Pasted image 20250503144811.png",
     "Session Notes/2025/03 27 - Session 22.md",
+    "Session Notes/2025/05 03 - Session 24.md",
     "Session Notes/2025/04 15 - Session 23.md",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
@@ -321,7 +323,6 @@
     "Locations/Ten Towns/Caer Dineval.md",
     "Locations/Ten Towns/Caer Konig.md",
     "Session Notes/2024/10 29 - Session 17.md",
-    "Session Notes/2024/03 28 - Session 9.md",
     "Locations/Ten Towns/Easthaven/Town Hall.canvas",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ (1).json",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ (2).json",
@@ -332,7 +333,6 @@
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 4.json",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 3.json",
     "Assets/Characters/NPCs/Andri.webp",
-    "Assets/Pasted image 20241005155559.png",
-    "Assets/Pasted image 20241005150543.png"
+    "Assets/Pasted image 20241005155559.png"
   ]
 }
