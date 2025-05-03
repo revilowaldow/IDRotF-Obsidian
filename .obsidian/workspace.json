@@ -124,23 +124,9 @@
               "icon": "lucide-file",
               "title": "05 03 - Session 24"
             }
-          },
-          {
-            "id": "d1bbeebdb74da27f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Good Mead/Good Mead.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Good Mead"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -300,8 +286,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "d1bbeebdb74da27f",
+  "active": "7bd2318098c3d587",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Good Mead/Good Mead.md",
     "Locations/Kelvin's Cairn.md",
     "Session Notes/2025/03 27 - Session 22.md",
     "Session Notes/2025/05 03 - Session 24.md",
@@ -323,7 +310,6 @@
     "Pasted image 20250201134847.png",
     "Pasted image 20250201134920.png",
     "Session Notes/2024/09 26 - Session 15.md",
-    "Locations/Ten Towns/Good Mead/Good Mead.md",
     "Session Notes/This is Your Life.md",
     "Session Notes/Cloud v2.md",
     "Session Notes/2023/11 30 - Session 5.md",
