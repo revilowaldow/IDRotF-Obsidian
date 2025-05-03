@@ -273,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2025/04 15 - Session 23.md",
+                "file": "Session Notes/2025/05 03 - Session 24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04 15 - Session 23"
+              "title": "Outline of 05 03 - Session 24"
             }
           },
           {
@@ -297,8 +297,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5,
-    "collapsed": true
+    "width": 407.5
   },
   "left-ribbon": {
     "hiddenItems": {
