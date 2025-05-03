@@ -68,18 +68,6 @@
             }
           },
           {
-            "id": "2b38730e99a399e7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Characters/NPCs/Talvi.webp"
-              },
-              "icon": "lucide-image",
-              "title": "Talvi"
-            }
-          },
-          {
             "id": "ae111783885977cb",
             "type": "leaf",
             "pinned": true,
@@ -166,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -325,9 +313,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "2b38730e99a399e7",
+  "active": "2352c11ac5379c31",
   "lastOpenFiles": [
+    "Pasted image 20250503184832.png",
     "NPCs/Northbrook Family/Talvi NorthBrook.md",
+    "Assets/Characters/NPCs/Talvi.webp",
     "Session Notes/2025/05 03 - Session 24.md",
     "Session Notes/2025/03 27 - Session 22.md",
     "Session Notes/2024/11 28 - Session 18.md",
@@ -363,7 +353,6 @@
     "Locations/Ten Towns/Dougan's Hole",
     "Locations/Ten Towns/Good Mead",
     "Locations/Ten Towns/Caer Dineval.md",
-    "Locations/Ten Towns/Caer Konig.md",
     "Locations/Ten Towns/Easthaven/Town Hall.canvas",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ (1).json",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ (2).json",
@@ -372,7 +361,6 @@
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 5.json",
     "Assets/Pasted image 20241128220248.png",
     "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 4.json",
-    "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 3.json",
-    "Assets/Characters/NPCs/Andri.webp"
+    "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 3.json"
   ]
 }
