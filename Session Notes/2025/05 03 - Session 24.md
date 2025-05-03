@@ -28,6 +28,8 @@ Chest 8:
 	Odd looking skeleton, covered in yellow mold, false moonstone eye
 
 
+[[Oarus Masthew]] is dating [[Talvi]]
+
 
 
 
