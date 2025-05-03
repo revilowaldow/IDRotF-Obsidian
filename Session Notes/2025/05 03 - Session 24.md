@@ -25,7 +25,9 @@ Chest 6:
 Chest 7:
 	2 foot tall stone statuette of a Demogorgon
 Chest 8:
-	Odd looking skeleton
+	Odd looking skeleton, covered in yellow mold, false moonstone eye
+
+
 
 
 
