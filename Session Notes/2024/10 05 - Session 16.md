@@ -84,7 +84,7 @@ Amulets are cult of levistus
 Andri agrees to come with us to work on the duergar
 
 Escape from the castle with:
-- Mere
-- Craddok
-- Andri
+- [[Mere]]
+- [[Craddok]]
+- [[Andri]]
 
