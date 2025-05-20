@@ -151,6 +151,16 @@
               "icon": "lucide-list",
               "title": "Outline of 05 03 - Session 24"
             }
+          },
+          {
+            "id": "80cec7ed0a4e511f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
         "currentTab": 3
