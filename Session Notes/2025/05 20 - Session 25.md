@@ -18,3 +18,5 @@ Quarantine chardyln, chuck it down the mine?
 
 [[Ally]] died
 
+Ring of Warmth on Ally's body
+
