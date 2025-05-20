@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c36641f09a492e9d",
+        "id": "1a69f680552dde35",
         "type": "tabs",
         "children": [
           {
-            "id": "85ab0d7b6cdb0797",
+            "id": "b75fe37224fc0ca0",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2025/05 03 - Session 24.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "05 03 - Session 24"
             }
           }
         ]
@@ -90,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/2025/05 03 - Session 24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 05 03 - Session 24"
             }
           },
           {
@@ -136,20 +143,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Session Notes/2025/05 03 - Session 24.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 05 03 - Session 24"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 434.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +172,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "85ab0d7b6cdb0797",
+  "active": "b75fe37224fc0ca0",
   "lastOpenFiles": [
+    "Session Notes/2025/05 03 - Session 24.md",
     "conflict-files-obsidian-git.md"
   ]
 }
