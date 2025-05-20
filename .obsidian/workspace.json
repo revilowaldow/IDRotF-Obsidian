@@ -1,132 +1,37 @@
 {
   "main": {
-    "id": "95b5df4e31cb4863",
+    "id": "93c8e4da0c533a71",
     "type": "split",
     "children": [
       {
-        "id": "42853f21371a30f8",
+        "id": "c36641f09a492e9d",
         "type": "tabs",
         "children": [
           {
-            "id": "d3ab4a07e39e905b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2025/02 01 - Session 20.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02 01 - Session 20"
-            }
-          },
-          {
-            "id": "7c869cec3fe2169a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2025/03 27 - Session 22.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03 27 - Session 22"
-            }
-          },
-          {
-            "id": "ae111783885977cb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2025/04 15 - Session 23.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "04 15 - Session 23"
-            }
-          },
-          {
-            "id": "049578d3ea3a7a87",
+            "id": "85ab0d7b6cdb0797",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Northbrook Family/Andri Northbrook.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Andri Northbrook"
-            }
-          },
-          {
-            "id": "0d9a46eea118c948",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Northbrook Family/Boreas Northbrook.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Boreas Northbrook"
-            }
-          },
-          {
-            "id": "0d65ff7cb5d83f13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Northbrook Family/Isolde Northbrook.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Isolde Northbrook"
-            }
-          },
-          {
-            "id": "47d82d0ccceabce7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Northbrook Family/Olwen Northbrook.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Olwen Northbrook"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c9c31fce30d027b9",
+    "id": "4e4382a944d551ac",
     "type": "split",
     "children": [
       {
-        "id": "9a9583ac504ea46e",
+        "id": "2908354edccb5630",
         "type": "tabs",
         "children": [
           {
-            "id": "425479cc273d7764",
+            "id": "273a905a8662a4d1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -139,12 +44,12 @@
             }
           },
           {
-            "id": "732ff7a3f6685795",
+            "id": "aca29dc165025d18",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Pasted",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +61,7 @@
             }
           },
           {
-            "id": "c477cc3021159535",
+            "id": "43b3047e4a0e8578",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -169,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 300
   },
   "right": {
-    "id": "e2fde1fbd4583364",
+    "id": "bf4a8793a17c2dc0",
     "type": "split",
     "children": [
       {
-        "id": "dcf0d0b1f364392e",
+        "id": "0b082810d25e2949",
         "type": "tabs",
         "children": [
           {
-            "id": "b9c300368353106e",
+            "id": "8ed4b75fd7c0400a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/2024/10 29 - Session 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,67 +99,56 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 10 29 - Session 17"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "73c10e2b7c821fef",
+            "id": "7bb667e53d7c20e3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/2024/10 29 - Session 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 10 29 - Session 17"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "7209e928a53fef83",
+            "id": "2fbc7be54e8c45d2",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "1ff96f72ce71dfc4",
+            "id": "1a0ffce8c600bd64",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2025/04 15 - Session 23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04 15 - Session 23"
-            }
-          },
-          {
-            "id": "38359944da77db43",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 407.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -266,59 +159,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "7c869cec3fe2169a",
+  "active": "85ab0d7b6cdb0797",
   "lastOpenFiles": [
-    "NPCs/Northbrook Family/Olwen Northbrook.md",
-    "Session Notes/2025/03 27 - Session 22.md",
-    "Session Notes/2025/04 15 - Session 23.md",
-    "NPCs/Northbrook Family/Isolde Northbrook.md",
-    "NPCs/Northbrook Family/Boreas Northbrook.md",
-    "NPCs/Northbrook Family/Andri Northbrook.md",
-    "Session Notes/2025/02 01 - Session 20.md",
-    "Session Notes/2024/08 22 - Session 14.md",
-    "Session Notes/2025/02 18 - Session 21.md",
-    "Game Information.md",
-    "NPCs/Naerth.md",
-    "Pasted image 20250327211451.png",
-    "Pasted image 20250327200647.png",
-    "Pasted image 20250201181618.png",
-    "Pasted image 20250201134847.png",
-    "Pasted image 20250201134920.png",
-    "Session Notes/2024/09 26 - Session 15.md",
-    "Locations/Ten Towns/Good Mead/Good Mead.md",
-    "Session Notes/This is Your Life.md",
-    "Session Notes/Cloud v2.md",
-    "Session Notes/2023/11 30 - Session 5.md",
-    "Session Notes/2023/12 28 - Session 6.md",
-    "Locations/Ten Towns/Termalaine/Termalaine.md",
-    "Assets/Pasted image 20240420155702.png",
-    "Session Notes/2025/01 02 - Session 19.md",
-    "Session Notes/2024/11 28 - Session 18.md",
-    "Locations/Ten Towns/Dougan's Hole/Dougan's Hole.md",
-    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-pRrgU1pTL21fP9PJ.json",
-    "Locations/Ten Towns/Dougan's Hole",
-    "Locations/Ten Towns/Good Mead",
-    "Locations/Ten Towns/Caer Dineval.md",
-    "Locations/Ten Towns/Caer Konig.md",
-    "Session Notes/2024/10 29 - Session 17.md",
-    "Session Notes/2024/03 28 - Session 9.md",
-    "Session Notes/2024/06 27 - Session 12.md",
-    "Locations/Ten Towns/Easthaven/Town Hall.canvas",
-    "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ (1).json",
-    "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ (2).json",
-    "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 6.json",
-    "Session Notes/2025",
-    "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 5.json",
-    "Assets/Pasted image 20241128220248.png",
-    "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 4.json",
-    "Assets/Sheet Backups/fvtt-Actor-cloud-pRrgU1pTL21fP9PJ 3.json",
-    "Assets/Characters/NPCs/Andri.webp",
-    "Assets/Pasted image 20241005155559.png",
-    "Assets/Pasted image 20241005150543.png"
+    "conflict-files-obsidian-git.md"
   ]
 }
