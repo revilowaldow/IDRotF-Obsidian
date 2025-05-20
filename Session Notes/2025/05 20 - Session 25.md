@@ -14,4 +14,7 @@ Quarantine chardyln, chuck it down the mine?
 - Imagine our new wizard friend will spend some time transcribing spells?
 - Cloud has quite a few tool proficiencies on top of cartography (from changing to monk) that I think I could flesh out a bit, definitely want to buy the tools themselves.
 
-[[Torinn]] and 
+[[Torinn]] and [[Nasir]] went to check on [[Allie Shorard]] and Torin's mum
+
+[[Ally]] died
+
