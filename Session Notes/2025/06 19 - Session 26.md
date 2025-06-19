@@ -7,3 +7,5 @@ Some people killed by duergar
 Icewind 
 
 Heartiest Stew 
+[[Naerth Maxildanarr]] has fled Targos
+
