@@ -126,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "skath",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,7 +255,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "3cc0bd899b95e9b9",
+  "active": "aca29dc165025d18",
   "lastOpenFiles": [
     "Session Notes/2023/07 22 - Session 1.md",
     "Session Notes/2023/08 24 - Session 2.md",
