@@ -16,7 +16,7 @@ What does [[Torinn]] believe?
 Visit [[Targos]]
 	Go into [[Triglio]]
 	Hardware supply store
-	[[Jestin Hunray]]
+	[[Jestin Hunrae]]
 	Everything except fishing gear
 
 Bought shield + snowshoes

@@ -17,3 +17,5 @@ Need to think about helping [[Boreas Northbrook]] with his missing
 [[Bryn Shander]] Speaker of [[Dougan's Hole]] killed, 
 
 Bought healing potions from [[Rendarel]]
+
+[[Jestin Hunrae]]

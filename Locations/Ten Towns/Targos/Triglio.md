@@ -1,5 +1,5 @@
 Hardware supply store
-	[[Jestin Hunray]]
+	[[Jestin Hunrae]]
 	Everything except Fishing tackle
 
 Dressed in Fisherman's Clothes

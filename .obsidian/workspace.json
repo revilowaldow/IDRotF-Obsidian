@@ -197,12 +197,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2023/09 19 - Session 3.md",
+                "file": "Locations/Ten Towns/Targos/Triglio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 19 - Session 3"
+              "title": "Triglio"
             }
           },
           {
@@ -219,8 +219,7 @@
               "title": "10 14 - Session 4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,7 +251,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Termaline",
+                "query": "Hunray",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -380,10 +379,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "0949842f511720c9",
+  "active": "273a905a8662a4d1",
   "lastOpenFiles": [
-    "Session Notes/Cloud v2.md",
+    "Locations/Ten Towns/Targos/Triglio.md",
+    "Session Notes/2023/09 19 - Session 3.md",
     "Session Notes/2025/07 31 - Session 27.md",
+    "Session Notes/Cloud v2.md",
     "Session Notes/2025/05 20 - Session 25.md",
     "Session Notes/2023/11 30 - Session 5.md",
     "Session Notes/2024/04 20 - Session 10.md",
@@ -400,14 +401,12 @@
     "Session Notes/2023/07 22 - Session 1.md",
     "Session Notes/2023/08 24 - Session 2.md",
     "Session Notes/2023/10 14 - Session 4.md",
-    "Session Notes/2023/09 19 - Session 3.md",
     "Session Notes/2025/05 03 - Session 24.md",
     "Session Notes/2025/04 15 - Session 23.md",
     "Session Notes/2025/03 27 - Session 22.md",
     "Session Notes/This is Your Life.md",
     "Session Notes/2024/10 05 - Session 16.md",
     "Session Notes/2024/01 13 - Session 7.md",
-    "Session Notes/2024/02 22 - Session 8.md",
     "Pasted image 20250520194611.png"
   ]
 }
