@@ -35,3 +35,5 @@ Remembrance for Ten-Towns:
 > For hearts that never shall return.
 > As in the wind, and drifting snow,
 > The spirit of Ten-Towns will always glow.
+
+[[Sanar]] has not been taking 
