@@ -19,3 +19,19 @@ Need to think about helping [[Boreas Northbrook]] with his missing
 Bought healing potions from [[Rendarel]]
 
 [[Jestin Hunrae]]
+
+[[Nasir]] wrote a poem
+
+Remembrance for Ten-Towns:
+> They lived where winter knows no end,
+> In hearth and hall, in foe and friend.
+> When shadow fell from dragon's wing,
+> They rose as one, unwavering.
+> Though flames consumed the homes they knew,
+> Their strength and love still carried through.
+> No fire can dim the lives they gave—
+> Their light lives on beyond the grave.
+> So light a flame, and let it burn—
+> For hearts that never shall return.
+> As in the wind, and drifting snow,
+> The spirit of Ten-Towns will always glow.
