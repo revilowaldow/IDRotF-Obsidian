@@ -15,3 +15,4 @@ Need to think about helping [[Boreas Northbrook]] with his missing
 [[Bremen]] 10 people killed in frigid waters
 [[Targos]] 5 people killed by Duergar, [[Naerth Maxildanarr]] fled to [[Bryn Shander]]
 [[Bryn Shander]] Speaker of [[Dougan's Hole]] killed, 
+
