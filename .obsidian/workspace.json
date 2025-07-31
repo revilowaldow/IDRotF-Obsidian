@@ -219,7 +219,8 @@
               "title": "10 14 - Session 4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -379,13 +380,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "273a905a8662a4d1",
+  "active": "0949842f511720c9",
   "lastOpenFiles": [
+    "Session Notes/2025/05 20 - Session 25.md",
     "Locations/Ten Towns/Targos/Triglio.md",
     "Session Notes/2023/09 19 - Session 3.md",
     "Session Notes/2025/07 31 - Session 27.md",
     "Session Notes/Cloud v2.md",
-    "Session Notes/2025/05 20 - Session 25.md",
     "Session Notes/2023/11 30 - Session 5.md",
     "Session Notes/2024/04 20 - Session 10.md",
     "Session Notes/2024/03 28 - Session 9.md",
