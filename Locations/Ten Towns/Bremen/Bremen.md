@@ -22,6 +22,6 @@ Island building is uninhabited
 [[Buried Treasure Inn]] Owned by [[Olwen Northbrook]]
 
 
-Town Speaker getting senile
+Town Speaker getting senile [[Dorbulgruf Shalescar]]
 	Needs search parties when they wander off
 
