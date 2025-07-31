@@ -11,4 +11,7 @@ Need to think about helping [[Boreas Northbrook]] with his missing
 [[Locations/Ten Towns/Easthaven/Easthaven|Easthaven]] Captain Aligarth slain
 [[Caer Dineval]] destroyed except the castle, [[Mere]] led the group away
 [[Caer Konig]] [[Trovus]] led the group to safety but [[Allie Shorard]] died
-[[Termaline]] got off light [[Termalaine]]
+[[Termalaine]] got off light 
+[[Bremen]] 10 people killed in frigid waters
+[[Targos]] 5 people killed by Duergar, [[Naerth Maxildanarr]] fled to [[Bryn Shander]]
+[[Bryn Shander]] Speaker of [[Dougan's Hole]] killed, 

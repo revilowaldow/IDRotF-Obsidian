@@ -73,7 +73,7 @@ a dizen blankets
 21 assorted mediciens
 8 vials of poison (rat emblem)
 wooden shield
-2 rapiers with termaline encrusted in hilt
+2 rapiers with [[Termalaine]] encrusted in hilt
 3 black iron longsword
 5 sets of snowshoes
 longbow

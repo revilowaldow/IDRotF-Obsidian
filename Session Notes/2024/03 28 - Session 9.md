@@ -60,7 +60,7 @@ Snowy barn owl flying overhead
 Attuned to crystal
 
 Klaxon in mind pointing into tundra
-South from Termaline
+South from [[Termalaine]]
 Indefinite madness
 No trust, only imaginary friend
 
