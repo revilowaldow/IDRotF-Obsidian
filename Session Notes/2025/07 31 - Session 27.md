@@ -42,3 +42,5 @@ Encounter:
 ![](https://5e.tools/img/adventure/IDRotF/092-02-003.mammoth.webp)
 
 
+![](https://5e.tools/img/adventure/IDRotF/112-02-011.dark-duchess.webp)
+
