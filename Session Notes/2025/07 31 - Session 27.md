@@ -36,4 +36,5 @@ Remembrance for Ten-Towns:
 > As in the wind, and drifting snow,
 > The spirit of Ten-Towns will always glow.
 
-[[Sanar]] has not been taking 
+[[Sanar]] has not been taking payment for the drinks
+
