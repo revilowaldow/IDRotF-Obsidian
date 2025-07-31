@@ -16,3 +16,4 @@ Need to think about helping [[Boreas Northbrook]] with his missing
 [[Targos]] 5 people killed by Duergar, [[Naerth Maxildanarr]] fled to [[Bryn Shander]]
 [[Bryn Shander]] Speaker of [[Dougan's Hole]] killed, 
 
+Bought healing potions from [[Rendarel]]
