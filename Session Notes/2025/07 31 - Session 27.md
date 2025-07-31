@@ -38,3 +38,7 @@ Remembrance for Ten-Towns:
 
 [[Sanar]] has not been taking payment for the drinks
 
+Encounter:
+![](https://5e.tools/img/adventure/IDRotF/092-02-003.mammoth.webp)
+
+
