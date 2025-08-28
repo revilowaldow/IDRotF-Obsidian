@@ -29,5 +29,18 @@ Hoard:
 352cp
 2 pearls 100gp
 
-The Codicil of White
+Looking for The Codicil of White
+An ancient tome that is rumored to contain 
+
+9 tatter pieces of indigo fabric lined with gold thread 25gp each
+3 pieces of quartz 50gp
+aquamarine (cracked) 250gp
+scrimshaw figurine of archer etched with magical script
+
+more gold
+statues/figurines
+gemstones
+leaf
+glow
+
 
