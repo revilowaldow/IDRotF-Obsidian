@@ -63,3 +63,8 @@ ornate looking wand
 ![[Pasted image 20250828224042.png]]
 
 
+150 gp
+550 sp
+small gold bracelet 25gp 
+large gold bracelet 250gp
+grey bag of tricks
