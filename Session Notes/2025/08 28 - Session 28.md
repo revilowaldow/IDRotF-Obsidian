@@ -29,3 +29,5 @@ Hoard:
 352cp
 2 pearls 100gp
 
+The Codicil of White
+
