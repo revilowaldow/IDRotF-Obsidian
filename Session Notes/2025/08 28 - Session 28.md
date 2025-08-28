@@ -50,8 +50,12 @@ This ornately carved longbow
 gleaming suit of plate armour white metal, embosses symbols
 	Dwarven gods of battle, war
 ornate looking wand
-	Skull shaped 
+	Skull shaped with vertebrae handle
+
 
 
 ![](https://5e.tools/img/adventure/IDRotF/091-02-002.dragon.webp)
+
+![[Pasted image 20250828224042.png]]
+
 
