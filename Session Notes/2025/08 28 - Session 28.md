@@ -22,3 +22,7 @@ Tando dumping Nass Lantomir's corpse on the floor to get a bedroll
 
 Bix, Lix, Twix, Crix
 
+Hoard:
+
+352cp
+2 pearls 1
