@@ -36,6 +36,7 @@ An ancient tome that is rumoured to contain
 3 pieces of quartz 50gp
 aquamarine (cracked) 250gp
 scrimshaw figurine of archer etched with magical script
+	abjurative magic, spell scroll of remove curse
 
 221gp
 1 foot tall marble statuette of a griffin 250gp
@@ -43,7 +44,10 @@ black pearl 500gp
 a peridot carved in the shape of a leaf worth 300gp
 driftglobe
 This ornately carved longbow
+	evocation
 ![[Pasted image 20250828223102.png]]
+
+
 
 3ft diameter ceremonial bronze bowl inlaid with carnelions 1000gp
 7 garnets 100gp
@@ -51,7 +55,7 @@ gleaming suit of plate armour white metal, embosses symbols
 	Dwarven gods of battle, war
 ornate looking wand
 	Skull shaped with vertebrae handle
-
+	evocation
 
 
 ![](https://5e.tools/img/adventure/IDRotF/091-02-002.dragon.webp)
