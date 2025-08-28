@@ -17,3 +17,7 @@ Nass Lantomir's Ghost
 
 
 ![[Pasted image 20250828202529.png]]
+
+Tando dumping Nass Lantomir's corpse on the floor to get a bedroll
+
+
