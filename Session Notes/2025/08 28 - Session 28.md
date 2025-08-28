@@ -24,5 +24,8 @@ Bix, Lix, Twix, Crix
 
 Hoard:
 
+72gp
+181sp
 352cp
-2 pearls 1
+2 pearls 100gp
+
