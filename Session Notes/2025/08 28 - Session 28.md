@@ -45,5 +45,13 @@ leaf
 glow
 bow
 
+1 foot tall marble statuette of a griffin 250gp
+black pearl 500gp
+a peridot carved in the shape of a leaf worth 300gp
+driftglobe
+This ornately carved longbow
+![[Pasted image 20250828223102.png]]
+
+
 ![](https://5e.tools/img/adventure/IDRotF/091-02-002.dragon.webp)
 
