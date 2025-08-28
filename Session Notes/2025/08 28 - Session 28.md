@@ -10,3 +10,6 @@ Deceased Nass Lantomir
 
 ![[Pasted image 20250828194308.png]]
 
+![](https://5e.warlow.engineer/img/bestiary/IDRotF/Nass%20Lantomirs%20Ghost.webp)
+Nass Lantomir's Ghost
+
