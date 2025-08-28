@@ -45,3 +45,5 @@ leaf
 glow
 bow
 
+![](https://5e.tools/img/adventure/IDRotF/091-02-002.dragon.webp)
+
