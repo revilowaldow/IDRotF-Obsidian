@@ -20,4 +20,5 @@ Nass Lantomir's Ghost
 
 Tando dumping Nass Lantomir's corpse on the floor to get a bedroll
 
+Bix, Lix, Twix, Crix
 
