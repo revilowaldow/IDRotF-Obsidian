@@ -8,24 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ddb6723c87f5712",
+            "id": "28a7ade6f19b1946",
             "type": "leaf",
             "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2025/05 20 - Session 25.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "05 20 - Session 25"
-            }
-          },
-          {
-            "id": "0949842f511720c9",
-            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -33,218 +18,25 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "07 31 - Session 27"
             }
           },
           {
-            "id": "953810d160772dc1",
+            "id": "0949842f511720c9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ten Towns/Targos/Targos.md",
+                "file": "Session Notes/2025/08 28 - Session 28.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Targos"
-            }
-          },
-          {
-            "id": "254f76a4e2d46e54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Targos/The Luskan Arms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Luskan Arms"
-            }
-          },
-          {
-            "id": "3b4e73e30dd07567",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Cloud v2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cloud v2"
-            }
-          },
-          {
-            "id": "3cc0bd899b95e9b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2023/11 30 - Session 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11 30 - Session 5"
-            }
-          },
-          {
-            "id": "cb1979cdd0cd0989",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Northbrook Family/Olwen Northbrook.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Olwen Northbrook"
-            }
-          },
-          {
-            "id": "2504e4533b50f109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Northbrook Family/Talvi NorthBrook.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Talvi NorthBrook"
-            }
-          },
-          {
-            "id": "bdecd2e06dc6aa71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Northbrook Family/Isolde Northbrook.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Isolde Northbrook"
-            }
-          },
-          {
-            "id": "a1f3e10820bd2fae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Northbrook Family/Boreas Northbrook.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Boreas Northbrook"
-            }
-          },
-          {
-            "id": "e19c4bdadc7f2c2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Bremen/Bremen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bremen"
-            }
-          },
-          {
-            "id": "8b08ab27d6f74338",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Buried Treasure Inn"
-            }
-          },
-          {
-            "id": "b922a32267780ab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Northbrook Family/Andri Northbrook.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Andri Northbrook"
-            }
-          },
-          {
-            "id": "88302a87a17e325d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2023/08 24 - Session 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08 24 - Session 2"
-            }
-          },
-          {
-            "id": "2593a6b4e1b3d6a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07 22 - Session 1"
-            }
-          },
-          {
-            "id": "ffefb39d25a2cd51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Targos/Triglio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Triglio"
-            }
-          },
-          {
-            "id": "ddae8a0fde86a040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2023/10 14 - Session 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10 14 - Session 4"
+              "title": "08 28 - Session 28"
             }
           }
         ],
@@ -408,31 +200,32 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "273a905a8662a4d1",
+  "active": "0949842f511720c9",
   "lastOpenFiles": [
-    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20250731.json",
-    "Locations/Ten Towns/Targos/Triglio.md",
-    "Locations/Ten Towns/Targos/The Luskan Arms.md",
-    "Locations/Ten Towns/Targos/Targos.md",
     "Session Notes/2025/07 31 - Session 27.md",
     "Session Notes/2025/05 20 - Session 25.md",
-    "Session Notes/2023/09 19 - Session 3.md",
+    "Session Notes/2025/06 19 - Session 26.md",
+    "Session Notes/2025/08 28 - Session 28.md",
+    "Locations/Ten Towns/Targos/Targos.md",
+    "Locations/Ten Towns/Targos/The Luskan Arms.md",
     "Session Notes/Cloud v2.md",
     "Session Notes/2023/11 30 - Session 5.md",
-    "Session Notes/2024/04 20 - Session 10.md",
-    "Session Notes/2024/03 28 - Session 9.md",
-    "Session Notes/2025/02 01 - Session 20.md",
-    "Locations/Ten Towns/Bremen/Bremen.md",
-    "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
-    "NPCs/Northbrook Family/Boreas Northbrook.md",
-    "NPCs/Northbrook Family/Andri Northbrook.md",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
     "NPCs/Northbrook Family/Talvi NorthBrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
-    "Session Notes/2025/06 19 - Session 26.md",
-    "Session Notes/2023/07 22 - Session 1.md",
+    "NPCs/Northbrook Family/Boreas Northbrook.md",
+    "Locations/Ten Towns/Bremen/Bremen.md",
+    "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
+    "NPCs/Northbrook Family/Andri Northbrook.md",
     "Session Notes/2023/08 24 - Session 2.md",
+    "Session Notes/2023/07 22 - Session 1.md",
+    "Locations/Ten Towns/Targos/Triglio.md",
     "Session Notes/2023/10 14 - Session 4.md",
+    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20250731.json",
+    "Session Notes/2023/09 19 - Session 3.md",
+    "Session Notes/2024/04 20 - Session 10.md",
+    "Session Notes/2024/03 28 - Session 9.md",
+    "Session Notes/2025/02 01 - Session 20.md",
     "Session Notes/2025/05 03 - Session 24.md",
     "Session Notes/2025/04 15 - Session 23.md",
     "Session Notes/2025/03 27 - Session 22.md",
