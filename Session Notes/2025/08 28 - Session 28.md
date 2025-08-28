@@ -14,3 +14,6 @@ Deceased Nass Lantomir
 Nass Lantomir's Ghost
 
 ![[Pasted image 20250828201942.png]]
+
+
+![[Pasted image 20250828202529.png]]
