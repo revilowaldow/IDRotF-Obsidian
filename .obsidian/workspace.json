@@ -38,21 +38,9 @@
               "icon": "lucide-file",
               "title": "08 28 - Session 28"
             }
-          },
-          {
-            "id": "f659bf46f5a0ab2d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,7 +201,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "f659bf46f5a0ab2d",
+  "active": "0949842f511720c9",
   "lastOpenFiles": [
     "Pasted image 20250828224042.png",
     "Pasted image 20250828223102.png",
