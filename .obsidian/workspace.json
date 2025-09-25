@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,10 +231,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "bc59fbf47ea32994",
+  "active": "0949842f511720c9",
   "lastOpenFiles": [
-    "Session Notes/2025/09 25 - Session 29.md",
+    "Factions/Party/Tando Grittson.md",
     "Session Notes/2025/08 28 - Session 28.md",
+    "Session Notes/2025/09 25 - Session 29.md",
     "Session Notes/2024/05 23 - Session 11.md",
     "Locations/Ten Towns/Lonelywood/Liar.md",
     "Session Notes/2024/07 06 - Session 13.md",
@@ -269,7 +270,6 @@
     "Session Notes/2023/07 22 - Session 1.md",
     "Locations/Ten Towns/Targos/Triglio.md",
     "Session Notes/2023/10 14 - Session 4.md",
-    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20250731.json",
-    "Session Notes/2023/09 19 - Session 3.md"
+    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20250731.json"
   ]
 }
