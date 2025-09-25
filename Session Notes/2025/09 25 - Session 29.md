@@ -19,3 +19,5 @@ Black Cabin
 
 ![[Pasted image 20250925210251.png]]
 
+![](https://5e.tools/img/adventure/IDRotF/102-02-007.summer-star.webp)
+
