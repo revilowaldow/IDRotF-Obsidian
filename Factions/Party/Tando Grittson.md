@@ -3,13 +3,13 @@
 Pale Grey Skin
 
 Hard Crystaline
-Pitch black eyes and beard and mustache
+Pitch black eyes and beard and moustache
 Hair in cornrows
 Horned mohican
 
 Sharp facial features
 
-Mail and leather armor
+Mail and leather armour
 
 Carries limited gear
 
@@ -39,4 +39,4 @@ Looking for portal magic to visit and explore himself
 > I awoke and have spent several years now gathering information on these people and to find a way back to my home. I was in Luskan when I first heard of the Arcane Brotherhood, people who seemed like they had knowledge - a currency I value far greater than material objects - who could help me. I travelled with Nass Lantomer, who promised me she was heading out on an expedition which would yield great arcane knowledge, and with that power she may even be able to restore a portal to my home. The rest you know.
 > Forgive me in my appearance and demeanour, for I have not always been this way. For when I lived in Lithos, I was a happy, friendly person. I am merely a shadow of that now, carved by the horrors I have seen. You see, still under great threat of capture or death in the earthern realm as a genasi, I was forced to keep to the shadows, honing my ability to stay out of sight and watch my back. As time went on, I gained skills in how to look after myself, and building resentment lead me down a path I never wanted to take.
 > You see every day I have dreamt of taking back my kingdom, for my people. It is being held hostage, and the way to do that is to rid the land of these parasite invaders. I learnt how to be deadly in the shadows, becoming a ghost and a shadow. I have learnt how to become a competent assassin, ready for my return to Lithos. However, having spent time with you companions recently, I have learnt it is not enough to get revenge, I must learn how to lead. Helping to rebuild the ten-towns, or protecting you all from Dragons has shown me there is much more to being a leader than deadly force and power. One needs to be smart, to plan, and most of all to trust.
-> So this is why I open myself up to you all now, at great personal peril, to thank you, and to ask for your help on my journey to restore my kingdom in the earthern realms.
+> So this is why I open myself up to you all now, at great personal peril, to thank you, and to ask for your help on my journey to restore my kingdom in the earthen realms.
