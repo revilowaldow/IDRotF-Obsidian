@@ -38,9 +38,25 @@
               "icon": "lucide-file",
               "title": "08 28 - Session 28"
             }
+          },
+          {
+            "id": "b0236e635943c87c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2025/09 25 - Session 29.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "09 25 - Session 29"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,10 +217,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "273a905a8662a4d1",
+  "active": "b0236e635943c87c",
   "lastOpenFiles": [
-    "NPCs/Mere.md",
     "Session Notes/2025/08 28 - Session 28.md",
+    "Session Notes/2025/09 25 - Session 29.md",
+    "NPCs/Mere.md",
     "Assets/Crests/Pasted image 20250201134847.png",
     "Assets/Items/Pasted image 20250201134920.png",
     "Assets/Characters/NPCs/Pasted image 20240420182822.png",
@@ -239,7 +256,6 @@
     "Session Notes/2023/09 19 - Session 3.md",
     "Session Notes/2024/04 20 - Session 10.md",
     "Session Notes/2024/03 28 - Session 9.md",
-    "Session Notes/2025/02 01 - Session 20.md",
-    "Session Notes/2025/05 03 - Session 24.md"
+    "Session Notes/2025/02 01 - Session 20.md"
   ]
 }
