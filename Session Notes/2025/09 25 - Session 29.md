@@ -9,3 +9,5 @@ Nasir very upset by Roach's disappearance
 
 Found a single bloody leg
 
+Earthen Realms prince
+
