@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "copper",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,8 +137,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -246,7 +245,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "b0236e635943c87c",
+  "active": "273a905a8662a4d1",
   "lastOpenFiles": [
     "Locations/Ten Towns/Lonelywood/Liar.md",
     "Session Notes/2025/09 25 - Session 29.md",
