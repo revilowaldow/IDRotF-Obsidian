@@ -12,3 +12,10 @@ Found a single bloody leg
 Earthen Realms prince
 
 [[Tando Grittson]]
+
+
+Black Cabin
+
+
+![[Pasted image 20250925210251.png]]
+
