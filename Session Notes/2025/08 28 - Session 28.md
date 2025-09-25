@@ -60,7 +60,7 @@ ornate looking wand
 
 ![](https://5e.tools/img/adventure/IDRotF/091-02-002.dragon.webp)
 
-![[Pasted image 20250828224042.png]]
+![[Driftglobe.png]]
 
 
 150 gp
