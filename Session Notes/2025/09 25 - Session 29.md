@@ -11,3 +11,4 @@ Found a single bloody leg
 
 Earthen Realms prince
 
+[[Tando Grittson]]

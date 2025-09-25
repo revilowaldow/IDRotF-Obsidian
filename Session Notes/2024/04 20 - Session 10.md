@@ -13,7 +13,7 @@ Professor Orb
 Mission to strengthen brotherhood by acquiring magic items
 Luskin - base of arcane
 
-[[Tando]] has met [[Nass Lantomir]]
+[[Tando Grittson]] has met [[Nass Lantomir]]
 Was on the [[Dark Duchess]] as well
 Ship was lost
 

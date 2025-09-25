@@ -1,7 +1,7 @@
 - [x] Lake Monster in [[Bremen]]
 - [ ] Ask [[Torinn]] about scuffed shield
 - [ ] Ask [[Nasir]] about war gong
-- [x] Ask [[Tando]] about links with [[Sephek]]
+- [x] Ask [[Tando Grittson]] about links with [[Sephek]]
 	- [x] Blue eyes
 	- [x] Boat
 	- [x] Shared mission

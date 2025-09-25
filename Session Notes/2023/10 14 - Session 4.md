@@ -18,14 +18,14 @@ Blood Stones as reward
 [[Garn the Hammer]] 
 
 > "Frost of Living Crisis"
-> - [[Tando]]
+> - [[Tando Grittson]]
 
 
 Bought many things, axe beaks are a future option
 Dog sleds available in large and small sizes
 
 
-[[Nilak 'Cloud' Northbrook]] won arm wrestle in [[The Luskan Arms]] against [[Tando]]
+[[Nilak 'Cloud' Northbrook]] won arm wrestle in [[The Luskan Arms]] against [[Tando Grittson]]
 
 Drank heavily night before
 Hungover that morning

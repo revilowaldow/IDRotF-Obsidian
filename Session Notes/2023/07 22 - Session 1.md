@@ -55,16 +55,16 @@ Glow in the dark antlers
 Herds of mammoth
 
 
-Met [[Tando]] in the [[Three Flags Sailing]]
+Met [[Tando Grittson]] in the [[Three Flags Sailing]]
 
 Interested in the murders
 
-[[Tando]] saw a snow leopard arguing with [[Naerth Maxildanarr]]
+[[Tando Grittson]] saw a snow leopard arguing with [[Naerth Maxildanarr]]
 
 Argument between [[Captain Skath]] and snow leopard 
 	Argument mentioned [[Torg's Caravan]]
 
-One of the people on Torg's caravan was also on the ship with [[Tando]]
+One of the people on Torg's caravan was also on the ship with [[Tando Grittson]]
 	Now has glowing blue eyes and no cold weather gear
 
 Gaslit Receptionist into lettign them see [[Captain Skath]]
