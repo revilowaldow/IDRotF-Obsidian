@@ -5,3 +5,7 @@ Magical Wonders of Netheril
 
 Aiurminituuk
 
+Were-polar-bear 
+
+[[Oyaminartok]]
+
