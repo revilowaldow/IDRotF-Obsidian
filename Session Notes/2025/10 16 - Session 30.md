@@ -11,3 +11,4 @@ Were-polar-bear
 
 Auril's roc
 
+![[Pasted image 20251016224653.png]]
