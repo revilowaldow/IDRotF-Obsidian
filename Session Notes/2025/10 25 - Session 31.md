@@ -33,3 +33,10 @@ Creating an amulet of a dragonborn
 	The Honest Quarry
 		Falthra
 			2000-2500gp for the star sapphire hookah
+			obsidian sandles 250gp
+			quilted smoking jacket 500gp
+			beard comb 750gp
+			silk robe ??
+			amber headdress 3 large purple pearls 2500gp
+			gold mask shaped drow 750gp
+			
