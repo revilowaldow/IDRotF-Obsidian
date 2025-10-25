@@ -12,3 +12,5 @@ Bryn Shander bulletin
 - [ ] Karkolohk sends message of truce to Bryn Shaders Duvessa Shane - has the weather made the Goblins desperate? Can they be trusted?
 
 
+Try and reverse ambush some gnolls
+
