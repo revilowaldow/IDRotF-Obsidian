@@ -32,4 +32,4 @@ Jewelery:
 Creating an amulet of a dragonborn
 	The Honest Quarry
 		Falthra
-		
+			2000-2500gp for the star sapphire hookah
