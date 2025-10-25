@@ -16,3 +16,5 @@ Try and reverse ambush some gnolls
 
 Weather is getting colder, harder, more difficult
 
+> "Any god who choses to live among mortals is hiding from something, and anyone who's hiding can't be all powerful." - Veyllenn Harpell on Auril
+
