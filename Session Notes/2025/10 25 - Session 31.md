@@ -22,7 +22,7 @@ Weather is getting colder, harder, more difficult
 
 Left 20pp at White Moose for food for needy
 
-Tando left 20 gp 
+Tando left 20 gp at Eastside for room and board for homeless individuals
 
 ~~scrimshaw figurine of archer etched with magical script~~
 	~~abjurative magic, spell scroll of remove curse~~
