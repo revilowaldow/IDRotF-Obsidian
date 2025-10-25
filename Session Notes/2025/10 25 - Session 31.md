@@ -14,3 +14,5 @@ Bryn Shander bulletin
 
 Try and reverse ambush some gnolls
 
+Weather is getting colder, harder, more difficult
+
