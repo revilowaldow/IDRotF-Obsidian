@@ -32,11 +32,45 @@ Jewelery:
 Creating an amulet of a dragonborn
 	The Honest Quarry
 		Falthra
+			2000-2500gp for the star sapphire hookah
+			can offer 1800gp + a free amulet for nasir
+			Nasir's amulet approx 200-400 gp
+	Talvi's Tasteful Jewelery
 			for the star sapphire hookah 2500gp
 			obsidian sandles 250gp
 			quilted smoking jacket 500gp
 			beard comb 750gp
 			silk robe ??
 			amber headdress 3 large purple pearls 2500gp
-			gold mask shaped drow 750gp - not available, in T
-			
+			gold mask shaped drow 750gp - not available, in Tando's strongbox in the white moose
+
+
+
+Hoard Items:
+	1 foot tall marble statuette of a griffin 250gp
+	3ft diameter ceremonial bronze bowl inlaid with carnelions 1000gp
+	small gold bracelet 25gp 
+	large gold bracelet 250gp
+	9 tatter pieces of indigo fabric lined with gold thread 25gp each
+
+Cash:
+	352cp
+	181sp
+	550 sp
+	72gp
+	221gp
+	150 gp
+
+Gems:
+	2 pearls 100gp
+	7 garnets 100gp
+	3 pieces of quartz 50gp
+	aquamarine (cracked) 250gp
+	black pearl 500gp
+	a peridot carved in the shape of a leaf worth 300gp
+
+
+ornate looking wand
+	Skull shaped with vertebrae handle
+	evocation
+	Replica of wand of orcus - torch
