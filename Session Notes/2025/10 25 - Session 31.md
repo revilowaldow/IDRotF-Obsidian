@@ -28,3 +28,8 @@ Tando left 20 gp at Eastside for room and board for homeless individuals
 	~~abjurative magic, spell scroll of remove curse~~
 Used on Marta's dad to remove the malicious curse of a frost druid
 
+Jewelery:
+
+	The Honest Quarry
+		Falthra
+		
