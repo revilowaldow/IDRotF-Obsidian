@@ -20,3 +20,11 @@ Weather is getting colder, harder, more difficult
 
 - [ ] Give players item creation permissions
 
+Left 20pp at White Moose for food for needy
+
+Tando left 20 gp 
+
+~~scrimshaw figurine of archer etched with magical script~~
+	~~abjurative magic, spell scroll of remove curse~~
+Used on Marta's dad to remove the malicious curse of a frost druid
+
