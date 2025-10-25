@@ -1,9 +1,7 @@
 Magical Wonders of Netheril
 
-![[Pasted image 20251016220202.png]]
+![[Oyaminartok.png]]
 
-
-Aiurminituuk
 
 Were-polar-bear 
 
@@ -11,4 +9,4 @@ Were-polar-bear
 
 Auril's roc
 
-![[Pasted image 20251016224653.png]]
+![[Roc.png]]
