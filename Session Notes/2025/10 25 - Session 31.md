@@ -29,7 +29,7 @@ Tando left 20 gp at Eastside for room and board for homeless individuals
 Used on Marta's dad to remove the malicious curse of a frost druid
 
 Jewelery:
-
+Creating an amulet of a dragonborn
 	The Honest Quarry
 		Falthra
 		
