@@ -66,6 +66,8 @@ Cash:
 	72gp
 	221gp
 	150 gp
+		**Total:** 446gp, 731sp, 352cp
+			**Each:** 89
 
 ornate looking wand
 	Skull shaped with vertebrae handle
