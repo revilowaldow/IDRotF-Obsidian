@@ -81,7 +81,8 @@
               "title": "11 26 - Session 32"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -242,10 +243,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "0949842f511720c9",
+  "active": "604c5f86a808c897",
   "lastOpenFiles": [
-    "Session Notes/2025/11 26 - Session 32.md",
     "Session Notes/2025/08 28 - Session 28.md",
+    "Session Notes/2025/11 26 - Session 32.md",
     "Session Notes/2025/09 25 - Session 29.md",
     "Session Notes/2025/10 16 - Session 30.md",
     "Session Notes/2025/10 25 - Session 31.md",
