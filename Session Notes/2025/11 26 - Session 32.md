@@ -8,6 +8,6 @@ Crushed his hand a little but 'gave blessing', while saying Talvi can make her o
 Keep my eye out for fire lichen
 Bought glowing cloak and lighter ring
 
+[[Duvessa Shane]]
 
-
-
+![[Duvessa Shane.png]]

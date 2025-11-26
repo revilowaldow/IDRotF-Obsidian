@@ -149,8 +149,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -258,8 +257,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "aca29dc165025d18",
+  "active": "273a905a8662a4d1",
   "lastOpenFiles": [
+    "Assets/Characters/NPCs/Duvessa Shane.png",
     "Session Notes/2024/05 23 - Session 11.md",
     "Session Notes/2024/07 06 - Session 13.md",
     "Session Notes/2025/11 26 - Session 32.md",
@@ -300,7 +300,6 @@
     "NPCs/Northbrook Family/Talvi NorthBrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
-    "Locations/Ten Towns/Bremen/Bremen.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20250731.json"
   ]
 }
