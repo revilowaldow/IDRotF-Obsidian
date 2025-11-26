@@ -128,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sout",
+                "query": "daneth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +149,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -257,7 +258,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "273a905a8662a4d1",
+  "active": "aca29dc165025d18",
   "lastOpenFiles": [
     "Assets/Characters/NPCs/Duvessa Shane.png",
     "Session Notes/2024/05 23 - Session 11.md",
