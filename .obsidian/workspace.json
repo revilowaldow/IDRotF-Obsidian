@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,10 +215,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "85ec71a175fe73cd",
+  "active": "18a3e8fcb1c45bab",
   "lastOpenFiles": [
-    "Session Notes/2025/10 25 - Session 31.md",
     "Session Notes/2025/11 26 - Session 32.md",
+    "Session Notes/2025/10 25 - Session 31.md",
+    "Assets/Pasted image 20240522150509.png",
+    "Assets/Pasted image 20240522150517.png",
+    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20251126.json",
     "Session Notes/2025/08 28 - Session 28.md",
     "Session Notes/2025/07 31 - Session 27.md",
     "Session Notes/Cloud v2.md",
@@ -229,8 +232,6 @@
     "Assets/Characters/Roc.png",
     "Assets/Characters/Oyaminartok.png",
     "Assets/Items/Star Sapphire.png",
-    "Assets/Pasted image 20240522150509.png",
-    "Assets/Pasted image 20240522150517.png",
     "Untitled 1.base",
     "Untitled.base",
     "Session Notes/2024/07 06 - Session 13.md",
@@ -256,7 +257,6 @@
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "NPCs/Northbrook Family/Boreas Northbrook.md",
     "Locations/Ten Towns/Bremen/Bremen.md",
-    "Locations/Ten Towns/Bremen/Buried Treasure Inn.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20250731.json"
   ]
 }
