@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,10 +215,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "18a3e8fcb1c45bab",
+  "active": "85ec71a175fe73cd",
   "lastOpenFiles": [
-    "Session Notes/2025/11 26 - Session 32.md",
     "Session Notes/2025/10 25 - Session 31.md",
+    "Session Notes/2025/11 26 - Session 32.md",
     "Session Notes/2025/08 28 - Session 28.md",
     "Session Notes/2025/07 31 - Session 27.md",
     "Session Notes/Cloud v2.md",
