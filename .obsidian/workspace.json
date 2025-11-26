@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "naer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,10 +215,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "18a3e8fcb1c45bab",
+  "active": "85ec71a175fe73cd",
   "lastOpenFiles": [
-    "Session Notes/2025/11 26 - Session 32.md",
     "Session Notes/2025/10 25 - Session 31.md",
+    "Session Notes/2025/11 26 - Session 32.md",
     "Assets/Pasted image 20240522150509.png",
     "Assets/Pasted image 20240522150517.png",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20251126.json",
