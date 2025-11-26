@@ -128,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "copper",
+                "query": "sout",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +149,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -257,7 +258,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "d4c7f937b03c680a",
+  "active": "aca29dc165025d18",
   "lastOpenFiles": [
     "Session Notes/2024/05 23 - Session 11.md",
     "Session Notes/2024/07 06 - Session 13.md",
