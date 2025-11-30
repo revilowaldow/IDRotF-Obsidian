@@ -94,9 +94,21 @@
               "icon": "lucide-file",
               "title": "11 26 - Session 32"
             }
+          },
+          {
+            "id": "e3f8c434ca5bef7a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -257,7 +269,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "273a905a8662a4d1",
+  "active": "e3f8c434ca5bef7a",
   "lastOpenFiles": [
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-pRrgU1pTL21fP9PJ (3).json",
     "Assets/Characters/NPCs/Duvessa Shane.png",
