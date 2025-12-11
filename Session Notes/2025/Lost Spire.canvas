@@ -19,7 +19,7 @@
 		{"id":"5e6ab80fb83f824c","x":541,"y":690,"width":160,"height":55,"color":"#6e582b","type":"text","text":"Windows to earth"},
 		{"id":"b1f2a976d20eec1c","x":433,"y":1160,"width":108,"height":60,"color":"6","type":"text","text":"15-20ft"},
 		{"id":"7b5e1d3bbcf34e9a","x":136,"y":1478,"width":320,"height":380,"type":"text","text":"Wizards Lab\nUpside down storage cupboard, bookshelves\nBroken lab equipment\narcane symbols painted on ceiling"},
-		{"id":"d562a2cae8c21a9f","x":456,"y":2320,"width":250,"height":60,"color":"6","type":"text","text":""},
+		{"id":"d562a2cae8c21a9f","x":456,"y":2320,"width":250,"height":60,"color":"1","type":"text","text":"Serpent creature"},
 		{"id":"63cb64f122f0098f","x":-20,"y":2070,"width":250,"height":280,"type":"text","text":"Stone altar 9 feet above floor\n8 pointed star carved into altar\nHoly symbol of mystryl\n\nStopped flask of blue liquid created and falls, but caught by nasir\n\n"},
 		{"id":"f9e0c7e19940dcb0","x":620,"y":1478,"width":250,"height":380,"type":"text","text":""},
 		{"id":"9bf084358b65287c","x":-270,"y":1478,"width":250,"height":380,"type":"text","text":"Voice\nDazaan's Simulacrum\n\nQuintas, undead, white hair\n\n"},
