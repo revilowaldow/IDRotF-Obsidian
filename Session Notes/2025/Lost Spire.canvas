@@ -2,14 +2,14 @@
 	"nodes":[
 		{"id":"02a6cda6559e7dec","x":-52,"y":-320,"width":105,"height":220,"type":"text","text":"Hallway"},
 		{"id":"3e8fe74d89c2d975","x":-88,"y":0,"width":178,"height":130,"color":"5","type":"text","text":"Entrance\n2 statues\n\nAlso dug by creature"},
-		{"id":"5324321c310301c1","x":-124,"y":-480,"width":250,"height":60,"type":"text","text":"Down?"},
 		{"id":"5f63c958b6a71f22","x":-354,"y":-300,"width":195,"height":180,"type":"text","text":"Room with Worktables\nBeakers, notes\nfound iron key\n"},
-		{"id":"08a76185e0aa14dc","x":-340,"y":-480,"width":167,"height":60,"type":"text","text":"Door"},
-		{"id":"40d56360e312e662","x":-522,"y":-645,"width":125,"height":65,"type":"text","text":"# Floor 1"},
 		{"id":"86a49fe3145ff2b1","type":"text","text":"# Floor 2","x":-522,"y":320,"width":125,"height":60},
 		{"id":"2a49d51f6f99bbb7","type":"text","text":"Tunnel Up","x":1,"y":640,"width":125,"height":60,"color":"6"},
 		{"id":"a9cd2452573eb58f","x":160,"y":-355,"width":280,"height":290,"type":"text","text":"Tall bookshelves\nBooks all over floor\n\nTable\nBooks mostly destroyed\n- Magical Wonders of Netheril\n\t- Macreadus had this\n- Mysteries of Phaerinn\n- Wizards in the Hollow"},
-		{"id":"3c285da1345089c5","x":210,"y":35,"width":180,"height":95,"color":"6","type":"text","text":"Tunnel Down\nDug by creature"}
+		{"id":"3c285da1345089c5","x":210,"y":35,"width":180,"height":95,"color":"6","type":"text","text":"Tunnel Down\nDug by creature"},
+		{"id":"40d56360e312e662","x":-540,"y":-677,"width":125,"height":65,"type":"text","text":"# Floor 1"},
+		{"id":"08a76185e0aa14dc","x":-375,"y":-612,"width":238,"height":193,"type":"text","text":"Spilled cabinets, broken glass\nLocked chest on roof"},
+		{"id":"5324321c310301c1","x":-51,"y":-449,"width":104,"height":60,"type":"text","text":"Down?"}
 	],
 	"edges":[
 		{"id":"780f1879fc3bb954","fromNode":"3e8fe74d89c2d975","fromSide":"top","toNode":"02a6cda6559e7dec","toSide":"bottom","label":"Door"},
