@@ -22,7 +22,7 @@
 		{"id":"d562a2cae8c21a9f","type":"text","text":"Serpent creature","x":456,"y":2320,"width":250,"height":60,"color":"1"},
 		{"id":"63cb64f122f0098f","type":"text","text":"Stone altar 9 feet above floor\n8 pointed star carved into altar\nHoly symbol of mystryl\n\nStopped flask of blue liquid created and falls, but caught by nasir\n\n","x":-20,"y":2070,"width":250,"height":280},
 		{"id":"f9e0c7e19940dcb0","type":"text","text":"","x":620,"y":1478,"width":250,"height":380},
-		{"id":"9bf084358b65287c","type":"text","text":"Voice\nDazaan's Simulacrum\n\nQuintas, undead, white hair\n\nTable, chairs, whirring amulet on chain\nStacks of books\n\nSimulacrum want's to be real \n","x":-270,"y":1478,"width":250,"height":380},
+		{"id":"9bf084358b65287c","type":"text","text":"Voice\nDazaan's Simulacrum\n\nQuintas, undead, white hair\n\nTable, chairs, whirring amulet on chain\nStacks of books\n\nSimulacrum wants to be real \n","x":-270,"y":1478,"width":250,"height":380},
 		{"id":"cd19a3108adc7762","type":"file","file":"Assets/Items/Amulet.png","x":-698,"y":1600,"width":307,"height":400},
 		{"id":"d1a2556f6e2a4e87","type":"file","file":"Assets/Characters/NPCs/Dazaan.png","x":-338,"y":1920,"width":244,"height":400},
 		{"id":"04d4468f4f62e6bf","x":456,"y":2620,"width":250,"height":60,"type":"text","text":"illusion permanent-maker thingy"}
