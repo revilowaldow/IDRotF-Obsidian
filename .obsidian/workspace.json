@@ -54,9 +54,26 @@
               "icon": "lucide-file",
               "title": "12 11 - Session 33"
             }
+          },
+          {
+            "id": "e3d49cdbe8bcd663",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Session Notes/2025/Lost Spire.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Lost Spire"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,10 +234,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "d4c7f937b03c680a",
+  "active": "273a905a8662a4d1",
   "lastOpenFiles": [
-    "Session Notes/2025/11 26 - Session 32.md",
     "Session Notes/2025/12 11 - Session 33.md",
+    "Session Notes/2025/Lost Spire.canvas",
+    "Session Notes/2025/11 26 - Session 32.md",
     "Session Notes/2025/10 25 - Session 31.md",
     "Session Notes/2025/08 28 - Session 28.md",
     "Session Notes/2024/05 23 - Session 11.md",
@@ -260,7 +278,6 @@
     "NPCs/Northbrook Family/Olwen Northbrook.md",
     "NPCs/Northbrook Family/Talvi NorthBrook.md",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
-    "NPCs/Northbrook Family/Boreas Northbrook.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20250731.json"
   ]
 }
