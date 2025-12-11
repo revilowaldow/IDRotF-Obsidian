@@ -9,15 +9,18 @@
 		{"id":"a9cd2452573eb58f","type":"text","text":"Tall bookshelves\nBooks all over floor\n\nTable\nBooks mostly destroyed\n- Magical Wonders of Netheril\n\t- Macreadus had this\n\t- Collection of interviews with archmages, ancient elven magic, creation of mythylars, summer star sketches\n- Mysteries of Phaerinn\n\t- Telepathic monsters, malevolent intellect from underdark, sketches, monstrosities\n- Wizards in the Hollow\n\t- Birth of Netherese empire, follows three wizards, boring","x":162,"y":-403,"width":460,"height":387},
 		{"id":"3c285da1345089c5","type":"text","text":"Tunnel Down\nDug by creature, through rock\nAttached rope to sconce","x":501,"y":210,"width":239,"height":110,"color":"6"},
 		{"id":"86a49fe3145ff2b1","type":"text","text":"# Floor 2","x":-590,"y":265,"width":125,"height":60},
-		{"id":"3225b520def140de","type":"text","text":"Noises from below\nTwo damaged metal cages\nOne dead creature\nInsectoid humanoid\n\nMight have been a lab\n\nCircular/curved wall to east\n20x30 ft\n\nPing of magic to south west (Dubious illusion school)","x":91,"y":475,"width":410,"height":545},
+		{"id":"3225b520def140de","type":"text","text":"Noises from below\nTwo damaged metal cages\nOne dead creature\nInsectoid humanoid\n\nMight have been a lab\n\nCircular/curved wall to east\n20x30 ft\n\nPing of magic to south west (Dubious illusion school)","x":91,"y":475,"width":410,"height":485},
 		{"id":"16d357011560bf6b","type":"text","text":"# Floor 3","x":-545,"y":1440,"width":125,"height":60},
 		{"id":"f293378411f9f54c","x":-374,"y":515,"width":339,"height":405,"type":"text","text":"Upside down table\nBooks scattered\nUpsid down fireplace\n\nCurved wall to west\n\nThis room has previously been searched through\n\n- Adjemars guide to The Fantastic\n\t- Lighthearted treatise on illusion magic, school textbook\n- The unfettered mind\n\t- Crazy text, discussed how one might exist as a disembodied brain, lots of sketches of brains in jars\n"},
 		{"id":"c5b3af294fcf9bee","x":-338,"y":1000,"width":250,"height":160,"type":"text","text":"Ping of magic to south west (Dubious illusion school)\n\nShattered Desk and Chairs\nRoom covered by a Silence spell"},
-		{"id":"5e6ab80fb83f824c","x":580,"y":720,"width":160,"height":55,"color":"#6e582b","type":"text","text":"Windows to earth"},
 		{"id":"48a5841d403e8a69","type":"text","text":"Windows to earth","x":-590,"y":690,"width":160,"height":55,"color":"#6e582b"},
 		{"id":"b1f2a976d20eec1c","x":171,"y":1240,"width":250,"height":60,"color":"6","type":"text","text":""},
 		{"id":"58d7534144c98ba7","x":-395,"y":226,"width":382,"height":205,"type":"text","text":"Collapsed Straight Staircase Up\n\nBuried skeleton in apprentice robes, small brass key\nSealed scroll tube, chardylyn, spell scroll of invisibility, stamped on gold foil"},
-		{"id":"06ecef7700dd5d6f","x":80,"y":226,"width":195,"height":126,"type":"text","text":"Spiral Staircase, leading down, blocked by rubble, impassable\nNot connected up"}
+		{"id":"06ecef7700dd5d6f","x":80,"y":226,"width":195,"height":126,"type":"text","text":"Spiral Staircase, leading down, blocked by rubble, impassable\nNot connected up"},
+		{"id":"5e6ab80fb83f824c","x":541,"y":690,"width":160,"height":55,"color":"#6e582b","type":"text","text":"Windows to earth"},
+		{"id":"7b5e1d3bbcf34e9a","x":106,"y":1500,"width":381,"height":380,"type":"text","text":"Wizards Lab\nUpside down storage cupboard, bookshelves\nBroken lab equipment\narcane symbols painted on ceiling"},
+		{"id":"d562a2cae8c21a9f","x":171,"y":2320,"width":250,"height":60,"type":"text","text":""},
+		{"id":"63cb64f122f0098f","x":-160,"y":1940,"width":250,"height":60,"type":"text","text":"Wall collapse"}
 	],
 	"edges":[
 		{"id":"780f1879fc3bb954","fromNode":"3e8fe74d89c2d975","fromSide":"top","toNode":"02a6cda6559e7dec","toSide":"bottom","label":"Door"},
@@ -34,6 +37,9 @@
 		{"id":"47e7e2f5158ab70c","fromNode":"f293378411f9f54c","fromSide":"left","toNode":"48a5841d403e8a69","toSide":"right"},
 		{"id":"9270044a5d8cd764","fromNode":"f293378411f9f54c","fromSide":"bottom","toNode":"c5b3af294fcf9bee","toSide":"top","label":"Door"},
 		{"id":"3b294e6255a27063","fromNode":"f293378411f9f54c","fromSide":"top","toNode":"58d7534144c98ba7","toSide":"bottom","label":"Door"},
-		{"id":"cccaff6e0e9ae189","fromNode":"5324321c310301c1","fromSide":"left","toNode":"58d7534144c98ba7","toSide":"top","color":"1"}
+		{"id":"cccaff6e0e9ae189","fromNode":"5324321c310301c1","fromSide":"left","toNode":"58d7534144c98ba7","toSide":"top","color":"1"},
+		{"id":"d754335ef03172f5","fromNode":"b1f2a976d20eec1c","fromSide":"bottom","toNode":"7b5e1d3bbcf34e9a","toSide":"top"},
+		{"id":"c2a59d27a3a620bf","fromNode":"7b5e1d3bbcf34e9a","fromSide":"bottom","toNode":"d562a2cae8c21a9f","toSide":"top","color":"6","label":"Tunnel Down"},
+		{"id":"6d26b33e1e1552bd","fromNode":"7b5e1d3bbcf34e9a","fromSide":"bottom","toNode":"63cb64f122f0098f","toSide":"right"}
 	]
 }
