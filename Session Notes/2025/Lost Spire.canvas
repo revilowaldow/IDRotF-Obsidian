@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"02a6cda6559e7dec","x":-52,"y":-320,"width":105,"height":220,"type":"text","text":"Hallway"},
-		{"id":"3e8fe74d89c2d975","x":-88,"y":0,"width":178,"height":130,"color":"5","type":"text","text":"Entrance\n2 statues\n\nAlso dug by creature"},
-		{"id":"5f63c958b6a71f22","x":-354,"y":-300,"width":195,"height":180,"type":"text","text":"Room with Worktables\nBeakers, notes\nfound iron key\n"},
+		{"id":"02a6cda6559e7dec","type":"text","text":"Hallway","x":-52,"y":-320,"width":105,"height":220},
+		{"id":"3e8fe74d89c2d975","type":"text","text":"Entrance\n2 statues\n\nAlso dug by creature","x":-88,"y":0,"width":178,"height":130,"color":"5"},
+		{"id":"5f63c958b6a71f22","type":"text","text":"Room with Worktables\nBeakers, notes\nfound iron key\n","x":-354,"y":-300,"width":195,"height":180},
 		{"id":"86a49fe3145ff2b1","type":"text","text":"# Floor 2","x":-522,"y":320,"width":125,"height":60},
-		{"id":"a9cd2452573eb58f","x":160,"y":-355,"width":280,"height":290,"type":"text","text":"Tall bookshelves\nBooks all over floor\n\nTable\nBooks mostly destroyed\n- Magical Wonders of Netheril\n\t- Macreadus had this\n\t- Collection of interviews with archmages, ancient elven magic, creataion of mythylars, summer star sketchs\n- Mysteries of Phaerinn\n- Wizards in the Hollow"},
-		{"id":"3c285da1345089c5","x":210,"y":35,"width":180,"height":95,"color":"6","type":"text","text":"Tunnel Down\nDug by creature"},
-		{"id":"40d56360e312e662","x":-540,"y":-677,"width":125,"height":65,"type":"text","text":"# Floor 1"},
-		{"id":"5324321c310301c1","x":-51,"y":-449,"width":104,"height":60,"type":"text","text":"Down?"},
-		{"id":"08a76185e0aa14dc","x":-375,"y":-677,"width":235,"height":281,"type":"text","text":"Spilled cabinets, broken glass\nLocked chest on roof\nLiquid (potions), frozen on floor in puddle\n\n4 Potions of Resistance\n- Yellow/lime - acid\n- Pale Blue/White - cold\n- Crimson/Orange - fire\n- Purple - force"},
-		{"id":"2a49d51f6f99bbb7","type":"text","text":"Tunnel Up","x":238,"y":540,"width":125,"height":60,"color":"6"}
+		{"id":"40d56360e312e662","type":"text","text":"# Floor 1","x":-540,"y":-677,"width":125,"height":65},
+		{"id":"5324321c310301c1","type":"text","text":"Down?","x":-51,"y":-449,"width":104,"height":60},
+		{"id":"08a76185e0aa14dc","type":"text","text":"Spilled cabinets, broken glass\nLocked chest on roof\nLiquid (potions), frozen on floor in puddle\n\n4 Potions of Resistance\n- Yellow/lime - acid\n- Pale Blue/White - cold\n- Crimson/Orange - fire\n- Purple - force","x":-375,"y":-677,"width":235,"height":281},
+		{"id":"a9cd2452573eb58f","type":"text","text":"Tall bookshelves\nBooks all over floor\n\nTable\nBooks mostly destroyed\n- Magical Wonders of Netheril\n\t- Macreadus had this\n\t- Collection of interviews with archmages, ancient elven magic, creation of mythylars, summer star sketches\n- Mysteries of Phaerinn\n\t- Telepathic monsters, malevolent intellect from underdark, sketches, monstrosities\n- Wizards in the Hollow\n\t- Birth of Netherese empire, follows three wizards, boring","x":161,"y":-387,"width":460,"height":387},
+		{"id":"3225b520def140de","type":"text","text":"","x":267,"y":580,"width":250,"height":260},
+		{"id":"3c285da1345089c5","type":"text","text":"Tunnel Down\nDug by creature, through rock\nAttached rope to sconce","x":272,"y":240,"width":239,"height":110,"color":"6"}
 	],
 	"edges":[
 		{"id":"780f1879fc3bb954","fromNode":"3e8fe74d89c2d975","fromSide":"top","toNode":"02a6cda6559e7dec","toSide":"bottom","label":"Door"},
@@ -17,6 +17,7 @@
 		{"id":"9f0e278b8abe4064","fromNode":"02a6cda6559e7dec","fromSide":"right","toNode":"a9cd2452573eb58f","toSide":"left","label":"Door"},
 		{"id":"80bebf12c7306240","fromNode":"02a6cda6559e7dec","fromSide":"top","toNode":"5324321c310301c1","toSide":"bottom","label":"Collapsed Stairs"},
 		{"id":"9bc3dcaa0b1deb81","fromNode":"5f63c958b6a71f22","fromSide":"top","toNode":"08a76185e0aa14dc","toSide":"bottom","label":"Door"},
-		{"id":"f73fcc4e5258eb1d","fromNode":"a9cd2452573eb58f","fromSide":"bottom","toNode":"3c285da1345089c5","toSide":"top","label":"Tunnel Down"}
+		{"id":"f73fcc4e5258eb1d","fromNode":"a9cd2452573eb58f","fromSide":"bottom","toNode":"3c285da1345089c5","toSide":"top","color":"6","label":"Tunnel Down"},
+		{"id":"6a6deb19d64f894f","fromNode":"3c285da1345089c5","fromSide":"bottom","toNode":"3225b520def140de","toSide":"top","color":"6","label":"Tunnel\n15-20ft"}
 	]
 }
