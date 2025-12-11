@@ -28,7 +28,8 @@
 		{"id":"b68ee66d49921e28","x":83,"y":2720,"width":250,"height":140,"type":"text","text":"Corridor"},
 		{"id":"4b0299a85e9118d2","type":"text","text":"Rune Chamber\nIllusion permanent-maker thingy","x":83,"y":2420,"width":250,"height":240},
 		{"id":"1f4d4419bf967973","x":83,"y":2940,"width":250,"height":60,"type":"text","text":"Bedroom"},
-		{"id":"d562a2cae8c21a9f","type":"text","text":"Serpent creature, refectory\n\nRusty tableware, scatted plates\n","x":520,"y":2680,"width":250,"height":220,"color":"1"}
+		{"id":"d562a2cae8c21a9f","type":"text","text":"Serpent creature, refectory\n\nRusty tableware, scatted plates\n","x":520,"y":2680,"width":250,"height":220,"color":"1"},
+		{"id":"d174dca79ab0a3ee","x":445,"y":2940,"width":400,"height":334,"type":"file","file":"Pasted image 20251211224355.png"}
 	],
 	"edges":[
 		{"id":"780f1879fc3bb954","fromNode":"3e8fe74d89c2d975","fromSide":"top","toNode":"02a6cda6559e7dec","toSide":"bottom","label":"Door"},
