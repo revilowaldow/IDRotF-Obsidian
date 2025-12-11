@@ -27,10 +27,11 @@
 		{"id":"526d23192871a60d","type":"text","text":"# Floor 4","x":-341,"y":2460,"width":125,"height":60},
 		{"id":"b68ee66d49921e28","x":83,"y":2720,"width":250,"height":140,"type":"text","text":"Corridor"},
 		{"id":"4b0299a85e9118d2","type":"text","text":"Rune Chamber\nIllusion permanent-maker thingy","x":83,"y":2420,"width":250,"height":240},
-		{"id":"1f4d4419bf967973","x":83,"y":2940,"width":250,"height":60,"type":"text","text":"Bedroom"},
 		{"id":"d562a2cae8c21a9f","type":"text","text":"Serpent creature, refectory\n\nRusty tableware, scatted plates\n","x":520,"y":2680,"width":250,"height":220,"color":"1"},
-		{"id":"d174dca79ab0a3ee","x":445,"y":2940,"width":400,"height":334,"type":"file","file":"Pasted image 20251211224355.png"},
-		{"id":"67e1892db8786787","x":820,"y":2552,"width":400,"height":348,"type":"file","file":"Pasted image 20251211225207.png"}
+		{"id":"67e1892db8786787","x":820,"y":2552,"width":400,"height":348,"type":"file","file":"Pasted image 20251211225207.png"},
+		{"id":"1f4d4419bf967973","x":83,"y":2940,"width":250,"height":167,"type":"text","text":"Bedroom"},
+		{"id":"d174dca79ab0a3ee","x":520,"y":2940,"width":400,"height":334,"type":"file","file":"Pasted image 20251211224355.png"},
+		{"id":"e0ffb1589b117d87","x":360,"y":2940,"width":120,"height":84,"type":"text","text":"Blocked Spiral Staircase"}
 	],
 	"edges":[
 		{"id":"780f1879fc3bb954","fromNode":"3e8fe74d89c2d975","fromSide":"top","toNode":"02a6cda6559e7dec","toSide":"bottom","label":"Door"},
@@ -55,6 +56,7 @@
 		{"id":"89213202ff374893","fromNode":"7b5e1d3bbcf34e9a","fromSide":"right","toNode":"f9e0c7e19940dcb0","toSide":"left","label":"Door"},
 		{"id":"16d1ecc01c1bcd0a","fromNode":"d562a2cae8c21a9f","fromSide":"left","toNode":"b68ee66d49921e28","toSide":"right"},
 		{"id":"81df550ecdd07e82","fromNode":"b68ee66d49921e28","fromSide":"bottom","toNode":"1f4d4419bf967973","toSide":"top"},
-		{"id":"939788ca5c34ea8f","fromNode":"b68ee66d49921e28","fromSide":"top","toNode":"4b0299a85e9118d2","toSide":"bottom"}
+		{"id":"939788ca5c34ea8f","fromNode":"b68ee66d49921e28","fromSide":"top","toNode":"4b0299a85e9118d2","toSide":"bottom"},
+		{"id":"7832f0541e338296","fromNode":"d562a2cae8c21a9f","fromSide":"left","toNode":"e0ffb1589b117d87","toSide":"top"}
 	]
 }
