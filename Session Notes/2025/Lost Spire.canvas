@@ -8,7 +8,7 @@
 		{"id":"a9cd2452573eb58f","x":160,"y":-355,"width":280,"height":290,"type":"text","text":"Tall bookshelves\nBooks all over floor\n\nTable\nBooks mostly destroyed\n- Magical Wonders of Netheril\n\t- Macreadus had this\n- Mysteries of Phaerinn\n- Wizards in the Hollow"},
 		{"id":"3c285da1345089c5","x":210,"y":35,"width":180,"height":95,"color":"6","type":"text","text":"Tunnel Down\nDug by creature"},
 		{"id":"40d56360e312e662","x":-540,"y":-677,"width":125,"height":65,"type":"text","text":"# Floor 1"},
-		{"id":"08a76185e0aa14dc","x":-375,"y":-612,"width":238,"height":193,"type":"text","text":"Spilled cabinets, broken glass\nLocked chest on roof\nLiquid (potions), frozen on floor in puddle\n\n"},
+		{"id":"08a76185e0aa14dc","x":-375,"y":-612,"width":238,"height":193,"type":"text","text":"Spilled cabinets, broken glass\nLocked chest on roof\nLiquid (potions), frozen on floor in puddle\n\n4 glass vials, different colours"},
 		{"id":"5324321c310301c1","x":-51,"y":-449,"width":104,"height":60,"type":"text","text":"Down?"}
 	],
 	"edges":[
