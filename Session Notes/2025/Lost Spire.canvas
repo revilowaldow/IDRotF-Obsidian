@@ -19,13 +19,14 @@
 		{"id":"5e6ab80fb83f824c","type":"text","text":"Windows to earth","x":541,"y":690,"width":160,"height":55,"color":"#6e582b"},
 		{"id":"b1f2a976d20eec1c","type":"text","text":"15-20ft","x":433,"y":1160,"width":108,"height":60,"color":"6"},
 		{"id":"7b5e1d3bbcf34e9a","type":"text","text":"Wizards Lab\nUpside down storage cupboard, bookshelves\nBroken lab equipment\narcane symbols painted on ceiling","x":136,"y":1478,"width":320,"height":380},
-		{"id":"d562a2cae8c21a9f","type":"text","text":"Serpent creature","x":456,"y":2320,"width":250,"height":60,"color":"1"},
 		{"id":"63cb64f122f0098f","type":"text","text":"Stone altar 9 feet above floor\n8 pointed star carved into altar\nHoly symbol of mystryl\n\nStopped flask of blue liquid created and falls, but caught by nasir\n\n","x":-20,"y":2070,"width":250,"height":280},
 		{"id":"f9e0c7e19940dcb0","type":"text","text":"","x":620,"y":1478,"width":250,"height":380},
 		{"id":"9bf084358b65287c","type":"text","text":"Voice\nDazaan's Simulacrum\n\nQuintas, undead, white hair\n\nTable, chairs, whirring amulet on chain\nStacks of books\n\nSimulacrum wants to be real \n","x":-270,"y":1478,"width":250,"height":380},
 		{"id":"cd19a3108adc7762","type":"file","file":"Assets/Items/Amulet.png","x":-698,"y":1600,"width":307,"height":400},
 		{"id":"d1a2556f6e2a4e87","type":"file","file":"Assets/Characters/NPCs/Dazaan.png","x":-338,"y":1920,"width":244,"height":400},
-		{"id":"04d4468f4f62e6bf","x":456,"y":2620,"width":250,"height":60,"type":"text","text":"illusion permanent-maker thingy"}
+		{"id":"526d23192871a60d","type":"text","text":"# Floor 4","x":-341,"y":2460,"width":125,"height":60},
+		{"id":"d562a2cae8c21a9f","type":"text","text":"Serpent creature, refectory","x":520,"y":2620,"width":250,"height":220,"color":"1"},
+		{"id":"04d4468f4f62e6bf","x":520,"y":2940,"width":250,"height":180,"type":"text","text":"illusion permanent-maker thingy"}
 	],
 	"edges":[
 		{"id":"780f1879fc3bb954","fromNode":"3e8fe74d89c2d975","fromSide":"top","toNode":"02a6cda6559e7dec","toSide":"bottom","label":"Door"},
@@ -44,7 +45,7 @@
 		{"id":"3b294e6255a27063","fromNode":"f293378411f9f54c","fromSide":"top","toNode":"58d7534144c98ba7","toSide":"bottom","label":"Door"},
 		{"id":"cccaff6e0e9ae189","fromNode":"5324321c310301c1","fromSide":"left","toNode":"58d7534144c98ba7","toSide":"top","color":"1"},
 		{"id":"d754335ef03172f5","fromNode":"b1f2a976d20eec1c","fromSide":"bottom","toNode":"7b5e1d3bbcf34e9a","toSide":"top","color":"6","label":"Tunnel Up"},
-		{"id":"c2a59d27a3a620bf","fromNode":"7b5e1d3bbcf34e9a","fromSide":"bottom","toNode":"d562a2cae8c21a9f","toSide":"top","color":"6","label":"Tunnel Down\nCovered by wooden board, weighed down by desk"},
+		{"id":"c2a59d27a3a620bf","fromNode":"7b5e1d3bbcf34e9a","fromSide":"bottom","toNode":"d562a2cae8c21a9f","toSide":"top","color":"6","label":"Tunnel Down\nCovered by wooden board, weighed down by desk\n15-20ft"},
 		{"id":"6d26b33e1e1552bd","fromNode":"7b5e1d3bbcf34e9a","fromSide":"bottom","toNode":"63cb64f122f0098f","toSide":"top","label":"Wall collapse"},
 		{"id":"d3dd08828d9cbf94","fromNode":"7b5e1d3bbcf34e9a","fromSide":"left","toNode":"9bf084358b65287c","toSide":"right","label":"Door"},
 		{"id":"89213202ff374893","fromNode":"7b5e1d3bbcf34e9a","fromSide":"right","toNode":"f9e0c7e19940dcb0","toSide":"left","label":"Door"},
