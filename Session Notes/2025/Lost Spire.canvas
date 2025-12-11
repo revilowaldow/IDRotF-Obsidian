@@ -22,8 +22,9 @@
 		{"id":"d562a2cae8c21a9f","x":456,"y":2320,"width":250,"height":60,"color":"1","type":"text","text":"Serpent creature"},
 		{"id":"63cb64f122f0098f","x":-20,"y":2070,"width":250,"height":280,"type":"text","text":"Stone altar 9 feet above floor\n8 pointed star carved into altar\nHoly symbol of mystryl\n\nStopped flask of blue liquid created and falls, but caught by nasir\n\n"},
 		{"id":"f9e0c7e19940dcb0","x":620,"y":1478,"width":250,"height":380,"type":"text","text":""},
-		{"id":"9bf084358b65287c","x":-270,"y":1478,"width":250,"height":380,"type":"text","text":"Voice\nDazaan's Simulacrum\n\nQuintas, undead, white hair\n\n"},
-		{"id":"6563dfd53b56566a","x":-420,"y":1928,"width":250,"height":392,"type":"text","text":"[[Dazaan]]\n\n![[Pasted image 20251211214923.png]]"}
+		{"id":"9bf084358b65287c","x":-270,"y":1478,"width":250,"height":380,"type":"text","text":"Voice\nDazaan's Simulacrum\n\nQuintas, undead, white hair\n\nTable, chairs, whirring amulet on chain\nStacks of books\n"},
+		{"id":"cd19a3108adc7762","x":-698,"y":1600,"width":307,"height":400,"type":"file","file":"Assets/Items/Amulet.png"},
+		{"id":"d1a2556f6e2a4e87","x":-338,"y":1920,"width":244,"height":400,"type":"file","file":"Assets/Characters/NPCs/Dazaan.png"}
 	],
 	"edges":[
 		{"id":"780f1879fc3bb954","fromNode":"3e8fe74d89c2d975","fromSide":"top","toNode":"02a6cda6559e7dec","toSide":"bottom","label":"Door"},
