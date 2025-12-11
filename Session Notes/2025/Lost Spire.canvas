@@ -7,9 +7,13 @@
 		{"id":"40d56360e312e662","type":"text","text":"# Floor 1","x":-540,"y":-677,"width":125,"height":65},
 		{"id":"5324321c310301c1","type":"text","text":"Down?","x":-51,"y":-449,"width":104,"height":60},
 		{"id":"08a76185e0aa14dc","type":"text","text":"Spilled cabinets, broken glass\nLocked chest on roof\nLiquid (potions), frozen on floor in puddle\n\n4 Potions of Resistance\n- Yellow/lime - acid\n- Pale Blue/White - cold\n- Crimson/Orange - fire\n- Purple - force","x":-375,"y":-677,"width":235,"height":281},
-		{"id":"a9cd2452573eb58f","type":"text","text":"Tall bookshelves\nBooks all over floor\n\nTable\nBooks mostly destroyed\n- Magical Wonders of Netheril\n\t- Macreadus had this\n\t- Collection of interviews with archmages, ancient elven magic, creation of mythylars, summer star sketches\n- Mysteries of Phaerinn\n\t- Telepathic monsters, malevolent intellect from underdark, sketches, monstrosities\n- Wizards in the Hollow\n\t- Birth of Netherese empire, follows three wizards, boring","x":161,"y":-387,"width":460,"height":387},
-		{"id":"3225b520def140de","type":"text","text":"","x":267,"y":580,"width":250,"height":260},
-		{"id":"3c285da1345089c5","type":"text","text":"Tunnel Down\nDug by creature, through rock\nAttached rope to sconce","x":272,"y":240,"width":239,"height":110,"color":"6"}
+		{"id":"3225b520def140de","type":"text","text":"Noises from below\nTwo damaged metal cages\nOne dead creature\nMight have been a lab","x":267,"y":580,"width":250,"height":260},
+		{"id":"3c285da1345089c5","type":"text","text":"Tunnel Down\nDug by creature, through rock\nAttached rope to sconce","x":272,"y":240,"width":239,"height":110,"color":"6"},
+		{"id":"a9cd2452573eb58f","type":"text","text":"Tall bookshelves\nBooks all over floor\n\nTable\nBooks mostly destroyed\n- Magical Wonders of Netheril\n\t- Macreadus had this\n\t- Collection of interviews with archmages, ancient elven magic, creation of mythylars, summer star sketches\n- Mysteries of Phaerinn\n\t- Telepathic monsters, malevolent intellect from underdark, sketches, monstrosities\n- Wizards in the Hollow\n\t- Birth of Netherese empire, follows three wizards, boring","x":162,"y":-403,"width":460,"height":387},
+		{"id":"5e6ab80fb83f824c","x":580,"y":655,"width":160,"height":110,"color":"#6e582b","type":"text","text":"Windows to earth"},
+		{"id":"b1f2a976d20eec1c","x":267,"y":1080,"width":250,"height":60,"type":"text","text":""},
+		{"id":"06ecef7700dd5d6f","x":-159,"y":400,"width":250,"height":60,"type":"text","text":""},
+		{"id":"f293378411f9f54c","x":-239,"y":888,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"780f1879fc3bb954","fromNode":"3e8fe74d89c2d975","fromSide":"top","toNode":"02a6cda6559e7dec","toSide":"bottom","label":"Door"},
@@ -18,6 +22,10 @@
 		{"id":"80bebf12c7306240","fromNode":"02a6cda6559e7dec","fromSide":"top","toNode":"5324321c310301c1","toSide":"bottom","label":"Collapsed Stairs"},
 		{"id":"9bc3dcaa0b1deb81","fromNode":"5f63c958b6a71f22","fromSide":"top","toNode":"08a76185e0aa14dc","toSide":"bottom","label":"Door"},
 		{"id":"f73fcc4e5258eb1d","fromNode":"a9cd2452573eb58f","fromSide":"bottom","toNode":"3c285da1345089c5","toSide":"top","color":"6","label":"Tunnel Down"},
-		{"id":"6a6deb19d64f894f","fromNode":"3c285da1345089c5","fromSide":"bottom","toNode":"3225b520def140de","toSide":"top","color":"6","label":"Tunnel\n15-20ft"}
+		{"id":"6a6deb19d64f894f","fromNode":"3c285da1345089c5","fromSide":"bottom","toNode":"3225b520def140de","toSide":"top","color":"6","label":"Tunnel\n15-20ft"},
+		{"id":"174fef6aaa20ddc7","fromNode":"3225b520def140de","fromSide":"bottom","toNode":"b1f2a976d20eec1c","toSide":"top","color":"6","label":"Tunnel down"},
+		{"id":"49624035c78223fd","fromNode":"3225b520def140de","fromSide":"right","toNode":"5e6ab80fb83f824c","toSide":"left"},
+		{"id":"fad80ee3d90a29e0","fromNode":"3225b520def140de","fromSide":"left","toNode":"06ecef7700dd5d6f","toSide":"right","label":"Door"},
+		{"id":"fec2d946db132bcb","fromNode":"3225b520def140de","fromSide":"left","toNode":"f293378411f9f54c","toSide":"right"}
 	]
 }
