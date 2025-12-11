@@ -63,9 +63,9 @@
               "state": {
                 "file": "Session Notes/2025/Lost Spire.canvas",
                 "viewState": {
-                  "x": -37.63299801178866,
-                  "y": 537.0495307677787,
-                  "zoom": -1
+                  "x": 18.23136172729656,
+                  "y": 501.7733378241645,
+                  "zoom": -0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -130,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 224.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf4a8793a17c2dc0",

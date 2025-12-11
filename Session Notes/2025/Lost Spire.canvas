@@ -3,17 +3,17 @@
 		{"id":"02a6cda6559e7dec","type":"text","text":"Hallway","x":-52,"y":-320,"width":105,"height":220},
 		{"id":"3e8fe74d89c2d975","type":"text","text":"Entrance\n2 statues\n\nAlso dug by creature","x":-88,"y":0,"width":178,"height":130,"color":"5"},
 		{"id":"5f63c958b6a71f22","type":"text","text":"Room with Worktables\nBeakers, notes\nfound iron key\n","x":-354,"y":-300,"width":195,"height":180},
-		{"id":"86a49fe3145ff2b1","type":"text","text":"# Floor 2","x":-522,"y":320,"width":125,"height":60},
 		{"id":"40d56360e312e662","type":"text","text":"# Floor 1","x":-540,"y":-677,"width":125,"height":65},
 		{"id":"5324321c310301c1","type":"text","text":"Down?","x":-51,"y":-449,"width":104,"height":60},
 		{"id":"08a76185e0aa14dc","type":"text","text":"Spilled cabinets, broken glass\nLocked chest on roof\nLiquid (potions), frozen on floor in puddle\n\n4 Potions of Resistance\n- Yellow/lime - acid\n- Pale Blue/White - cold\n- Crimson/Orange - fire\n- Purple - force","x":-375,"y":-677,"width":235,"height":281},
-		{"id":"3225b520def140de","type":"text","text":"Noises from below\nTwo damaged metal cages\nOne dead creature\nMight have been a lab","x":267,"y":580,"width":250,"height":260},
-		{"id":"3c285da1345089c5","type":"text","text":"Tunnel Down\nDug by creature, through rock\nAttached rope to sconce","x":272,"y":240,"width":239,"height":110,"color":"6"},
 		{"id":"a9cd2452573eb58f","type":"text","text":"Tall bookshelves\nBooks all over floor\n\nTable\nBooks mostly destroyed\n- Magical Wonders of Netheril\n\t- Macreadus had this\n\t- Collection of interviews with archmages, ancient elven magic, creation of mythylars, summer star sketches\n- Mysteries of Phaerinn\n\t- Telepathic monsters, malevolent intellect from underdark, sketches, monstrosities\n- Wizards in the Hollow\n\t- Birth of Netherese empire, follows three wizards, boring","x":162,"y":-403,"width":460,"height":387},
-		{"id":"5e6ab80fb83f824c","x":580,"y":655,"width":160,"height":110,"color":"#6e582b","type":"text","text":"Windows to earth"},
-		{"id":"b1f2a976d20eec1c","x":267,"y":1080,"width":250,"height":60,"type":"text","text":""},
-		{"id":"06ecef7700dd5d6f","x":-159,"y":400,"width":250,"height":60,"type":"text","text":""},
-		{"id":"f293378411f9f54c","x":-239,"y":888,"width":250,"height":60,"type":"text","text":""}
+		{"id":"3c285da1345089c5","type":"text","text":"Tunnel Down\nDug by creature, through rock\nAttached rope to sconce","x":501,"y":210,"width":239,"height":110,"color":"6"},
+		{"id":"86a49fe3145ff2b1","type":"text","text":"# Floor 2","x":-590,"y":265,"width":125,"height":60},
+		{"id":"f293378411f9f54c","x":-382,"y":475,"width":250,"height":580,"type":"text","text":""},
+		{"id":"3225b520def140de","type":"text","text":"Noises from below\nTwo damaged metal cages\nOne dead creature\nMight have been a lab\n\nCircular/curved wall to east\n20x30 ft\n\nPing of magic to south west (Dubious illusion school)","x":91,"y":475,"width":427,"height":580},
+		{"id":"5e6ab80fb83f824c","x":621,"y":738,"width":160,"height":55,"color":"#6e582b","type":"text","text":"Windows to earth"},
+		{"id":"b1f2a976d20eec1c","x":267,"y":1280,"width":250,"height":60,"color":"6","type":"text","text":""},
+		{"id":"06ecef7700dd5d6f","x":-88,"y":253,"width":250,"height":145,"type":"text","text":"Spiral Staircase, leading down, rubble, impassable"}
 	],
 	"edges":[
 		{"id":"780f1879fc3bb954","fromNode":"3e8fe74d89c2d975","fromSide":"top","toNode":"02a6cda6559e7dec","toSide":"bottom","label":"Door"},
@@ -25,7 +25,7 @@
 		{"id":"6a6deb19d64f894f","fromNode":"3c285da1345089c5","fromSide":"bottom","toNode":"3225b520def140de","toSide":"top","color":"6","label":"Tunnel\n15-20ft"},
 		{"id":"174fef6aaa20ddc7","fromNode":"3225b520def140de","fromSide":"bottom","toNode":"b1f2a976d20eec1c","toSide":"top","color":"6","label":"Tunnel down"},
 		{"id":"49624035c78223fd","fromNode":"3225b520def140de","fromSide":"right","toNode":"5e6ab80fb83f824c","toSide":"left"},
-		{"id":"fad80ee3d90a29e0","fromNode":"3225b520def140de","fromSide":"left","toNode":"06ecef7700dd5d6f","toSide":"right","label":"Door"},
-		{"id":"fec2d946db132bcb","fromNode":"3225b520def140de","fromSide":"left","toNode":"f293378411f9f54c","toSide":"right"}
+		{"id":"fad80ee3d90a29e0","fromNode":"3225b520def140de","fromSide":"top","toNode":"06ecef7700dd5d6f","toSide":"right","label":"Door"},
+		{"id":"fec2d946db132bcb","fromNode":"3225b520def140de","fromSide":"left","toNode":"f293378411f9f54c","toSide":"right","label":"Door"}
 	]
 }
