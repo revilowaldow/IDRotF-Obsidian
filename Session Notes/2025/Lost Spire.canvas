@@ -15,7 +15,7 @@
 		{"id":"06ecef7700dd5d6f","x":-124,"y":274,"width":250,"height":102,"type":"text","text":"Spiral Staircase, leading down, rubble, impassable\nNot connected up"},
 		{"id":"48a5841d403e8a69","type":"text","text":"Windows to earth","x":-625,"y":730,"width":160,"height":55,"color":"#6e582b"},
 		{"id":"f293378411f9f54c","x":-354,"y":475,"width":339,"height":485,"type":"text","text":"Upside down table\nBooks scattered\nUpsid down fireplace\n\nCurved wall to west\n\nThis room has previously been searched through\n\n- Adjemars guide to The Fantastic\n\t- Lighthearted treatise on illusion magic, school textbook\n- The unfettered mind\n\t- Crazy text, discussed how one might exist as a disembodied brain, lots of sketches of brains in jars\n"},
-		{"id":"c5b3af294fcf9bee","x":-309,"y":1040,"width":250,"height":160,"type":"text","text":"Ping of magic to south west (Dubious illusion school)"}
+		{"id":"c5b3af294fcf9bee","x":-309,"y":1040,"width":250,"height":160,"type":"text","text":"Ping of magic to south west (Dubious illusion school)\n\nShattered Desk and Chairs\nRoom covered by a Silence spell"}
 	],
 	"edges":[
 		{"id":"780f1879fc3bb954","fromNode":"3e8fe74d89c2d975","fromSide":"top","toNode":"02a6cda6559e7dec","toSide":"bottom","label":"Door"},
