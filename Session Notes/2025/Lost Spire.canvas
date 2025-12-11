@@ -16,8 +16,8 @@
 		{"id":"5e6ab80fb83f824c","x":580,"y":720,"width":160,"height":55,"color":"#6e582b","type":"text","text":"Windows to earth"},
 		{"id":"48a5841d403e8a69","type":"text","text":"Windows to earth","x":-590,"y":690,"width":160,"height":55,"color":"#6e582b"},
 		{"id":"b1f2a976d20eec1c","x":171,"y":1240,"width":250,"height":60,"color":"6","type":"text","text":""},
-		{"id":"58d7534144c98ba7","x":-159,"y":265,"width":190,"height":181,"type":"text","text":"Collapsed Straight Staircase Up\n\nBuried skeleton, small brass key\nSealed scroll tube, chardylyn"},
-		{"id":"06ecef7700dd5d6f","x":53,"y":265,"width":195,"height":126,"type":"text","text":"Spiral Staircase, leading down, rubble, impassable\nNot connected up"}
+		{"id":"58d7534144c98ba7","x":-395,"y":226,"width":382,"height":205,"type":"text","text":"Collapsed Straight Staircase Up\n\nBuried skeleton in apprentice robes, small brass key\nSealed scroll tube, chardylyn, spell scroll of invisibility, stamped on gold foil"},
+		{"id":"06ecef7700dd5d6f","x":80,"y":226,"width":195,"height":126,"type":"text","text":"Spiral Staircase, leading down, blocked by rubble, impassable\nNot connected up"}
 	],
 	"edges":[
 		{"id":"780f1879fc3bb954","fromNode":"3e8fe74d89c2d975","fromSide":"top","toNode":"02a6cda6559e7dec","toSide":"bottom","label":"Door"},
@@ -29,11 +29,11 @@
 		{"id":"6a6deb19d64f894f","fromNode":"3c285da1345089c5","fromSide":"bottom","toNode":"3225b520def140de","toSide":"top","color":"6","label":"Tunnel\n15-20ft"},
 		{"id":"174fef6aaa20ddc7","fromNode":"3225b520def140de","fromSide":"bottom","toNode":"b1f2a976d20eec1c","toSide":"top","color":"6","label":"Tunnel down"},
 		{"id":"49624035c78223fd","fromNode":"3225b520def140de","fromSide":"right","toNode":"5e6ab80fb83f824c","toSide":"left"},
-		{"id":"fad80ee3d90a29e0","fromNode":"3225b520def140de","fromSide":"top","toNode":"06ecef7700dd5d6f","toSide":"right","label":"Door"},
+		{"id":"fad80ee3d90a29e0","fromNode":"3225b520def140de","fromSide":"top","toNode":"06ecef7700dd5d6f","toSide":"bottom","label":"Door"},
 		{"id":"fec2d946db132bcb","fromNode":"3225b520def140de","fromSide":"left","toNode":"f293378411f9f54c","toSide":"right","label":"Door"},
 		{"id":"47e7e2f5158ab70c","fromNode":"f293378411f9f54c","fromSide":"left","toNode":"48a5841d403e8a69","toSide":"right"},
 		{"id":"9270044a5d8cd764","fromNode":"f293378411f9f54c","fromSide":"bottom","toNode":"c5b3af294fcf9bee","toSide":"top","label":"Door"},
-		{"id":"3b294e6255a27063","fromNode":"f293378411f9f54c","fromSide":"top","toNode":"58d7534144c98ba7","toSide":"left","label":"Door"},
+		{"id":"3b294e6255a27063","fromNode":"f293378411f9f54c","fromSide":"top","toNode":"58d7534144c98ba7","toSide":"bottom","label":"Door"},
 		{"id":"cccaff6e0e9ae189","fromNode":"5324321c310301c1","fromSide":"left","toNode":"58d7534144c98ba7","toSide":"top","color":"1"}
 	]
 }

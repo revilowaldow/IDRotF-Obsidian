@@ -63,8 +63,8 @@
               "state": {
                 "file": "Session Notes/2025/Lost Spire.canvas",
                 "viewState": {
-                  "x": -75.22328533546622,
-                  "y": 548.7407847310091,
+                  "x": -1.4091364189450815,
+                  "y": 451.90932056094886,
                   "zoom": 0.3333333333333333
                 }
               },
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2025/05 20 - Session 25.md",
+                "file": "Session Notes/2025/Lost Spire.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 05 20 - Session 25"
+              "title": "Outline of Lost Spire"
             }
           },
           {
@@ -215,6 +215,22 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "83048b104da107c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c91ac4ca8cca1e93",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
