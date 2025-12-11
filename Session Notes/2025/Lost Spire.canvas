@@ -1,11 +1,15 @@
 {
 	"nodes":[
-		{"id":"3e8fe74d89c2d975","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Entrance"},
 		{"id":"02a6cda6559e7dec","x":-52,"y":-320,"width":105,"height":220,"type":"text","text":"Hallway"},
-		{"id":"5f63c958b6a71f22","x":-375,"y":-280,"width":250,"height":140,"type":"text","text":"Room with Worktables\nBeakers, notes\n"}
+		{"id":"5f63c958b6a71f22","x":-375,"y":-280,"width":250,"height":140,"type":"text","text":"Room with Worktables\nBeakers, notes\nfound iron key\n"},
+		{"id":"a9cd2452573eb58f","x":165,"y":-239,"width":250,"height":60,"type":"text","text":""},
+		{"id":"3e8fe74d89c2d975","x":-88,"y":0,"width":178,"height":130,"type":"text","text":"Entrance\n2 statues"},
+		{"id":"5324321c310301c1","x":-124,"y":-480,"width":250,"height":60,"type":"text","text":"Broken Stairs\nWent down"}
 	],
 	"edges":[
 		{"id":"780f1879fc3bb954","fromNode":"3e8fe74d89c2d975","fromSide":"top","toNode":"02a6cda6559e7dec","toSide":"bottom"},
-		{"id":"e81ce7ba8f8488f8","fromNode":"02a6cda6559e7dec","fromSide":"left","toNode":"5f63c958b6a71f22","toSide":"right"}
+		{"id":"e81ce7ba8f8488f8","fromNode":"02a6cda6559e7dec","fromSide":"left","toNode":"5f63c958b6a71f22","toSide":"right"},
+		{"id":"9f0e278b8abe4064","fromNode":"02a6cda6559e7dec","fromSide":"right","toNode":"a9cd2452573eb58f","toSide":"left"},
+		{"id":"80bebf12c7306240","fromNode":"02a6cda6559e7dec","fromSide":"top","toNode":"5324321c310301c1","toSide":"bottom"}
 	]
 }
