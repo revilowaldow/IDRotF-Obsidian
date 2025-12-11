@@ -40,7 +40,7 @@
             }
           },
           {
-            "id": "d4c7f937b03c680a",
+            "id": "8fddced7a2e8e4ab",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -63,9 +63,9 @@
               "state": {
                 "file": "Session Notes/2025/Lost Spire.canvas",
                 "viewState": {
-                  "x": 566.4226315165156,
-                  "y": 2743.81867131608,
-                  "zoom": -0.3333333333333334
+                  "x": 91.65490424645805,
+                  "y": 1897.7072148915302,
+                  "zoom": -0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "bf4a8793a17c2dc0",
@@ -194,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/2025/Lost Spire.canvas",
+                "file": "Session Notes/2025/12 11 - Session 33.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lost Spire"
+              "title": "Outline of 12 11 - Session 33"
             }
           },
           {
@@ -251,14 +250,14 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "e3d49cdbe8bcd663",
+  "active": "8fddced7a2e8e4ab",
   "lastOpenFiles": [
+    "Session Notes/2025/Lost Spire.canvas",
+    "Session Notes/2025/12 11 - Session 33.md",
     "Pasted image 20251211225207.png",
     "Pasted image 20251211224355.png",
     "Assets/Items/Amulet.png",
     "Assets/Characters/NPCs/Dazaan.png",
-    "Session Notes/2025/Lost Spire.canvas",
-    "Session Notes/2025/12 11 - Session 33.md",
     "Session Notes/2025/11 26 - Session 32.md",
     "Session Notes/2025/10 25 - Session 31.md",
     "Session Notes/2025/08 28 - Session 28.md",
@@ -286,7 +285,6 @@
     "Session Notes/2025/10 13 - Interim Chat, Expectations.md",
     "NPCs/Mere.md",
     "Factions/Party/Tando Grittson.md",
-    "Assets/Maps/Pasted image 20250925210251.png",
     "Assets/Items",
     "Session Notes/2025/05 20 - Session 25.md",
     "Session Notes/2025/06 19 - Session 26.md",
