@@ -71,9 +71,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Lost Spire"
             }
+          },
+          {
+            "id": "9e8b36528058640a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Lost Spire.canvas",
+                "viewState": {
+                  "x": 415.2168589674078,
+                  "y": 2812.842450477909,
+                  "zoom": -0.0601877871680524
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Lost Spire"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -250,11 +267,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "273a905a8662a4d1",
+  "active": "9e8b36528058640a",
   "lastOpenFiles": [
-    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-pRrgU1pTL21fP9PJ (4).json",
-    "Session Notes/2025/Lost Spire.canvas",
     "Session Notes/2025/12 11 - Session 33.md",
+    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-pRrgU1pTL21fP9PJ (4).json",
+    "Locations/Lost Spire.canvas",
     "Pasted image 20251211225207.png",
     "Pasted image 20251211224355.png",
     "Assets/Items/Amulet.png",
