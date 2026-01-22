@@ -11,4 +11,8 @@ Diamonds and gold disappeared next day
 
 Verbeeg's in the forest
 
+[[Yselm Bloodfang]]
 
+![[Pasted image 20260122221615.png]]
+
+Running out of the woods, panicked fox in a tra
