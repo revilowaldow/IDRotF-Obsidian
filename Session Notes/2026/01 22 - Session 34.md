@@ -17,4 +17,8 @@ Verbeeg's in the forest
 
 Running out of the woods, panicked fox in a trap
 
+Freed fox and set trapper away
+
+Very large creature with very large club
+dragged cargo south
 
