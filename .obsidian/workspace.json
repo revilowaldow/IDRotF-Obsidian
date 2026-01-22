@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18a3e8fcb1c45bab",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2025/10 25 - Session 31.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "10 25 - Session 31"
-            }
-          },
-          {
             "id": "acfd3ea8ecdf598e",
             "type": "leaf",
             "pinned": true,
@@ -56,25 +40,9 @@
             }
           },
           {
-            "id": "e3d49cdbe8bcd663",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Session Notes/2025/Lost Spire.canvas",
-                "viewState": {
-                  "x": 91.65490424645805,
-                  "y": 1897.7072148915302,
-                  "zoom": -0.6666666666666667
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Lost Spire"
-            }
-          },
-          {
             "id": "9e8b36528058640a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -82,12 +50,32 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "01 22 - Session 34"
             }
+          },
+          {
+            "id": "a984471aaba827da",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Lost Spire.canvas",
+                "viewState": {
+                  "x": 496.1231996609558,
+                  "y": 2654.877686507898,
+                  "zoom": -0.0601877871680524
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Lost Spire"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -264,19 +252,19 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "9e8b36528058640a",
+  "active": "a984471aaba827da",
   "lastOpenFiles": [
-    "Locations/Lost Spire.canvas",
     "Session Notes/2026/01 22 - Session 34.md",
-    "Session Notes/2026",
     "Session Notes/2025/12 11 - Session 33.md",
+    "Session Notes/2025/11 26 - Session 32.md",
+    "Session Notes/2025/10 25 - Session 31.md",
+    "Locations/Lost Spire.canvas",
+    "Session Notes/2026",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-pRrgU1pTL21fP9PJ (4).json",
     "Pasted image 20251211225207.png",
     "Pasted image 20251211224355.png",
     "Assets/Items/Amulet.png",
     "Assets/Characters/NPCs/Dazaan.png",
-    "Session Notes/2025/11 26 - Session 32.md",
-    "Session Notes/2025/10 25 - Session 31.md",
     "Session Notes/2025/08 28 - Session 28.md",
     "Session Notes/2024/05 23 - Session 11.md",
     "Session Notes/2025/09 25 - Session 29.md",
