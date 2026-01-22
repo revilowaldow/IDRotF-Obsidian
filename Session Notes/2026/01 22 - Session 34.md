@@ -9,4 +9,6 @@ Drank beer showed Nymetra two huge diamonds
 
 Diamonds and gold disappeared next day
 
+Verbeeg's in the forest
+
 
