@@ -31,7 +31,7 @@
 		{"id":"e0ffb1589b117d87","type":"text","text":"Blocked Spiral Staircase","x":360,"y":2940,"width":120,"height":84},
 		{"id":"1f4d4419bf967973","type":"text","text":"Bedroom","x":-80,"y":3107,"width":250,"height":167},
 		{"id":"b68ee66d49921e28","type":"text","text":"Corridor","x":-60,"y":2870,"width":250,"height":140},
-		{"id":"4b0299a85e9118d2","type":"text","text":"Rune Chamber\n\nCracks, covered with runes\nclear crystal disc\nupside down illusory figure speaking the language of lorys\n\n","x":-161,"y":2432,"width":453,"height":368}
+		{"id":"4b0299a85e9118d2","type":"text","text":"Rune Chamber\n\nCracks, covered with runes\nclear crystal disc\nupside down illusory figure speaking the language of lorys\n\n\"Place the illusion atop the crystal disc to make it real\"\n\n\nNo magical items, no animated items construct or undead\n","x":-161,"y":2432,"width":453,"height":368}
 	],
 	"edges":[
 		{"id":"780f1879fc3bb954","fromNode":"3e8fe74d89c2d975","fromSide":"top","toNode":"02a6cda6559e7dec","toSide":"bottom","label":"Door"},
