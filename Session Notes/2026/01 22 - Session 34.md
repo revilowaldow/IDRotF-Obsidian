@@ -15,4 +15,6 @@ Verbeeg's in the forest
 
 ![[Pasted image 20260122221615.png]]
 
-Running out of the woods, panicked fox in a tra
+Running out of the woods, panicked fox in a trap
+
+
