@@ -85,9 +85,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "Lost Spire"
             }
+          },
+          {
+            "id": "d16c92291b85d38c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -264,7 +276,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "a984471aaba827da",
+  "active": "d16c92291b85d38c",
   "lastOpenFiles": [
     "Pasted image 20251211224355.png",
     "Pasted image 20251211225207.png",
