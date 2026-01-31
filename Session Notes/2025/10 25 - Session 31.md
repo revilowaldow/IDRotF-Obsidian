@@ -8,7 +8,7 @@ Bryn Shander bulletin
 - [ ] Leaderless Good Mead plagued by Verbeeg threat
 - [ ] Wonder kin tiefling girl gives hope to Caer Dinneval refugees
 - [ ] Duergar prisoners questioned and sent to Revels End
-- [ ] Nearth Maxilinaar on trial - are the Zentarim Ten-Towns next disaster?
+- [ ] Nearth Maxilinaar on trial - are the Zhentarim Ten-Towns next disaster?
 - [ ] Karkolohk sends message of truce to Bryn Shaders Duvessa Shane - has the weather made the Goblins desperate? Can they be trusted?
 
 

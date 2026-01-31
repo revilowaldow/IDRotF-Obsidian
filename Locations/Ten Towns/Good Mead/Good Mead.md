@@ -38,5 +38,5 @@ terrorising the town
 
 Options for new town speaker:
 [[Olivessar]]
-[[Shander]] - Potentially Zentarim
+[[Shander]] - Potentially Zhentarim
 

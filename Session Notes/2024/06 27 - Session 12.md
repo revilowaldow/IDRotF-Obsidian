@@ -3,7 +3,7 @@ skath:
 heavy crossbow
 longsword
 shortsword
-zent brooch
+zhentarim brooch
 splint armor
 100gp
 
