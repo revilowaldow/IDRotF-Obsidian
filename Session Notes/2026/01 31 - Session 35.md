@@ -44,3 +44,6 @@ Grant me the means to fight with honour and pride
 
 
 Golden emblem of shield with flaming sword
+
+Reghed tribe member Devesk
+
