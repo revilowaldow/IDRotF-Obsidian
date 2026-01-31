@@ -421,8 +421,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -545,7 +544,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "acfd3ea8ecdf598e",
+  "active": "273a905a8662a4d1",
   "lastOpenFiles": [
     "Session Notes/2026/01 31 - Session 35.md",
     "Locations/Ten Towns/Good Mead/Good Mead.md",
