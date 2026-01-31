@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"d0f59669447514ba","x":-128,"y":27,"width":250,"height":60,"type":"text","text":"Entrance of three caves"},
+		{"id":"534d7e0acde51c8c","x":-80,"y":-214,"width":155,"height":60,"type":"text","text":"Entrance 2\nblocked by 2 fallen logs"},
+		{"id":"4c7be3083346975a","x":-273,"y":-214,"width":145,"height":60,"type":"text","text":"Entrance 1\nFrozen creek"},
+		{"id":"bc88864646899cdb","x":160,"y":-247,"width":165,"height":126,"type":"text","text":"Entrance 3\nLight emnating and footprints heading inside"}
+	],
+	"edges":[
+		{"id":"ea2d2f0a366c314e","fromNode":"d0f59669447514ba","fromSide":"top","toNode":"4c7be3083346975a","toSide":"bottom"},
+		{"id":"31c4bc821653f3e0","fromNode":"d0f59669447514ba","fromSide":"top","toNode":"534d7e0acde51c8c","toSide":"bottom"},
+		{"id":"73a0dd9047ab0b6e","fromNode":"d0f59669447514ba","fromSide":"top","toNode":"bc88864646899cdb","toSide":"bottom"}
+	]
+}
