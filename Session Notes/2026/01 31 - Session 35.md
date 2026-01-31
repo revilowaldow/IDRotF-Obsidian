@@ -51,3 +51,8 @@ Olivessa
 
 Hamylen town speaker
 
+
+Tribe of elk
+tiger
+bear
+wolf
