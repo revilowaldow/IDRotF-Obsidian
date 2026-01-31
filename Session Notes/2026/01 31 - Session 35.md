@@ -12,8 +12,7 @@ Elderly halfling scribe
 Half Orc Guard
 Elf 
 
-
-Calavor Norick, Pale Skin, greasy black hair
+Councillor [[Calevor Norrick]] , Pale Skin, greasy black hair
 
 Duvessa Shane
 
