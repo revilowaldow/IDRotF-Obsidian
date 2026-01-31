@@ -27,5 +27,7 @@ Warned not to vote for shander, because he is a zhentarim
 
 
 
+Cloud hasn't drunk since the trial
 
+Me friend
 
