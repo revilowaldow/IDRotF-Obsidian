@@ -33,3 +33,6 @@ Me friend
 
 ![[Pasted image 20260131132713.png]]
 
+Not friend.
+
+Ogre gets it's face bashed in
