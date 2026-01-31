@@ -32,7 +32,7 @@ Rinaldo wants to conduct a seance
 	Attempt to call the white lady
 
 
-Prudence from Targos
+[[Prudence]] from Targos
 Aisen from Targos
 Parents killed by giraffes in Luskan
 
