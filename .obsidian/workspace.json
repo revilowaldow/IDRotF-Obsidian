@@ -164,12 +164,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ten Towns/Good Mead/Good Mead.md",
+                "file": "Session Notes/2025/07 31 - Session 27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Good Mead"
+              "title": "07 31 - Session 27"
             }
           },
           {
@@ -234,12 +234,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2023/07 22 - Session 1.md",
+                "file": "Session Notes/2024/05 23 - Session 11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 22 - Session 1"
+              "title": "05 23 - Session 11"
             }
           },
           {
@@ -332,12 +332,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2024/09 26 - Session 15.md",
+                "file": "Session Notes/2025/10 25 - Session 31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 26 - Session 15"
+              "title": "10 25 - Session 31"
             }
           },
           {
@@ -346,12 +346,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Naerth Maxildanarr.md",
+                "file": "Session Notes/2024/06 27 - Session 12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Naerth Maxildanarr"
+              "title": "06 27 - Session 12"
+            }
+          },
+          {
+            "id": "86d8fc8b8e00ccac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Good Mead/Good Mead.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Good Mead"
             }
           }
         ],
@@ -387,7 +401,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shander",
+                "query": "Zhentarim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -534,11 +548,18 @@
   },
   "active": "20dd0f6fddb0254b",
   "lastOpenFiles": [
-    "NPCs/Naerth Maxildanarr.md",
+    "Locations/Ten Towns/Good Mead/Good Mead.md",
     "Session Notes/2026/01 31 - Session 35.md",
+    "Session Notes/2025/10 25 - Session 31.md",
+    "Session Notes/2024/06 27 - Session 12.md",
     "Session Notes/2024/09 26 - Session 15.md",
-    "Session Notes/2024/07 06 - Session 13.md",
+    "NPCs/Naerth Maxildanarr.md",
     "Session Notes/2024/04 20 - Session 10.md",
+    "Session Notes/2024/05 23 - Session 11.md",
+    "Session Notes/2023/07 22 - Session 1.md",
+    "Session Notes/2025/07 31 - Session 27.md",
+    "Locations/Ten Towns/Lonelywood/Liar.md",
+    "Session Notes/2024/07 06 - Session 13.md",
     "Session Notes/2024/03 28 - Session 9.md",
     "Session Notes/2024/02 22 - Session 8.md",
     "Session Notes/2024/01 13 - Session 7.md",
@@ -547,19 +568,12 @@
     "Session Notes/2023/10 14 - Session 4.md",
     "Session Notes/2023/09 19 - Session 3.md",
     "Session Notes/2023/08 24 - Session 2.md",
-    "Session Notes/2023/07 22 - Session 1.md",
-    "Locations/Ten Towns/Good Mead/Good Mead.md",
-    "Session Notes/2025/10 25 - Session 31.md",
-    "Session Notes/2024/06 27 - Session 12.md",
-    "Session Notes/2025/07 31 - Session 27.md",
     "Locations/Ten Towns/Targos/The Luskan Arms.md",
     "Locations/Ten Towns/Targos/Targos.md",
     "Session Notes/2025/06 19 - Session 26.md",
     "Session Notes/2024/08 22 - Session 14.md",
     "Session Notes/2025/02 01 - Session 20.md",
     "Session Notes/2025/02 18 - Session 21.md",
-    "Session Notes/2025/04 15 - Session 23.md",
-    "Session Notes/2025/05 20 - Session 25.md",
     "Locations/Lost Spire.canvas",
     "Pasted image 20251211224355.png",
     "Pasted image 20251211225207.png",
