@@ -17,5 +17,7 @@ Calavor Norick, Pale Skin, greasy black hair
 
 Duvessa Shane
 
+I cast shit your pants
+
 
 
