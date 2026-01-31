@@ -36,3 +36,11 @@ Me friend
 Not friend.
 
 Ogre gets it's face bashed in
+
+> Tempus, Lord of battle, I call your name,  
+Through bravery and justice I make this claim  
+Reveal your truth and courage will be my guide  
+Grant me the means to fight with honour and pride
+
+
+Golden emblem of shield with flaming sword
