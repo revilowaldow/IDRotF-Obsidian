@@ -20,6 +20,8 @@ I cast shit your pants
 
 
 
-Warned not to vote for 
+Warned not to vote for shander, because he is a zhentarim
+
+
 
 
