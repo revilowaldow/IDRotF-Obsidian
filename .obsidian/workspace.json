@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lotter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,7 +218,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "b0d1fcaba5b70857",
+  "active": "273a905a8662a4d1",
   "lastOpenFiles": [
     "Pasted image 20260131132713.png",
     "Locations/Verbeeg Cave.canvas",
