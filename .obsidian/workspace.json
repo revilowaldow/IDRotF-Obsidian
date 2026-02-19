@@ -42,8 +42,7 @@
               "title": "Verbeeg Cave"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,8 +95,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,8 +218,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "00fc2f6226fba0ae",
+  "active": "273a905a8662a4d1",
   "lastOpenFiles": [
+    "Locations/Verbeeg Cave.canvas",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
     "Factions/Party/Nilak 'Cloud' Northbrook.md",
@@ -229,7 +228,6 @@
     "Locations/Ten Towns/Dougan's Hole/Dougan's Hole.md",
     "Session Notes/2024/08 22 - Session 14.md",
     "Session Notes/2026/01 31 - Session 35.md",
-    "Locations/Verbeeg Cave.canvas",
     "Assets/Items/Blood of War Falchion No Background.png",
     "Pasted image 20260131132713.png",
     "Pasted image 20260131130648.png",
@@ -253,7 +251,6 @@
     "Session Notes/2023/09 19 - Session 3.md",
     "Session Notes/2023/10 14 - Session 4.md",
     "Session Notes/2023/11 30 - Session 5.md",
-    "Session Notes/2023/12 28 - Session 6.md",
     "Pasted image 20251211224355.png",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20260122.json",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-pRrgU1pTL21fP9PJ (5).json",
