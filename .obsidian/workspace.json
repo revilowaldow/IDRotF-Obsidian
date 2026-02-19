@@ -55,6 +55,18 @@
               "icon": "lucide-file",
               "title": "02 19 - Session 36"
             }
+          },
+          {
+            "id": "54aaf3a6c0ea508d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/NPCs/Yselm Bloodfang.png"
+              },
+              "icon": "lucide-image",
+              "title": "Yselm Bloodfang"
+            }
           }
         ],
         "currentTab": 2
@@ -233,10 +245,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "273a905a8662a4d1",
+  "active": "3104d9d11ce0d93e",
   "lastOpenFiles": [
-    "Session Notes/2026/01 31 - Session 35.md",
+    "Assets/Characters/NPCs/Yselm Bloodfang.png",
     "Session Notes/2026/02 19 - Session 36.md",
+    "Session Notes/2026/01 31 - Session 35.md",
     "Locations/Verbeeg Cave.canvas",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
@@ -266,7 +279,6 @@
     "Session Notes/2023/07 22 - Session 1.md",
     "Session Notes/2023/09 19 - Session 3.md",
     "Session Notes/2023/10 14 - Session 4.md",
-    "Session Notes/2023/11 30 - Session 5.md",
     "Pasted image 20251211224355.png",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20260122.json",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-pRrgU1pTL21fP9PJ (5).json",
@@ -277,7 +289,6 @@
     "Assets/Characters/NPCs/Dazaan.png",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-pRrgU1pTL21fP9PJ (3).json",
     "Assets/Characters/NPCs/Duvessa Shane.png",
-    "Assets/Pasted image 20240522150509.png",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20251126.json",
     "Untitled 1.base",
     "Untitled.base",
