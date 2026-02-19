@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "children",
+                "query": "tool",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -233,7 +234,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "3104d9d11ce0d93e",
+  "active": "aca29dc165025d18",
   "lastOpenFiles": [
     "Session Notes/2026/01 31 - Session 35.md",
     "Session Notes/2026/02 19 - Session 36.md",
