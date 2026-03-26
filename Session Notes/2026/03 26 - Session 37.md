@@ -11,3 +11,4 @@ Spellix Romwood
 ![](https://5e.tools/img/adventure/IDRotF/125-02-014.ghosts.webp)
 
 
+![[Pasted image 20260326225457.png]]
