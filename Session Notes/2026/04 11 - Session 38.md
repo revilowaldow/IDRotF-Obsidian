@@ -20,3 +20,6 @@ Female, keeps to herself, frost druid
 
 Horn on blasting
 
+![[Pasted image 20260411163645.png]]
+
+Rusty Cogfist's 
