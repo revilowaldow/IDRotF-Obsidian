@@ -24,4 +24,8 @@ Horn on blasting
 
 Rusty Cogfist's Robot Fight Club
 
-[]()
+
+Talvi got engaged
+
+Buy at 100%
+sell at 90%
