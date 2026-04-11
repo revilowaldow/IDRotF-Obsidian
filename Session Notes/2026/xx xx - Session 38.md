@@ -1,1 +1,0 @@
-Advantage on first attack next time
