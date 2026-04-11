@@ -76,26 +76,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/Termalaine.md",
+                "file": "Session Notes/2025/11 26 - Session 32.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Termalaine"
-            }
-          },
-          {
-            "id": "8596a9fc04cc86e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ten Towns/Termalaine/Gem Mine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gem Mine"
+              "title": "11 26 - Session 32"
             }
           },
           {
@@ -104,16 +90,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/The Blue Clam.md",
+                "file": "Session Notes/2025/07 31 - Session 27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Blue Clam"
+              "title": "07 31 - Session 27"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -145,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "olwe",
+                "query": "talvi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +152,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -291,10 +278,16 @@
   },
   "active": "85c5e307014f79ff",
   "lastOpenFiles": [
-    "Locations/Ten Towns/Termalaine/Gem Mine.md",
+    "Session Notes/2024/08 22 - Session 14.md",
+    "Session Notes/2025/10 25 - Session 31.md",
+    "Session Notes/2025/11 26 - Session 32.md",
+    "Session Notes/2025/05 03 - Session 24.md",
+    "Session Notes/2024/04 20 - Session 10.md",
     "Locations/Ten Towns/Termalaine/Termalaine.md",
-    "Locations/Ten Towns/Termalaine/The Eastside.md",
     "Session Notes/2026/04 11 - Session 38.md",
+    "Locations/Ten Towns/Termalaine/Gem Mine.md",
+    "Locations/Ten Towns/Termalaine/The Blue Clam.md",
+    "Locations/Ten Towns/Termalaine/The Eastside.md",
     "Locations/Ten Towns/Targos/Triglio.md",
     "Session Notes/2026/03 26 - Session 37.md",
     "Assets/Characters/NPCs/Yselm Bloodfang.png",
@@ -313,11 +306,9 @@
     "Factions/Party/Nilak 'Cloud' Northbrook.md",
     "Locations/Ten Towns/Lonelywood/Liar.md",
     "Locations/Ten Towns/Dougan's Hole/Dougan's Hole.md",
-    "Session Notes/2024/08 22 - Session 14.md",
     "Assets/Items/Blood of War Falchion No Background.png",
     "Pasted image 20260131132713.png",
     "Pasted image 20260131130648.png",
-    "Session Notes/2025/11 26 - Session 32.md",
     "Session Notes/2025/12 11 - Session 33.md",
     "Session Notes/2026/01 22 - Session 34.md",
     "Locations/Lost Spire.canvas",
@@ -325,10 +316,6 @@
     "Session Notes/2025/05 20 - Session 25.md",
     "Session Notes/2025/04 15 - Session 23.md",
     "Session Notes/2025/02 18 - Session 21.md",
-    "Session Notes/2025/02 01 - Session 20.md",
-    "Session Notes/2025/07 31 - Session 27.md",
-    "Session Notes/2024/01 13 - Session 7.md",
-    "Session Notes/2024/02 22 - Session 8.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20260122.json",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-pRrgU1pTL21fP9PJ (5).json",
     "Session Notes/2026",
