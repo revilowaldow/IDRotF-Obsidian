@@ -57,18 +57,6 @@
             }
           },
           {
-            "id": "17135d374f2a9759",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
-          },
-          {
             "id": "5265107f040c44dd",
             "type": "leaf",
             "state": {
@@ -271,7 +259,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "17135d374f2a9759",
+  "active": "5265107f040c44dd",
   "lastOpenFiles": [
     "Session Notes/2026/03 26 - Session 37.md",
     "Session Notes/2026/xx xx - Session 38.md",
