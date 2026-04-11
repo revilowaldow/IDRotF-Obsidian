@@ -18,3 +18,5 @@ Anga - good aligned druid
 
 Female, keeps to herself, frost druid
 
+Horn on blasting
+
