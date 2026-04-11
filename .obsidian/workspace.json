@@ -157,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "olwe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +178,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -301,7 +302,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "c317b7f72fd3d854",
+  "active": "aca29dc165025d18",
   "lastOpenFiles": [
     "Session Notes/2026/04 11 - Session 38.md",
     "Locations/Ten Towns/Targos/The Luskan Arms.md",
