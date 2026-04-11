@@ -15,6 +15,6 @@ Less travel
 
 Triglio no meaning
 
-Did over 16000gp of buisness so far
+Did over 16000gp of business so far
 
 
