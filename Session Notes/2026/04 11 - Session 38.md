@@ -14,3 +14,7 @@ Codicil of White kept in located in sea of moving ice
 
 Mist shrouded isle of Soltice
 
+Anga - good aligned druid
+
+Female, keeps to herself, frost druid
+
