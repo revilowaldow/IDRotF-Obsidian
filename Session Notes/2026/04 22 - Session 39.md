@@ -4,5 +4,6 @@ Severed hand with a gleaming silver fish hook with a golden feather
 
 ![[Pasted image 20260422211751.png]]
 
-Skytower shelter
+
+Griffins belong to Skytower shelter
 
