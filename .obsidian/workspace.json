@@ -45,16 +45,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ten Towns/Lonelywood/Lonelywood.md",
+                "file": "Session Notes/2023/08 24 - Session 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lonelywood"
+              "title": "08 24 - Session 2"
+            }
+          },
+          {
+            "id": "bcb13ddc5f91df4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Lonelywood/The Lucky Liar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Lucky Liar"
+            }
+          },
+          {
+            "id": "784deae6dea7d03f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Lonelywood/Ramshackle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ramshackle"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sanda",
+                "query": "plesi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,10 +258,15 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "3938fb01f8200a70",
+  "active": "3104d9d11ce0d93e",
   "lastOpenFiles": [
-    "Session Notes/2026/04 22 - Session 39.md",
     "Session Notes/2026/04 11 - Session 38.md",
+    "Session Notes/2026/04 22 - Session 39.md",
+    "Locations/Ten Towns/Lonelywood/Ramshackle.md",
+    "Locations/Ten Towns/Lonelywood/The Lucky Liar.md",
+    "Session Notes/2023/08 24 - Session 2.md",
+    "NPCs/Ravisin.md",
+    "Locations/Ten Towns/Lonelywood/Lonelywood.md",
     "Session Notes/2025/10 25 - Session 31.md",
     "Session Notes/2025/11 26 - Session 32.md",
     "Locations/Ten Towns/Termalaine/The Eastside.md",
@@ -260,13 +293,9 @@
     "Pasted image 20260219220843.png",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "Factions/Party/Nilak 'Cloud' Northbrook.md",
-    "Locations/Ten Towns/Lonelywood/Liar.md",
-    "Locations/Ten Towns/Dougan's Hole/Dougan's Hole.md",
     "Assets/Items/Blood of War Falchion No Background.png",
     "Pasted image 20260131132713.png",
     "Pasted image 20260131130648.png",
-    "Session Notes/2025/12 11 - Session 33.md",
-    "Session Notes/2026/01 22 - Session 34.md",
     "Locations/Lost Spire.canvas",
     "Pasted image 20251211225207.png",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20260122.json",
