@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2026/04 11 - Session 38.md",
+                "file": "Session Notes/2026/04 22 - Session 39.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 11 - Session 38"
+              "title": "04 22 - Session 39"
             }
           },
           {
@@ -152,8 +152,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,8 +234,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ]
@@ -251,8 +250,8 @@
             "state": {
               "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "skull",
-              "title": "Combatant"
+              "icon": "lucide-ghost",
+              "title": "fantasy-statblocks-creature-pane"
             }
           }
         ]
@@ -278,6 +277,8 @@
   },
   "active": "3104d9d11ce0d93e",
   "lastOpenFiles": [
+    "Session Notes/2026/04 11 - Session 38.md",
+    "Session Notes/2026/04 22 - Session 39.md",
     "Session Notes/2025/10 25 - Session 31.md",
     "Session Notes/2025/07 31 - Session 27.md",
     "Session Notes/2024/08 22 - Session 14.md",
@@ -285,7 +286,6 @@
     "Session Notes/2025/05 03 - Session 24.md",
     "Session Notes/2024/04 20 - Session 10.md",
     "Locations/Ten Towns/Termalaine/Termalaine.md",
-    "Session Notes/2026/04 11 - Session 38.md",
     "Locations/Ten Towns/Termalaine/Gem Mine.md",
     "Locations/Ten Towns/Termalaine/The Blue Clam.md",
     "Locations/Ten Towns/Termalaine/The Eastside.md",
@@ -315,7 +315,6 @@
     "Locations/Lost Spire.canvas",
     "Pasted image 20251211225207.png",
     "Session Notes/2025/05 20 - Session 25.md",
-    "Session Notes/2025/04 15 - Session 23.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20260122.json",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-pRrgU1pTL21fP9PJ (5).json",
     "Session Notes/2026",
