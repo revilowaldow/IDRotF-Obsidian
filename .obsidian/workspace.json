@@ -39,7 +39,8 @@
               "title": "04 22 - Session 39"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,10 +216,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "13130c87e4696684",
+  "active": "3104d9d11ce0d93e",
   "lastOpenFiles": [
-    "Session Notes/2026/04 22 - Session 39.md",
     "Session Notes/2026/04 11 - Session 38.md",
+    "Session Notes/2026/04 22 - Session 39.md",
     "Session Notes/2025/10 25 - Session 31.md",
     "Session Notes/2025/11 26 - Session 32.md",
     "Locations/Ten Towns/Termalaine/The Eastside.md",

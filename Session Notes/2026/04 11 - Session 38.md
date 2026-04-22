@@ -24,4 +24,7 @@ Horn on blasting
 
 Rusty Cogfist's Robot Fight Club
 
-Left token of bounty wi
+Left token of bounty with dad
+
+Talvi engaged
+
