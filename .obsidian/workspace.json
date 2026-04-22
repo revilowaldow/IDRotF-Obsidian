@@ -38,9 +38,23 @@
               "icon": "lucide-file",
               "title": "04 22 - Session 39"
             }
+          },
+          {
+            "id": "3938fb01f8200a70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ten Towns/Lonelywood/Lonelywood.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lonelywood"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,10 +230,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "3104d9d11ce0d93e",
+  "active": "3938fb01f8200a70",
   "lastOpenFiles": [
-    "Session Notes/2026/04 11 - Session 38.md",
     "Session Notes/2026/04 22 - Session 39.md",
+    "Session Notes/2026/04 11 - Session 38.md",
     "Session Notes/2025/10 25 - Session 31.md",
     "Session Notes/2025/11 26 - Session 32.md",
     "Locations/Ten Towns/Termalaine/The Eastside.md",
