@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plesi",
+                "query": "griff",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -260,17 +261,18 @@
   },
   "active": "3104d9d11ce0d93e",
   "lastOpenFiles": [
+    "Locations/Ten Towns/Lonelywood/Ramshackle.md",
+    "Session Notes/2025/08 28 - Session 28.md",
+    "Session Notes/2025/10 25 - Session 31.md",
+    "Session Notes/2026/04 22 - Session 39.md",
     "Pasted image 20260422211751.png",
     "Pasted image 20260422202727.png",
     "Pasted image 20260422194846.png",
     "Session Notes/2026/04 11 - Session 38.md",
-    "Session Notes/2026/04 22 - Session 39.md",
-    "Locations/Ten Towns/Lonelywood/Ramshackle.md",
     "Locations/Ten Towns/Lonelywood/The Lucky Liar.md",
     "Session Notes/2023/08 24 - Session 2.md",
     "NPCs/Ravisin.md",
     "Locations/Ten Towns/Lonelywood/Lonelywood.md",
-    "Session Notes/2025/10 25 - Session 31.md",
     "Session Notes/2025/11 26 - Session 32.md",
     "Locations/Ten Towns/Termalaine/The Eastside.md",
     "Session Notes/2026/01 31 - Session 35.md",
@@ -296,7 +298,6 @@
     "Pasted image 20260219220843.png",
     "NPCs/Northbrook Family/Isolde Northbrook.md",
     "Assets/Items/Blood of War Falchion No Background.png",
-    "Pasted image 20260131132713.png",
     "Locations/Lost Spire.canvas",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20260122.json",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-pRrgU1pTL21fP9PJ (5).json",
