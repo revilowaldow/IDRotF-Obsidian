@@ -54,9 +54,25 @@
               "icon": "lucide-file",
               "title": "05 28 - Session 40"
             }
+          },
+          {
+            "id": "a6d79c5efb1ed18b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2026/06 24 - Session 41.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "06 24 - Session 41"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,10 +248,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "8a9aa49aac1c22bf",
+  "active": "a6d79c5efb1ed18b",
   "lastOpenFiles": [
-    "Session Notes/2026/04 22 - Session 39.md",
     "Session Notes/2026/05 28 - Session 40.md",
+    "Session Notes/2026/06 24 - Session 41.md",
+    "Session Notes/2026/04 22 - Session 39.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20260422.json",
     "Locations/Ten Towns/Good Mead/Good Mead.md",
     "Locations/Ten Towns/Lonelywood/Ramshackle.md",
@@ -266,7 +283,6 @@
     "Pasted image 20260411163645.png",
     "NPCs/Northbrook Family/Olwen Northbrook.md",
     "Locations/Ten Towns/Targos/The Luskan Arms.md",
-    "Locations/Ten Towns/Targos/Targos.md",
     "Pasted image 20260326225457.png",
     "Pasted image 20260326201051.png",
     "Pasted image 20260326194708.png",
