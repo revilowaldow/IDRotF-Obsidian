@@ -9,3 +9,7 @@ Tower
 
 
 ![[Pasted image 20260716203047.png]]
+
+
+Resting here may not work
+
