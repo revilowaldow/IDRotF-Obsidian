@@ -17,3 +17,5 @@ Resting here may not work
 ![](https://5e.tools/img/adventure/IDRotF/163-05-002.sculptures.webp)
 Kogra
 
+Grimskalla
+
