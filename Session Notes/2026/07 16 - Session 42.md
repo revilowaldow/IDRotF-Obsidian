@@ -23,3 +23,6 @@ Cruelty
 Endurance
 Isolation
 Preservation
+
+Ukuma the Walrus
+
