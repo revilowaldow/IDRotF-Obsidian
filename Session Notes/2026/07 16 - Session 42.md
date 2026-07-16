@@ -26,3 +26,7 @@ Preservation
 
 Ukuma the Walrus
 
+Cruelty. “Compassion makes you vulnerable. Let cruelty be the knife that keeps your enemies at bay.”  
+Endurance. “Exist as long as you can, by whatever means you can. Only by enduring can you outlast your enemies.”  
+Isolation. “In solitude you can understand and harness your full potential. Depending on others makes you weak.”  
+Preservation. “Every flake of snow is unique, and that which is unique must be preserved.”
