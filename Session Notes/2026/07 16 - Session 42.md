@@ -13,3 +13,5 @@ Tower
 
 Resting here may not work
 ![](https://5e.tools/img/adventure/IDRotF/159-05-000.intro-splash.webp)
+
+![](https://5e.tools/img/adventure/IDRotF/163-05-002.sculptures.webp)
