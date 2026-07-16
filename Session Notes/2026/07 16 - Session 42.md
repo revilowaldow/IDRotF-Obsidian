@@ -19,3 +19,7 @@ Kogra
 
 Grimskalla
 
+Cruelty
+Endurance
+Isolation
+Preservation
