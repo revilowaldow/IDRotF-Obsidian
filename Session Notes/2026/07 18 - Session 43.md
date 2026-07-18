@@ -8,6 +8,9 @@ No magic
 
 King Gerund of the Elk Tribe
 
+Immune 
+Cold
+
 
 
 
