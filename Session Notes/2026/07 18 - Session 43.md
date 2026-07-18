@@ -14,3 +14,4 @@ Cold
 ![](https://5e.tools/img/adventure/IDRotF/168-05-005.aerix.webp)
 
 
+![[Pasted image 20260718175334.png]]
