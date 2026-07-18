@@ -2,6 +2,12 @@
 Tomb of Vasavicken
 
 Elk Reghed Tribe Camp
+Emissaries of Auril
+Snowflakes above head
+No magic
 
-Emmisaries of Auril
+King Gerund of the Elk Tribe
+
+
+
 
