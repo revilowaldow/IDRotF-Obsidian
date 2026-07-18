@@ -11,6 +11,6 @@ King Gerund of the Elk Tribe
 Immune 
 Cold
 
-
+![](https://5e.tools/img/adventure/IDRotF/168-05-005.aerix.webp)
 
 
