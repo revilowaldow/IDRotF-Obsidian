@@ -8,43 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0d1fcaba5b70857",
+            "id": "13130c87e4696684",
             "type": "leaf",
             "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/2026/01 31 - Session 35.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01 31 - Session 35"
-            }
-          },
-          {
-            "id": "00fc2f6226fba0ae",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Verbeeg Cave.canvas",
-                "viewState": {
-                  "x": 202.76574000216164,
-                  "y": -349.10606735936796,
-                  "zoom": -0.38399435059229553
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Verbeeg Cave"
-            }
-          },
-          {
-            "id": "3104d9d11ce0d93e",
-            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -52,54 +18,89 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "04 11 - Session 38"
             }
           },
           {
-            "id": "f441588464c0024c",
+            "id": "5215bdaa45d904be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ten Towns/Termalaine/The Eastside.md",
+                "file": "Session Notes/2026/03 26 - Session 37.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Eastside"
+              "title": "03 26 - Session 37"
             }
           },
           {
-            "id": "5e40331a03740c0b",
+            "id": "3104d9d11ce0d93e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2025/11 26 - Session 32.md",
+                "file": "Session Notes/2026/04 22 - Session 39.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "11 26 - Session 32"
+              "title": "04 22 - Session 39"
             }
           },
           {
-            "id": "85c5e307014f79ff",
+            "id": "8a9aa49aac1c22bf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2026/05 28 - Session 40.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "05 28 - Session 40"
+            }
+          },
+          {
+            "id": "a6d79c5efb1ed18b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2026/06 24 - Session 41.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "06 24 - Session 41"
+            }
+          },
+          {
+            "id": "5140bc571daffa9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/2025/10 25 - Session 31.md",
+                "file": "Session Notes/2026/07 16 - Session 42.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 25 - Session 31"
+              "title": "07 16 - Session 42"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -131,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sanda",
+                "query": "skytow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,8 +153,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,8 +235,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ]
@@ -251,8 +251,8 @@
             "state": {
               "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "skull",
-              "title": "Combatant"
+              "icon": "lucide-ghost",
+              "title": "fantasy-statblocks-creature-pane"
             }
           }
         ]
@@ -276,46 +276,47 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "3104d9d11ce0d93e",
+  "active": "5140bc571daffa9f",
   "lastOpenFiles": [
+    "Pasted image 20260716205242.png",
+    "Pasted image 20260716203047.png",
+    "Session Notes/2026/06 24 - Session 41.md",
+    "Session Notes/2026/07 16 - Session 42.md",
+    "Session Notes/2026/04 22 - Session 39.md",
+    "Session Notes/2026/03 26 - Session 37.md",
+    "Session Notes/2026/04 11 - Session 38.md",
+    "Session Notes/2026/05 28 - Session 40.md",
+    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20260422.json",
+    "Locations/Ten Towns/Good Mead/Good Mead.md",
+    "Locations/Ten Towns/Lonelywood/Ramshackle.md",
+    "Session Notes/2025/08 28 - Session 28.md",
     "Session Notes/2025/10 25 - Session 31.md",
+    "Pasted image 20260422211751.png",
+    "Pasted image 20260422202727.png",
+    "Pasted image 20260422194846.png",
+    "Locations/Ten Towns/Lonelywood/The Lucky Liar.md",
+    "Session Notes/2023/08 24 - Session 2.md",
+    "NPCs/Ravisin.md",
+    "Locations/Ten Towns/Lonelywood/Lonelywood.md",
+    "Session Notes/2025/11 26 - Session 32.md",
+    "Locations/Ten Towns/Termalaine/The Eastside.md",
+    "Session Notes/2026/01 31 - Session 35.md",
+    "Locations/Verbeeg Cave.canvas",
     "Session Notes/2025/07 31 - Session 27.md",
     "Session Notes/2024/08 22 - Session 14.md",
-    "Session Notes/2025/11 26 - Session 32.md",
     "Session Notes/2025/05 03 - Session 24.md",
     "Session Notes/2024/04 20 - Session 10.md",
     "Locations/Ten Towns/Termalaine/Termalaine.md",
-    "Session Notes/2026/04 11 - Session 38.md",
     "Locations/Ten Towns/Termalaine/Gem Mine.md",
     "Locations/Ten Towns/Termalaine/The Blue Clam.md",
-    "Locations/Ten Towns/Termalaine/The Eastside.md",
     "Locations/Ten Towns/Targos/Triglio.md",
-    "Session Notes/2026/03 26 - Session 37.md",
     "Assets/Characters/NPCs/Yselm Bloodfang.png",
     "Pasted image 20260411163645.png",
-    "NPCs/Northbrook Family/Olwen Northbrook.md",
-    "Locations/Ten Towns/Targos/The Luskan Arms.md",
-    "Locations/Ten Towns/Targos/Targos.md",
-    "Session Notes/2026/02 19 - Session 36.md",
     "Pasted image 20260326225457.png",
     "Pasted image 20260326201051.png",
     "Pasted image 20260326194708.png",
     "Pasted image 20260219220843.png",
-    "Session Notes/2026/01 31 - Session 35.md",
-    "Locations/Verbeeg Cave.canvas",
-    "NPCs/Northbrook Family/Isolde Northbrook.md",
-    "Factions/Party/Nilak 'Cloud' Northbrook.md",
-    "Locations/Ten Towns/Lonelywood/Liar.md",
-    "Locations/Ten Towns/Dougan's Hole/Dougan's Hole.md",
-    "Assets/Items/Blood of War Falchion No Background.png",
-    "Pasted image 20260131132713.png",
-    "Pasted image 20260131130648.png",
-    "Session Notes/2025/12 11 - Session 33.md",
-    "Session Notes/2026/01 22 - Session 34.md",
     "Locations/Lost Spire.canvas",
-    "Pasted image 20251211225207.png",
-    "Session Notes/2025/05 20 - Session 25.md",
-    "Session Notes/2025/04 15 - Session 23.md",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20260122.json",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-pRrgU1pTL21fP9PJ (5).json",
     "Session Notes/2026",
@@ -324,7 +325,6 @@
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20251126.json",
     "Untitled 1.base",
     "Untitled.base",
-    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20251016.json",
-    "Assets/Items"
+    "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20251016.json"
   ]
 }

@@ -12,7 +12,7 @@ Defeated the combatants
 Codicil of White kept in located in sea of moving ice
 
 
-Mist shrouded isle of Soltice
+Mist shrouded isle of Solstice
 
 Anga - good aligned druid
 
@@ -24,6 +24,7 @@ Horn on blasting
 
 Rusty Cogfist's Robot Fight Club
 
+Left token of bounty with dad
 
 Talvi got engaged
 
