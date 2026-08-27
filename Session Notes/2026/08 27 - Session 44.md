@@ -12,3 +12,4 @@ Let this serve as a warning of what awaits you
 
 Party meets auril
 
+![[Pasted image 20260827220913.png]]
