@@ -11,3 +11,7 @@ Umberlee - goad of ocean's fury
 
 Auril has taken shelter due to our wrath
 
+Picked the beast lord
+
+Gnorbert picked storm lord
+
