@@ -10,3 +10,4 @@ How can you help on the boat?
 
 Warden Marta Marthannis
 
+![[Pasted image 20261022211104.png]]![[Pasted image 20261022211115.png]]
