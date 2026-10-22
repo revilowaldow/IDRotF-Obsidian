@@ -12,3 +12,7 @@ Warden Marta Marthannis
 
 ![[Pasted image 20261022211104.png]]![[Pasted image 20261022211115.png]]
 
+Shopping
+Anga
+Rendaril
+Family I'm ok
