@@ -86,18 +86,6 @@
             }
           },
           {
-            "id": "c139f0dc93caca51",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260718175334.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260718175334"
-            }
-          },
-          {
             "id": "3295d5dc1cdbaffb",
             "type": "leaf",
             "state": {
@@ -115,10 +103,22 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20260422211751.png"
+                "file": "Assets/Maps/Pasted image 20260422211751.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20260422211751"
+            }
+          },
+          {
+            "id": "99967bdefbf4ee07",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Items/Pasted image 20260716203047.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260716203047"
             }
           },
           {
@@ -127,7 +127,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20260422202727.png"
+                "file": "Assets/Characters/Pasted image 20260422202727.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20260422202727"
@@ -139,7 +139,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20260422194846.png"
+                "file": "Assets/Characters/Pasted image 20260422194846.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20260422194846"
@@ -151,10 +151,22 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20260326225457.png"
+                "file": "Assets/Characters/Pasted image 20260326225457.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20260326225457"
+            }
+          },
+          {
+            "id": "d7763d7c05b197e8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Characters/Pasted image 20260411163645.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260411163645"
             }
           },
           {
@@ -163,7 +175,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20260326201051.png"
+                "file": "Assets/Characters/Pasted image 20260326201051.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20260326201051"
@@ -175,7 +187,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20260326194708.png"
+                "file": "Assets/Characters/Pasted image 20260326194708.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20260326194708"
@@ -187,7 +199,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20260219220843.png"
+                "file": "Assets/Maps/Pasted image 20260219220843.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20260219220843"
@@ -242,7 +254,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -420,19 +432,19 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "c51b333151ea5c35",
+  "active": "273a905a8662a4d1",
   "lastOpenFiles": [
+    "Assets/Items/Pasted image 20260716203047.png",
+    "Assets/Maps/Pasted image 20260422211751.png",
+    "Assets/Characters/Pasted image 20260422202727.png",
+    "Assets/Characters/Pasted image 20260422194846.png",
+    "Assets/Characters/Pasted image 20260411163645.png",
+    "Assets/Characters/Pasted image 20260326225457.png",
+    "Assets/Characters/Pasted image 20260326201051.png",
+    "Assets/Characters/Pasted image 20260326194708.png",
+    "Assets/Maps/Pasted image 20260219220843.png",
     "Assets/Maps/Pasted image 20260131130648.png",
     "Assets/Characters/Pasted image 20251211224355.png",
-    "Assets/Maps/Pasted image 20260131132713.png",
-    "Pasted image 20260219220843.png",
-    "Assets/Maps/Basilisk Map.png",
-    "Pasted image 20260326194708.png",
-    "Pasted image 20260326201051.png",
-    "Pasted image 20260326225457.png",
-    "Pasted image 20260422194846.png",
-    "Pasted image 20260422202727.png",
-    "Pasted image 20260422211751.png",
     "Session Notes/2026/10 22 - Session 46.md",
     "Session Notes/2026/10 24 - Session 47.md",
     "Session Notes/2026/08 27 - Session 44.md",
