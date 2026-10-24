@@ -40,18 +40,6 @@
             }
           },
           {
-            "id": "1232fc0e3490b132",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Items/Empowered Chardyln Shortsword.png"
-              },
-              "icon": "lucide-image",
-              "title": "Empowered Chardyln Shortsword"
-            }
-          },
-          {
             "id": "d8c8d8b521bbbf09",
             "type": "leaf",
             "state": {
@@ -66,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,11 +232,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "273a905a8662a4d1",
+  "active": "59d69a40358f061c",
   "lastOpenFiles": [
-    "Session Notes/2026/10 24 - Session 47.md",
-    "Assets/Items/Empowered Chardyln Shortsword.png",
     "Session Notes/2023/07 22 - Session 1.md",
+    "Assets/Items/Empowered Chardyln Shortsword.png",
+    "Session Notes/2026/10 24 - Session 47.md",
     "Session Notes/2026/10 22 - Session 46.md",
     "Assets/Items/Pasted image 20260718175334.png",
     "Assets/Items/Pasted image 20260716203047.png",
