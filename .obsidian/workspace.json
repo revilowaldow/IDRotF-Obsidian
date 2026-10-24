@@ -26,6 +26,7 @@
           {
             "id": "59d69a40358f061c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,228 +34,12 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "10 24 - Session 47"
             }
-          },
-          {
-            "id": "51194242a2dcb364",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Characters/Warden Marta Marthannis.png"
-              },
-              "icon": "lucide-image",
-              "title": "Warden Marta Marthannis"
-            }
-          },
-          {
-            "id": "763d302311504017",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Characters/Hamelyn Chef.png"
-              },
-              "icon": "lucide-image",
-              "title": "Hamelyn Chef"
-            }
-          },
-          {
-            "id": "c158c0c800131dda",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Revel's End.png"
-              },
-              "icon": "lucide-image",
-              "title": "Revel's End"
-            }
-          },
-          {
-            "id": "2607024ba526cdcc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Characters/Sharlasta Stormsword.png"
-              },
-              "icon": "lucide-image",
-              "title": "Sharlasta Stormsword"
-            }
-          },
-          {
-            "id": "3295d5dc1cdbaffb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Grymskala.png"
-              },
-              "icon": "lucide-image",
-              "title": "Grymskala"
-            }
-          },
-          {
-            "id": "b5d13b81e6277bd9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Pasted image 20260422211751.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260422211751"
-            }
-          },
-          {
-            "id": "99967bdefbf4ee07",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Items/Pasted image 20260716203047.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260716203047"
-            }
-          },
-          {
-            "id": "4ca542dcad7000f6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Characters/Pasted image 20260422202727.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260422202727"
-            }
-          },
-          {
-            "id": "1c50723765c81246",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Characters/Pasted image 20260422194846.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260422194846"
-            }
-          },
-          {
-            "id": "71d823d8f481ebb4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Characters/Pasted image 20260326225457.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260326225457"
-            }
-          },
-          {
-            "id": "d7763d7c05b197e8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Characters/Pasted image 20260411163645.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260411163645"
-            }
-          },
-          {
-            "id": "c10b2c2769cbe5a5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Characters/Pasted image 20260326201051.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260326201051"
-            }
-          },
-          {
-            "id": "83e0f2447070fdeb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Characters/Pasted image 20260326194708.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260326194708"
-            }
-          },
-          {
-            "id": "c51b333151ea5c35",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Pasted image 20260219220843.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260219220843"
-            }
-          },
-          {
-            "id": "05f2259fb55bcd77",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Pasted image 20260131132713.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260131132713"
-            }
-          },
-          {
-            "id": "a65d041f42cbfe0a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Pasted image 20260131130648.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260131130648"
-            }
-          },
-          {
-            "id": "21472a510253307e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Maps/Basilisk Map.png"
-              },
-              "icon": "lucide-image",
-              "title": "Basilisk Map"
-            }
-          },
-          {
-            "id": "7ea4b5d7fca42e65",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Characters/Pasted image 20251211224355.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251211224355"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -432,8 +217,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "273a905a8662a4d1",
+  "active": "af438325bcdf27a4",
   "lastOpenFiles": [
+    "Session Notes/2026/10 24 - Session 47.md",
+    "Session Notes/2026/10 22 - Session 46.md",
+    "Assets/Items/Pasted image 20260718175334.png",
     "Assets/Items/Pasted image 20260716203047.png",
     "Assets/Maps/Pasted image 20260422211751.png",
     "Assets/Characters/Pasted image 20260422202727.png",
@@ -443,10 +231,6 @@
     "Assets/Characters/Pasted image 20260326201051.png",
     "Assets/Characters/Pasted image 20260326194708.png",
     "Assets/Maps/Pasted image 20260219220843.png",
-    "Assets/Maps/Pasted image 20260131130648.png",
-    "Assets/Characters/Pasted image 20251211224355.png",
-    "Session Notes/2026/10 22 - Session 46.md",
-    "Session Notes/2026/10 24 - Session 47.md",
     "Session Notes/2026/08 27 - Session 44.md",
     "Session Notes/2026/09 24 - Session 45.md",
     "Session Notes/2026/05 28 - Session 40.md",
