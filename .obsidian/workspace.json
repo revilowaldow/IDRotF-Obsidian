@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -274,13 +274,14 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "479fad1829a8410a",
+  "active": "59d69a40358f061c",
   "lastOpenFiles": [
+    "Session Notes/2023/07 22 - Session 1.md",
+    "Session Notes/2026/10 24 - Session 47.md",
+    "Session Notes/2026/07 18 - Session 43.md",
     "Session Notes/2026/08 27 - Session 44.md",
     "Session Notes/2026/09 24 - Session 45.md",
     "Session Notes/2026/10 22 - Session 46.md",
-    "Session Notes/2023/07 22 - Session 1.md",
-    "Session Notes/2026/10 24 - Session 47.md",
     "Assets/Items/Empowered Chardyln Shortsword.png",
     "Assets/Items/Pasted image 20260718175334.png",
     "Assets/Items/Pasted image 20260716203047.png",
@@ -300,7 +301,6 @@
     "Session Notes/2026/06 24 - Session 41.md",
     "Untitled.base",
     "Session Notes/2026/07 16 - Session 42.md",
-    "Session Notes/2026/07 18 - Session 43.md",
     "Session Notes/2024/05 23 - Session 11.md",
     "Deity/Amaunator.md",
     "Locations/Ten Towns/Bryn Shander/House of the Morning Lord.md",

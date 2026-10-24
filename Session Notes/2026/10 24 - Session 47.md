@@ -12,4 +12,8 @@ Nellor Lucien - Clothing store
 Avarice and Dazaan's Simulacrum
 
 
+Cave system was under reghed glacier?
+
+Starts of streams 
+
 
