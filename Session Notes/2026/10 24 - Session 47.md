@@ -7,5 +7,5 @@ Tando visits Garn the Hammer
 
 Nellor's 
 
-Nellor Lucien
+Nellor Lucien - Clothing store
 
