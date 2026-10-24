@@ -24,6 +24,48 @@
             }
           },
           {
+            "id": "823580ba49e22bac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2026/09 24 - Session 45.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09 24 - Session 45"
+            }
+          },
+          {
+            "id": "0cb2bce73330733b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2026/08 27 - Session 44.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08 27 - Session 44"
+            }
+          },
+          {
+            "id": "479fad1829a8410a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2026/07 18 - Session 43.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07 18 - Session 43"
+            }
+          },
+          {
             "id": "59d69a40358f061c",
             "type": "leaf",
             "pinned": true,
@@ -54,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,12 +274,14 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "59d69a40358f061c",
+  "active": "479fad1829a8410a",
   "lastOpenFiles": [
-    "Session Notes/2023/07 22 - Session 1.md",
-    "Assets/Items/Empowered Chardyln Shortsword.png",
-    "Session Notes/2026/10 24 - Session 47.md",
+    "Session Notes/2026/08 27 - Session 44.md",
+    "Session Notes/2026/09 24 - Session 45.md",
     "Session Notes/2026/10 22 - Session 46.md",
+    "Session Notes/2023/07 22 - Session 1.md",
+    "Session Notes/2026/10 24 - Session 47.md",
+    "Assets/Items/Empowered Chardyln Shortsword.png",
     "Assets/Items/Pasted image 20260718175334.png",
     "Assets/Items/Pasted image 20260716203047.png",
     "Assets/Maps/Pasted image 20260422211751.png",
@@ -247,8 +291,6 @@
     "Assets/Characters/Pasted image 20260326225457.png",
     "Assets/Characters/Pasted image 20260326201051.png",
     "Assets/Characters/Pasted image 20260326194708.png",
-    "Session Notes/2026/08 27 - Session 44.md",
-    "Session Notes/2026/09 24 - Session 45.md",
     "Session Notes/2026/05 28 - Session 40.md",
     "Session Notes/2026/04 22 - Session 39.md",
     "Session Notes/2026/04 11 - Session 38.md",
