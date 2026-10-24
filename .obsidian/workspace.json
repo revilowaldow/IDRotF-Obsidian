@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "1232fc0e3490b132",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Items/Empowered Chardyln Shortsword.png"
+              },
+              "icon": "lucide-image",
+              "title": "Empowered Chardyln Shortsword"
+            }
+          },
+          {
             "id": "d8c8d8b521bbbf09",
             "type": "leaf",
             "state": {
@@ -54,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,10 +244,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "59d69a40358f061c",
+  "active": "273a905a8662a4d1",
   "lastOpenFiles": [
-    "Session Notes/2023/07 22 - Session 1.md",
     "Session Notes/2026/10 24 - Session 47.md",
+    "Assets/Items/Empowered Chardyln Shortsword.png",
+    "Session Notes/2023/07 22 - Session 1.md",
     "Session Notes/2026/10 22 - Session 46.md",
     "Assets/Items/Pasted image 20260718175334.png",
     "Assets/Items/Pasted image 20260716203047.png",
@@ -246,7 +259,6 @@
     "Assets/Characters/Pasted image 20260326225457.png",
     "Assets/Characters/Pasted image 20260326201051.png",
     "Assets/Characters/Pasted image 20260326194708.png",
-    "Assets/Maps/Pasted image 20260219220843.png",
     "Session Notes/2026/08 27 - Session 44.md",
     "Session Notes/2026/09 24 - Session 45.md",
     "Session Notes/2026/05 28 - Session 40.md",
@@ -271,7 +283,6 @@
     "Locations/Ten Towns/Lonelywood/The Lucky Liar.md",
     "Session Notes/2023/08 24 - Session 2.md",
     "NPCs/Ravisin.md",
-    "Locations/Ten Towns/Lonelywood/Lonelywood.md",
     "Locations/Verbeeg Cave.canvas",
     "Locations/Lost Spire.canvas",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20260122.json",
