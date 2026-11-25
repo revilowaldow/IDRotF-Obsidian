@@ -1,0 +1,1 @@
+![[The Ranger's Folly.png]]

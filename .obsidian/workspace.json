@@ -38,9 +38,25 @@
               "icon": "lucide-file",
               "title": "10 24 - Session 47"
             }
+          },
+          {
+            "id": "bc0d0c57014df58e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/2026/11 25 - Session 48.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "11 25 - Session 48"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,10 +234,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5e253dfa76941872",
+  "active": "bc0d0c57014df58e",
   "lastOpenFiles": [
-    "Session Notes/2026/10 22 - Session 46.md",
+    "Assets/Items/The Ranger's Folly.png",
     "Session Notes/2026/10 24 - Session 47.md",
+    "Session Notes/2026/11 25 - Session 48.md",
+    "Session Notes/2026/10 22 - Session 46.md",
     "Assets/Maps/Revel's End.png",
     "Assets/Maps/Pasted image 20260422211751.png",
     "Assets/Maps/Pasted image 20260219220843.png",
@@ -256,8 +274,6 @@
     "Locations/Ten Towns/Lonelywood/The Lucky Liar.md",
     "Session Notes/2023/08 24 - Session 2.md",
     "NPCs/Ravisin.md",
-    "Locations/Ten Towns/Lonelywood/Lonelywood.md",
-    "Session Notes/2025/11 26 - Session 32.md",
     "Locations/Verbeeg Cave.canvas",
     "Locations/Lost Spire.canvas",
     "Assets/Sheet Backups/fvtt-Actor-nilak-'cloud'-northbrook-20260122.json",
