@@ -2,9 +2,10 @@
 
 Laughing is not coming from flameskulls
 
-![[Pasted image 20261125191815.png]]
+![[Caves.png]]
 
 Hyena gnollish
 
 Immune from the green stare
 
+![[Iron Golem Head.png]]
