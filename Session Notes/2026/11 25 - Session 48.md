@@ -6,3 +6,5 @@ Laughing is not coming from flameskulls
 
 Hyena gnollish
 
+Immune from the green stare
+
